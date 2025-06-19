@@ -1,0 +1,14 @@
+- instruction: What is the delegation of power for technical sanction to detailed estimates for approved projects?
+  input: ""
+  output: |
+    D(T): Full power
+    ED: Full power
+    CGM: ₹15 crore
+    GM: ₹10 crore
+    DGM: ₹5 crore
+    Sr. M: NIL
+    This is applicable to works, services, and supplies for approved projects.
+
+- instruction: What is the maximum limit up to which a CGM can approve estimates for non-approved projects?
+  input: ""
+  output: ₹15 crore
