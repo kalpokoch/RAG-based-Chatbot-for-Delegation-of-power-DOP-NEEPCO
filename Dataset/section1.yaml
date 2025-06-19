@@ -12,3 +12,63 @@
 - instruction: What is the maximum limit up to which a CGM can approve estimates for non-approved projects?
   input: ""
   output: ₹15 crore
+
+  instruction: What is the maximum limit up to which a D(T) can approve estimates for approved projects?
+  input: ""
+  output: Full power
+
+  instruction: What is authority that the D(T) has over sanctioning for approved projects?
+  input: ""
+  output: Full power
+
+  instruction: How much sanctioning power does D(T) have for works and supplies under approved projects?
+  input: ""
+  output: Full power
+
+  instruction: What level of authority does D(T) hold for sanctioning approved project estimates?
+  input: ""
+  output: Full power
+
+  instruction: What power does D(T) have in sanctioning services and supplies for approved projects?
+  input: ""
+  output: Full power
+
+  instruction: What is the maximum limit up to which a D(T) can approve estimates for non-approved projects?
+  input: ""
+  output: Full power
+
+  instruction: What is authority that D(T) has for sanctioning estimates in non-approved projects?
+  input: ""
+  output: Full power
+
+  instruction: How much sanctioning power does D(T) have for works and supplies under non-approved projects?
+  input: ""
+  output: Full power
+
+  instruction: What level of authority does D(T) hold for sanctioning non-approved project estimates?
+  input: ""
+  output: Full power
+
+  instruction: What power does D(T) have in sanctioning services and supplies for non-approved projects?
+  input: ""
+  output: Full power
+
+  instruction: What is the maximum limit up to which a D(T) can approve estimates in O&M plants and offices excluding construction projects?
+  input: ""
+  output: Full power
+
+  instruction: What is the authority that D(T) has for sanctioning estimates within approved budget in O&M offices for non-construction projects?
+  input: ""
+  output: Full power
+
+  instruction: How much sanctioning power does D(T) have for works and supplies within budget in non-construction offices?
+  input: ""
+  output: Full power
+
+  instruction: What level of authority does D(T) hold for sanctioning estimates in O&M plants for non-construction approved budgets?
+  input: ""
+  output: Full power
+
+  instruction: What power does D(T) have in sanctioning services and supplies within budget for non-construction offices?
+  input: ""
+  output: Full power
