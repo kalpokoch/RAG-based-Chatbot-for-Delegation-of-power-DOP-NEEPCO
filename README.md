@@ -1,5 +1,5 @@
 # RAG-based-Chatbot-for-Delegation-of-power-DOP-NEECO
-#✅ Your Requirements Recap:
+✅ Your Requirements Recap:
 Item	Details
 🎯 Goal	Build a chatbot that answers questions from a Delegation of Powers document (factual, structured Q&A)
 🧠 Model	You want accurate, efficient, and domain-aware answers
