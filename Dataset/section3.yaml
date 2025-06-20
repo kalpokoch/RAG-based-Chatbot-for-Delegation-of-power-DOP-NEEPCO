@@ -1,11 +1,11 @@
 ##Sl no 1
 - instruction: Which officials are authorized to approve land acquisition in NEEPCO?
-      input: ""
-      output: |
-        Authorized officials:
-        1. Director (P) - For Corporate Offices (Guwahati/Shillong/New Delhi/Kolkata)
-        2. ED in charge of Project - For project sites
-        3. HOP not below rank E-8 - For project sites
+  input: ""
+  output: |
+    Authorized officials:
+    1. Director (P) - For Corporate Offices (Guwahati/Shillong/New Delhi/Kolkata)
+    2. ED in charge of Project - For project sites
+    3. HOP not below rank E-8 - For project sites
 - instruction: Who has the authority to acquire land or file requisition with Land Acquiring Authorities in NEEPCO?
   input: ""
   output: |
@@ -165,75 +165,66 @@
     but only after consultation with Director (Finance).
 ##Sl no 2(b)
 
-  - instruction: Who is authorized to allow NEEPCO buildings to be rented out at project locations?
-      input: ""
-      output: |
-        At Projects/Plants, the Head of Project (HOP) not below the rank of E-8 has full powers to allow the use of company buildings on rent.
+- instruction: Who is authorized to allow NEEPCO buildings to be rented out at project locations?
+  input: ""
+  output: At Projects/Plants, the Head of Project (HOP) not below the rank of E-8 has full powers to allow the use of company buildings on rent.
 
-    - instruction: Can corporate offices lease NEEPCO buildings, and who approves it?
-      input: ""
-      output: |
-        Yes, leasing of company buildings in corporate offices (Guwahati / Shillong / New Delhi / Kolkata) can be approved by the respective Head of Department (Estate Service) not below the rank of E-8.
+- instruction: Can corporate offices lease NEEPCO buildings, and who approves it?
+  input: ""
+  output: Yes, leasing of company buildings in corporate offices (Guwahati / Shillong / New Delhi / Kolkata) can be approved by the respective Head of Department (Estate Service) not below the rank of E-8
 
-    - instruction: What are the legal requirements for renting NEEPCO property?
-      input: ""
-      output: |
-        All legal formalities required for lease or rental agreements must be strictly followed while allowing use of NEEPCO buildings.
+- instruction: What are the legal requirements for renting NEEPCO property?
+  input: ""
+  output: All legal formalities required for lease or rental agreements must be strictly followed while allowing use of NEEPCO buildings
 
-    - instruction: What is the extent of power for allowing NEEPCO buildings to be used on rent?
-      input: ""
-      output: |
-        The extent of power is full for authorized officials:
-        - HOP (E-8 and above) at Projects/Plants
-        - HOD (Estate Service, E-8 and above) at Corporate Offices
-
-    - instruction: Who approves renting out NEEPCO guest houses in Shillong?
-      input: ""
-      output: |
-        The Head of Department (Estate Service), not below E-8 rank, is authorized to approve rental use of company buildings, including guest houses, in Shillong corporate office.
-
-    - instruction: Is HOP authorized to rent out NEEPCO storage facilities at plants?
-      input: ""
-      output: |
-        Yes, the Head of Project (HOP) not below the rank of E-8 has full power to authorize rental use of any company building, including storage spaces, at plants.
-
-    - instruction: Can an officer below E-8 allow use of NEEPCO buildings on rent?
-      input: ""
-      output: |
-        No, only officials not below the rank of E-8 are authorized:
-        - HOP at Projects/Plants
-        - HOD (Estate Service) at Corporate Offices
-
-    - instruction: What department handles rental permissions for buildings in NEEPCO’s New Delhi office?
-      input: ""
-      output: |
-        The Estate Service department is responsible. The Head of Department (Estate Service) not below E-8 rank can grant permission for renting company buildings in the New Delhi office.
-
-    - instruction: What compliance is needed for leasing NEEPCO company buildings?
-      input: ""
-      output: |
-        All legal formalities related to lease agreements must be strictly adhered to. This includes documentation, approvals, and any relevant statutory compliance.
-
-    - instruction: Is there any rank condition for officials allowing building leases in NEEPCO?
-      input: ""
-      output: |
-        Yes, only officials of E-8 rank or above are authorized:
-        - Head of Project (HOP) for plants/projects
-        - Head of Department (Estate Services) for corporate offices
-- instruction: Who approves renting out NEEPCO guest houses in Shillong?
+- instruction: What is the extent of power for allowing NEEPCO buildings to be used on rent?
   input: ""
   output: |
-    The Head of Department (Estate Service), not below E-8 rank, is authorized to approve rental use of company buildings, including guest houses, in Shillong corporate office.
+    The extent of power is full for authorized officials:
+    - HOP (E-8 and above) at Projects/Plants
+    - HOD (Estate Service, E-8 and above) at Corporate Office
+
+- instruction: Who approves renting out NEEPCO guest houses in Shillong?
+  input: ""
+  output: The Head of Department (Estate Service), not below E-8 rank, is authorized to approve rental use of company buildings, including guest houses, in Shillong corporate office
 
 - instruction: Is HOP authorized to rent out NEEPCO storage facilities at plants?
   input: ""
+  output: Yes, the Head of Project (HOP) not below the rank of E-8 has full power to authorize rental use of any company building, including storage spaces, at plants
+
+- instruction: Can an officer below E-8 allow use of NEEPCO buildings on rent?
+  input: ""
   output: |
-    Yes, the Head of Project (HOP) not below the rank of E-8 has full power to authorize rental use of any company building, including storage spaces, at plants.
+    No, only officials not below the rank of E-8 are authorized:
+    - HOP at Projects/Plants
+    - HOD (Estate Service) at Corporate Office
 
 - instruction: What department handles rental permissions for buildings in NEEPCO’s New Delhi office?
   input: ""
+  output: The Estate Service department is responsible. The Head of Department (Estate Service) not below E-8 rank can grant permission for renting company buildings in the New Delhi office
+
+- instruction: What compliance is needed for leasing NEEPCO company buildings?
+  input: ""
+  output: All legal formalities related to lease agreements must be strictly adhered to. This includes documentation, approvals, and any relevant statutory compliance
+  
+- instruction: Is there any rank condition for officials allowing building leases in NEEPCO?
+  input: ""
   output: |
-    The Estate Service department is responsible. The Head of Department (Estate Service) not below E-8 rank can grant permission for renting company buildings in the New Delhi office.
+    Yes, only officials of E-8 rank or above are authorized:
+    - Head of Project (HOP) for plants/projects
+    - Head of Department (Estate Services) for corporate offices
+
+- instruction: Who approves renting out NEEPCO guest houses in Shillong?
+  input: ""
+  output: The Head of Department (Estate Service), not below E-8 rank, is authorized to approve rental use of company buildings, including guest houses, in Shillong corporate office.
+
+- instruction: Is HOP authorized to rent out NEEPCO storage facilities at plants?
+  input: ""
+  output: Yes, the Head of Project (HOP) not below the rank of E-8 has full power to authorize rental use of any company building, including storage spaces, at plants.
+
+- instruction: What department handles rental permissions for buildings in NEEPCO’s New Delhi office?
+  input: ""
+  output: The Estate Service department is responsible. The Head of Department (Estate Service) not below E-8 rank can grant permission for renting company buildings in the New Delhi office.
 
 - instruction: Is there any rank condition for officials allowing building leases in NEEPCO?
   input: ""
