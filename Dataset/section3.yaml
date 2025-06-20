@@ -1,0 +1,247 @@
+##Sl no 1
+- instruction: Which officials are authorized to approve land acquisition in NEEPCO?
+      input: ""
+      output: |
+        Authorized officials:
+        1. Director (P) - For Corporate Offices (Guwahati/Shillong/New Delhi/Kolkata)
+        2. ED in charge of Project - For project sites
+        3. HOP not below rank E-8 - For project sites
+- instruction: Who has the authority to acquire land or file requisition with Land Acquiring Authorities in NEEPCO?
+  input: ""
+  output: |
+    Full powers to acquire land or file requisition with Land Acquiring Authorities are delegated to:
+    1. Director (P) for Corporate Office (Guwahati / Shillong / New Delhi / Kolkata).
+    2. ED in charge of Project / HOP not below the rank of E-8.
+    Conditions:
+    - Subject to provision in the Capital budget.
+    - As per requirements of the project.
+    - Within approved project estimates and any award for payment of compensation.
+    - If involving private entities, the process must go through concerned Government authorities.
+    - Land acquisition must be processed by the HOD/HOP of the respective location in association with the Corporate Land Section.
+
+- instruction: What is the extent of power granted for acquiring land in NEEPCO?
+  input: ""
+  output: |
+    Full powers are granted for acquiring land and filing requisition with Land Acquiring Authorities. Authorized officials include:
+    - Director (P) for Corporate Offices (Guwahati / Shillong / New Delhi / Kolkata)
+    - ED in charge of Project / HOP not below rank E-8
+    Subject to:
+    - Capital budget provision
+    - Approved project estimates
+    - Compensation awards
+    - Process routing through Government authorities for private acquisitions
+    - Coordination with Corporate Land Section by HOD/HOP
+
+- instruction: Can HOP or ED initiate land acquisition in a project site?
+  input: ""
+  output: |
+    Yes, ED in charge of Project / HOP not below E-8 rank can exercise full powers to acquire land, subject to:
+    - Project requirement
+    - Approved budget and estimates
+    - Compensation awards (if any)
+    - Processed via Government authorities in case of private acquisition
+    - Execution in coordination with Corporate Land Section
+
+- instruction: What conditions must be met for land acquisition by NEEPCO officials?
+  input: ""
+  output: |
+    The conditions for land acquisition include:
+    - Provision must exist in the Capital budget
+    - Acquisition should align with project requirements
+    - Must stay within approved estimates and awards
+    - Private land purchase must be routed through proper Government channels
+    - HOD/HOP must coordinate with Corporate Land Section for site-specific acquisition
+
+- instruction: Who can approve land requisition filings in NEEPCO?
+  input: ""
+  output: |
+    The following officials have full powers to approve land requisition filings:
+    - Director (P) for Corporate Offices (Guwahati / Shillong / New Delhi / Kolkata)
+    - ED in charge of Project / HOP not below E-8 rank
+    This authority is exercised with adherence to capital budget, project needs, cost estimates, and due governmental processes.
+
+- instruction: What is the process for acquiring land from private entities in NEEPCO?
+  input: ""
+  output: |
+    When land acquisition from private entities is required:
+    - The process must be routed through the concerned Government authorities.
+    - The acquisition should be handled by HOD/HOP of the respective site/location.
+    - Coordination with the Corporate Land Section is mandatory.
+    - Must comply with budget, estimate, and compensation award conditions.
+
+- instruction: Does Director (P) have full power for land acquisition in all corporate locations?
+  input: ""
+  output: |
+    Yes, Director (P) has full powers for land acquisition at corporate offices in Guwahati, Shillong, New Delhi, and Kolkata. The powers are subject to capital budget provision and other acquisition-related conditions.
+
+  ##Sl no 2(a)
+- instruction: Who can approve hiring of office or guest house accommodation at NEEPCO corporate offices?
+  input: ""
+  output: |
+    Full powers for hiring accommodation at Corporate Offices (Guwahati, Shillong, Kolkata, New Delhi, Tezpur) are vested in the Director (P), in consultation with Director (Finance).
+
+- instruction: What is the delegation of power for hiring storage space in NEEPCO project sites?
+  input: ""
+  output: |
+    At power stations, projects, and S&I units:
+    - Full powers are delegated to Director (P), in consultation with Director (Finance).
+    - The concerned Executive Director (ED) is authorised to approve hiring up to ₹1.00 lakh per month per case.
+
+- instruction: Who has the authority to sanction hiring of transit camps in project locations?
+  input: ""
+  output: |
+    For project locations, power stations, and S&I units:
+    - Full powers: Director (P), in consultation with Director (Finance).
+    - Up to ₹1 lakh/month per case: Concerned ED.
+
+- instruction: Is there a monetary limit for Executive Directors in approving accommodation hiring?
+  input: ""
+  output: |
+    Yes, Executive Directors are authorised to approve hiring of accommodation (office, guest house, storage, etc.) up to ₹1.00 lakh per month per case.
+
+- instruction: Can ED approve guest house hiring at a power station under NEEPCO?
+  input: ""
+  output: |
+    Yes, the concerned Executive Director can approve hiring of guest house accommodation at power stations, up to a monthly cost of ₹1.00 lakh per case.
+
+- instruction: What are the powers of Director (P) regarding hiring of field hostels at corporate offices?
+  input: ""
+  output: |
+    Director (P) has full powers to approve hiring of field hostels and other accommodation types at corporate offices (Guwahati, Shillong, Kolkata, New Delhi, Tezpur), in consultation with Director (Finance).
+
+- instruction: Who is responsible for approving hiring of storage space at S&I units in NEEPCO?
+  input: ""
+  output: |
+    At S&I units:
+    - Full power: Director (P), in consultation with Director (Finance)
+    - Up to ₹1 lakh/month per case: Concerned ED
+
+- instruction: What authority does D(F) have in hiring decisions for accommodation in NEEPCO?
+  input: ""
+  output: |
+    Director (Finance) is involved in all hiring decisions at both corporate and project levels, as consultation with D(F) is mandatory for the exercise of full powers by Director (P).
+
+- instruction: Who can approve accommodation hiring in Tezpur office of NEEPCO?
+  input: ""
+  output: |
+    For the Tezpur Corporate Office, Director (P) has full powers for hiring accommodation, in consultation with Director (Finance).
+
+- instruction: What is the process for approving hiring of transit camps at NEEPCO project sites?
+  input: ""
+  output: |
+    The approval process is as follows:
+    - Director (P), in consultation with Director (Finance), has full powers.
+    - Concerned EDs may approve hiring up to ₹1 lakh per month per case.
+
+- instruction: What authority does D(F) have in hiring decisions for accommodation in NEEPCO?
+  input: ""
+  output: |
+    Director (Finance) plays a key advisory role in all accommodation hiring for corporate offices. 
+    Approval from Director (P) is contingent on consultation with D(F), ensuring financial concurrence.
+
+- instruction: Can ED approve guest house hiring at a power station under NEEPCO?
+  input: ""
+  output: |
+    Yes, the concerned Executive Director can approve guest house hiring at project sites, 
+    but only up to a cost of ₹1.00 lakh per month per case.
+
+- instruction: Who is responsible for approving hiring of storage space at S&I units in NEEPCO?
+  input: ""
+  output: |
+    At S&I units:
+    - Director (P) with consultation from Director (F) has full powers.
+    - Concerned EDs may approve up to ₹1.00 lakh/month per case.
+
+- instruction: Can EDs independently approve hiring of office accommodation at field locations?
+  input: ""
+  output: |
+    EDs can approve hiring of office accommodations at field/project locations only up to a monthly limit of ₹1.00 lakh per case. 
+    Beyond that, it requires escalation.
+
+- instruction: Who can approve accommodation hiring in Tezpur office of NEEPCO?
+  input: ""
+  output: |
+    For the Tezpur Corporate Office, Director (P) has full powers to approve any type of accommodation hiring, 
+    but only after consultation with Director (Finance).
+##Sl no 2(b)
+
+  - instruction: Who is authorized to allow NEEPCO buildings to be rented out at project locations?
+      input: ""
+      output: |
+        At Projects/Plants, the Head of Project (HOP) not below the rank of E-8 has full powers to allow the use of company buildings on rent.
+
+    - instruction: Can corporate offices lease NEEPCO buildings, and who approves it?
+      input: ""
+      output: |
+        Yes, leasing of company buildings in corporate offices (Guwahati / Shillong / New Delhi / Kolkata) can be approved by the respective Head of Department (Estate Service) not below the rank of E-8.
+
+    - instruction: What are the legal requirements for renting NEEPCO property?
+      input: ""
+      output: |
+        All legal formalities required for lease or rental agreements must be strictly followed while allowing use of NEEPCO buildings.
+
+    - instruction: What is the extent of power for allowing NEEPCO buildings to be used on rent?
+      input: ""
+      output: |
+        The extent of power is full for authorized officials:
+        - HOP (E-8 and above) at Projects/Plants
+        - HOD (Estate Service, E-8 and above) at Corporate Offices
+
+    - instruction: Who approves renting out NEEPCO guest houses in Shillong?
+      input: ""
+      output: |
+        The Head of Department (Estate Service), not below E-8 rank, is authorized to approve rental use of company buildings, including guest houses, in Shillong corporate office.
+
+    - instruction: Is HOP authorized to rent out NEEPCO storage facilities at plants?
+      input: ""
+      output: |
+        Yes, the Head of Project (HOP) not below the rank of E-8 has full power to authorize rental use of any company building, including storage spaces, at plants.
+
+    - instruction: Can an officer below E-8 allow use of NEEPCO buildings on rent?
+      input: ""
+      output: |
+        No, only officials not below the rank of E-8 are authorized:
+        - HOP at Projects/Plants
+        - HOD (Estate Service) at Corporate Offices
+
+    - instruction: What department handles rental permissions for buildings in NEEPCO’s New Delhi office?
+      input: ""
+      output: |
+        The Estate Service department is responsible. The Head of Department (Estate Service) not below E-8 rank can grant permission for renting company buildings in the New Delhi office.
+
+    - instruction: What compliance is needed for leasing NEEPCO company buildings?
+      input: ""
+      output: |
+        All legal formalities related to lease agreements must be strictly adhered to. This includes documentation, approvals, and any relevant statutory compliance.
+
+    - instruction: Is there any rank condition for officials allowing building leases in NEEPCO?
+      input: ""
+      output: |
+        Yes, only officials of E-8 rank or above are authorized:
+        - Head of Project (HOP) for plants/projects
+        - Head of Department (Estate Services) for corporate offices
+- instruction: Who approves renting out NEEPCO guest houses in Shillong?
+  input: ""
+  output: |
+    The Head of Department (Estate Service), not below E-8 rank, is authorized to approve rental use of company buildings, including guest houses, in Shillong corporate office.
+
+- instruction: Is HOP authorized to rent out NEEPCO storage facilities at plants?
+  input: ""
+  output: |
+    Yes, the Head of Project (HOP) not below the rank of E-8 has full power to authorize rental use of any company building, including storage spaces, at plants.
+
+- instruction: What department handles rental permissions for buildings in NEEPCO’s New Delhi office?
+  input: ""
+  output: |
+    The Estate Service department is responsible. The Head of Department (Estate Service) not below E-8 rank can grant permission for renting company buildings in the New Delhi office.
+
+- instruction: Is there any rank condition for officials allowing building leases in NEEPCO?
+  input: ""
+  output: |
+    Yes, only officials of E-8 rank or above are authorized:
+    - Head of Project (HOP) for plants/projects
+    - Head of Department (Estate Services) for corporate offices
+
+  
+
+  
