@@ -236,90 +236,84 @@
 ##Sl no 3
     
 - instruction: Who is authorized to approve building repairs at NEEPCO Corporate Offices?
-      input: ""
-      output: |
-        At Corporate Offices (Guwahati, Shillong, Kolkata, New Delhi):
-        - Full powers are vested in the Executive Director (ED).
-        - The HOD in charge of Estate Service (not below E-8) is authorized up to ₹20 Lakh per annum for respective locations.
+  input: ""
+  output: |
+    At Corporate Offices (Guwahati, Shillong, Kolkata, New Delhi):
+    - Full powers are vested in the Executive Director (ED).
+    - The HOD in charge of Estate Service (not below E-8) is authorized up to ₹20 Lakh per annum for respective locations.
 
- - instruction: Can a Head of Department approve repairs to a guest house in Shillong?
-      input: ""
-      output: |
-        Yes, the HOD in charge (Estate Services) not below E-8 can approve such repairs at Corporate Offices, up to ₹20 Lakh per annum.
+- instruction: Can a Head of Department approve repairs to a guest house in Shillong?
+  input: ""
+  output: |
+    Yes, the HOD in charge (Estate Services) not below E-8 can approve such repairs at Corporate Offices, up to ₹20 Lakh per annum.
 
- - instruction: Who is responsible for maintenance approval at project power stations?
-      input: ""
-      output: |
-        For Projects / Power Stations / S&I:
-        - Executive Director (ED) holds full powers.
-        - Head of Project (HOP), not below E-8, is authorized up to ₹50 Lakh per annum.
-
-    
- - instruction: What is the financial limit for repair approval at a project site by HOP?
-       input: ""
-      output: |
-        HOPs (not below grade E-8) are authorized to approve repair and maintenance work up to ₹50 Lakh per annum at project sites.
-
- - instruction: Is there a budget ceiling for Estate HODs handling repair approvals?
-      input: ""
-      output: |
-        Yes, HOD (Estate Services) not below E-8 can approve up to ₹20 Lakh per annum for each Corporate Office location.
-
- - instruction: Can an ED approve unlimited repair costs at Corporate Offices?
-      input: ""
-      output: |
-        Yes, the ED has full powers for repair and maintenance of buildings and hired accommodations in Corporate Offices, without a specified upper financial limit.
+- instruction: Who is responsible for maintenance approval at project power stations?
+  input: ""
+  output: |
+    For Projects / Power Stations / S&I:
+    - Executive Director (ED) holds full powers.
+    - Head of Project (HOP), not below E-8, is authorized up to ₹50 Lakh per annum.
 
     
- - instruction: How do repair approval limits differ between corporate offices and project sites?
-      input: ""
-      output: |
-        Differences in delegation:
-        - Corporate Offices: HOD (Estate Services, E-8 and above) – up to ₹20 Lakh p.a.
-        - Project Sites: HOP (E-8 and above) – up to ₹50 Lakh p.a.
-        - EDs have full powers in both cases.
+- instruction: What is the financial limit for repair approval at a project site by HOP?
+  input: ""
+  output: HOPs (not below grade E-8) are authorized to approve repair and maintenance work up to ₹50 Lakh per annum at project sites.
+
+- instruction: Is there a budget ceiling for Estate HODs handling repair approvals?
+  input: ""
+  output: Yes, HOD (Estate Services) not below E-8 can approve up to ₹20 Lakh per annum for each Corporate Office location.
+
+- instruction: Can an ED approve unlimited repair costs at Corporate Offices?
+  input: ""
+  output: Yes, the ED has full powers for repair and maintenance of buildings and hired accommodations in Corporate Offices, without a specified upper financial limit.
 
     
- - instruction: What is the minimum designation required to approve repair at NEEPCO sites?
-      input: ""
-      output: |
-        The minimum designation for approving repair and maintenance:
-        - HOD (Estate Service) or HOP – must be of grade E-8 or higher.
-
- - instruction: Who handles maintenance of storage spaces at power stations?
-      input: ""
-      output: |
-        HOPs (≥ E-8) can approve maintenance up to ₹50 Lakh/year. For larger amounts, ED approval is required.
-
- - instruction: Can maintenance work for a transit camp be approved locally?
-      input: ""
-      output: |
-        Yes, depending on the location:
-        - Corporate Office: HOD (Estate Service) ≤ ₹20 Lakh/year
-        - Project Site: HOP ≤ ₹50 Lakh/year
-        - ED has full powers in both locations.
+- instruction: How do repair approval limits differ between corporate offices and project sites?
+  input: ""
+  output: |
+    Differences in delegation:
+    - Corporate Offices: HOD (Estate Services, E-8 and above) – up to ₹20 Lakh p.a.
+    - Project Sites: HOP (E-8 and above) – up to ₹50 Lakh p.a.
+    - EDs have full powers in both cases.
 
     
- - instruction: What happens if maintenance costs exceed ₹50 Lakh at a power station?
-      input: ""
-      output: |
-        Costs exceeding ₹50 Lakh per annum must be approved by the Executive Director, who holds full powers for project-site repair works.
+- instruction: What is the minimum designation required to approve repair at NEEPCO sites?
+  input: ""
+  output: |
+    The minimum designation for approving repair and maintenance:
+    - HOD (Estate Service) or HOP – must be of grade E-8 or higher.
+
+- instruction: Who handles maintenance of storage spaces at power stations?
+  input: ""
+  output: HOPs (≥ E-8) can approve maintenance up to ₹50 Lakh/year. For larger amounts, ED approval is required.
+
+- instruction: Can maintenance work for a transit camp be approved locally?
+  input: ""
+  output: |
+    Yes, depending on the location:
+    - Corporate Office: HOD (Estate Service) ≤ ₹20 Lakh/year
+    - Project Site: HOP ≤ ₹50 Lakh/year
+    - ED has full powers in both locations.
 
     
- - instruction: Who approves repairs for a field hostel at the New Delhi office?
-      input: ""
-      output: |
-        The HOD in charge (Estate Service), if of E-8 grade or higher, may approve repairs up to ₹20 Lakh per annum. Beyond that, ED approval is required.
+- instruction: What happens if maintenance costs exceed ₹50 Lakh at a power station?
+  input: ""
+  output: Costs exceeding ₹50 Lakh per annum must be approved by the Executive Director, who holds full powers for project-site repair works.
 
-  - instruction: Are storage space repairs treated the same as guest house repairs?
-      input: ""
-      output: |
-        Yes, the same delegation applies for all accommodation types including storage spaces, guest houses, and field hostels. Limits depend on official rank and location.
+    
+- instruction: Who approves repairs for a field hostel at the New Delhi office?
+  input: ""
+  output: The HOD in charge (Estate Service), if of E-8 grade or higher, may approve repairs up to ₹20 Lakh per annum. Beyond that, ED approval is required.
 
- - instruction: Is an E-7 officer authorized to approve any repair work?
-      input: ""
-      output: |
-        No, only officials of E-8 grade or higher (HOD or HOP) are authorized to approve repair/maintenance. E-7 and below cannot exercise these powers.- instruction: "Who can approve ₹25L repair work in Kolkata office?"
+- instruction: Are storage space repairs treated the same as guest house repairs?
+  input: ""
+  output: Yes, the same delegation applies for all accommodation types including storage spaces, guest houses, and field hostels. Limits depend on official rank and location.
+
+- instruction: Is an E-7 officer authorized to approve any repair work?
+  input: ""
+  output: No, only officials of E-8 grade or higher (HOD or HOP) are authorized to approve repair/maintenance. E-7 and below cannot exercise these powers.
+
+- instruction: "Who can approve ₹25L repair work in Kolkata office?"
   input: ""
   output: |
     For Corporate Offices:
