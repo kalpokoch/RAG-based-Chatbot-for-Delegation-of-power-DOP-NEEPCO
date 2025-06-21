@@ -336,12 +336,94 @@
 
 - instruction: What if a project needs ₹55L repair but ED is unavailable?
   input: ""
-  output: |
-    Options:  
+  output: | 
     1. Split into ₹50L (HOP-approved) + ₹5L (separate approval).  
     2. Wait for ED’s availability.  
     3. Emergency provisions (if any) not stated in this clause.
 
+ ##Sl no 4
+
+- instruction: "Who has full powers for purchasing furniture and appliances in NEEPCO?"
+  input: ""
+  output: Full powers are held by Director (P) and Director (T).
+
+- instruction: "Can Director (Technical) approve unlimited furniture purchases?"
+  input: ""
+  output: Yes, provided the purchase conforms to the laid-down furniture scales.
+
+- instruction: "Who can approve purchases up to ₹25 lakh annually?"
+  input: ""
+  output: Executive Directors (EDs) are authorized to approve up to ₹25 lakh per annum.
+
+- instruction: "Can HOP approve ₹22 lakh worth of DTH equipment for a guest house?"
+  input: ""
+  output: No, HOPs can only approve up to ₹20 lakh per annum; amounts beyond that require higher-level approval.
+
+- instruction: "What is the financial limit of CGM for purchasing canteen equipment?"
+  input: ""
+  output: CGM (E-8 and above) can approve up to ₹20 lakh per annum.
+
+- instruction: "What guidelines must purchases of furniture and fixtures follow in NEEPCO?"
+  input: ""
+  output: All purchases must conform to the scales of furniture and other items laid down by NEEPCO from time to time.
+
+- instruction: "Are there specific norms for recharges under DTH facility purchases?"
+  input: ""
+  output: DTH recharges are allowed as part of approved items, but must follow prescribed norms and spending limits.
+
+- instruction: "Can an E-6 level officer approve furniture purchases in transit camps?"
+  input: ""
+  output: No, only officers of grade E-8 and above are authorized.
+
+- instruction: "What rank is required to approve ₹20 lakh worth of appliances?"
+  input: ""
+  output: CGM, HOP, or HOD not below grade E-8 can approve up to ₹20 lakh per annum.
+
+- instruction: "What is the difference between ED and HOD powers for furniture procurement?"
+  input: ""
+  output: EDs can approve up to ₹25 lakh per annum, whereas CGM/HOP/HOD (≥E-8) are limited to ₹20 lakh per annum.
+
+- instruction: "What is the approval process for buying office appliances worth ₹18 lakh?"
+  input: ""
+  output: If the official is CGM/HOP/HOD of E-8 or above, they can approve directly as it is within the ₹20 lakh annual limit.
+
+- instruction: "Can a CGM split a ₹30 lakh furniture order into two parts for approval?"
+  input: ""
+  output: No, artificial splitting to bypass limits is irregular and not allowed under standard financial procedures.
+
+- instruction: "Can a HOP (E-9) approve ₹22L for canteen appliances?"
+  input: ""
+  output: |
+   No, HOP/HOD ≥E-8 are capped at ₹20L/year.
+   Either,
+   1. Reduce purchase to ₹20L, or
+   2. Escalate to CGM (₹25L limit) or ED (full powers).
+
+- instruction: "Are laptops considered 'equipment' under this clause?"
+  input: ""
+  output: |
+   - IT hardware may have separate delegation rules.
+   - Verify with IT procurement policy.
+
+- instruction: "Can ₹20L be split across multiple HOP approvals?"
+  input: ""
+  output: |
+   Clause implies ₹20L is the annual cumulative limit per HOP/HOD.
+   Splitting may be allowed if total ≤₹20L/year.
+
+- instruction: "What does 'time to time' mean in this context?"
+  input: ""
+  output: |
+   1.Delegation limits may be revised periodically.
+   2.Approvals may require ad-hoc reviews.
+   Clarification needed from Finance Dept.
+
+- instruction: "What if urgent furniture purchase exceeds HOP's limit?"
+  input: ""
+  output: |
+   1.Seek CGM/ED's emergency approval.
+   2.Procure essentials within ₹20L, defer balance.
+   Clause doesn't specify emergency protocols.
 
 
   
