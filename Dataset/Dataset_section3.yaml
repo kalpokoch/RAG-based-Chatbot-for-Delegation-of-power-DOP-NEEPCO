@@ -71,14 +71,12 @@
 
 - instruction: Does Director (P) have full power for land acquisition in all corporate locations?
   input: ""
-  output: |
-    Yes, Director (P) has full powers for land acquisition at corporate offices in Guwahati, Shillong, New Delhi, and Kolkata. The powers are subject to capital budget provision and other acquisition-related conditions.
+  output: Yes
 
   ##Sl no 2(a)
 - instruction: Who can approve hiring of office or guest house accommodation at NEEPCO corporate offices?
   input: ""
-  output: |
-    Full powers for hiring accommodation at Corporate Offices (Guwahati, Shillong, Kolkata, New Delhi, Tezpur) are vested in the Director (P), in consultation with Director (Finance).
+  output: Full powers for hiring accommodation at Corporate Offices (Guwahati, Shillong, Kolkata, New Delhi, Tezpur) are vested in the Director (P), in consultation with Director (Finance).
 
 - instruction: What is the delegation of power for hiring storage space in NEEPCO project sites?
   input: ""
@@ -96,18 +94,15 @@
 
 - instruction: Is there a monetary limit for Executive Directors in approving accommodation hiring?
   input: ""
-  output: |
-    Yes, Executive Directors are authorised to approve hiring of accommodation (office, guest house, storage, etc.) up to ₹1.00 lakh per month per case.
+  output: Yes, Executive Directors are authorised to approve hiring of accommodation (office, guest house, storage, etc.) up to ₹1.00 lakh per month per case.
 
 - instruction: Can ED approve guest house hiring at a power station under NEEPCO?
   input: ""
-  output: |
-    Yes, the concerned Executive Director can approve hiring of guest house accommodation at power stations, up to a monthly cost of ₹1.00 lakh per case.
+  output: Yes, the concerned Executive Director can approve hiring of guest house accommodation at power stations, up to a monthly cost of ₹1.00 lakh per case.
 
 - instruction: What are the powers of Director (P) regarding hiring of field hostels at corporate offices?
   input: ""
-  output: |
-    Director (P) has full powers to approve hiring of field hostels and other accommodation types at corporate offices (Guwahati, Shillong, Kolkata, New Delhi, Tezpur), in consultation with Director (Finance).
+  output: Director (P) has full powers to approve hiring of field hostels and other accommodation types at corporate offices (Guwahati, Shillong, Kolkata, New Delhi, Tezpur), in consultation with Director (Finance).
 
 - instruction: Who is responsible for approving hiring of storage space at S&I units in NEEPCO?
   input: ""
@@ -118,13 +113,11 @@
 
 - instruction: What authority does D(F) have in hiring decisions for accommodation in NEEPCO?
   input: ""
-  output: |
-    Director (Finance) is involved in all hiring decisions at both corporate and project levels, as consultation with D(F) is mandatory for the exercise of full powers by Director (P).
+  output: Director (Finance) is involved in all hiring decisions at both corporate and project levels, as consultation with D(F) is mandatory for the exercise of full powers by Director (P).
 
 - instruction: Who can approve accommodation hiring in Tezpur office of NEEPCO?
   input: ""
-  output: |
-    For the Tezpur Corporate Office, Director (P) has full powers for hiring accommodation, in consultation with Director (Finance).
+  output: For the Tezpur Corporate Office, Director (P) has full powers for hiring accommodation, in consultation with Director (Finance).
 
 - instruction: What is the process for approving hiring of transit camps at NEEPCO project sites?
   input: ""
@@ -194,10 +187,7 @@
 
 - instruction: Can an officer below E-8 allow use of NEEPCO buildings on rent?
   input: ""
-  output: |
-    No, only officials not below the rank of E-8 are authorized:
-    - HOP at Projects/Plants
-    - HOD (Estate Service) at Corporate Office
+  output: No
 
 - instruction: What department handles rental permissions for buildings in NEEPCO’s New Delhi office?
   input: ""
@@ -220,7 +210,7 @@
 
 - instruction: Is HOP authorized to rent out NEEPCO storage facilities at plants?
   input: ""
-  output: Yes, the Head of Project (HOP) not below the rank of E-8 has full power to authorize rental use of any company building, including storage spaces, at plants.
+  output: Yes
 
 - instruction: What department handles rental permissions for buildings in NEEPCO’s New Delhi office?
   input: ""
