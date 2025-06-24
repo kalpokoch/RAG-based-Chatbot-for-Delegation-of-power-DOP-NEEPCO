@@ -1,7 +1,1084 @@
-- instruction: What is the extent of financial power granted to the Director (Finance) for operating and closing bank accounts?
+#Clause 1: Operation of Bank Accounts / Issuance of Cheques / LOC / RTGS / NEFT etc.
+- instruction: Who holds full authority to ensure compliance with audit observations?
   input: ""
-  output: The Director (Finance) has full power for operation and closing of bank accounts, including cash credit and approving the authorization matrix.
+  output: Director (Finance), ED (Finance)
 
-- instruction: In an organization, who is authorized to fully approve the authorization matrix for back account operations, and under what title is this pwoer granted?
+- instruction: What is the responsibility of Director (Finance) under Clause 11?
   input: ""
-  output: The Director (Finance) is authorized with full power to approve the authorization matrix for bank account operations.
+  output: To implement all audit and government financial compliance requirements
+
+- instruction: Can ED (Finance) independently implement internal audit recommendations?
+  input: ""
+  output: Yes, ED (F) has full powers to manage operational-level compliance
+
+- instruction: Who must act on directions from the Comptroller & Auditor General (C&AG)?
+  input: ""
+  output: Director (Finance), ED (Finance)
+
+- instruction: Is CMD involved in Clause 11 execution?
+  input: ""
+  output: No, this clause specifically delegates to Director (Finance) and ED (Finance)
+
+- instruction: Who is responsible for responding to DPE financial circulars?
+  input: ""
+  output: Director (Finance), ED (Finance)
+
+- instruction: What authority does ED (Finance) have in audit compliance?
+  input: ""
+  output: Full powers to act on audit observations at the operational level
+
+- instruction: Who ensures follow-up actions on statutory audit findings?
+  input: ""
+  output: Director (Finance), ED (Finance)
+
+- instruction: What is the scope of Clause 11?
+  input: ""
+  output: Ensures compliance with audit reports and government financial directives
+
+- instruction: Who can take corrective financial actions based on audit flags?
+  input: ""
+  output: Director (Finance), ED (Finance)
+
+- instruction: Can GM (Finance) issue responses to government audit directions?
+  input: ""
+  output: No, not authorized under Clause 11
+
+- instruction: Is Clause 11 related to day-to-day accounting operations?
+  input: ""
+  output: No, it pertains to compliance with audit and government directives
+
+- instruction: Can Director (Finance) implement C&AG’s financial directions?
+  input: ""
+  output: Yes, full powers are delegated for such compliance
+
+- instruction: What are ED (Finance)’s duties under Clause 11?
+  input: ""
+  output: To implement and ensure adherence to audit and government financial instructions
+
+- instruction: Is audit compliance centralized or delegated in Clause 11?
+  input: ""
+  output: Delegated to Director (Finance) and ED (Finance)
+
+- instruction: Who handles implementation of internal audit recommendations?
+  input: ""
+  output: ED (Finance) and Director (Finance)
+
+- instruction: Are MoF (Ministry of Finance) circulars covered under Clause 11?
+  input: ""
+  output: Yes
+
+- instruction: What kind of audits are covered in Clause 11?
+  input: ""
+  output: Statutory, internal, and C&AG audits
+
+- instruction: Can ED (Finance) act independently on audit findings?
+  input: ""
+  output: Yes
+
+- instruction: Who ensures the finance wing’s compliance with audit directives?
+  input: ""
+  output: Director (Finance), ED (Finance)
+
+- instruction: Who has the full power to operate bank accounts and issue cheques?
+  input: ""
+  output: |
+    CMD: Full power
+    Director (Finance): Full power
+    ED (Finance): Full power
+    GM (F): Full power
+
+- instruction: What is the maximum transaction limit for a DGM (Finance) when issuing RTGS or NEFT?
+  input: ""
+  output: ₹50 lakh per transaction
+
+- instruction: Can a Sr. Manager (Finance) authorize a cheque worth ₹15 lakh?
+  input: ""
+  output: No, the limit for Sr. Manager (F) is ₹10 lakh per transaction.
+
+- instruction: Is the Manager (Finance) authorized to operate the LOC system for payments up to ₹5 lakh?
+  input: ""
+  output: Yes, Manager (F) can operate for up to ₹5 lakh per transaction.
+
+- instruction: Who among the F&A officers can approve NEFT payments of ₹50 lakh?
+  input: ""
+  output: CMD, Director (Finance), ED (Finance), GM (F), and DGM (F) can approve. Sr. M and M(F) cannot.
+
+- instruction: Who are allowed to authorize cheque payments above ₹50 lakh?
+  input: ""
+  output: CMD, Director (Finance), ED (Finance), GM (F)
+
+- instruction: What is the maximum financial authority given to Manager (Finance) for banking operations?
+  input: ""
+  output: ₹5 lakh per transaction
+
+- instruction: Can ED (Finance) issue unlimited-value cheques?
+  input: ""
+  output: Yes, ED (Finance) has full powers.
+
+- instruction: Who has power to authorize payment transactions through RTGS without upper cap?
+  input: ""
+  output: CMD, Director (Finance), ED (Finance), GM (F)
+
+- instruction: What is the authority of a Sr. Manager (Finance) in operating LOCs?
+  input: ""
+  output: Up to ₹10 lakh per transaction
+
+- instruction: What level of delegation is given to a GM (F) for cheque issuance?
+  input: ""
+  output: Full powers
+
+- instruction: Can Director (Finance) authorize a payment above ₹1 crore?
+  input: ""
+  output: Yes, Director (Finance) has full powers without a limit.
+
+- instruction: Which officers are limited in their cheque issuance authority?
+  input: ""
+  output: DGM (F): ₹50 lakh, Sr. M (F): ₹10 lakh, Manager (F): ₹5 lakh
+
+- instruction: Who has the least financial authority under Clause 1 of Section IV?
+  input: ""
+  output: Manager (Finance) with ₹5 lakh per transaction limit.
+
+- instruction: Is concurrence required for Sr. Manager (F) to process a ₹12 lakh NEFT?
+  input: ""
+  output: Yes, as the limit is ₹10 lakh, Sr. Manager cannot approve this alone.
+
+- instruction: Can a DGM (F) sign cheques of ₹48 lakh without escalation?
+  input: ""
+  output: Yes, since it's within the ₹50 lakh limit.
+
+- instruction: Who are the signatories for cheques under Clause 1?
+  input: ""
+  output: CMD, Director (Finance), ED (Finance), GM (F), DGM (F), Sr. Manager (F), Manager (F) with respective limits.
+
+- instruction: What are the cheque signing powers for F&A wing officers as per Clause 1?
+  input: ""
+  output: |
+    CMD: Full power
+    Director (Finance): Full power
+    ED (Finance): Full power
+    GM (F): Full power
+    DGM (F): ₹50 lakh
+    Sr. Manager (F): ₹10 lakh
+    Manager (F): ₹5 lakh
+
+- instruction: Can GM (F) override the limit of DGM (F) for payment approvals?
+  input: ""
+  output: Yes, GM (F) has full powers without financial limits.
+
+- instruction: Does Clause 1 allow Director (Finance) to authorize RTGS for any amount?
+  input: ""
+  output: Yes, Director (Finance) has full authority for all transactions.
+
+#Clause 1: Operation of Bank Accounts / Issuance of Cheques / LOC / RTGS / NEFT etc.
+- instruction: Who holds full authority to ensure compliance with audit observations?
+  input: ""
+  output: Director (Finance), ED (Finance)
+
+- instruction: What is the responsibility of Director (Finance) under Clause 11?
+  input: ""
+  output: To implement all audit and government financial compliance requirements
+
+- instruction: Can ED (Finance) independently implement internal audit recommendations?
+  input: ""
+  output: Yes, ED (F) has full powers to manage operational-level compliance
+
+- instruction: Who must act on directions from the Comptroller & Auditor General (C&AG)?
+  input: ""
+  output: Director (Finance), ED (Finance)
+
+- instruction: Is CMD involved in Clause 11 execution?
+  input: ""
+  output: No, this clause specifically delegates to Director (Finance) and ED (Finance)
+
+- instruction: Who is responsible for responding to DPE financial circulars?
+  input: ""
+  output: Director (Finance), ED (Finance)
+
+- instruction: What authority does ED (Finance) have in audit compliance?
+  input: ""
+  output: Full powers to act on audit observations at the operational level
+
+- instruction: Who ensures follow-up actions on statutory audit findings?
+  input: ""
+  output: Director (Finance), ED (Finance)
+
+- instruction: What is the scope of Clause 11?
+  input: ""
+  output: Ensures compliance with audit reports and government financial directives
+
+- instruction: Who can take corrective financial actions based on audit flags?
+  input: ""
+  output: Director (Finance), ED (Finance)
+
+- instruction: Can GM (Finance) issue responses to government audit directions?
+  input: ""
+  output: No, not authorized under Clause 11
+
+- instruction: Is Clause 11 related to day-to-day accounting operations?
+  input: ""
+  output: No, it pertains to compliance with audit and government directives
+
+- instruction: Can Director (Finance) implement C&AG’s financial directions?
+  input: ""
+  output: Yes, full powers are delegated for such compliance
+
+- instruction: What are ED (Finance)’s duties under Clause 11?
+  input: ""
+  output: To implement and ensure adherence to audit and government financial instructions
+
+- instruction: Is audit compliance centralized or delegated in Clause 11?
+  input: ""
+  output: Delegated to Director (Finance) and ED (Finance)
+
+- instruction: Who handles implementation of internal audit recommendations?
+  input: ""
+  output: ED (Finance) and Director (Finance)
+
+- instruction: Are MoF (Ministry of Finance) circulars covered under Clause 11?
+  input: ""
+  output: Yes
+
+- instruction: What kind of audits are covered in Clause 11?
+  input: ""
+  output: Statutory, internal, and C&AG audits
+
+- instruction: Can ED (Finance) act independently on audit findings?
+  input: ""
+  output: Yes
+
+- instruction: Who ensures the finance wing’s compliance with audit directives?
+  input: ""
+  output: Director (Finance), ED (Finance)
+
+- instruction: Who has the full power to operate bank accounts and issue cheques?
+  input: ""
+  output: |
+    CMD: Full power
+    Director (Finance): Full power
+    ED (Finance): Full power
+    GM (F): Full power
+
+- instruction: What is the maximum transaction limit for a DGM (Finance) when issuing RTGS or NEFT?
+  input: ""
+  output: ₹50 lakh per transaction
+
+- instruction: Can a Sr. Manager (Finance) authorize a cheque worth ₹15 lakh?
+  input: ""
+  output: No, the limit for Sr. Manager (F) is ₹10 lakh per transaction.
+
+- instruction: Is the Manager (Finance) authorized to operate the LOC system for payments up to ₹5 lakh?
+  input: ""
+  output: Yes, Manager (F) can operate for up to ₹5 lakh per transaction.
+
+- instruction: Who among the F&A officers can approve NEFT payments of ₹50 lakh?
+  input: ""
+  output: CMD, Director (Finance), ED (Finance), GM (F), and DGM (F) can approve. Sr. M and M(F) cannot.
+
+- instruction: Who are allowed to authorize cheque payments above ₹50 lakh?
+  input: ""
+  output: CMD, Director (Finance), ED (Finance), GM (F)
+
+- instruction: What is the maximum financial authority given to Manager (Finance) for banking operations?
+  input: ""
+  output: ₹5 lakh per transaction
+
+- instruction: Can ED (Finance) issue unlimited-value cheques?
+  input: ""
+  output: Yes, ED (Finance) has full powers.
+
+- instruction: Who has power to authorize payment transactions through RTGS without upper cap?
+  input: ""
+  output: CMD, Director (Finance), ED (Finance), GM (F)
+
+- instruction: What is the authority of a Sr. Manager (Finance) in operating LOCs?
+  input: ""
+  output: Up to ₹10 lakh per transaction
+
+- instruction: What level of delegation is given to a GM (F) for cheque issuance?
+  input: ""
+  output: Full powers
+
+- instruction: Can Director (Finance) authorize a payment above ₹1 crore?
+  input: ""
+  output: Yes, Director (Finance) has full powers without a limit.
+
+- instruction: Which officers are limited in their cheque issuance authority?
+  input: ""
+  output: DGM (F): ₹50 lakh, Sr. M (F): ₹10 lakh, Manager (F): ₹5 lakh
+
+- instruction: Who has the least financial authority under Clause 1 of Section IV?
+  input: ""
+  output: Manager (Finance) with ₹5 lakh per transaction limit.
+
+- instruction: Is concurrence required for Sr. Manager (F) to process a ₹12 lakh NEFT?
+  input: ""
+  output: Yes, as the limit is ₹10 lakh, Sr. Manager cannot approve this alone.
+
+- instruction: Can a DGM (F) sign cheques of ₹48 lakh without escalation?
+  input: ""
+  output: Yes, since it's within the ₹50 lakh limit.
+
+- instruction: Who are the signatories for cheques under Clause 1?
+  input: ""
+  output: CMD, Director (Finance), ED (Finance), GM (F), DGM (F), Sr. Manager (F), Manager (F) with respective limits.
+
+- instruction: What are the cheque signing powers for F&A wing officers as per Clause 1?
+  input: ""
+  output: |
+    CMD: Full power
+    Director (Finance): Full power
+    ED (Finance): Full power
+    GM (F): Full power
+    DGM (F): ₹50 lakh
+    Sr. Manager (F): ₹10 lakh
+    Manager (F): ₹5 lakh
+
+- instruction: Can GM (F) override the limit of DGM (F) for payment approvals?
+  input: ""
+  output: Yes, GM (F) has full powers without financial limits.
+
+- instruction: Does Clause 1 allow Director (Finance) to authorize RTGS for any amount?
+  input: ""
+  output: Yes, Director (Finance) has full authority for all transactions.
+
+#Clause 3: Vetting of Financial Proposals
+- instruction: Who can exercise full powers for vetting financial proposals?
+  input: ""
+  output: Director (Finance), ED (Finance), GM (F)
+
+- instruction: What is the vetting limit for a DGM (Finance)?
+  input: ""
+  output: Upto ₹50 lakh per proposal
+
+- instruction: What is the authority limit of a Sr. Manager (Finance) in vetting financial proposals?
+  input: ""
+  output: Upto ₹10 lakh per proposal
+
+- instruction: Who is authorized to vet financial proposals worth ₹5 lakh?
+  input: ""
+  output: Manager (Finance) and above
+
+- instruction: Can a Manager (F) vet a ₹7 lakh proposal?
+  input: ""
+  output: No, the Manager’s limit is ₹5 lakh per proposal
+
+- instruction: What is the financial vetting limit for a GM (Finance)?
+  input: ""
+  output: Full powers — no upper limit
+
+- instruction: Is ED (Finance) allowed to vet proposals of ₹1 crore?
+  input: ""
+  output: Yes, ED (Finance) has full powers
+
+- instruction: Can a DGM (F) vet a proposal of ₹55 lakh?
+  input: ""
+  output: No, the DGM limit is ₹50 lakh per proposal
+
+- instruction: Who must vet a financial proposal of ₹60 lakh?
+  input: ""
+  output: GM (F), ED (F), or Director (Finance)
+
+- instruction: What is the highest vetting limit for Manager (Finance)?
+  input: ""
+  output: ₹5 lakh per proposal
+
+- instruction: Who has financial vetting powers above ₹50 lakh?
+  input: ""
+  output: GM (F), ED (F), Director (Finance)
+
+- instruction: Can a Sr. Manager (Finance) approve a ₹12 lakh contract proposal?
+  input: ""
+  output: No, the limit is ₹10 lakh — higher approval needed
+
+- instruction: What roles have full authority to vet all financial proposals irrespective of value?
+  input: ""
+  output: Director (Finance), ED (Finance), GM (F)
+
+- instruction: Who is responsible for financial concurrence of small proposals under ₹5 lakh?
+  input: ""
+  output: Manager (F) and above
+
+- instruction: Is it necessary for Director (Finance) to vet every financial proposal?
+  input: ""
+  output: No, delegated officers may vet proposals within their limits
+
+- instruction: Which officer should vet a tender estimate of ₹45 lakh?
+  input: ""
+  output: DGM (F), GM (F), ED (F), or Director (F)
+
+- instruction: Can ED (Finance) override DGM (F)’s vetting decision?
+  input: ""
+  output: Yes, ED (Finance) has higher authority and full powers
+
+- instruction: What is the maximum financial vetting limit below GM (F) level?
+  input: ""
+  output: DGM (F) has up to ₹50 lakh limit
+
+- instruction: Can Manager (F) vet a capital investment estimate worth ₹4 lakh?
+  input: ""
+  output: Yes, within the ₹5 lakh limit
+
+- instruction: What is the delegated power of a Sr. Manager (Finance) in financial vetting?
+  input: ""
+  output: Upto ₹10 lakh per proposal
+
+#Clause 4: Signing of Financial Concurrence Notes
+- instruction: Who can sign financial concurrence notes without any monetary restriction?
+  input: ""
+  output: Director (Finance), ED (Finance), GM (F)
+
+- instruction: Can a DGM (Finance) sign a concurrence note for a ₹60 lakh proposal?
+  input: ""
+  output: No, the DGM limit is ₹50 lakh per proposal
+
+- instruction: Can a Sr. Manager (Finance) sign off a financial note for a ₹9 lakh estimate?
+  input: ""
+  output: Yes, Sr. Manager (F) can sign up to ₹10 lakh
+
+- instruction: What is the maximum value of concurrence note a Manager (Finance) can sign?
+  input: ""
+  output: ₹5 lakh
+
+- instruction: Is it mandatory that the note being signed is vetted by the same officer?
+  input: ""
+  output: Yes, signing is allowed only for proposals vetted by the same officer within their limit
+
+- instruction: Who has the authority to sign financial concurrence notes above ₹50 lakh?
+  input: ""
+  output: GM (F), ED (F), Director (F)
+
+- instruction: Can an ED (Finance) sign a concurrence note for ₹1 crore?
+  input: ""
+  output: Yes, ED (Finance) has full powers
+
+- instruction: What is the financial limit for DGM (F) to sign concurrence notes?
+  input: ""
+  output: ₹50 lakh per vetted proposal
+
+- instruction: What level of officer is needed to sign concurrence for ₹75 lakh contract proposal?
+  input: ""
+  output: GM (F), ED (F), or Director (F)
+
+- instruction: Can a Manager (F) sign a note vetted by Sr. Manager (F)?
+  input: ""
+  output: No, a note can only be signed if vetted by the same officer within their limit
+
+- instruction: Can Sr. Manager (F) sign off a ₹12 lakh concurrence?
+  input: ""
+  output: No, limit is ₹10 lakh
+
+- instruction: What is the signing power of GM (F)?
+  input: ""
+  output: Full powers — can sign any concurrence note
+
+- instruction: Can concurrence notes be signed by officers for proposals they didn’t vet?
+  input: ""
+  output: No, concurrence note must be signed by the officer who vetted the proposal
+
+- instruction: Who can sign off concurrence notes for projects over ₹1 crore?
+  input: ""
+  output: Director (Finance), ED (Finance), GM (F)
+
+- instruction: Can DGM (F) sign a ₹49 lakh note if they vetted it themselves?
+  input: ""
+  output: Yes, within ₹50 lakh limit
+
+- instruction: Can Director (Finance) sign any note regardless of amount?
+  input: ""
+  output: Yes, Director (Finance) has full powers
+
+- instruction: What is the signature limit for Sr. Manager (F) on vetted proposals?
+  input: ""
+  output: ₹10 lakh per proposal
+
+- instruction: What is the maximum authority a Manager (F) has for signing concurrence notes?
+  input: ""
+  output: ₹5 lakh per proposal vetted by self
+
+- instruction: Are there any financial restrictions for ED (Finance) on signing?
+  input: ""
+  output: No, ED (Finance) has full signing powers
+
+- instruction: Can a Manager (F) sign a financial note without vetting the proposal?
+  input: ""
+  output: No, signing is only valid after self-vetting
+
+#Clause 5: Investment of Surplus Funds
+- instruction: Who holds the full power to invest surplus funds in the company?
+  input: ""
+  output: CMD
+
+- instruction: What is the investment limit of Director (Finance) for surplus funds?
+  input: ""
+  output: ₹25 crore
+
+- instruction: How much can the ED (Finance) invest from surplus funds?
+  input: ""
+  output: ₹10 crore
+
+- instruction: Can ED (Finance) approve an investment of ₹12 crore from surplus cash?
+  input: ""
+  output: No, ED (F) is limited to ₹10 crore
+
+- instruction: Who is authorized to invest ₹20 crore of surplus funds?
+  input: ""
+  output: CMD, Director (Finance)
+
+- instruction: What is the maximum amount of surplus funds that Director (Finance) can handle without CMD’s involvement?
+  input: ""
+  output: ₹25 crore
+
+- instruction: Can CMD approve a ₹100 crore investment of surplus funds?
+  input: ""
+  output: Yes, CMD has full powers with no financial limit
+
+- instruction: What is the role of ED (Finance) in investing surplus funds?
+  input: ""
+  output: ED (Finance) can invest up to ₹10 crore as per delegation
+
+- instruction: Can the Director (Finance) invest ₹30 crore in surplus funds?
+  input: ""
+  output: No, the limit is ₹25 crore
+
+- instruction: Who are authorized officers for investing surplus funds?
+  input: ""
+  output: CMD, Director (Finance), ED (Finance)
+
+- instruction: Can ED (Finance) take decisions on surplus fund investments above ₹10 crore?
+  input: ""
+  output: No, approval from higher authority is required
+
+- instruction: What is the maximum amount CMD can invest from company surplus funds?
+  input: ""
+  output: CMD has full powers, no upper limit
+
+- instruction: Are surplus fund investments restricted for CMD?
+  input: ""
+  output: No, CMD can approve any amount
+
+- instruction: If an investment of ₹9 crore is proposed, who can authorize it?
+  input: ""
+  output: ED (Finance), Director (Finance), CMD
+
+- instruction: Who must be involved in a ₹26 crore investment of surplus funds?
+  input: ""
+  output: CMD, as it exceeds Director (F)’s limit
+
+- instruction: Is the Director (Finance) allowed to bypass CMD for a ₹20 crore investment?
+  input: ""
+  output: Yes, ₹20 crore is within Director (F)’s ₹25 crore limit
+
+- instruction: Who can invest up to ₹10 crore from surplus funds without escalation?
+  input: ""
+  output: ED (Finance), Director (Finance), CMD
+
+- instruction: Does Clause 5 specify any policy restrictions on investments?
+  input: ""
+  output: Yes, investments must comply with approved corporate policies and DPE guidelines
+
+- instruction: Can a GM (Finance) invest surplus funds?
+  input: ""
+  output: No, Clause 5 only delegates investment powers to CMD, Director (F), and ED (F)
+
+- instruction: What are the delegated investment powers for surplus funds in Section IV?
+  input: ""
+  output: |
+    CMD: Full powers
+    Director (Finance): ₹25 crore
+    ED (Finance): ₹10 crore
+
+#Clause 6: Fixation of Pay / Allowances / Personal Claims / Retirement Benefits
+- instruction: Who has full powers for fixation of pay and allowances?
+  input: ""
+  output: Director (Finance), ED (Finance)
+
+- instruction: What is the financial limit for GM (Finance) in approving personal claims?
+  input: ""
+  output: Upto ₹5 lakh per transaction
+
+- instruction: Can GM (F) approve a medical claim of ₹6 lakh?
+  input: ""
+  output: No, GM (F)'s limit is ₹5 lakh — higher authority required
+
+- instruction: Who can approve pay fixation upon employee promotion?
+  input: ""
+  output: Director (Finance), ED (Finance), GM (F) (if within ₹5 lakh)
+
+- instruction: What level of claim value can ED (Finance) approve for retirement benefits?
+  input: ""
+  output: ED (F) has full powers — no financial cap
+
+- instruction: Can GM (F) approve LTC claims exceeding ₹5 lakh?
+  input: ""
+  output: No, claims above ₹5 lakh need ED (F) or Director (F) approval
+
+- instruction: Who is responsible for sanctioning final pension benefits?
+  input: ""
+  output: Director (Finance), ED (Finance), GM (F) up to ₹5 lakh
+
+- instruction: Can Director (Finance) approve any personal financial claim?
+  input: ""
+  output: Yes, Director (F) has full powers
+
+- instruction: What retirement benefit approvals fall under GM (F)’s authority?
+  input: ""
+  output: Any claim up to ₹5 lakh per case
+
+- instruction: Can a GM (Finance) approve travel allowance re-imbursement of ₹4.5 lakh?
+  input: ""
+  output: Yes, within the ₹5 lakh limit
+
+- instruction: What happens if a claim exceeds ₹5 lakh under Clause 6?
+  input: ""
+  output: It must be escalated to ED (F) or Director (F) for approval
+
+- instruction: Can ED (F) approve fixation of pay after re-employment?
+  input: ""
+  output: Yes, ED (F) has full powers
+
+- instruction: What is the role of Director (Finance) in sanctioning personal claims?
+  input: ""
+  output: Full authority — no financial ceiling
+
+- instruction: Is the ₹5 lakh limit for GM (F) applicable per month or per transaction?
+  input: ""
+  output: Per transaction
+
+- instruction: Can a GM (Finance) approve pension arrears of ₹5 lakh?
+  input: ""
+  output: Yes
+
+- instruction: Can ED (F) approve all types of personal financial claims?
+  input: ""
+  output: Yes, ED (F) has full powers under Clause 6
+
+- instruction: What claims require escalation beyond GM (F)?
+  input: ""
+  output: Any individual claim above ₹5 lakh
+
+- instruction: Are allowances and medical claims treated equally in Clause 6?
+  input: ""
+  output: Yes, both fall under personal claims
+
+- instruction: Who can approve all pay-related matters for retired employees?
+  input: ""
+  output: Director (Finance), ED (Finance), GM (F) (up to ₹5 lakh)
+
+- instruction: Can ED (Finance) fix the salary of a newly transferred employee?
+  input: ""
+  output: Yes, ED (F) has full powers for fixation of pay
+
+#Clause 7: Reimbursement of TA/DA Bills
+- instruction: Who has full authority to approve TA/DA reimbursements of any amount?
+  input: ""
+  output: Director (Finance), ED (Finance)
+
+- instruction: What is the maximum reimbursement limit GM (Finance) can approve for TA/DA?
+  input: ""
+  output: ₹5 lakh per case
+
+- instruction: Can a GM (F) approve a travel reimbursement of ₹4.9 lakh?
+  input: ""
+  output: Yes, it is within the ₹5 lakh limit
+
+- instruction: Can a GM (F) approve a ₹6 lakh TA claim?
+  input: ""
+  output: No, claims above ₹5 lakh require ED (F) or Director (F)
+
+- instruction: Who is empowered to reimburse TA/DA claims above ₹5 lakh?
+  input: ""
+  output: ED (Finance), Director (Finance)
+
+- instruction: Can ED (F) approve international travel reimbursements?
+  input: ""
+  output: Yes, ED (F) has full powers under Clause 7
+
+- instruction: What is the per-case authority limit of GM (F) under Clause 7?
+  input: ""
+  output: ₹5 lakh
+
+- instruction: Is the Director (Finance) authorized to approve all travel-related reimbursements?
+  input: ""
+  output: Yes, Director (F) has full powers
+
+- instruction: Can a ₹3 lakh TA/DA claim be approved by GM (F)?
+  input: ""
+  output: Yes
+
+- instruction: What authority does ED (Finance) have in TA/DA reimbursements?
+  input: ""
+  output: Full powers — no financial ceiling
+
+- instruction: Does the ₹5 lakh limit for GM (F) apply to the total bill or per item?
+  input: ""
+  output: Per case — overall total reimbursement claim
+
+- instruction: Who should approve a travel reimbursement bill worth ₹7 lakh?
+  input: ""
+  output: Director (Finance) or ED (Finance)
+
+- instruction: Can Director (F) approve all DA claims regardless of value?
+  input: ""
+  output: Yes
+
+- instruction: What is the role of GM (F) in travel reimbursement approvals?
+  input: ""
+  output: Can approve up to ₹5 lakh per claim
+
+- instruction: Is a GM (F) allowed to approve multiple ₹5 lakh TA bills?
+  input: ""
+  output: Yes, as long as each is a separate case
+
+- instruction: Can ED (F) approve any TA/DA reimbursement case without escalation?
+  input: ""
+  output: Yes
+
+- instruction: What reimbursement limit applies to travel bills under Clause 7?
+  input: ""
+  output: |
+    Director (Finance): Full powers
+    ED (Finance): Full powers
+    GM (Finance): ₹5 lakh per case
+
+- instruction: Can a travel reimbursement for ₹2 lakh be approved by GM (F)?
+  input: ""
+  output: Yes, it is within their authority
+
+- instruction: What level of officer is needed to process high-value TA/DA reimbursements?
+  input: ""
+  output: ED (F) or Director (F) for amounts exceeding ₹5 lakh
+
+- instruction: What is the approval requirement for a ₹10 lakh TA reimbursement?
+  input: ""
+  output: Requires approval by ED (F) or Director (F)
+
+#Clause 8: Approval of Medical Reimbursement Bills
+- instruction: Who has the full authority to approve medical reimbursement claims of any amount?
+  input: ""
+  output: Director (Finance), ED (Finance)
+
+- instruction: What is the limit for GM (Finance) in approving medical bills?
+  input: ""
+  output: ₹5 lakh per case
+
+- instruction: Can a GM (F) approve a medical bill of ₹4.8 lakh?
+  input: ""
+  output: Yes, it is within the ₹5 lakh limit
+
+- instruction: Who must approve a medical reimbursement of ₹6 lakh?
+  input: ""
+  output: ED (Finance) or Director (Finance)
+
+- instruction: Can ED (Finance) approve any amount of medical reimbursement?
+  input: ""
+  output: Yes, ED (F) has full powers
+
+- instruction: Can Director (Finance) approve a ₹12 lakh medical claim?
+  input: ""
+  output: Yes, Director (Finance) has full authority
+
+- instruction: What is the maximum claim value GM (F) can process under Clause 8?
+  input: ""
+  output: ₹5 lakh per case
+
+- instruction: Is a ₹7 lakh hospital reimbursement claim within the powers of GM (F)?
+  input: ""
+  output: No, it exceeds the ₹5 lakh limit
+
+- instruction: What authority level is required to process a ₹10 lakh medical reimbursement?
+  input: ""
+  output: ED (F) or Director (F)
+
+- instruction: Who can approve medical claims for employee’s dependents?
+  input: ""
+  output: GM (F) up to ₹5 lakh; ED (F) and Director (F) for higher amounts
+
+- instruction: Can multiple ₹5 lakh claims be approved by GM (F)?
+  input: ""
+  output: Yes, provided each case is independent
+
+- instruction: What is the role of Director (Finance) in medical reimbursement bills?
+  input: ""
+  output: Full powers — can approve all claims without financial limits
+
+- instruction: Can GM (F) approve ₹2 lakh for employee’s surgery costs?
+  input: ""
+  output: Yes, within the ₹5 lakh limit
+
+- instruction: Does Clause 8 restrict ED (F)’s authority in medical bills?
+  input: ""
+  output: No, ED (F) has full powers
+
+- instruction: Who has the least delegated authority under Clause 8?
+  input: ""
+  output: GM (F) — limited to ₹5 lakh per case
+
+- instruction: Can a GM (F) approve a ₹5.5 lakh medical reimbursement?
+  input: ""
+  output: No, it must be escalated to ED (F) or Director (F)
+
+- instruction: Who should approve a ₹9 lakh chemotherapy reimbursement?
+  input: ""
+  output: Director (F) or ED (F)
+
+- instruction: Is the ₹5 lakh limit for GM (F) per year or per case?
+  input: ""
+  output: Per case
+
+- instruction: Can Director (Finance) approve family member medical expenses?
+  input: ""
+  output: Yes, without any financial limit
+
+- instruction: What levels are authorized for all medical claims under Clause 8?
+  input: ""
+  output: |
+    Director (Finance): Full powers
+    ED (Finance): Full powers
+    GM (Finance): ₹5 lakh per case
+
+#Clause 9: Write-off of Losses and Waiver of Claims
+- instruction: Who has the full authority to write off losses of any amount?
+  input: ""
+  output: CMD
+
+- instruction: What is the maximum limit of write-off power delegated to Director (Finance)?
+  input: ""
+  output: ₹10 lakh per case
+
+- instruction: How much loss can ED (Finance) write off independently?
+  input: ""
+  output: ₹5 lakh per case
+
+- instruction: Can CMD approve waiver of ₹50 lakh in outstanding claims?
+  input: ""
+  output: Yes, CMD has full powers
+
+- instruction: Can ED (F) write off a claim worth ₹7 lakh?
+  input: ""
+  output: No, ED (F) is limited to ₹5 lakh
+
+- instruction: Who is authorized to waive a financial claim of ₹9 lakh?
+  input: ""
+  output: Director (Finance) or CMD
+
+- instruction: What is the role of CMD in Clause 9?
+  input: ""
+  output: CMD has unrestricted power to write off or waive claims
+
+- instruction: Who should approve a waiver of ₹12 lakh in vendor dues?
+  input: ""
+  output: CMD
+
+- instruction: What happens if the write-off amount exceeds ₹10 lakh?
+  input: ""
+  output: CMD's approval is mandatory
+
+- instruction: Can Director (Finance) approve a ₹6 lakh waiver?
+  input: ""
+  output: Yes, within the ₹10 lakh limit
+
+- instruction: What is the maximum claim amount ED (F) can waive?
+  input: ""
+  output: ₹5 lakh per case
+
+- instruction: Can CMD waive multiple large losses totaling ₹1 crore?
+  input: ""
+  output: Yes, CMD has full powers without limit
+
+- instruction: Is ED (F) allowed to write off ₹5 lakh of unclaimed employee benefits?
+  input: ""
+  output: Yes
+
+- instruction: Who is responsible for write-offs beyond ₹10 lakh?
+  input: ""
+  output: CMD only
+
+- instruction: What are the delegated powers under Clause 9?
+  input: ""
+  output: |
+    CMD: Full powers
+    Director (Finance): Up to ₹10 lakh
+    ED (Finance): Up to ₹5 lakh
+
+- instruction: Can Director (Finance) approve a waiver for ₹15 lakh?
+  input: ""
+  output: No, this exceeds the ₹10 lakh limit — CMD must approve
+
+- instruction: Is CMD’s authority for claim waivers subject to any cap?
+  input: ""
+  output: No, CMD has full powers
+
+- instruction: Can ED (Finance) write off an irrecoverable fee of ₹3 lakh?
+  input: ""
+  output: Yes
+
+- instruction: Does Clause 9 require audit compliance for all write-offs?
+  input: ""
+  output: Yes, all write-offs must adhere to audit and policy norms
+
+- instruction: What level of authority is required for a ₹10.5 lakh loss waiver?
+  input: ""
+  output: CMD — as it exceeds Director (F)’s ₹10 lakh limit
+
+# Clause 10: Signing of Annual Accounts and Financial Statements
+- instruction: Who is authorized to sign the annual financial statements of the company?
+  input: ""
+  output: CMD and Director (Finance)
+
+- instruction: Can CMD alone sign off on the Profit and Loss Account?
+  input: ""
+  output: Yes, CMD has full authority to sign financial statements
+
+- instruction: What is the role of Director (Finance) in signing annual accounts?
+  input: ""
+  output: Director (F) is delegated to co-sign the financial statements
+
+- instruction: Who signs the balance sheet before submission to auditors?
+  input: ""
+  output: CMD and Director (Finance)
+
+- instruction: Can ED (Finance) sign the company’s audited annual accounts?
+  input: ""
+  output: No, only CMD and Director (F) are delegated this authority
+
+- instruction: Are both CMD and Director (Finance) required to sign financial disclosures?
+  input: ""
+  output: Yes, both jointly sign disclosures and statements
+
+- instruction: Is CMD authorized to sign Notes to Accounts and Schedules?
+  input: ""
+  output: Yes
+
+- instruction: What financial documents fall under Clause 10 for signing?
+  input: ""
+  output: Balance Sheet, Profit & Loss Account, Notes, Disclosures, Schedules
+
+- instruction: Can GM (Finance) sign the audited accounts?
+  input: ""
+  output: No, not delegated under Clause 10
+
+- instruction: What is the legal requirement for signing the company’s annual accounts?
+  input: ""
+  output: They must be signed by CMD and Director (Finance) as per Clause 10
+
+- instruction: Who must sign the final annual financial report?
+  input: ""
+  output: CMD and Director (Finance)
+
+- instruction: Is the signature of Director (Finance) mandatory on audited financials?
+  input: ""
+  output: Yes, as per delegation under Clause 10
+
+- instruction: Can CMD sign the company’s final audit report?
+  input: ""
+  output: Yes
+
+- instruction: Who holds legal responsibility for signing annual accounts in the company?
+  input: ""
+  output: CMD and Director (Finance)
+
+- instruction: What level of financial authority does ED (Finance) have for annual reports?
+  input: ""
+  output: None — Clause 10 does not delegate this power to ED (F)
+
+- instruction: Are unaudited quarterly statements included in Clause 10?
+  input: ""
+  output: No, Clause 10 covers only annual accounts and related financial statements
+
+- instruction: What statements require CMD's approval and signature?
+  input: ""
+  output: All audited financials including Balance Sheet, P&L, Notes, Schedules
+
+- instruction: Who is responsible for ensuring compliance with Clause 10?
+  input: ""
+  output: CMD and Director (Finance)
+
+- instruction: Can the CMD sign the financial statements without the Director (Finance)?
+  input: ""
+  output: Technically, both signatures are generally required for compliance
+
+- instruction: What does Clause 10 authorize CMD to do?
+  input: ""
+  output: Sign all annual accounts, statements, disclosures, and related financial reports
+
+# Clause 11: Compliance with Audit Observations / Government Directions
+- instruction: Who holds full authority to ensure compliance with audit observations?
+  input: ""
+  output: Director (Finance), ED (Finance)
+
+- instruction: What is the responsibility of Director (Finance) under Clause 11?
+  input: ""
+  output: To implement all audit and government financial compliance requirements
+
+- instruction: Can ED (Finance) independently implement internal audit recommendations?
+  input: ""
+  output: Yes, ED (F) has full powers to manage operational-level compliance
+
+- instruction: Who must act on directions from the Comptroller & Auditor General (C&AG)?
+  input: ""
+  output: Director (Finance), ED (Finance)
+
+- instruction: Is CMD involved in Clause 11 execution?
+  input: ""
+  output: No, this clause specifically delegates to Director (Finance) and ED (Finance)
+
+- instruction: Who is responsible for responding to DPE financial circulars?
+  input: ""
+  output: Director (Finance), ED (Finance)
+
+- instruction: What authority does ED (Finance) have in audit compliance?
+  input: ""
+  output: Full powers to act on audit observations at the operational level
+
+- instruction: Who ensures follow-up actions on statutory audit findings?
+  input: ""
+  output: Director (Finance), ED (Finance)
+
+- instruction: What is the scope of Clause 11?
+  input: ""
+  output: Ensures compliance with audit reports and government financial directives
+
+- instruction: Who can take corrective financial actions based on audit flags?
+  input: ""
+  output: Director (Finance), ED (Finance)
+
+- instruction: Can GM (Finance) issue responses to government audit directions?
+  input: ""
+  output: No, not authorized under Clause 11
+
+- instruction: Is Clause 11 related to day-to-day accounting operations?
+  input: ""
+  output: No, it pertains to compliance with audit and government directives
+
+- instruction: Can Director (Finance) implement C&AG’s financial directions?
+  input: ""
+  output: Yes, full powers are delegated for such compliance
+
+- instruction: What are ED (Finance)’s duties under Clause 11?
+  input: ""
+  output: To implement and ensure adherence to audit and government financial instructions
+
+- instruction: Is audit compliance centralized or delegated in Clause 11?
+  input: ""
+  output: Delegated to Director (Finance) and ED (Finance)
+
+- instruction: Who handles implementation of internal audit recommendations?
+  input: ""
+  output: ED (Finance) and Director (Finance)
+
+- instruction: Are MoF (Ministry of Finance) circulars covered under Clause 11?
+  input: ""
+  output: Yes
+
+- instruction: What kind of audits are covered in Clause 11?
+  input: ""
+  output: Statutory, internal, and C&AG audits
+
+- instruction: Can ED (Finance) act independently on audit findings?
+  input: ""
+  output: Yes
+
+- instruction: Who ensures the finance wing’s compliance with audit directives?
+  input: ""
+  output: Director (Finance), ED (Finance)
