@@ -425,6 +425,66 @@
    2.Procure essentials within ₹20L, defer balance.
    Clause doesn't specify emergency protocols.
 
+##Sl no 5
+
+- instruction: "Who has full powers to approve IT infrastructure purchases in NEEPCO?"
+  input: ""
+  output: Director (Technical) and ED (IT) have full powers to approve IT and communication infrastructure procurement.
+
+- instruction: "Can a HOP approve ₹30 lakh worth of computer hardware?"
+  input: ""
+  output: No
+
+- instruction: "What is the annual financial limit for IT procurement by a HOD in Guwahati?"
+  input: ""
+  output: A HOD in the grade of E-8 in Guwahati can approve purchases up to ₹25 lakh per annum.
+
+- instruction: "Is consultation with ED (IT) mandatory for all IT purchases?"
+  input: ""
+  output: Yes
+
+- instruction: "What must be done after IT procurement is completed?"
+  input: ""
+  output: All purchases must be reported periodically to the HOD (IT) at the Corporate Office for record-keeping.
+
+- instruction: "Does this clause cover software and peripherals?"
+  input: ""
+  output: Yes
+
+- instruction: "Can a HOD in Shillong independently approve software purchases?"
+  input: ""
+  output: No
+
+- instruction: "What happens if a purchase exceeds ₹50 lakh?"
+  input: ""
+  output: The clause defines ₹50 lakh as a general cap; anything beyond this likely requires approval at the highest level.
+
+- instruction: "Who can approve IT purchases at project stations?"
+  input: ""
+  output: HOPs in the grade of E-8 can approve up to ₹25 lakh per annum, in consultation with ED (IT).
+
+- instruction: "Are there reporting requirements for IT software procurement?"
+  input: ""
+  output: Yes, all hardware and software procurements must be periodically reported to the HOD (IT) at the Corporate Office.
+
+- instruction: "What grade is required to approve IT purchases up to ₹25 lakh?"
+  input: ""
+  output: Officials must be of grade E-8 (HOD or HOP) to approve purchases up to ₹25 lakh per annum.
+
+- instruction: "Does this clause apply to consumables like printer cartridges?"
+  input: ""
+  output: Yes
+
+- instruction: "Can ED (IT) approve ₹45 lakh worth of networking hardware?"
+  input: ""
+  output: Yes
+
+
+
+
+  
+
+  
 
   
 
