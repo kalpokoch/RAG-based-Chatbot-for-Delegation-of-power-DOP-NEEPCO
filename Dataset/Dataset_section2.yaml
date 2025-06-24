@@ -1,1 +1,2305 @@
+- instruction: Who has the authority to approve the list of candidates for executive interviews?
+  input: ""
+  output: All Executives
+
+- instruction: Who is responsible for approving the candidates to be interviewed for executive positions?
+  input: ""   
+  output: All Executives
+  
+- instruction: Which authority approves the list of candidates for executive-level interviews?
+  input: ""
+  output: All Executives
+- instruction: Who approves the list of candidates to be called for interview for executive posts?
+  input: ""
+  output: All Executives
+
+- instruction: Who approves the list of candidates to be called for interview for executive posts?
+  input: ""
+  output: All Executives
+
+- instruction: Who is responsible for finalizing the interview shortlist for executive-level recruitment?
+  input: ""
+  output: All Executives
+
+- instruction: Which authority decides the candidates to be interviewed for executive induction?
+  input: ""
+  output: All Executives
+
+- instruction: Who can create the list of candidates for interview for executive appointments?
+  input: ""
+  output: All Executives
+
+- instruction: Who has full power to approve executive interview candidate lists?
+  input: ""
+  output: All Executives
+
+- instruction: Who approves the interview list for non-executive positions?
+  input: ""
+  output: HOD (HR) not below E-8 in consultation with Director (Personnel)
+
+- instruction: Who has the authority to decide interview candidates for non-executive recruitment?
+  input: ""
+  output: HOD (HR) not below E-8 in consultation with Director (Personnel)
+
+- instruction: Who is responsible for shortlisting non-executive candidates for interviews?
+  input: ""
+  output: HOD (HR) not below E-8 in consultation with Director (Personnel)
+
+- instruction: For non-executive posts, who prepares the list of interview candidates?
+  input: ""
+  output: HOD (HR) not below E-8 in consultation with Director (Personnel)
+
+- instruction: Who must be consulted by HOD (HR) to finalize non-executive interview lists?
+  input: ""
+  output: Director (Personnel)
+
+- instruction: Who determines the interview list for executive-level inductions without consultation?
+  input: ""
+  output: All Executives
+
+- instruction: Is there any consultation required for preparing interview lists for executive posts?
+  input: ""
+  output: No, All Executives have full power
+
+- instruction: What level of officer can finalize executive candidate interview shortlists?
+  input: ""
+  output: All Executives
+
+- instruction: Who manages interview candidate selection for executive appointments?
+  input: ""
+  output: All Executives
+
+- instruction: Are all executives authorized to approve interview lists for executive hiring?
+  input: ""
+  output: Yes
+
+- instruction: Does the HOD (HR) act alone in selecting non-executive interview candidates?
+  input: ""
+  output: No, must consult Director (Personnel)
+
+- instruction: What is the required grade level of HOD (HR) to approve non-executive interview lists?
+  input: ""
+  output: Not below E-8
+
+- instruction: Who collaborates with HOD (HR) to approve non-executive interview candidates?
+  input: ""
+  output: Director (Personnel)
+
+- instruction: Can the Director (Personnel) alone approve non-executive interview lists?
+  input: ""
+  output: No, must be in consultation with HOD (HR)
+
+- instruction: Is consultation with Director (Personnel) mandatory for non-executive interview selection?
+  input: ""
+  output: Yes
+- instruction: Who approves annual increments for employees?
+  input: ""
+  output: HOP/HOD not below E-4
+
+- instruction: Which officer is responsible for granting yearly pay increments?
+  input: ""
+  output: HOP/HOD not below E-4
+
+- instruction: Who sanctions annual salary raises for staff members?
+  input: ""
+  output: HOP/HOD not below E-4
+
+- instruction: Who has the authority to process annual increments?
+  input: ""
+  output: HOP/HOD not below E-4
+
+- instruction: Which official handles annual pay reviews and approvals?
+  input: ""
+  output: HOP/HOD not below E-4
+
+- instruction: Are annual increments linked to performance reports?
+  input: ""
+  output: Yes
+
+- instruction: Do employees need a performance evaluation for increment approval?
+  input: ""
+  output: Yes
+
+- instruction: Is increment approval dependent on manager recommendations?
+  input: ""
+  output: Yes
+
+- instruction: Is recommendation mandatory for granting annual increment?
+  input: ""
+  output: Yes
+
+- instruction: Is performance review necessary before processing increments?
+  input: ""
+  output: Yes
+
+- instruction: Who processes annual increments post approval?
+  input: ""
+  output: HR Department
+
+- instruction: Does HR implement the pay change after HOD approval?
+  input: ""
+  output: Yes
+
+- instruction: Is the HR department responsible for finalizing increment changes?
+  input: ""
+  output: Yes
+
+- instruction: Does the HOP/HOD recommendation go to HR for processing?
+  input: ""
+  output: Yes
+
+- instruction: Who updates salary records after increment is approved?
+  input: ""
+  output: HR Department
+
+- instruction: Can an E-3 level officer approve increments?
+  input: ""
+  output: No, only E-4 or above
+
+- instruction: What is the minimum authority grade required to grant increments?
+  input: ""
+  output: E-4
+
+- instruction: Is there a grade requirement for approving annual increments?
+  input: ""
+  output: Yes, minimum E-4
+
+- instruction: Can increments be processed without HOP/HOD approval?
+  input: ""
+  output: No
+
+- instruction: Can increments be denied due to unsatisfactory performance?
+  input: ""
+  output: Yes
+
+- instruction: Is performance report a prerequisite for increment?
+  input: ""
+  output: Yes
+
+- instruction: Who initiates the increment process?
+  input: ""
+  output: HOP/HOD not below E-4
+
+- instruction: Does Clause 10 apply to both executives and non-executives?
+  input: ""
+  output: Yes
+
+- instruction: Who documents and implements approved increments?
+  input: ""
+  output: HR Department
+
+- instruction: Is HR required to verify approved increments?
+  input: ""
+  output: Yes
+- instruction: Who is responsible for pay fixation on promotion for executives?
+  input: ""
+  output: HR Officer not below E-4
+
+- instruction: Which grade HR officer can fix pay after executive promotion?
+  input: ""
+  output: E-4 and above
+
+- instruction: Who fixes the salary for executives after they get promoted?
+  input: ""
+  output: HR Officer not below E-4
+
+- instruction: What is the minimum grade required for fixing pay on executive promotion?
+  input: ""
+  output: E-4
+
+- instruction: Who processes pay changes for promoted executives?
+  input: ""
+  output: HR Officer not below E-4
+
+- instruction: Who handles pay fixation on promotion for non-executives?
+  input: ""
+  output: HR Officer not below E-2
+
+- instruction: Which HR official is eligible to fix pay of non-executive promotees?
+  input: ""
+  output: HR Officer not below E-2
+
+- instruction: What is the authority for salary fixation of non-executive promotions?
+  input: ""
+  output: HR Officer not below E-2
+
+- instruction: Who determines revised pay after non-executive promotion?
+  input: ""
+  output: HR Officer not below E-2
+
+- instruction: Who implements pay changes for non-executive promotions?
+  input: ""
+  output: HR Officer not below E-2
+
+- instruction: Are pay rules applicable while fixing promotion pay?
+  input: ""
+  output: Yes
+
+- instruction: Is fixation on promotion done according to company pay rules?
+  input: ""
+  output: Yes
+
+- instruction: Can promotion-related pay be fixed without following rules?
+  input: ""
+  output: No
+
+- instruction: Must pay fixation follow a rule-based structure?
+  input: ""
+  output: Yes
+
+- instruction: Are HR officials bound by pay rules in promotion cases?
+  input: ""
+  output: Yes
+
+- instruction: Is vetting by Finance mandatory in promotion pay fixation?
+  input: ""
+  output: Yes
+
+- instruction: Who verifies pay fixation entries after promotion?
+  input: ""
+  output: Finance Department
+
+- instruction: Can pay be fixed on promotion without finance approval?
+  input: ""
+  output: No
+
+- instruction: Who ensures correctness of salary post promotion?
+  input: ""
+  output: Finance Department
+
+- instruction: Is pay fixation subject to post-facto finance verification?
+  input: ""
+  output: Yes
+
+- instruction: Can HR Officer E-3 fix executive promotion pay?
+  input: ""
+  output: No
+
+- instruction: Can HR Officer below E-2 fix non-executive pay?
+  input: ""
+  output: No
+
+- instruction: Is there a grade threshold for promotion pay approvals?
+  input: ""
+  output: Yes
+
+- instruction: Does Clause 11 apply after promotion orders are issued?
+  input: ""
+  output: Yes
+
+- instruction: Is HR alone responsible for initiating promotion-based pay changes?
+  input: ""
+  output: Yes
+- instruction: Who sanctions study leave for executives of grade E-7 and above?
+  input: ""
+  output: CMD
+
+- instruction: Who approves study leave for senior executives?
+  input: ""
+  output: CMD
+
+- instruction: Who is the competent authority for E-7 and above study leave?
+  input: ""
+  output: CMD
+
+- instruction: Who approves education leave for top executives?
+  input: ""
+  output: CMD
+
+- instruction: Who grants study leave to E-7 and above?
+  input: ""
+  output: CMD
+
+- instruction: Who sanctions study leave for executives in E-5 and E-6 grades?
+  input: ""
+  output: Director
+
+- instruction: Who is authorized to allow study leave for mid-level executives?
+  input: ""
+  output: Director
+
+- instruction: Who clears study leave applications for employees in E-5 and E-6?
+  input: ""
+  output: Director
+
+- instruction: Who gives permission for E-5/E-6 grade employees to go on study leave?
+  input: ""
+  output: Director
+
+- instruction: Who approves academic leave for E-5 to E-6 employees?
+  input: ""
+  output: Director
+
+- instruction: Who can approve study leave for executives in grades E-1 to E-4?
+  input: ""
+  output: HOP/HOD not below E-6
+
+- instruction: Who authorizes study leave for lower-grade executives?
+  input: ""
+  output: HOP/HOD not below E-6
+
+- instruction: Who signs off on study leave applications from E-1 to E-4?
+  input: ""
+  output: HOP/HOD not below E-6
+
+- instruction: Which officer grants study leave for entry-level executives?
+  input: ""
+  output: HOP/HOD not below E-6
+
+- instruction: Who grants permission for executives up to E-4 to attend educational courses?
+  input: ""
+  output: HOP/HOD not below E-6
+
+- instruction: Who approves study leave for non-executive employees?
+  input: ""
+  output: HOD(HR) not below E-6
+
+- instruction: Who sanctions academic leave for non-executives?
+  input: ""
+  output: HOD(HR) not below E-6
+
+- instruction: What grade must the HOD(HR) be to approve non-executive study leave?
+  input: ""
+  output: E-6 or above
+
+- instruction: Who grants study leave to junior staff in non-executive roles?
+  input: ""
+  output: HOD(HR) not below E-6
+
+- instruction: Who signs off on study leave for non-executive courses?
+  input: ""
+  output: HOD(HR) not below E-6
+
+- instruction: Is full pay admissible during study leave?
+  input: ""
+  output: Yes, if course is in interest of the organization
+
+- instruction: Can study leave be sanctioned for more than 2 years?
+  input: ""
+  output: No
+
+- instruction: Is study leave restricted to 2 years maximum?
+  input: ""
+  output: Yes
+
+- instruction: Can employees receive full salary while on study leave?
+  input: ""
+  output: Yes, if justified as organizationally beneficial
+
+- instruction: Is study leave granted only for courses beneficial to the organization?
+  input: ""
+  output: Yes
+
+- instruction: Who sanctions earned leave for employees?
+  input: ""
+  output: Respective Controlling Officer not below E-3
+
+- instruction: Who is authorized to approve earned leave?
+  input: ""
+  output: Respective Controlling Officer not below E-3
+
+- instruction: Who approves earned leave requests?
+  input: ""
+  output: Respective Controlling Officer not below E-3
+
+- instruction: Which officer can approve EL for executives and non-executives?
+  input: ""
+  output: Respective Controlling Officer not below E-3
+
+- instruction: Who can grant earned leave to staff?
+  input: ""
+  output: Respective Controlling Officer not below E-3
+
+- instruction: Who approves commuted leave requests?
+  input: ""
+  output: Respective Controlling Officer not below E-3
+
+- instruction: Who is responsible for sanctioning commuted leave?
+  input: ""
+  output: Respective Controlling Officer not below E-3
+
+- instruction: Which officer sanctions leave on medical certificate?
+  input: ""
+  output: Respective Controlling Officer not below E-3
+
+- instruction: Who grants half-pay or commuted leave?
+  input: ""
+  output: Respective Controlling Officer not below E-3
+
+- instruction: Who manages commuted leave processing?
+  input: ""
+  output: Respective Controlling Officer not below E-3
+
+- instruction: Are leave approvals governed by corporate rules?
+  input: ""
+  output: Yes, as per Leave Rules of the Corporation
+
+- instruction: Is earned leave sanctioned under specific leave rules?
+  input: ""
+  output: Yes
+
+- instruction: Are commuted leave approvals subject to policy?
+  input: ""
+  output: Yes, Leave Rules apply
+
+- instruction: Do leave rules govern all types of leave sanctions?
+  input: ""
+  output: Yes
+
+- instruction: Is it mandatory to follow company leave rules?
+  input: ""
+  output: Yes
+
+- instruction: Can an E-2 officer sanction leave?
+  input: ""
+  output: No, minimum E-3
+
+- instruction: What is the minimum grade required to be a controlling officer for leave?
+  input: ""
+  output: E-3
+
+- instruction: Can leave be approved by a controlling officer below E-3?
+  input: ""
+  output: No
+
+- instruction: Does the clause specify minimum rank for leave authority?
+  input: ""
+  output: Yes
+
+- instruction: Is the E-3 level a required threshold for sanctioning leave?
+  input: ""
+  output: Yes
+
+- instruction: Can EL be denied without proper justification?
+  input: ""
+  output: No, must be as per rules
+
+- instruction: Are leave types limited to earned and commuted?
+  input: ""
+  output: No, other types governed by rules may apply
+
+- instruction: Can leave be sanctioned without a formal application?
+  input: ""
+  output: No
+
+- instruction: Does HR play a role in standard leave sanctioning?
+  input: ""
+  output: No, responsibility lies with the controlling officer
+
+- instruction: Are leave approvals automatically processed?
+  input: ""
+  output: No, require officer action
+
+- instruction: Is there a specific process for leave sanctioning?
+  input: "" 
+  output: Yes, as per Leave Rules of the Corporation- instruction: Who accepts resignation of executives E-7 and above?
+  input: ""
+  output: CMD
+
+- instruction: Who is responsible for accepting resignations from senior executives?
+  input: ""
+  output: CMD
+
+- instruction: Who has authority to approve resignation for grade E-7 and higher?
+  input: ""
+  output: CMD
+
+- instruction: Who must approve resignation of top-level officers?
+  input: ""
+  output: CMD
+
+- instruction: Who handles resignation acceptance for E-7 grade executives?
+  input: ""
+  output: CMD
+
+- instruction: Who can accept resignation of executives in grades E-5 and E-6?
+  input: ""
+  output: Director
+
+- instruction: Who has power to approve resignation for mid-level executives?
+  input: ""
+  output: Director
+
+- instruction: Who clears resignation letters for E-5 and E-6?
+  input: ""
+  output: Director
+
+- instruction: Who is the accepting authority for resignation of grade E-5 to E-6 employees?
+  input: ""
+  output: Director
+
+- instruction: Who signs off resignation of employees in mid-management?
+  input: ""
+  output: Director
+
+- instruction: Who accepts resignation of E-1 to E-4 grade employees?
+  input: ""
+  output: HOP/HOD not below E-6
+
+- instruction: Who is authorized to handle resignation from junior executives?
+  input: ""
+  output: HOP/HOD not below E-6
+
+- instruction: Who handles exit formalities for E-1 to E-4 grade resignations?
+  input: ""
+  output: HOP/HOD not below E-6
+
+- instruction: Who clears resignation of employees in lower executive grades?
+  input: ""
+  output: HOP/HOD not below E-6
+
+- instruction: Who is responsible for accepting resignation of junior executives?
+  input: ""
+  output: HOP/HOD not below E-6
+
+- instruction: Who approves resignation of non-executives?
+  input: ""
+  output: HOD(HR) not below E-6
+
+- instruction: Who processes non-executive resignation acceptance?
+  input: ""
+  output: HOD(HR) not below E-6
+
+- instruction: Which HR officer is authorized to accept resignation from non-executives?
+  input: ""
+  output: HOD(HR) not below E-6
+
+- instruction: Who clears resignation for supporting staff in non-executive roles?
+  input: ""
+  output: HOD(HR) not below E-6
+
+- instruction: What is the minimum grade required to approve resignation for non-executives?
+  input: ""
+  output: E-6
+
+- instruction: Are resignation acceptances subject to terms of appointment?
+  input: ""
+  output: Yes
+
+- instruction: Must resignations follow conditions mentioned in the appointment letter?
+  input: ""
+  output: Yes
+
+- instruction: Can resignation be accepted without referring to the appointment terms?
+  input: ""
+  output: No
+
+- instruction: Is HR responsible for processing resignation once accepted?
+  input: ""
+  output: Yes
+
+- instruction: Who manages formalities and documentation post resignation approval?
+  input: ""
+  output: HR Department
+- instruction: Who grants permission to apply for outside jobs for executives E-7 and above?
+  input: ""
+  output: CMD
+
+- instruction: Who can authorize executives of grade E-7 and above to apply elsewhere?
+  input: ""
+  output: CMD
+
+- instruction: Who must approve external job applications for top executives?
+  input: ""
+  output: CMD
+
+- instruction: Who has authority to permit E-7+ employees to apply for other jobs?
+  input: ""
+  output: CMD
+
+- instruction: Who processes requests to apply for jobs outside the organization for E-7+ grades?
+  input: ""
+  output: CMD
+
+- instruction: Who authorizes E-5 and E-6 executives to apply for external positions?
+  input: ""
+  output: Director
+
+- instruction: Who can grant permission for mid-level executives to apply for jobs elsewhere?
+  input: ""
+  output: Director
+
+- instruction: Who approves job application permission for E-5 to E-6 employees?
+  input: ""
+  output: Director
+
+- instruction: Who signs approvals for outside applications for executives in E-5 or E-6?
+  input: ""
+  output: Director
+
+- instruction: Who clears external application requests from employees in mid-management grades?
+  input: ""
+  output: Director
+
+- instruction: Who can approve external job applications from employees in grades E-1 to E-4?
+  input: ""
+  output: HOP/HOD not below E-6
+
+- instruction: Who handles permission to apply for posts outside for junior executives?
+  input: ""
+  output: HOP/HOD not below E-6
+
+- instruction: Who has authority to approve external job applications from junior-level staff?
+  input: ""
+  output: HOP/HOD not below E-6
+
+- instruction: Who processes applications to seek jobs elsewhere for employees in E-1 to E-4?
+  input: ""
+  output: HOP/HOD not below E-6
+
+- instruction: Who signs off on permissions for E-1 to E-4 employees to apply outside?
+  input: ""
+  output: HOP/HOD not below E-6
+
+- instruction: Who approves permission to apply for jobs outside in case of non-executives?
+  input: ""
+  output: HOD(HR) not below E-6
+
+- instruction: Who clears applications to seek external posts from non-executive staff?
+  input: ""
+  output: HOD(HR) not below E-6
+
+- instruction: What grade must HR be to approve external job application for non-executives?
+  input: ""
+  output: Not below E-6
+
+- instruction: Who signs permission to apply for other jobs for support staff?
+  input: ""
+  output: HOD(HR) not below E-6
+
+- instruction: Who authorizes non-executive employees to seek opportunities elsewhere?
+  input: ""
+  output: HOD(HR) not below E-6
+
+- instruction: Is permission to apply outside subject to organizational interest?
+  input: ""
+  output: Yes
+
+- instruction: Can an employee in training apply for jobs outside?
+  input: ""
+  output: No
+
+- instruction: Are employees under bond eligible to apply for external jobs?
+  input: ""
+  output: No
+
+- instruction: Does company interest affect permission to apply outside?
+  input: ""
+  output: Yes
+
+- instruction: Can permission be granted if it goes against organizational interest?
+  input: ""
+  output: No
+- instruction: Is there a formal process for applying to posts elsewhere?
+  input: ""
+  output: Yes, as per the organization's policy- instruction: Who accepts voluntary retirement notices for executives E-7 and above?
+  input: ""
+  output: CMD
+
+- instruction: Who has the authority to approve voluntary retirement for E-7 and higher?
+  input: ""
+  output: CMD
+
+- instruction: Who signs off on voluntary retirement for senior executives?
+  input: ""
+  output: CMD
+
+- instruction: Who can accept retirement applications from E-7+ employees?
+  input: ""
+  output: CMD
+
+- instruction: Who approves notices of voluntary retirement for grade E-7 and above?
+  input: ""
+  output: CMD
+
+- instruction: Who approves voluntary retirement for executives in E-5 and E-6?
+  input: ""
+  output: Director
+
+- instruction: Who accepts VR notices for mid-management levels?
+  input: ""
+  output: Director
+
+- instruction: Who can accept retirement notices from executives in E-5 to E-6?
+  input: ""
+  output: Director
+
+- instruction: Who is responsible for authorizing retirement of E-5 and E-6 employees?
+  input: ""
+  output: Director
+
+- instruction: Who processes E-5/E-6 retirement cases?
+  input: ""
+  output: Director
+
+- instruction: Who accepts VR notices for E-1 to E-4 employees?
+  input: ""
+  output: HOP/HOD not below E-6
+
+- instruction: Who has authority to approve voluntary retirement from junior executives?
+  input: ""
+  output: HOP/HOD not below E-6
+
+- instruction: Who handles retirement cases for employees in grades E-1 through E-4?
+  input: ""
+  output: HOP/HOD not below E-6
+
+- instruction: Who signs off on VR cases for lower-level executives?
+  input: ""
+  output: HOP/HOD not below E-6
+
+- instruction: Who accepts VR applications of E-1 to E-4 employees?
+  input: ""
+  output: HOP/HOD not below E-6
+
+- instruction: Who approves voluntary retirement in case of non-executives?
+  input: ""
+  output: HOD(HR) not below E-6
+
+- instruction: Who clears retirement notices from non-executive employees?
+  input: ""
+  output: HOD(HR) not below E-6
+
+- instruction: What HR level is required to accept VR for non-executives?
+  input: ""
+  output: Not below E-6
+
+- instruction: Who processes voluntary retirement for supporting staff?
+  input: ""
+  output: HOD(HR) not below E-6
+
+- instruction: Who is authorized to act on VR requests from non-executives?
+  input: ""
+  output: HOD(HR) not below E-6
+
+- instruction: Are voluntary retirement approvals subject to rules?
+  input: ""
+  output: Yes
+
+- instruction: Must eligibility be verified before accepting VR?
+  input: ""
+  output: Yes
+
+- instruction: Is HR responsible for processing VR cases?
+  input: ""
+  output: Yes
+
+- instruction: Can VR be accepted without verifying eligibility?
+  input: ""
+  output: No
+
+- instruction: Are retirement applications subject to corporate VR policy?
+  input: ""
+  output: Yes
+- instruction: Who processes voluntary retirement applications in the HR department?
+  input: ""
+  output: HR Department- instruction: Who has the authority to waive bond money for executives E-7 and above?
+  input: ""
+  output: CMD
+
+- instruction: Who can approve bond waiver for E-7 and higher grade employees?
+  input: ""
+  output: CMD
+
+- instruction: Who is empowered to waive recovery of bond amount from senior executives?
+  input: ""
+  output: CMD
+
+- instruction: Who decides on waiver of bond obligation for top executives?
+  input: ""
+  output: CMD
+
+- instruction: Who signs off bond money waiver for employees in E-7 grade and above?
+  input: ""
+  output: CMD
+
+- instruction: Who can waive bond recovery for E-5 and E-6 level employees?
+  input: ""
+  output: Director
+
+- instruction: Who is the competent authority for bond waiver in case of mid-level executives?
+  input: ""
+  output: Director
+
+- instruction: Who approves bond waiver requests from employees in grades E-5 and E-6?
+  input: ""
+  output: Director
+
+- instruction: Who clears requests to waive bond amount for E-5 and E-6?
+  input: ""
+  output: Director
+
+- instruction: Who handles bond waiver cases for employees in middle management?
+  input: ""
+  output: Director
+
+- instruction: Who can waive recovery of bond amount for grades E-1 to E-4?
+  input: ""
+  output: HOP/HOD not below E-6
+
+- instruction: Who approves bond waiver for junior executives?
+  input: ""
+  output: HOP/HOD not below E-6
+
+- instruction: What is the authority level required to waive bond amount for E-1 to E-4?
+  input: ""
+  output: HOP/HOD not below E-6
+
+- instruction: Who is responsible for approving waiver of bond terms for lower grade executives?
+  input: ""
+  output: HOP/HOD not below E-6
+
+- instruction: Who clears bond money waiver requests for junior executive grades?
+  input: ""
+  output: HOP/HOD not below E-6
+
+- instruction: Who approves waiver of bond amount for non-executives?
+  input: ""
+  output: HOD(HR) not below E-6
+
+- instruction: What grade is required to waive bond amount in case of non-executive staff?
+  input: ""
+  output: HOD(HR) not below E-6
+
+- instruction: Who signs off on bond waiver for non-executive employees?
+  input: ""
+  output: HOD(HR) not below E-6
+
+- instruction: Who has authority for waiving bond recovery for support staff?
+  input: ""
+  output: HOD(HR) not below E-6
+
+- instruction: Who handles non-executive bond waiver cases?
+  input: ""
+  output: HOD(HR) not below E-6
+
+- instruction: Can bond amount be waived without justification?
+  input: ""
+  output: No
+
+- instruction: Is waiver of bond recovery allowed only in exceptional cases?
+  input: ""
+  output: Yes
+
+- instruction: Is proper record maintenance required for waiving bond obligations?
+  input: ""
+  output: Yes
+
+- instruction: Does HR process and maintain records for bond waivers?
+  input: ""
+  output: Yes
+
+- instruction: Can bond be waived without HR processing?
+  input: ""
+  output: No
+- instruction: Is justification required for waiving bond money?
+  input: ""
+  output: Yes- instruction: Who grants permission to pursue higher studies for E-7 and above?
+  input: ""
+  output: CMD
+
+- instruction: Who approves academic courses for senior executives?
+  input: ""
+  output: CMD
+
+- instruction: Who can approve part-time education for E-7 and above employees?
+  input: ""
+  output: CMD
+
+- instruction: Who authorizes higher study requests from top-grade executives?
+  input: ""
+  output: CMD
+
+- instruction: Who sanctions learning proposals for top-level staff?
+  input: ""
+  output: CMD
+
+- instruction: Who approves permission for higher studies for grades E-5 and E-6?
+  input: ""
+  output: Director
+
+- instruction: Who handles academic permission for mid-level executives?
+  input: ""
+  output: Director
+
+- instruction: Who is authorized to allow E-5 and E-6 officers to study part-time?
+  input: ""
+  output: Director
+
+- instruction: Who clears part-time education requests from E-5/E-6 staff?
+  input: ""
+  output: Director
+
+- instruction: Who grants study permission to middle management executives?
+  input: ""
+  output: Director
+
+- instruction: Who approves education plans for grades E-1 to E-4?
+  input: ""
+  output: HOP/HOD not below E-6
+
+- instruction: Who clears part-time study permission for junior executives?
+  input: ""
+  output: HOP/HOD not below E-6
+
+- instruction: What level is authorized to permit E-1 to E-4 employees for correspondence courses?
+  input: ""
+  output: HOP/HOD not below E-6
+
+- instruction: Who handles academic course permissions for lower-grade executives?
+  input: ""
+  output: HOP/HOD not below E-6
+
+- instruction: Who authorizes learning applications for junior executive grades?
+  input: ""
+  output: HOP/HOD not below E-6
+
+- instruction: Who permits part-time studies for non-executives?
+  input: ""
+  output: HOD(HR) not below E-6
+
+- instruction: Who signs education permission for support staff?
+  input: ""
+  output: HOD(HR) not below E-6
+
+- instruction: What HR level approves academic pursuits for non-executive employees?
+  input: ""
+  output: HOD(HR) not below E-6
+
+- instruction: Who can authorize higher education for non-executives?
+  input: ""
+  output: HOD(HR) not below E-6
+
+- instruction: Who is responsible for granting educational leave for non-executive staff?
+  input: ""
+  output: HOD(HR) not below E-6
+
+- instruction: Is higher study permission subject to work not being affected?
+  input: ""
+  output: Yes
+
+- instruction: Can educational pursuits be allowed if it disrupts work?
+  input: ""
+  output: No
+
+- instruction: Must official duties be unaffected for permission to be granted?
+  input: ""
+  output: Yes
+
+- instruction: Is HR responsible for processing educational permissions?
+  input: ""
+  output: Yes
+
+- instruction: Are higher study permissions routed through HR?
+  input: ""
+  output: Yes
+- instruction: Can part-time studies be pursued without HR approval?
+  input: ""
+  output: No- instruction: Who approves full-time higher study for executives in grade E-7 and above?
+  input: ""
+  output: CMD
+
+- instruction: Who can allow full-time study leave for E-7 and above?
+  input: ""
+  output: CMD
+
+- instruction: Who is the competent authority to permit full-time study for senior executives?
+  input: ""
+  output: CMD
+
+- instruction: Who sanctions full-time study requests for top management?
+  input: ""
+  output: CMD
+
+- instruction: Who handles education approvals for E-7 and above in full-time mode?
+  input: ""
+  output: CMD
+
+- instruction: Who permits full-time higher studies for executives in grades E-5 and E-6?
+  input: ""
+  output: Director
+
+- instruction: Who approves full-time educational leave for E-5/E-6 employees?
+  input: ""
+  output: Director
+
+- instruction: Who authorizes E-5 and E-6 employees to pursue full-time education?
+  input: ""
+  output: Director
+
+- instruction: Who grants study approval for mid-management (E-5 to E-6) employees?
+  input: ""
+  output: Director
+
+- instruction: Who is responsible for sanctioning full-time education in E-5 to E-6 grades?
+  input: ""
+  output: Director
+
+- instruction: Who grants full-time study leave to executives from E-1 to E-4?
+  input: ""
+  output: HOP/HOD not below E-6
+
+- instruction: Who approves full-time education plans for junior executives?
+  input: ""
+  output: HOP/HOD not below E-6
+
+- instruction: Who has authority to allow full-time courses for E-1–E-4 staff?
+  input: ""
+  output: HOP/HOD not below E-6
+
+- instruction: Who clears full-time academic requests for lower executives?
+  input: ""
+  output: HOP/HOD not below E-6
+
+- instruction: Who signs off full-time higher education leave for entry-level executives?
+  input: ""
+  output: HOP/HOD not below E-6
+
+- instruction: Who approves full-time higher study permission for non-executives?
+  input: ""
+  output: HOD(HR) not below E-6
+
+- instruction: Who clears non-executive full-time study cases?
+  input: ""
+  output: HOD(HR) not below E-6
+
+- instruction: What HR authority approves full-time academic leave for non-executives?
+  input: ""
+  output: HOD(HR) not below E-6
+
+- instruction: Who grants full-time study permission for support staff?
+  input: ""
+  output: HOD(HR) not below E-6
+
+- instruction: Who handles full-time education approvals for non-executives?
+  input: ""
+  output: HOD(HR) not below E-6
+
+- instruction: Is leave during full-time studies paid?
+  input: ""
+  output: No, Leave Without Pay
+
+- instruction: Are full-time study periods treated as deputation?
+  input: ""
+  output: No
+
+- instruction: Is full-time education allowed only as per rules?
+  input: ""
+  output: Yes
+
+- instruction: Can full-time education be pursued without formal approval?
+  input: ""
+  output: No
+
+- instruction: Does the company grant paid leave for full-time study?
+  input: ""
+  output: No
+- instruction: Is full-time study leave subject to company policies?
+  input: ""
+  output: Yes- instruction: Who is responsible for forming a medical board for fitness examination?
+  input: ""
+  output: CMO
+
+- instruction: Who has the authority to constitute the medical board for new appointees?
+  input: ""
+  output: CMO
+
+- instruction: Who can organize medical fitness boards for recruitment?
+  input: ""
+  output: CMO
+
+- instruction: Who approves medical examination arrangements for employee recruitment?
+  input: ""
+  output: CMO
+
+- instruction: Who takes decisions on constitution of medical boards in recruitment?
+  input: ""
+  output: CMO
+
+- instruction: Who initiates the formation of medical boards during hiring?
+  input: ""
+  output: CMO
+
+- instruction: Who heads the authority to examine medical fitness of new employees?
+  input: ""
+  output: CMO
+
+- instruction: Who decides if a new recruit must undergo a medical board exam?
+  input: ""
+  output: CMO
+
+- instruction: Who is tasked with establishing medical boards for fitness evaluation?
+  input: ""
+  output: CMO
+
+- instruction: Who is responsible for setting up a fitness examination board for recruits?
+  input: ""
+  output: CMO
+
+- instruction: Who has full powers to create a board for health verification of new appointees?
+  input: ""
+  output: CMO
+
+- instruction: Who can constitute the medical board during recruitment drives?
+  input: ""
+  output: CMO
+
+- instruction: Who determines the composition of medical boards for recruitment fitness?
+  input: ""
+  output: CMO
+
+- instruction: Whose approval is needed to form a recruitment medical board?
+  input: ""
+  output: CMO
+
+- instruction: Who is accountable for arranging medical fitness boards?
+  input: ""
+  output: CMO
+
+- instruction: Who is empowered to constitute medical fitness panels for new joiners?
+  input: ""
+  output: CMO
+
+- instruction: Which officer is in charge of organizing health checks before appointments?
+  input: ""
+  output: CMO
+
+- instruction: Who coordinates the formation of medical boards under DOP Clause 2?
+  input: ""
+  output: CMO
+
+- instruction: Who is the decision-maker in establishing a board for employee medical checks?
+  input: ""
+  output: CMO
+
+- instruction: In NEEPCO, who forms the medical board to evaluate fitness for service?
+  input: ""
+  output: CMO
+- instruction: Who can approve expenditure for recruitment activities?
+  input: ""
+  output: D(P) or HOD (HR) not below E-8
+
+- instruction: Who is authorized to sanction DPC-related expenses?
+  input: ""
+  output: D(P) or HOD (HR) not below E-8
+
+- instruction: Which official approves logistics costs for interviews?
+  input: ""
+  output: D(P) or HOD (HR) not below E-8
+
+- instruction: Who holds power to sanction event costs during promotions?
+  input: ""
+  output: D(P) or HOD (HR) not below E-8
+
+- instruction: Who can approve travel and venue expenses for a promotion panel?
+  input: ""
+  output: D(P) or HOD (HR) not below E-8
+
+- instruction: Who is responsible for funding arrangements of interview boards?
+  input: ""
+  output: D(P) or HOD (HR) not below E-8
+
+- instruction: Who ensures budget sanction for recruitment committee expenses?
+  input: ""
+  output: D(P) or HOD (HR) not below E-8
+
+- instruction: Who authorizes use of budget for recruitment drives?
+  input: ""
+  output: D(P) or HOD (HR) not below E-8
+
+- instruction: Which officer can approve expenses for promotion review?
+  input: ""
+  output: D(P) or HOD (HR) not below E-8
+
+- instruction: Who can clear funds for conducting DPC meetings?
+  input: ""
+  output: D(P) or HOD (HR) not below E-8
+
+- instruction: What is the financial authority limit for recruitment event costs?
+  input: ""
+  output: ₹2,00,000 per event
+
+- instruction: Can D(P) or HOD (HR) approve Rs. 1.5 lakh for an interview board?
+  input: ""
+  output: Yes
+
+- instruction: Is ₹2,00,000 the ceiling per recruitment event?
+  input: ""
+  output: Yes
+
+- instruction: Can this recruitment expenditure limit be exceeded?
+  input: ""
+  output: No
+
+- instruction: Who monitors financial propriety in recruitment event costs?
+  input: ""
+  output: D(P) or HOD (HR) not below E-8
+
+- instruction: Who signs off on promotion-related logistical expenses?
+  input: ""
+  output: D(P) or HOD (HR) not below E-8
+
+- instruction: Which officer approves accommodation and transport for DPC?
+  input: ""
+  output: D(P) or HOD (HR) not below E-8
+
+- instruction: Who ensures adherence to expense limits during recruitment?
+  input: ""
+  output: D(P) or HOD (HR) not below E-8
+
+- instruction: What official signs off on recruitment-related vendor payments?
+  input: ""
+  output: D(P) or HOD (HR) not below E-8
+
+- instruction: In recruitment and promotion events, who approves all related expenses?
+  input: ""
+  output: D(P) or HOD (HR) not below E-8- instruction: Who can approve joining date extensions for newly appointed executives?
+  input: ""
+  output: All Executives
+
+- instruction: Who approves delayed joining requests for executives?
+  input: ""
+  output: All Executives
+
+- instruction: Who has the authority to extend the joining time for executive recruits?
+  input: ""
+  output: All Executives
+
+- instruction: Who sanctions time extension for executives unable to join on the scheduled date?
+  input: ""
+  output: All Executives
+
+- instruction: Who is responsible for granting time extension for executive appointees?
+  input: ""
+  output: All Executives
+
+- instruction: Who approves joining time extension for non-executive employees?
+  input: ""
+  output: D(P) or HOD (HR) not below E-8
+
+- instruction: Who is authorized to grant more time for non-executives to join?
+  input: ""
+  output: D(P) or HOD (HR) not below E-8
+
+- instruction: Who deals with late joining requests from non-executives?
+  input: ""
+  output: D(P) or HOD (HR) not below E-8
+
+- instruction: Who handles extension of joining time for new non-executive appointments?
+  input: ""
+  output: D(P) or HOD (HR) not below E-8
+
+- instruction: Who approves grace period for non-executives unable to join on time?
+  input: ""
+  output: D(P) or HOD (HR) not below E-8
+
+- instruction: Is the extension of executive joining date under the power of any executive?
+  input: ""
+  output: Yes
+
+- instruction: Can any executive grant an extension for another executive’s joining time?
+  input: ""
+  output: Yes
+
+- instruction: Is consultation needed for executives’ joining time extension?
+  input: ""
+  output: No
+
+- instruction: Does D(P) approve joining extension for executives?
+  input: ""
+  output: No, it's handled by all executives
+
+- instruction: Who must approve a request for more time to join from a new junior assistant?
+  input: ""
+  output: D(P) or HOD (HR) not below E-8
+
+- instruction: If a non-executive cannot join within the time limit, who can approve delay?
+  input: ""
+  output: D(P) or HOD (HR) not below E-8
+
+- instruction: Can the HR head approve joining delays for non-executives?
+  input: ""
+  output: Yes, if they are E-8 or above
+
+- instruction: Who decides the extension of joining time for both executives and non-executives?
+  input: ""
+  output: Executives for Executives, D(P)/HOD(HR) for Non-Executives
+
+- instruction: Are powers for joining extension delegated to department heads?
+  input: ""
+  output: Only if HOD is E-8 or above (for Non-Executives)
+
+- instruction: Does this clause apply to new hires only?
+  input: ""
+  output: Yes- instruction: Who is responsible for approving travel allowance for candidates attending interviews?
+  input: ""
+  output: HOD (HR) not below E-8
+- instruction: Who has the authority to sanction travel allowance for candidates attending interviews?
+  input: "" 
+  output: HOD (HR) not below E-8
+- instruction: Who is authorized to approve travel allowance for candidates appearing for interviews?
+  input: ""
+  output: HOD (HR) not below E-8
+- instruction: Who approves travel allowance for candidates attending interviews?
+  input: ""
+  output: HOD (HR) not below E-8
+
+- instruction: Who can sanction TA for interviewees as per company rules?
+  input: ""
+  output: HOD (HR) not below E-8
+
+- instruction: Who has the authority to process TA claims of interview candidates?
+  input: ""
+  output: HOD (HR) not below E-8
+
+- instruction: Which officer is empowered to provide TA to job applicants appearing for interviews?
+  input: ""
+  output: HOD (HR) not below E-8
+
+- instruction: Who reimburses travel expenses of interview candidates?
+  input: ""
+  output: HOD (HR) not below E-8
+
+- instruction: What grade must the HOD (HR) be to approve TA?
+  input: ""
+  output: Not below E-8
+
+- instruction: Is there a minimum grade for HOD (HR) to approve travel expenses?
+  input: ""
+  output: Yes, E-8 or above
+
+- instruction: Can a HOD (HR) below E-8 approve TA for interviews?
+  input: ""
+  output: No
+
+- instruction: What is the grade restriction for sanctioning TA under Clause 5?
+  input: ""
+  output: Minimum E-8 grade
+
+- instruction: Is grade level important when approving TA for interview candidates?
+  input: ""
+  output: Yes, must be E-8 or above
+
+- instruction: Are TA payments guided by any policy?
+  input: ""
+  output: Yes, TA Rules
+
+- instruction: Under which rules is TA granted to candidates?
+  input: ""
+  output: As per TA Rules
+
+- instruction: Are TA claims to be processed as per internal company travel policy?
+  input: ""
+  output: Yes, TA Rules
+
+- instruction: Is reimbursement for interview travel expenses regulated by TA Rules?
+  input: ""
+  output: Yes
+
+- instruction: Do interview candidates receive travel allowance according to a defined policy?
+  input: ""
+  output: Yes, TA Rules
+
+- instruction: Is HOD (HR) the sole approving authority for TA reimbursements?
+  input: ""
+  output: Yes, if not below E-8
+
+- instruction: Can TA be granted without adherence to TA rules?
+  input: ""
+  output: No
+
+- instruction: Are TA Rules mandatory for all candidate reimbursements?
+  input: ""
+  output: Yes
+
+- instruction: Is consultation needed for TA sanction?
+  input: ""
+  output: No, HOD (HR) not below E-8 has full powers
+
+- instruction: Who approves TA claims independently under this clause?
+  input: ""
+  output: HOD (HR) not below E-8
+
+
+- instruction: Who approves probation clearance for executives in grade E-8 to E-9?
+  input: ""
+  output: CMD
+
+- instruction: Who has the authority to approve successful probation for executives E-8 and E-9?
+  input: ""
+  output: CMD
+
+- instruction: Which official confirms completion of probation for E-8 to E-9 executives?
+  input: ""
+  output: CMD
+
+- instruction: Who is responsible for approving probation of senior executives (E-8 and above)?
+  input: ""
+  output: CMD
+
+- instruction: Who finalizes successful probation status for E-8 to E-9 employees?
+  input: ""
+  output: CMD
+
+- instruction: Who approves the probation for executives in grades E-5 to E-7?
+  input: ""
+  output: Director
+
+- instruction: Who holds authority for approving probation period of executives up to E-7?
+  input: ""
+  output: Director
+
+- instruction: Who issues orders for probation completion of E-5 to E-7 employees?
+  input: ""
+  output: Director
+
+- instruction: Which officer validates the end of probation for E-5 to E-7?
+  input: ""
+  output: Director
+
+- instruction: Who confirms satisfactory completion of probation for mid-level executives?
+  input: ""
+  output: Director
+
+- instruction: Who is empowered to approve probation for executives in E-1 to E-4 grade?
+  input: ""
+  output: Concerned HOP/HOD not below E-8
+
+- instruction: Which authority deals with probation approval for lower executives?
+  input: ""
+  output: Concerned HOP/HOD not below E-8
+
+- instruction: Who must approve successful probation for entry-level executives?
+  input: ""
+  output: Concerned HOP/HOD not below E-8
+
+- instruction: Who signs off on probation for E-1 to E-4 employees?
+  input: ""
+  output: Concerned HOP/HOD not below E-8
+
+- instruction: Who approves probation for non-executives?
+  input: ""
+  output: Concerned HOP/HOD not below E-8
+
+- instruction: Who can extend probation period for any employee?
+  input: ""
+  output: CMD, Director or Concerned HOP/HOD depending on grade
+
+- instruction: Can probation be extended based on performance?
+  input: ""
+  output: Yes
+
+- instruction: Are HR orders necessary to formalize probation approval or extension?
+  input: ""
+  output: Yes, issued by HR Department
+
+- instruction: Who issues the official orders for probation approval?
+  input: ""
+  output: HR Department
+
+- instruction: Is HR responsible for documenting probation approvals?
+  input: ""
+  output: Yes
+
+
+- instruction: Who approves probation clearance for executives in grade E-8 to E-9?
+  input: ""
+  output: CMD
+
+- instruction: Who has the authority to approve successful probation for executives E-8 and E-9?
+  input: ""
+  output: CMD
+
+- instruction: Which official confirms completion of probation for E-8 to E-9 executives?
+  input: ""
+  output: CMD
+
+- instruction: Who is responsible for approving probation of senior executives (E-8 and above)?
+  input: ""
+  output: CMD
+
+- instruction: Who finalizes successful probation status for E-8 to E-9 employees?
+  input: ""
+  output: CMD
+
+- instruction: Who approves the probation for executives in grades E-5 to E-7?
+  input: ""
+  output: Director
+
+- instruction: Who holds authority for approving probation period of executives up to E-7?
+  input: ""
+  output: Director
+
+- instruction: Who issues orders for probation completion of E-5 to E-7 employees?
+  input: ""
+  output: Director
+
+- instruction: Which officer validates the end of probation for E-5 to E-7?
+  input: ""
+  output: Director
+
+- instruction: Who confirms satisfactory completion of probation for mid-level executives?
+  input: ""
+  output: Director
+
+- instruction: Who is empowered to approve probation for executives in E-1 to E-4 grade?
+  input: ""
+  output: Concerned HOP/HOD not below E-8
+
+- instruction: Which authority deals with probation approval for lower executives?
+  input: ""
+  output: Concerned HOP/HOD not below E-8
+
+- instruction: Who must approve successful probation for entry-level executives?
+  input: ""
+  output: Concerned HOP/HOD not below E-8
+
+- instruction: Who signs off on probation for E-1 to E-4 employees?
+  input: ""
+  output: Concerned HOP/HOD not below E-8
+
+- instruction: Who approves probation for non-executives?
+  input: ""
+  output: Concerned HOP/HOD not below E-8
+
+- instruction: Who can extend probation period for any employee?
+  input: ""
+  output: CMD, Director or Concerned HOP/HOD depending on grade
+
+- instruction: Can probation be extended based on performance?
+  input: ""
+  output: Yes
+
+- instruction: Are HR orders necessary to formalize probation approval or extension?
+  input: ""
+  output: Yes, issued by HR Department
+
+- instruction: Who issues the official orders for probation approval?
+  input: ""
+  output: HR Department
+
+- instruction: Is HR responsible for documenting probation approvals?
+  input: ""
+  output: Yes
+
+# Clause 7 - Termination during Probation
+# Authority: D(P) in consultation with FD
+# Remarks: Orders to be issued by HR Department
+
+- instruction: Who can terminate a probationer due to unsatisfactory performance?
+  input: ""
+  output: D(P) in consultation with FD
+
+- instruction: Who is authorized to end service during probation if performance is poor?
+  input: ""
+  output: D(P) in consultation with FD
+
+- instruction: Who holds the authority to dismiss an employee during probation?
+  input: ""
+  output: D(P) in consultation with FD
+
+- instruction: Who is empowered to terminate a recruit's service if probation is not cleared?
+  input: ""
+  output: D(P) in consultation with FD
+
+- instruction: Who can decide to end employment of a probationary employee?
+  input: ""
+  output: D(P) in consultation with FD
+
+- instruction: Is consultation with Finance Director required for terminating a probationer?
+  input: ""
+  output: Yes
+
+- instruction: Does the Director (Personnel) need to consult FD before ending probation?
+  input: ""
+  output: Yes
+
+- instruction: Can D(P) act alone in termination during probation?
+  input: ""
+  output: No
+
+- instruction: Is it mandatory to consult FD for probation terminations?
+  input: ""
+  output: Yes
+
+- instruction: Is approval from both D(P) and FD required to terminate probation?
+  input: ""
+  output: Yes
+
+- instruction: Who issues the final order for termination of a probationer?
+  input: ""
+  output: HR Department
+
+- instruction: Which department is responsible for processing probation terminations?
+  input: ""
+  output: HR Department
+
+- instruction: Who documents and issues termination orders for failed probation?
+  input: ""
+  output: HR Department
+
+- instruction: Are termination orders during probation issued by HR?
+  input: ""
+  output: Yes
+
+- instruction: Which department executes the termination approved by D(P) and FD?
+  input: ""
+  output: HR Department
+
+- instruction: Can an employee be removed from service if they fail probation?
+  input: ""
+  output: Yes
+
+- instruction: Is poor performance during probation grounds for termination?
+  input: ""
+  output: Yes
+
+- instruction: Is service termination possible during the probation period?
+  input: ""
+  output: Yes
+
+- instruction: Does Clause 7 deal with probationary performance issues?
+  input: ""
+  output: Yes
+
+- instruction: Does HR play a role in executing termination decisions during probation?
+  input: ""
+  output: Yes
+
+- instruction: Can only HR issue termination letters after approval from D(P) and FD?
+  input: ""
+  output: Yes
+
+- instruction: Is termination during probation a delegated authority?
+  input: ""
+  output: Yes, to D(P) in consultation with FD
+
+- instruction: Can termination under this clause be done without HR involvement?
+  input: ""
+  output: No
+
+- instruction: Does the Finance Director play a role in probation terminations?
+  input: ""
+  output: Yes
+
+- instruction: Is the clause applicable for both executives and non-executives?
+  input: ""
+  output: Yes
+- instruction: Who approves deputation appointments for employees in E-8 and above?
+  input: ""
+  output: CMD
+
+- instruction: Who is responsible for approving deputation of senior executives?
+  input: ""
+  output: CMD
+
+- instruction: Which officer approves deputation for top-grade executives?
+  input: ""
+  output: CMD
+
+- instruction: Who can authorize deputation for employees in grade E-8 and higher?
+  input: ""
+  output: CMD
+
+- instruction: Who sanctions deputation for top management level?
+  input: ""
+  output: CMD
+
+- instruction: Who approves deputation of employees in grades E-5 to E-7?
+  input: ""
+  output: Director
+
+- instruction: Who has authority to allow deputation for mid-level executives?
+  input: ""
+  output: Director
+
+- instruction: Who signs deputation approval for executives in E-5, E-6, or E-7?
+  input: ""
+  output: Director
+
+- instruction: Who clears deputation movement for middle management?
+  input: ""
+  output: Director
+
+- instruction: Who approves transfer on deputation for executives between E-5 and E-7?
+  input: ""
+  output: Director
+
+- instruction: Who can approve deputation for employees from E-1 to E-4?
+  input: ""
+  output: Concerned HOP/HOD not below E-8
+
+- instruction: Who manages deputation permissions for junior executives?
+  input: ""
+  output: Concerned HOP/HOD not below E-8
+
+- instruction: Who signs deputation files for E-1 to E-4 level employees?
+  input: ""
+  output: Concerned HOP/HOD not below E-8
+
+- instruction: Who authorizes deputation for non-executive staff?
+  input: ""
+  output: Concerned HOP/HOD not below E-8
+
+- instruction: Who can approve lower-grade deputation cases?
+  input: ""
+  output: Concerned HOP/HOD not below E-8
+
+- instruction: Should all deputation proposals be routed through HR?
+  input: ""
+  output: Yes
+
+- instruction: Is HR involvement mandatory in deputation cases?
+  input: ""
+  output: Yes
+
+- instruction: Do deputation requests require HR department routing?
+  input: ""
+  output: Yes
+
+- instruction: Can a deputation be approved without routing through HR?
+  input: ""
+  output: No
+
+- instruction: Who coordinates deputation processing across departments?
+  input: ""
+  output: HR Department
+
+- instruction: Is the routing of deputation files centralised?
+  input: ""
+  output: Yes, via HR
+
+- instruction: Who must handle documentation and communication of deputation?
+  input: ""
+  output: HR Department
+
+- instruction: Are all deputation cases subject to internal HR procedures?
+  input: ""
+  output: Yes
+
+- instruction: Does HR provide clearance for initiating deputation?
+  input: ""
+  output: Yes
+
+- instruction: Is this clause applicable across all executive and non-executive levels?
+  input: ""
+  output: Yes
+
+- instruction: Who is authorized to fix pay for newly appointed executives?
+  input: ""
+  output: Concerned HR Officer not below E-4
+
+- instruction: What grade must an HR officer be to fix pay for executives on first appointment?
+  input: ""
+  output: E-4 or above
+
+- instruction: Who handles initial pay fixation for executive-level appointees?
+  input: ""
+  output: HR Officer not below E-4
+
+- instruction: Which HR authority finalizes first pay of new executives?
+  input: ""
+  output: HR Officer not below E-4
+
+- instruction: Who processes salary fixation for executives joining the company?
+  input: ""
+  output: HR Officer not below E-4
+
+- instruction: Who fixes pay for new non-executive appointments?
+  input: ""
+  output: Concerned HR Officer not below E-2
+
+- instruction: Which HR official is responsible for pay fixation of non-executive recruits?
+  input: ""
+  output: HR Officer not below E-2
+
+- instruction: Who is delegated to handle pay determination for non-executives?
+  input: ""
+  output: HR Officer not below E-2
+
+- instruction: Who is accountable for deciding initial salary for non-executive employees?
+  input: ""
+  output: HR Officer not below E-2
+
+- instruction: Which HR grade level is minimum for pay processing in non-executive recruitment?
+  input: ""
+  output: E-2
+
+- instruction: Is pay fixation guided by specific pay rules?
+  input: ""
+  output: Yes, as per pay rules
+
+- instruction: Are initial pay decisions to follow company pay rules?
+  input: ""
+  output: Yes
+
+- instruction: Are pay rules mandatory for fixing salaries of new recruits?
+  input: ""
+  output: Yes
+
+- instruction: Can an HR officer bypass pay rules while fixing pay?
+  input: ""
+  output: No
+
+- instruction: Are executive and non-executive pay fixation governed by different grade-level authorities?
+  input: ""
+  output: Yes
+
+- instruction: Is finance department required to verify pay fixation?
+  input: ""
+  output: Yes
+
+- instruction: Does the finance department vet all pay fixation cases?
+  input: ""
+  output: Yes
+
+- instruction: Who verifies the correctness of initial pay fixation?
+  input: ""
+  output: Finance Department
+
+- instruction: Is pay fixation subject to financial vetting?
+  input: ""
+  output: Yes
+
+- instruction: Can HR finalize pay without finance vetting?
+  input: ""
+  output: No
+
+- instruction: Are all pay fixation cases routed through finance for vetting?
+  input: ""
+  output: Yes
+
+- instruction: Can E-3 grade HR officer fix executive pay?
+  input: ""
+  output: No, minimum E-4 required
+
+- instruction: Can an E-1 grade HR officer fix pay for new non-executives?
+  input: ""
+  output: No, minimum E-2 required
+
+- instruction: Who must approve executive pay fixation before finance vetting?
+  input: ""
+  output: HR Officer not below E-4
+
+- instruction: Does Clause 9 apply to first-time appointments only?
+  input: ""
+  output: Yes
+- instruction: What page number marks the first page of Section II?
+  input: ""
+  output: Page 43
+
+- instruction: Section II starts from which page?
+  input: ""
+  output: Page 43
+
+- instruction: The start of Personnel Powers is recorded on which page?
+  input: ""
+  output: Page 43
+
+- instruction: Where in the PDF does Section II begin?
+  input: ""
+  output: Page 43
+
+- instruction: From what page does Section II (Personnel Powers) commence?
+  input: ""
+  output: Page 43
+
+- instruction: Section II ends on what page?
+  input: ""
+  output: Page 45
+
+- instruction: What is the final page for Section II?
+  input: ""
+  output: Page 45
+
+- instruction: Where does Section II conclude?
+  input: ""
+  output: Page 45
+
+- instruction: Up to which page is Section II documented?
+  input: ""
+  output: Page 45
+
+- instruction: Section II closes on which page?
+  input: ""
+  output: Page 45
+
+- instruction: On which page is Clause 1 found?
+  input: ""
+  output: Page 43
+
+- instruction: Clause 1 is documented on which page?
+  input: ""
+  output: Page 43
+
+- instruction: Where can I find Clause 1 in the DOP document?
+  input: ""
+  output: Page 43
+
+- instruction: What is the page location of Clause 1?
+  input: ""
+  output: Page 43
+
+- instruction: Which page lists Clause 1?
+  input: ""
+  output: Page 43
+
+- instruction: On which page is Clause 2 found?
+  input: ""
+  output: Page 43
+
+- instruction: Clause 2 is documented on which page?
+  input: ""
+  output: Page 43
+
+- instruction: Where can I find Clause 2 in the DOP document?
+  input: ""
+  output: Page 43
+
+- instruction: What is the page location of Clause 2?
+  input: ""
+  output: Page 43
+
+- instruction: Which page lists Clause 2?
+  input: ""
+  output: Page 43
+
+- instruction: Where is Clause 3 located in the PDF?
+  input: ""
+  output: Page 43
+
+- instruction: Clause 3 belongs to which page?
+  input: ""
+  output: Page 43
+
+- instruction: What is the page number for Clause 3?
+  input: ""
+  output: Page 43
+
+- instruction: On what page is Clause 3?
+  input: ""
+  output: Page 43
+
+- instruction: Clause 3 appears on which document page?
+  input: ""
+  output: Page 43
+
+- instruction: Which page contains Clause 4?
+  input: ""
+  output: Page 43
+
+- instruction: Where in the file is Clause 4 found?
+  input: ""
+  output: Page 43
+
+- instruction: Clause 4 is located on what page?
+  input: ""
+  output: Page 43
+
+- instruction: Clause 4 can be found on which page?
+  input: ""
+  output: Page 43
+
+- instruction: What document page shows Clause 4?
+  input: ""
+  output: Page 43
+
+- instruction: Clause 5 is recorded on which page?
+  input: ""
+  output: Page 43
+
+- instruction: What page does Clause 5 belong to?
+  input: ""
+  output: Page 43
+
+- instruction: Where is Clause 5 documented in the PDF?
+  input: ""
+  output: Page 43
+
+- instruction: Which page outlines Clause 5?
+  input: ""
+  output: Page 43
+
+- instruction: What is the page reference for Clause 5?
+  input: ""
+  output: Page 43
+
+- instruction: What is the page number for Clause 6?
+  input: ""
+  output: Page 43
+
+- instruction: Clause 6 appears on what page?
+  input: ""
+  output: Page 43
+
+- instruction: Where can Clause 6 be found?
+  input: ""
+  output: Page 43
+
+- instruction: Clause 6 belongs to which part of the document?
+  input: ""
+  output: Page 43
+
+- instruction: Clause 6 is included on which page?
+  input: ""
+  output: Page 43
+  - instruction: On which page is Clause 7 found?
+  input: ""
+  output: Page 43
+
+- instruction: Clause 7 is documented on which page?
+  input: ""
+  output: Page 43
+
+- instruction: Where can I find Clause 7 in the DOP document?
+  input: ""
+  output: Page 43
+
+- instruction: What is the page location of Clause 7?
+  input: ""
+  output: Page 43
+
+- instruction: Which page lists Clause 7?
+  input: ""
+  output: Page 43
+
+- instruction: Clause 8 is on which page?
+  input: ""
+  output: Page 43
+
+- instruction: What is the page number for Clause 8?
+  input: ""
+  output: Page 43
+
+- instruction: Clause 8 is recorded on what page?
+  input: ""
+  output: Page 43
+
+- instruction: Where can Clause 8 be found?
+  input: ""
+  output: Page 43
+
+- instruction: What document page includes Clause 8?
+  input: ""
+  output: Page 43
+
+- instruction: On which page is Clause 9 found?
+  input: ""
+  output: Page 43
+
+- instruction: Clause 9 appears on which page?
+  input: ""
+  output: Page 43
+
+- instruction: Where in the PDF can Clause 9 be located?
+  input: ""
+  output: Page 43
+
+- instruction: What is the location of Clause 9?
+  input: ""
+  output: Page 43
+
+- instruction: Clause 9 belongs to which page?
+  input: ""
+  output: Page 43
+
+- instruction: On which page does Clause 10 appear?
+  input: ""
+  output: Page 44
+
+- instruction: Clause 10 is documented on which page?
+  input: ""
+  output: Page 44
+
+- instruction: What is the page reference for Clause 10?
+  input: ""
+  output: Page 44
+
+- instruction: Where in the file is Clause 10 found?
+  input: ""
+  output: Page 44
+
+- instruction: What document page contains Clause 10?
+  input: ""
+  output: Page 44
+
+- instruction: Clause 11 appears on which page?
+  input: ""
+  output: Page 44
+
+- instruction: Clause 11 belongs to which page?
+  input: ""
+  output: Page 44
+
+- instruction: On what page is Clause 11 recorded?
+  input: ""
+  output: Page 44
+
+- instruction: Clause 11 can be found on which page?
+  input: ""
+  output: Page 44
+
+- instruction: Where in the DOP is Clause 11?
+  input: ""
+  output: Page 44
+
+- instruction: Clause 12 appears on what page?
+  input: ""
+  output: Page 44
+
+- instruction: What is the page number for Clause 12?
+  input: ""
+  output: Page 44
+
+- instruction: Where is Clause 12 found in the PDF?
+  input: ""
+  output: Page 44
+
+- instruction: What document page displays Clause 12?
+  input: ""
+  output: Page 44
+
+- instruction: On which page is Clause 12 included?
+  input: ""
+  output: Page 44
+
+- instruction: Clause 13 is on which page?
+  input: ""
+  output: Page 44
+
+- instruction: What is the page location of Clause 13?
+  input: ""
+  output: Page 44
+
+- instruction: Where is Clause 13 mentioned?
+  input: ""
+  output: Page 44
+
+- instruction: Which page in the document shows Clause 13?
+  input: ""
+  output: Page 44
+
+- instruction: Clause 13 can be found on what page?
+  input: ""
+  output: Page 44
+
+- instruction: Clause 14 is located on which page?
+  input: ""
+  output: Page 44
+
+- instruction: Where is Clause 14 in the document?
+  input: ""
+  output: Page 44
+
+- instruction: Clause 14 is documented on what page?
+  input: ""
+  output: Page 44
+
+- instruction: What is the PDF page number for Clause 14?
+  input: ""
+  output: Page 44
+
+- instruction: On which page is Clause 14 shown?
+  input: ""
+  output: Page 44
+
+- instruction: Clause 15 belongs to which page?
+  input: ""
+  output: Page 44
+
+- instruction: Clause 15 appears on what document page?
+  input: ""
+  output: Page 44
+
+- instruction: Where can Clause 15 be located?
+  input: ""
+  output: Page 44
+
+- instruction: Which page includes Clause 15?
+  input: ""
+  output: Page 44
+
+- instruction: Clause 15 is included on what page?
+  input: ""
+  output: Page 44
+
+- instruction: Clause 16 appears on which page?
+  input: ""
+  output: Page 44
+
+- instruction: What is the document page for Clause 16?
+  input: ""
+  output: Page 44
+
+- instruction: Clause 16 is shown on what page?
+  input: ""
+  output: Page 44
+
+- instruction: Where is Clause 16 written?
+  input: ""
+  output: Page 44
+
+- instruction: On which page do I find Clause 16?
+  input: ""
+  output: Page 44
+
+- instruction: Clause 17 is located on which page?
+  input: ""
+  output: Page 44
+
+- instruction: Where does Clause 17 appear?
+  input: ""
+  output: Page 44
+
+- instruction: What page number includes Clause 17?
+  input: ""
+  output: Page 44
+
+- instruction: Clause 17 is found on which document page?
+  input: ""
+  output: Page 44
+
+- instruction: What is the location of Clause 17 in the file?
+  input: ""
+  output: Page 44
+
+- instruction: Clause 18 appears on what page?
+  input: ""
+  output: Page 45
+
+- instruction: What is the page number for Clause 18?
+  input: ""
+  output: Page 45
+
+- instruction: Where is Clause 18 documented?
+  input: ""
+  output: Page 45
+
+- instruction: Clause 18 is included on which page?
+  input: ""
+  output: Page 45
+
+- instruction: Which page shows Clause 18?
+  input: ""
+  output: Page 45
+
+- instruction: Clause 19 is on what page?
+  input: ""
+  output: Page 45
+
+- instruction: Where in the PDF can I find Clause 19?
+  input: ""
+  output: Page 45
+
+- instruction: Which page records Clause 19?
+  input: ""
+  output: Page 45
+
+- instruction: On which document page is Clause 19?
+  input: ""
+  output: Page 45
+
+- instruction: What is the document page for Clause 19?
+  input: ""
+  output: Page 45
 
