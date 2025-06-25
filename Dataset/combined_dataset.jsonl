@@ -33,6 +33,589 @@
 {"instruction": "How much sanctioning power does ED have for works and supplies within budget in non-construction offices?", "input": "", "output": "Full power"}
 {"instruction": "What level of authority does ED hold for sanctioning estimates in O&M plants for non-construction approved budgets?", "input": "", "output": "Full power"}
 {"instruction": "What power does D(T) have in sanctioning services and supplies within budget for non-construction offices?", "input": "", "output": "Full power"}
+{"instruction": "Who has the authority to approve the list of candidates for executive interviews?", "input": "", "output": "All Executives"}
+{"instruction": "Who is responsible for approving the candidates to be interviewed for executive positions?", "input": "", "output": "All Executives"}
+{"instruction": "Which authority approves the list of candidates for executive-level interviews?", "input": "", "output": "All Executives"}
+{"instruction": "Who approves the list of candidates to be called for interview for executive posts?", "input": "", "output": "All Executives"}
+{"instruction": "Who approves the list of candidates to be called for interview for executive posts?", "input": "", "output": "All Executives"}
+{"instruction": "Who is responsible for finalizing the interview shortlist for executive-level recruitment?", "input": "", "output": "All Executives"}
+{"instruction": "Which authority decides the candidates to be interviewed for executive induction?", "input": "", "output": "All Executives"}
+{"instruction": "Who can create the list of candidates for interview for executive appointments?", "input": "", "output": "All Executives"}
+{"instruction": "Who has full power to approve executive interview candidate lists?", "input": "", "output": "All Executives"}
+{"instruction": "Who approves the interview list for non-executive positions?", "input": "", "output": "HOD (HR) not below E-8 in consultation with Director (Personnel)"}
+{"instruction": "Who has the authority to decide interview candidates for non-executive recruitment?", "input": "", "output": "HOD (HR) not below E-8 in consultation with Director (Personnel)"}
+{"instruction": "Who is responsible for shortlisting non-executive candidates for interviews?", "input": "", "output": "HOD (HR) not below E-8 in consultation with Director (Personnel)"}
+{"instruction": "For non-executive posts, who prepares the list of interview candidates?", "input": "", "output": "HOD (HR) not below E-8 in consultation with Director (Personnel)"}
+{"instruction": "Who must be consulted by HOD (HR) to finalize non-executive interview lists?", "input": "", "output": "Director (Personnel)"}
+{"instruction": "Who determines the interview list for executive-level inductions without consultation?", "input": "", "output": "All Executives"}
+{"instruction": "Is there any consultation required for preparing interview lists for executive posts?", "input": "", "output": "No, All Executives have full power"}
+{"instruction": "What level of officer can finalize executive candidate interview shortlists?", "input": "", "output": "All Executives"}
+{"instruction": "Who manages interview candidate selection for executive appointments?", "input": "", "output": "All Executives"}
+{"instruction": "Are all executives authorized to approve interview lists for executive hiring?", "input": "", "output": true}
+{"instruction": "Does the HOD (HR) act alone in selecting non-executive interview candidates?", "input": "", "output": "No, must consult Director (Personnel)"}
+{"instruction": "What is the required grade level of HOD (HR) to approve non-executive interview lists?", "input": "", "output": "Not below E-8"}
+{"instruction": "Who collaborates with HOD (HR) to approve non-executive interview candidates?", "input": "", "output": "Director (Personnel)"}
+{"instruction": "Can the Director (Personnel) alone approve non-executive interview lists?", "input": "", "output": "No, must be in consultation with HOD (HR)"}
+{"instruction": "Is consultation with Director (Personnel) mandatory for non-executive interview selection?", "input": "", "output": true}
+{"instruction": "Who approves annual increments for employees?", "input": "", "output": "HOP/HOD not below E-4"}
+{"instruction": "Which officer is responsible for granting yearly pay increments?", "input": "", "output": "HOP/HOD not below E-4"}
+{"instruction": "Who sanctions annual salary raises for staff members?", "input": "", "output": "HOP/HOD not below E-4"}
+{"instruction": "Who has the authority to process annual increments?", "input": "", "output": "HOP/HOD not below E-4"}
+{"instruction": "Which official handles annual pay reviews and approvals?", "input": "", "output": "HOP/HOD not below E-4"}
+{"instruction": "Are annual increments linked to performance reports?", "input": "", "output": true}
+{"instruction": "Do employees need a performance evaluation for increment approval?", "input": "", "output": true}
+{"instruction": "Is increment approval dependent on manager recommendations?", "input": "", "output": true}
+{"instruction": "Is recommendation mandatory for granting annual increment?", "input": "", "output": true}
+{"instruction": "Is performance review necessary before processing increments?", "input": "", "output": true}
+{"instruction": "Who processes annual increments post approval?", "input": "", "output": "HR Department"}
+{"instruction": "Does HR implement the pay change after HOD approval?", "input": "", "output": true}
+{"instruction": "Is the HR department responsible for finalizing increment changes?", "input": "", "output": true}
+{"instruction": "Does the HOP/HOD recommendation go to HR for processing?", "input": "", "output": true}
+{"instruction": "Who updates salary records after increment is approved?", "input": "", "output": "HR Department"}
+{"instruction": "Can an E-3 level officer approve increments?", "input": "", "output": "No, only E-4 or above"}
+{"instruction": "What is the minimum authority grade required to grant increments?", "input": "", "output": "E-4"}
+{"instruction": "Is there a grade requirement for approving annual increments?", "input": "", "output": "Yes, minimum E-4"}
+{"instruction": "Can increments be processed without HOP/HOD approval?", "input": "", "output": false}
+{"instruction": "Can increments be denied due to unsatisfactory performance?", "input": "", "output": true}
+{"instruction": "Is performance report a prerequisite for increment?", "input": "", "output": true}
+{"instruction": "Who initiates the increment process?", "input": "", "output": "HOP/HOD not below E-4"}
+{"instruction": "Does Clause 10 apply to both executives and non-executives?", "input": "", "output": true}
+{"instruction": "Who documents and implements approved increments?", "input": "", "output": "HR Department"}
+{"instruction": "Is HR required to verify approved increments?", "input": "", "output": true}
+{"instruction": "Who is responsible for pay fixation on promotion for executives?", "input": "", "output": "HR Officer not below E-4"}
+{"instruction": "Which grade HR officer can fix pay after executive promotion?", "input": "", "output": "E-4 and above"}
+{"instruction": "Who fixes the salary for executives after they get promoted?", "input": "", "output": "HR Officer not below E-4"}
+{"instruction": "What is the minimum grade required for fixing pay on executive promotion?", "input": "", "output": "E-4"}
+{"instruction": "Who processes pay changes for promoted executives?", "input": "", "output": "HR Officer not below E-4"}
+{"instruction": "Who handles pay fixation on promotion for non-executives?", "input": "", "output": "HR Officer not below E-2"}
+{"instruction": "Which HR official is eligible to fix pay of non-executive promotees?", "input": "", "output": "HR Officer not below E-2"}
+{"instruction": "What is the authority for salary fixation of non-executive promotions?", "input": "", "output": "HR Officer not below E-2"}
+{"instruction": "Who determines revised pay after non-executive promotion?", "input": "", "output": "HR Officer not below E-2"}
+{"instruction": "Who implements pay changes for non-executive promotions?", "input": "", "output": "HR Officer not below E-2"}
+{"instruction": "Are pay rules applicable while fixing promotion pay?", "input": "", "output": true}
+{"instruction": "Is fixation on promotion done according to company pay rules?", "input": "", "output": true}
+{"instruction": "Can promotion-related pay be fixed without following rules?", "input": "", "output": false}
+{"instruction": "Must pay fixation follow a rule-based structure?", "input": "", "output": true}
+{"instruction": "Are HR officials bound by pay rules in promotion cases?", "input": "", "output": true}
+{"instruction": "Is vetting by Finance mandatory in promotion pay fixation?", "input": "", "output": true}
+{"instruction": "Who verifies pay fixation entries after promotion?", "input": "", "output": "Finance Department"}
+{"instruction": "Can pay be fixed on promotion without finance approval?", "input": "", "output": false}
+{"instruction": "Who ensures correctness of salary post promotion?", "input": "", "output": "Finance Department"}
+{"instruction": "Is pay fixation subject to post-facto finance verification?", "input": "", "output": true}
+{"instruction": "Can HR Officer E-3 fix executive promotion pay?", "input": "", "output": false}
+{"instruction": "Can HR Officer below E-2 fix non-executive pay?", "input": "", "output": false}
+{"instruction": "Is there a grade threshold for promotion pay approvals?", "input": "", "output": true}
+{"instruction": "Does Clause 11 apply after promotion orders are issued?", "input": "", "output": true}
+{"instruction": "Is HR alone responsible for initiating promotion-based pay changes?", "input": "", "output": true}
+{"instruction": "Who sanctions study leave for executives of grade E-7 and above?", "input": "", "output": "CMD"}
+{"instruction": "Who approves study leave for senior executives?", "input": "", "output": "CMD"}
+{"instruction": "Who is the competent authority for E-7 and above study leave?", "input": "", "output": "CMD"}
+{"instruction": "Who approves education leave for top executives?", "input": "", "output": "CMD"}
+{"instruction": "Who grants study leave to E-7 and above?", "input": "", "output": "CMD"}
+{"instruction": "Who sanctions study leave for executives in E-5 and E-6 grades?", "input": "", "output": "Director"}
+{"instruction": "Who is authorized to allow study leave for mid-level executives?", "input": "", "output": "Director"}
+{"instruction": "Who clears study leave applications for employees in E-5 and E-6?", "input": "", "output": "Director"}
+{"instruction": "Who gives permission for E-5/E-6 grade employees to go on study leave?", "input": "", "output": "Director"}
+{"instruction": "Who approves academic leave for E-5 to E-6 employees?", "input": "", "output": "Director"}
+{"instruction": "Who can approve study leave for executives in grades E-1 to E-4?", "input": "", "output": "HOP/HOD not below E-6"}
+{"instruction": "Who authorizes study leave for lower-grade executives?", "input": "", "output": "HOP/HOD not below E-6"}
+{"instruction": "Who signs off on study leave applications from E-1 to E-4?", "input": "", "output": "HOP/HOD not below E-6"}
+{"instruction": "Which officer grants study leave for entry-level executives?", "input": "", "output": "HOP/HOD not below E-6"}
+{"instruction": "Who grants permission for executives up to E-4 to attend educational courses?", "input": "", "output": "HOP/HOD not below E-6"}
+{"instruction": "Who approves study leave for non-executive employees?", "input": "", "output": "HOD(HR) not below E-6"}
+{"instruction": "Who sanctions academic leave for non-executives?", "input": "", "output": "HOD(HR) not below E-6"}
+{"instruction": "What grade must the HOD(HR) be to approve non-executive study leave?", "input": "", "output": "E-6 or above"}
+{"instruction": "Who grants study leave to junior staff in non-executive roles?", "input": "", "output": "HOD(HR) not below E-6"}
+{"instruction": "Who signs off on study leave for non-executive courses?", "input": "", "output": "HOD(HR) not below E-6"}
+{"instruction": "Is full pay admissible during study leave?", "input": "", "output": "Yes, if course is in interest of the organization"}
+{"instruction": "Can study leave be sanctioned for more than 2 years?", "input": "", "output": false}
+{"instruction": "Is study leave restricted to 2 years maximum?", "input": "", "output": true}
+{"instruction": "Can employees receive full salary while on study leave?", "input": "", "output": "Yes, if justified as organizationally beneficial"}
+{"instruction": "Is study leave granted only for courses beneficial to the organization?", "input": "", "output": true}
+{"instruction": "Who sanctions earned leave for employees?", "input": "", "output": "Respective Controlling Officer not below E-3"}
+{"instruction": "Who is authorized to approve earned leave?", "input": "", "output": "Respective Controlling Officer not below E-3"}
+{"instruction": "Who approves earned leave requests?", "input": "", "output": "Respective Controlling Officer not below E-3"}
+{"instruction": "Which officer can approve EL for executives and non-executives?", "input": "", "output": "Respective Controlling Officer not below E-3"}
+{"instruction": "Who can grant earned leave to staff?", "input": "", "output": "Respective Controlling Officer not below E-3"}
+{"instruction": "Who approves commuted leave requests?", "input": "", "output": "Respective Controlling Officer not below E-3"}
+{"instruction": "Who is responsible for sanctioning commuted leave?", "input": "", "output": "Respective Controlling Officer not below E-3"}
+{"instruction": "Which officer sanctions leave on medical certificate?", "input": "", "output": "Respective Controlling Officer not below E-3"}
+{"instruction": "Who grants half-pay or commuted leave?", "input": "", "output": "Respective Controlling Officer not below E-3"}
+{"instruction": "Who manages commuted leave processing?", "input": "", "output": "Respective Controlling Officer not below E-3"}
+{"instruction": "Are leave approvals governed by corporate rules?", "input": "", "output": "Yes, as per Leave Rules of the Corporation"}
+{"instruction": "Is earned leave sanctioned under specific leave rules?", "input": "", "output": true}
+{"instruction": "Are commuted leave approvals subject to policy?", "input": "", "output": "Yes, Leave Rules apply"}
+{"instruction": "Do leave rules govern all types of leave sanctions?", "input": "", "output": true}
+{"instruction": "Is it mandatory to follow company leave rules?", "input": "", "output": true}
+{"instruction": "Can an E-2 officer sanction leave?", "input": "", "output": "No, minimum E-3"}
+{"instruction": "What is the minimum grade required to be a controlling officer for leave?", "input": "", "output": "E-3"}
+{"instruction": "Can leave be approved by a controlling officer below E-3?", "input": "", "output": false}
+{"instruction": "Does the clause specify minimum rank for leave authority?", "input": "", "output": true}
+{"instruction": "Is the E-3 level a required threshold for sanctioning leave?", "input": "", "output": true}
+{"instruction": "Can EL be denied without proper justification?", "input": "", "output": "No, must be as per rules"}
+{"instruction": "Are leave types limited to earned and commuted?", "input": "", "output": "No, other types governed by rules may apply"}
+{"instruction": "Can leave be sanctioned without a formal application?", "input": "", "output": false}
+{"instruction": "Does HR play a role in standard leave sanctioning?", "input": "", "output": "No, responsibility lies with the controlling officer"}
+{"instruction": "Are leave approvals automatically processed?", "input": "", "output": "No, require officer action"}
+{"instruction": "Is there a specific process for leave sanctioning?", "input": "", "output": "Yes, as per Leave Rules of the Corporation"}
+{"instruction": "Who is incharge of accepting resignations from senior executives?", "input": "", "output": "CMD"}
+{"instruction": "Who is responsible for accepting resignations from senior executives?", "input": "", "output": "CMD"}
+{"instruction": "Who has authority to approve resignation for grade E-7 and higher?", "input": "", "output": "CMD"}
+{"instruction": "Who must approve resignation of top-level officers?", "input": "", "output": "CMD"}
+{"instruction": "Who handles resignation acceptance for E-7 grade executives?", "input": "", "output": "CMD"}
+{"instruction": "Who can accept resignation of executives in grades E-5 and E-6?", "input": "", "output": "Director"}
+{"instruction": "Who has power to approve resignation for mid-level executives?", "input": "", "output": "Director"}
+{"instruction": "Who clears resignation letters for E-5 and E-6?", "input": "", "output": "Director"}
+{"instruction": "Who is the accepting authority for resignation of grade E-5 to E-6 employees?", "input": "", "output": "Director"}
+{"instruction": "Who signs off resignation of employees in mid-management?", "input": "", "output": "Director"}
+{"instruction": "Who accepts resignation of E-1 to E-4 grade employees?", "input": "", "output": "HOP/HOD not below E-6"}
+{"instruction": "Who is authorized to handle resignation from junior executives?", "input": "", "output": "HOP/HOD not below E-6"}
+{"instruction": "Who handles exit formalities for E-1 to E-4 grade resignations?", "input": "", "output": "HOP/HOD not below E-6"}
+{"instruction": "Who clears resignation of employees in lower executive grades?", "input": "", "output": "HOP/HOD not below E-6"}
+{"instruction": "Who is responsible for accepting resignation of junior executives?", "input": "", "output": "HOP/HOD not below E-6"}
+{"instruction": "Who approves resignation of non-executives?", "input": "", "output": "HOD(HR) not below E-6"}
+{"instruction": "Who processes non-executive resignation acceptance?", "input": "", "output": "HOD(HR) not below E-6"}
+{"instruction": "Which HR officer is authorized to accept resignation from non-executives?", "input": "", "output": "HOD(HR) not below E-6"}
+{"instruction": "Who clears resignation for supporting staff in non-executive roles?", "input": "", "output": "HOD(HR) not below E-6"}
+{"instruction": "What is the minimum grade required to approve resignation for non-executives?", "input": "", "output": "E-6"}
+{"instruction": "Are resignation acceptances subject to terms of appointment?", "input": "", "output": true}
+{"instruction": "Must resignations follow conditions mentioned in the appointment letter?", "input": "", "output": true}
+{"instruction": "Can resignation be accepted without referring to the appointment terms?", "input": "", "output": false}
+{"instruction": "Is HR responsible for processing resignation once accepted?", "input": "", "output": true}
+{"instruction": "Who manages formalities and documentation post resignation approval?", "input": "", "output": "HR Department"}
+{"instruction": "Who grants permission to apply for outside jobs for executives E-7 and above?", "input": "", "output": "CMD"}
+{"instruction": "Who can authorize executives of grade E-7 and above to apply elsewhere?", "input": "", "output": "CMD"}
+{"instruction": "Who must approve external job applications for top executives?", "input": "", "output": "CMD"}
+{"instruction": "Who has authority to permit E-7+ employees to apply for other jobs?", "input": "", "output": "CMD"}
+{"instruction": "Who processes requests to apply for jobs outside the organization for E-7+ grades?", "input": "", "output": "CMD"}
+{"instruction": "Who authorizes E-5 and E-6 executives to apply for external positions?", "input": "", "output": "Director"}
+{"instruction": "Who can grant permission for mid-level executives to apply for jobs elsewhere?", "input": "", "output": "Director"}
+{"instruction": "Who approves job application permission for E-5 to E-6 employees?", "input": "", "output": "Director"}
+{"instruction": "Who signs approvals for outside applications for executives in E-5 or E-6?", "input": "", "output": "Director"}
+{"instruction": "Who clears external application requests from employees in mid-management grades?", "input": "", "output": "Director"}
+{"instruction": "Who can approve external job applications from employees in grades E-1 to E-4?", "input": "", "output": "HOP/HOD not below E-6"}
+{"instruction": "Who handles permission to apply for posts outside for junior executives?", "input": "", "output": "HOP/HOD not below E-6"}
+{"instruction": "Who has authority to approve external job applications from junior-level staff?", "input": "", "output": "HOP/HOD not below E-6"}
+{"instruction": "Who processes applications to seek jobs elsewhere for employees in E-1 to E-4?", "input": "", "output": "HOP/HOD not below E-6"}
+{"instruction": "Who signs off on permissions for E-1 to E-4 employees to apply outside?", "input": "", "output": "HOP/HOD not below E-6"}
+{"instruction": "Who approves permission to apply for jobs outside in case of non-executives?", "input": "", "output": "HOD(HR) not below E-6"}
+{"instruction": "Who clears applications to seek external posts from non-executive staff?", "input": "", "output": "HOD(HR) not below E-6"}
+{"instruction": "What grade must HR be to approve external job application for non-executives?", "input": "", "output": "Not below E-6"}
+{"instruction": "Who signs permission to apply for other jobs for support staff?", "input": "", "output": "HOD(HR) not below E-6"}
+{"instruction": "Who authorizes non-executive employees to seek opportunities elsewhere?", "input": "", "output": "HOD(HR) not below E-6"}
+{"instruction": "Is permission to apply outside subject to organizational interest?", "input": "", "output": true}
+{"instruction": "Can an employee in training apply for jobs outside?", "input": "", "output": false}
+{"instruction": "Are employees under bond eligible to apply for external jobs?", "input": "", "output": false}
+{"instruction": "Does company interest affect permission to apply outside?", "input": "", "output": true}
+{"instruction": "Can permission be granted if it goes against organizational interest?", "input": "", "output": false}
+{"instruction": "Is there a formal process for applying to posts elsewhere?", "input": "", "output": "Yes, as per the organization's policy"}
+{"instruction": "Who accepts voluntary retirement notices for executives E-7 and above?", "input": "", "output": "CMD"}
+{"instruction": "Who has the authority to approve voluntary retirement for E-7 and higher?", "input": "", "output": "CMD"}
+{"instruction": "Who signs off on voluntary retirement for senior executives?", "input": "", "output": "CMD"}
+{"instruction": "Who can accept retirement applications from E-7+ employees?", "input": "", "output": "CMD"}
+{"instruction": "Who approves notices of voluntary retirement for grade E-7 and above?", "input": "", "output": "CMD"}
+{"instruction": "Who approves voluntary retirement for executives in E-5 and E-6?", "input": "", "output": "Director"}
+{"instruction": "Who accepts VR notices for mid-management levels?", "input": "", "output": "Director"}
+{"instruction": "Who can accept retirement notices from executives in E-5 to E-6?", "input": "", "output": "Director"}
+{"instruction": "Who is responsible for authorizing retirement of E-5 and E-6 employees?", "input": "", "output": "Director"}
+{"instruction": "Who processes E-5/E-6 retirement cases?", "input": "", "output": "Director"}
+{"instruction": "Who accepts VR notices for E-1 to E-4 employees?", "input": "", "output": "HOP/HOD not below E-6"}
+{"instruction": "Who has authority to approve voluntary retirement from junior executives?", "input": "", "output": "HOP/HOD not below E-6"}
+{"instruction": "Who handles retirement cases for employees in grades E-1 through E-4?", "input": "", "output": "HOP/HOD not below E-6"}
+{"instruction": "Who signs off on VR cases for lower-level executives?", "input": "", "output": "HOP/HOD not below E-6"}
+{"instruction": "Who accepts VR applications of E-1 to E-4 employees?", "input": "", "output": "HOP/HOD not below E-6"}
+{"instruction": "Who approves voluntary retirement in case of non-executives?", "input": "", "output": "HOD(HR) not below E-6"}
+{"instruction": "Who clears retirement notices from non-executive employees?", "input": "", "output": "HOD(HR) not below E-6"}
+{"instruction": "What HR level is required to accept VR for non-executives?", "input": "", "output": "Not below E-6"}
+{"instruction": "Who processes voluntary retirement for supporting staff?", "input": "", "output": "HOD(HR) not below E-6"}
+{"instruction": "Who is authorized to act on VR requests from non-executives?", "input": "", "output": "HOD(HR) not below E-6"}
+{"instruction": "Are voluntary retirement approvals subject to rules?", "input": "", "output": true}
+{"instruction": "Must eligibility be verified before accepting VR?", "input": "", "output": true}
+{"instruction": "Is HR responsible for processing VR cases?", "input": "", "output": true}
+{"instruction": "Can VR be accepted without verifying eligibility?", "input": "", "output": false}
+{"instruction": "Are retirement applications subject to corporate VR policy?", "input": "", "output": true}
+{"instruction": "Who processes voluntary retirement applications in the HR department?", "input": "", "output": "HR Department"}
+{"instruction": "Who has the authority to waive bond money for executives E-7 and above?", "input": "", "output": "CMD"}
+{"instruction": "Who can approve bond waiver for E-7 and higher grade employees?", "input": "", "output": "CMD"}
+{"instruction": "Who is empowered to waive recovery of bond amount from senior executives?", "input": "", "output": "CMD"}
+{"instruction": "Who decides on waiver of bond obligation for top executives?", "input": "", "output": "CMD"}
+{"instruction": "Who signs off bond money waiver for employees in E-7 grade and above?", "input": "", "output": "CMD"}
+{"instruction": "Who can waive bond recovery for E-5 and E-6 level employees?", "input": "", "output": "Director"}
+{"instruction": "Who is the competent authority for bond waiver in case of mid-level executives?", "input": "", "output": "Director"}
+{"instruction": "Who approves bond waiver requests from employees in grades E-5 and E-6?", "input": "", "output": "Director"}
+{"instruction": "Who clears requests to waive bond amount for E-5 and E-6?", "input": "", "output": "Director"}
+{"instruction": "Who handles bond waiver cases for employees in middle management?", "input": "", "output": "Director"}
+{"instruction": "Who can waive recovery of bond amount for grades E-1 to E-4?", "input": "", "output": "HOP/HOD not below E-6"}
+{"instruction": "Who approves bond waiver for junior executives?", "input": "", "output": "HOP/HOD not below E-6"}
+{"instruction": "What is the authority level required to waive bond amount for E-1 to E-4?", "input": "", "output": "HOP/HOD not below E-6"}
+{"instruction": "Who is responsible for approving waiver of bond terms for lower grade executives?", "input": "", "output": "HOP/HOD not below E-6"}
+{"instruction": "Who clears bond money waiver requests for junior executive grades?", "input": "", "output": "HOP/HOD not below E-6"}
+{"instruction": "Who approves waiver of bond amount for non-executives?", "input": "", "output": "HOD(HR) not below E-6"}
+{"instruction": "What grade is required to waive bond amount in case of non-executive staff?", "input": "", "output": "HOD(HR) not below E-6"}
+{"instruction": "Who signs off on bond waiver for non-executive employees?", "input": "", "output": "HOD(HR) not below E-6"}
+{"instruction": "Who has authority for waiving bond recovery for support staff?", "input": "", "output": "HOD(HR) not below E-6"}
+{"instruction": "Who handles non-executive bond waiver cases?", "input": "", "output": "HOD(HR) not below E-6"}
+{"instruction": "Can bond amount be waived without justification?", "input": "", "output": false}
+{"instruction": "Is waiver of bond recovery allowed only in exceptional cases?", "input": "", "output": true}
+{"instruction": "Is proper record maintenance required for waiving bond obligations?", "input": "", "output": true}
+{"instruction": "Does HR process and maintain records for bond waivers?", "input": "", "output": true}
+{"instruction": "Can bond be waived without HR processing?", "input": "", "output": false}
+{"instruction": "Is justification required for waiving bond money?", "input": "", "output": true}
+{"instruction": "Who grants permission to pursue higher studies for E-7 and above?", "input": "", "output": "CMD"}
+{"instruction": "Who approves academic courses for senior executives?", "input": "", "output": "CMD"}
+{"instruction": "Who can approve part-time education for E-7 and above employees?", "input": "", "output": "CMD"}
+{"instruction": "Who authorizes higher study requests from top-grade executives?", "input": "", "output": "CMD"}
+{"instruction": "Who sanctions learning proposals for top-level staff?", "input": "", "output": "CMD"}
+{"instruction": "Who approves permission for higher studies for grades E-5 and E-6?", "input": "", "output": "Director"}
+{"instruction": "Who handles academic permission for mid-level executives?", "input": "", "output": "Director"}
+{"instruction": "Who is authorized to allow E-5 and E-6 officers to study part-time?", "input": "", "output": "Director"}
+{"instruction": "Who clears part-time education requests from E-5/E-6 staff?", "input": "", "output": "Director"}
+{"instruction": "Who grants study permission to middle management executives?", "input": "", "output": "Director"}
+{"instruction": "Who approves education plans for grades E-1 to E-4?", "input": "", "output": "HOP/HOD not below E-6"}
+{"instruction": "Who clears part-time study permission for junior executives?", "input": "", "output": "HOP/HOD not below E-6"}
+{"instruction": "What level is authorized to permit E-1 to E-4 employees for correspondence courses?", "input": "", "output": "HOP/HOD not below E-6"}
+{"instruction": "Who handles academic course permissions for lower-grade executives?", "input": "", "output": "HOP/HOD not below E-6"}
+{"instruction": "Who authorizes learning applications for junior executive grades?", "input": "", "output": "HOP/HOD not below E-6"}
+{"instruction": "Who permits part-time studies for non-executives?", "input": "", "output": "HOD(HR) not below E-6"}
+{"instruction": "Who signs education permission for support staff?", "input": "", "output": "HOD(HR) not below E-6"}
+{"instruction": "What HR level approves academic pursuits for non-executive employees?", "input": "", "output": "HOD(HR) not below E-6"}
+{"instruction": "Who can authorize higher education for non-executives?", "input": "", "output": "HOD(HR) not below E-6"}
+{"instruction": "Who is responsible for granting educational leave for non-executive staff?", "input": "", "output": "HOD(HR) not below E-6"}
+{"instruction": "Is higher study permission subject to work not being affected?", "input": "", "output": true}
+{"instruction": "Can educational pursuits be allowed if it disrupts work?", "input": "", "output": false}
+{"instruction": "Must official duties be unaffected for permission to be granted?", "input": "", "output": true}
+{"instruction": "Is HR responsible for processing educational permissions?", "input": "", "output": true}
+{"instruction": "Are higher study permissions routed through HR?", "input": "", "output": true}
+{"instruction": "Can part-time studies be pursued without HR approval?", "input": "", "output": false}
+{"instruction": "Who approves full-time higher study for executives in grade E-7 and above?", "input": "", "output": "CMD"}
+{"instruction": "Who can allow full-time study leave for E-7 and above?", "input": "", "output": "CMD"}
+{"instruction": "Who is the competent authority to permit full-time study for senior executives?", "input": "", "output": "CMD"}
+{"instruction": "Who sanctions full-time study requests for top management?", "input": "", "output": "CMD"}
+{"instruction": "Who handles education approvals for E-7 and above in full-time mode?", "input": "", "output": "CMD"}
+{"instruction": "Who permits full-time higher studies for executives in grades E-5 and E-6?", "input": "", "output": "Director"}
+{"instruction": "Who approves full-time educational leave for E-5/E-6 employees?", "input": "", "output": "Director"}
+{"instruction": "Who authorizes E-5 and E-6 employees to pursue full-time education?", "input": "", "output": "Director"}
+{"instruction": "Who grants study approval for mid-management (E-5 to E-6) employees?", "input": "", "output": "Director"}
+{"instruction": "Who is responsible for sanctioning full-time education in E-5 to E-6 grades?", "input": "", "output": "Director"}
+{"instruction": "Who grants full-time study leave to executives from E-1 to E-4?", "input": "", "output": "HOP/HOD not below E-6"}
+{"instruction": "Who approves full-time education plans for junior executives?", "input": "", "output": "HOP/HOD not below E-6"}
+{"instruction": "Who has authority to allow full-time courses for E-1–E-4 staff?", "input": "", "output": "HOP/HOD not below E-6"}
+{"instruction": "Who clears full-time academic requests for lower executives?", "input": "", "output": "HOP/HOD not below E-6"}
+{"instruction": "Who signs off full-time higher education leave for entry-level executives?", "input": "", "output": "HOP/HOD not below E-6"}
+{"instruction": "Who approves full-time higher study permission for non-executives?", "input": "", "output": "HOD(HR) not below E-6"}
+{"instruction": "Who clears non-executive full-time study cases?", "input": "", "output": "HOD(HR) not below E-6"}
+{"instruction": "What HR authority approves full-time academic leave for non-executives?", "input": "", "output": "HOD(HR) not below E-6"}
+{"instruction": "Who grants full-time study permission for support staff?", "input": "", "output": "HOD(HR) not below E-6"}
+{"instruction": "Who handles full-time education approvals for non-executives?", "input": "", "output": "HOD(HR) not below E-6"}
+{"instruction": "Is leave during full-time studies paid?", "input": "", "output": "No, Leave Without Pay"}
+{"instruction": "Are full-time study periods treated as deputation?", "input": "", "output": false}
+{"instruction": "Is full-time education allowed only as per rules?", "input": "", "output": true}
+{"instruction": "Can full-time education be pursued without formal approval?", "input": "", "output": false}
+{"instruction": "Does the company grant paid leave for full-time study?", "input": "", "output": false}
+{"instruction": "Is full-time study leave subject to company policies?", "input": "", "output": true}
+{"instruction": "Who is responsible for forming a medical board for fitness examination?", "input": "", "output": "CMO"}
+{"instruction": "Who has the authority to constitute the medical board for new appointees?", "input": "", "output": "CMO"}
+{"instruction": "Who can organize medical fitness boards for recruitment?", "input": "", "output": "CMO"}
+{"instruction": "Who approves medical examination arrangements for employee recruitment?", "input": "", "output": "CMO"}
+{"instruction": "Who takes decisions on constitution of medical boards in recruitment?", "input": "", "output": "CMO"}
+{"instruction": "Who initiates the formation of medical boards during hiring?", "input": "", "output": "CMO"}
+{"instruction": "Who heads the authority to examine medical fitness of new employees?", "input": "", "output": "CMO"}
+{"instruction": "Who decides if a new recruit must undergo a medical board exam?", "input": "", "output": "CMO"}
+{"instruction": "Who is tasked with establishing medical boards for fitness evaluation?", "input": "", "output": "CMO"}
+{"instruction": "Who is responsible for setting up a fitness examination board for recruits?", "input": "", "output": "CMO"}
+{"instruction": "Who has full powers to create a board for health verification of new appointees?", "input": "", "output": "CMO"}
+{"instruction": "Who can constitute the medical board during recruitment drives?", "input": "", "output": "CMO"}
+{"instruction": "Who determines the composition of medical boards for recruitment fitness?", "input": "", "output": "CMO"}
+{"instruction": "Whose approval is needed to form a recruitment medical board?", "input": "", "output": "CMO"}
+{"instruction": "Who is accountable for arranging medical fitness boards?", "input": "", "output": "CMO"}
+{"instruction": "Who is empowered to constitute medical fitness panels for new joiners?", "input": "", "output": "CMO"}
+{"instruction": "Which officer is in charge of organizing health checks before appointments?", "input": "", "output": "CMO"}
+{"instruction": "Who coordinates the formation of medical boards under DOP Clause 2?", "input": "", "output": "CMO"}
+{"instruction": "Who is the decision-maker in establishing a board for employee medical checks?", "input": "", "output": "CMO"}
+{"instruction": "In NEEPCO, who forms the medical board to evaluate fitness for service?", "input": "", "output": "CMO"}
+{"instruction": "Who can approve expenditure for recruitment activities?", "input": "", "output": "D(P) or HOD (HR) not below E-8"}
+{"instruction": "Who is authorized to sanction DPC-related expenses?", "input": "", "output": "D(P) or HOD (HR) not below E-8"}
+{"instruction": "Which official approves logistics costs for interviews?", "input": "", "output": "D(P) or HOD (HR) not below E-8"}
+{"instruction": "Who holds power to sanction event costs during promotions?", "input": "", "output": "D(P) or HOD (HR) not below E-8"}
+{"instruction": "Who can approve travel and venue expenses for a promotion panel?", "input": "", "output": "D(P) or HOD (HR) not below E-8"}
+{"instruction": "Who is responsible for funding arrangements of interview boards?", "input": "", "output": "D(P) or HOD (HR) not below E-8"}
+{"instruction": "Who ensures budget sanction for recruitment committee expenses?", "input": "", "output": "D(P) or HOD (HR) not below E-8"}
+{"instruction": "Who authorizes use of budget for recruitment drives?", "input": "", "output": "D(P) or HOD (HR) not below E-8"}
+{"instruction": "Which officer can approve expenses for promotion review?", "input": "", "output": "D(P) or HOD (HR) not below E-8"}
+{"instruction": "Who can clear funds for conducting DPC meetings?", "input": "", "output": "D(P) or HOD (HR) not below E-8"}
+{"instruction": "What is the financial authority limit for recruitment event costs?", "input": "", "output": "₹2,00,000 per event"}
+{"instruction": "Can D(P) or HOD (HR) approve Rs. 1.5 lakh for an interview board?", "input": "", "output": true}
+{"instruction": "Is ₹2,00,000 the ceiling per recruitment event?", "input": "", "output": true}
+{"instruction": "Can this recruitment expenditure limit be exceeded?", "input": "", "output": false}
+{"instruction": "Who monitors financial propriety in recruitment event costs?", "input": "", "output": "D(P) or HOD (HR) not below E-8"}
+{"instruction": "Who signs off on promotion-related logistical expenses?", "input": "", "output": "D(P) or HOD (HR) not below E-8"}
+{"instruction": "Which officer approves accommodation and transport for DPC?", "input": "", "output": "D(P) or HOD (HR) not below E-8"}
+{"instruction": "Who ensures adherence to expense limits during recruitment?", "input": "", "output": "D(P) or HOD (HR) not below E-8"}
+{"instruction": "What official signs off on recruitment-related vendor payments?", "input": "", "output": "D(P) or HOD (HR) not below E-8"}
+{"instruction": "In recruitment and promotion events, who approves all related expenses?", "input": "", "output": "D(P) or HOD (HR) not below E-8"}
+{"instruction": "Who can approve joining date extensions for newly appointed executives?", "input": "", "output": "All Executives"}
+{"instruction": "Who approves delayed joining requests for executives?", "input": "", "output": "All Executives"}
+{"instruction": "Who has the authority to extend the joining time for executive recruits?", "input": "", "output": "All Executives"}
+{"instruction": "Who sanctions time extension for executives unable to join on the scheduled date?", "input": "", "output": "All Executives"}
+{"instruction": "Who is responsible for granting time extension for executive appointees?", "input": "", "output": "All Executives"}
+{"instruction": "Who approves joining time extension for non-executive employees?", "input": "", "output": "D(P) or HOD (HR) not below E-8"}
+{"instruction": "Who is authorized to grant more time for non-executives to join?", "input": "", "output": "D(P) or HOD (HR) not below E-8"}
+{"instruction": "Who deals with late joining requests from non-executives?", "input": "", "output": "D(P) or HOD (HR) not below E-8"}
+{"instruction": "Who handles extension of joining time for new non-executive appointments?", "input": "", "output": "D(P) or HOD (HR) not below E-8"}
+{"instruction": "Who approves grace period for non-executives unable to join on time?", "input": "", "output": "D(P) or HOD (HR) not below E-8"}
+{"instruction": "Is the extension of executive joining date under the power of any executive?", "input": "", "output": true}
+{"instruction": "Can any executive grant an extension for another executive’s joining time?", "input": "", "output": true}
+{"instruction": "Is consultation needed for executives’ joining time extension?", "input": "", "output": false}
+{"instruction": "Does D(P) approve joining extension for executives?", "input": "", "output": "No, it's handled by all executives"}
+{"instruction": "Who must approve a request for more time to join from a new junior assistant?", "input": "", "output": "D(P) or HOD (HR) not below E-8"}
+{"instruction": "If a non-executive cannot join within the time limit, who can approve delay?", "input": "", "output": "D(P) or HOD (HR) not below E-8"}
+{"instruction": "Can the HR head approve joining delays for non-executives?", "input": "", "output": "Yes, if they are E-8 or above"}
+{"instruction": "Who decides the extension of joining time for both executives and non-executives?", "input": "", "output": "Executives for Executives, D(P)/HOD(HR) for Non-Executives"}
+{"instruction": "Are powers for joining extension delegated to department heads?", "input": "", "output": "Only if HOD is E-8 or above (for Non-Executives)"}
+{"instruction": "Does this clause apply to new hires only?", "input": "", "output": true}
+{"instruction": "Who is responsible for approving travel allowance for candidates attending interviews?", "input": "", "output": "HOD (HR) not below E-8"}
+{"instruction": "Who has the authority to sanction travel allowance for candidates attending interviews?", "input": "", "output": "HOD (HR) not below E-8"}
+{"instruction": "Who is authorized to approve travel allowance for candidates appearing for interviews?", "input": "", "output": "HOD (HR) not below E-8"}
+{"instruction": "Who approves travel allowance for candidates attending interviews?", "input": "", "output": "HOD (HR) not below E-8"}
+{"instruction": "Who can sanction TA for interviewees as per company rules?", "input": "", "output": "HOD (HR) not below E-8"}
+{"instruction": "Who has the authority to process TA claims of interview candidates?", "input": "", "output": "HOD (HR) not below E-8"}
+{"instruction": "Which officer is empowered to provide TA to job applicants appearing for interviews?", "input": "", "output": "HOD (HR) not below E-8"}
+{"instruction": "Who reimburses travel expenses of interview candidates?", "input": "", "output": "HOD (HR) not below E-8"}
+{"instruction": "What grade must the HOD (HR) be to approve TA?", "input": "", "output": "Not below E-8"}
+{"instruction": "Is there a minimum grade for HOD (HR) to approve travel expenses?", "input": "", "output": "Yes, E-8 or above"}
+{"instruction": "Can a HOD (HR) below E-8 approve TA for interviews?", "input": "", "output": false}
+{"instruction": "What is the grade restriction for sanctioning TA under Clause 5?", "input": "", "output": "Minimum E-8 grade"}
+{"instruction": "Is grade level important when approving TA for interview candidates?", "input": "", "output": "Yes, must be E-8 or above"}
+{"instruction": "Are TA payments guided by any policy?", "input": "", "output": "Yes, TA Rules"}
+{"instruction": "Under which rules is TA granted to candidates?", "input": "", "output": "As per TA Rules"}
+{"instruction": "Are TA claims to be processed as per internal company travel policy?", "input": "", "output": "Yes, TA Rules"}
+{"instruction": "Is reimbursement for interview travel expenses regulated by TA Rules?", "input": "", "output": true}
+{"instruction": "Do interview candidates receive travel allowance according to a defined policy?", "input": "", "output": "Yes, TA Rules"}
+{"instruction": "Is HOD (HR) the sole approving authority for TA reimbursements?", "input": "", "output": "Yes, if not below E-8"}
+{"instruction": "Can TA be granted without adherence to TA rules?", "input": "", "output": false}
+{"instruction": "Are TA Rules mandatory for all candidate reimbursements?", "input": "", "output": true}
+{"instruction": "Is consultation needed for TA sanction?", "input": "", "output": "No, HOD (HR) not below E-8 has full powers"}
+{"instruction": "Who approves TA claims independently under this clause?", "input": "", "output": "HOD (HR) not below E-8"}
+{"instruction": "Who approves probation clearance for executives in grade E-8 to E-9?", "input": "", "output": "CMD"}
+{"instruction": "Who has the authority to approve successful probation for executives E-8 and E-9?", "input": "", "output": "CMD"}
+{"instruction": "Which official confirms completion of probation for E-8 to E-9 executives?", "input": "", "output": "CMD"}
+{"instruction": "Who is responsible for approving probation of senior executives (E-8 and above)?", "input": "", "output": "CMD"}
+{"instruction": "Who finalizes successful probation status for E-8 to E-9 employees?", "input": "", "output": "CMD"}
+{"instruction": "Who approves the probation for executives in grades E-5 to E-7?", "input": "", "output": "Director"}
+{"instruction": "Who holds authority for approving probation period of executives up to E-7?", "input": "", "output": "Director"}
+{"instruction": "Who issues orders for probation completion of E-5 to E-7 employees?", "input": "", "output": "Director"}
+{"instruction": "Which officer validates the end of probation for E-5 to E-7?", "input": "", "output": "Director"}
+{"instruction": "Who confirms satisfactory completion of probation for mid-level executives?", "input": "", "output": "Director"}
+{"instruction": "Who is empowered to approve probation for executives in E-1 to E-4 grade?", "input": "", "output": "Concerned HOP/HOD not below E-8"}
+{"instruction": "Which authority deals with probation approval for lower executives?", "input": "", "output": "Concerned HOP/HOD not below E-8"}
+{"instruction": "Who must approve successful probation for entry-level executives?", "input": "", "output": "Concerned HOP/HOD not below E-8"}
+{"instruction": "Who signs off on probation for E-1 to E-4 employees?", "input": "", "output": "Concerned HOP/HOD not below E-8"}
+{"instruction": "Who approves probation for non-executives?", "input": "", "output": "Concerned HOP/HOD not below E-8"}
+{"instruction": "Who can extend probation period for any employee?", "input": "", "output": "CMD, Director or Concerned HOP/HOD depending on grade"}
+{"instruction": "Can probation be extended based on performance?", "input": "", "output": true}
+{"instruction": "Are HR orders necessary to formalize probation approval or extension?", "input": "", "output": "Yes, issued by HR Department"}
+{"instruction": "Who issues the official orders for probation approval?", "input": "", "output": "HR Department"}
+{"instruction": "Is HR responsible for documenting probation approvals?", "input": "", "output": true}
+{"instruction": "Who approves probation clearance for executives in grade E-8 to E-9?", "input": "", "output": "CMD"}
+{"instruction": "Who has the authority to approve successful probation for executives E-8 and E-9?", "input": "", "output": "CMD"}
+{"instruction": "Which official confirms completion of probation for E-8 to E-9 executives?", "input": "", "output": "CMD"}
+{"instruction": "Who is responsible for approving probation of senior executives (E-8 and above)?", "input": "", "output": "CMD"}
+{"instruction": "Who finalizes successful probation status for E-8 to E-9 employees?", "input": "", "output": "CMD"}
+{"instruction": "Who approves the probation for executives in grades E-5 to E-7?", "input": "", "output": "Director"}
+{"instruction": "Who holds authority for approving probation period of executives up to E-7?", "input": "", "output": "Director"}
+{"instruction": "Who issues orders for probation completion of E-5 to E-7 employees?", "input": "", "output": "Director"}
+{"instruction": "Which officer validates the end of probation for E-5 to E-7?", "input": "", "output": "Director"}
+{"instruction": "Who confirms satisfactory completion of probation for mid-level executives?", "input": "", "output": "Director"}
+{"instruction": "Who is empowered to approve probation for executives in E-1 to E-4 grade?", "input": "", "output": "Concerned HOP/HOD not below E-8"}
+{"instruction": "Which authority deals with probation approval for lower executives?", "input": "", "output": "Concerned HOP/HOD not below E-8"}
+{"instruction": "Who must approve successful probation for entry-level executives?", "input": "", "output": "Concerned HOP/HOD not below E-8"}
+{"instruction": "Who signs off on probation for E-1 to E-4 employees?", "input": "", "output": "Concerned HOP/HOD not below E-8"}
+{"instruction": "Who approves probation for non-executives?", "input": "", "output": "Concerned HOP/HOD not below E-8"}
+{"instruction": "Who can extend probation period for any employee?", "input": "", "output": "CMD, Director or Concerned HOP/HOD depending on grade"}
+{"instruction": "Can probation be extended based on performance?", "input": "", "output": true}
+{"instruction": "Are HR orders necessary to formalize probation approval or extension?", "input": "", "output": "Yes, issued by HR Department"}
+{"instruction": "Who issues the official orders for probation approval?", "input": "", "output": "HR Department"}
+{"instruction": "Is HR responsible for documenting probation approvals?", "input": "", "output": true}
+{"instruction": "Who can terminate a probationer due to unsatisfactory performance?", "input": "", "output": "D(P) in consultation with FD"}
+{"instruction": "Who is authorized to end service during probation if performance is poor?", "input": "", "output": "D(P) in consultation with FD"}
+{"instruction": "Who holds the authority to dismiss an employee during probation?", "input": "", "output": "D(P) in consultation with FD"}
+{"instruction": "Who is empowered to terminate a recruit's service if probation is not cleared?", "input": "", "output": "D(P) in consultation with FD"}
+{"instruction": "Who can decide to end employment of a probationary employee?", "input": "", "output": "D(P) in consultation with FD"}
+{"instruction": "Is consultation with Finance Director required for terminating a probationer?", "input": "", "output": true}
+{"instruction": "Does the Director (Personnel) need to consult FD before ending probation?", "input": "", "output": true}
+{"instruction": "Can D(P) act alone in termination during probation?", "input": "", "output": false}
+{"instruction": "Is it mandatory to consult FD for probation terminations?", "input": "", "output": true}
+{"instruction": "Is approval from both D(P) and FD required to terminate probation?", "input": "", "output": true}
+{"instruction": "Who issues the final order for termination of a probationer?", "input": "", "output": "HR Department"}
+{"instruction": "Which department is responsible for processing probation terminations?", "input": "", "output": "HR Department"}
+{"instruction": "Who documents and issues termination orders for failed probation?", "input": "", "output": "HR Department"}
+{"instruction": "Are termination orders during probation issued by HR?", "input": "", "output": true}
+{"instruction": "Which department executes the termination approved by D(P) and FD?", "input": "", "output": "HR Department"}
+{"instruction": "Can an employee be removed from service if they fail probation?", "input": "", "output": true}
+{"instruction": "Is poor performance during probation grounds for termination?", "input": "", "output": true}
+{"instruction": "Is service termination possible during the probation period?", "input": "", "output": true}
+{"instruction": "Does Clause 7 deal with probationary performance issues?", "input": "", "output": true}
+{"instruction": "Does HR play a role in executing termination decisions during probation?", "input": "", "output": true}
+{"instruction": "Can only HR issue termination letters after approval from D(P) and FD?", "input": "", "output": true}
+{"instruction": "Is termination during probation a delegated authority?", "input": "", "output": "Yes, to D(P) in consultation with FD"}
+{"instruction": "Can termination under this clause be done without HR involvement?", "input": "", "output": false}
+{"instruction": "Does the Finance Director play a role in probation terminations?", "input": "", "output": true}
+{"instruction": "Is the clause applicable for both executives and non-executives?", "input": "", "output": true}
+{"instruction": "Who approves deputation appointments for employees in E-8 and above?", "input": "", "output": "CMD"}
+{"instruction": "Who is responsible for approving deputation of senior executives?", "input": "", "output": "CMD"}
+{"instruction": "Which officer approves deputation for top-grade executives?", "input": "", "output": "CMD"}
+{"instruction": "Who can authorize deputation for employees in grade E-8 and higher?", "input": "", "output": "CMD"}
+{"instruction": "Who sanctions deputation for top management level?", "input": "", "output": "CMD"}
+{"instruction": "Who approves deputation of employees in grades E-5 to E-7?", "input": "", "output": "Director"}
+{"instruction": "Who has authority to allow deputation for mid-level executives?", "input": "", "output": "Director"}
+{"instruction": "Who signs deputation approval for executives in E-5, E-6, or E-7?", "input": "", "output": "Director"}
+{"instruction": "Who clears deputation movement for middle management?", "input": "", "output": "Director"}
+{"instruction": "Who approves transfer on deputation for executives between E-5 and E-7?", "input": "", "output": "Director"}
+{"instruction": "Who can approve deputation for employees from E-1 to E-4?", "input": "", "output": "Concerned HOP/HOD not below E-8"}
+{"instruction": "Who manages deputation permissions for junior executives?", "input": "", "output": "Concerned HOP/HOD not below E-8"}
+{"instruction": "Who signs deputation files for E-1 to E-4 level employees?", "input": "", "output": "Concerned HOP/HOD not below E-8"}
+{"instruction": "Who authorizes deputation for non-executive staff?", "input": "", "output": "Concerned HOP/HOD not below E-8"}
+{"instruction": "Who can approve lower-grade deputation cases?", "input": "", "output": "Concerned HOP/HOD not below E-8"}
+{"instruction": "Should all deputation proposals be routed through HR?", "input": "", "output": true}
+{"instruction": "Is HR involvement mandatory in deputation cases?", "input": "", "output": true}
+{"instruction": "Do deputation requests require HR department routing?", "input": "", "output": true}
+{"instruction": "Can a deputation be approved without routing through HR?", "input": "", "output": false}
+{"instruction": "Who coordinates deputation processing across departments?", "input": "", "output": "HR Department"}
+{"instruction": "Is the routing of deputation files centralised?", "input": "", "output": "Yes, via HR"}
+{"instruction": "Who must handle documentation and communication of deputation?", "input": "", "output": "HR Department"}
+{"instruction": "Are all deputation cases subject to internal HR procedures?", "input": "", "output": true}
+{"instruction": "Does HR provide clearance for initiating deputation?", "input": "", "output": true}
+{"instruction": "Is this clause applicable across all executive and non-executive levels?", "input": "", "output": true}
+{"instruction": "Who is authorized to fix pay for newly appointed executives?", "input": "", "output": "Concerned HR Officer not below E-4"}
+{"instruction": "What grade must an HR officer be to fix pay for executives on first appointment?", "input": "", "output": "E-4 or above"}
+{"instruction": "Who handles initial pay fixation for executive-level appointees?", "input": "", "output": "HR Officer not below E-4"}
+{"instruction": "Which HR authority finalizes first pay of new executives?", "input": "", "output": "HR Officer not below E-4"}
+{"instruction": "Who processes salary fixation for executives joining the company?", "input": "", "output": "HR Officer not below E-4"}
+{"instruction": "Who fixes pay for new non-executive appointments?", "input": "", "output": "Concerned HR Officer not below E-2"}
+{"instruction": "Which HR official is responsible for pay fixation of non-executive recruits?", "input": "", "output": "HR Officer not below E-2"}
+{"instruction": "Who is delegated to handle pay determination for non-executives?", "input": "", "output": "HR Officer not below E-2"}
+{"instruction": "Who is accountable for deciding initial salary for non-executive employees?", "input": "", "output": "HR Officer not below E-2"}
+{"instruction": "Which HR grade level is minimum for pay processing in non-executive recruitment?", "input": "", "output": "E-2"}
+{"instruction": "Is pay fixation guided by specific pay rules?", "input": "", "output": "Yes, as per pay rules"}
+{"instruction": "Are initial pay decisions to follow company pay rules?", "input": "", "output": true}
+{"instruction": "Are pay rules mandatory for fixing salaries of new recruits?", "input": "", "output": true}
+{"instruction": "Can an HR officer bypass pay rules while fixing pay?", "input": "", "output": false}
+{"instruction": "Are executive and non-executive pay fixation governed by different grade-level authorities?", "input": "", "output": true}
+{"instruction": "Is finance department required to verify pay fixation?", "input": "", "output": true}
+{"instruction": "Does the finance department vet all pay fixation cases?", "input": "", "output": true}
+{"instruction": "Who verifies the correctness of initial pay fixation?", "input": "", "output": "Finance Department"}
+{"instruction": "Is pay fixation subject to financial vetting?", "input": "", "output": true}
+{"instruction": "Can HR finalize pay without finance vetting?", "input": "", "output": false}
+{"instruction": "Are all pay fixation cases routed through finance for vetting?", "input": "", "output": true}
+{"instruction": "Can E-3 grade HR officer fix executive pay?", "input": "", "output": "No, minimum E-4 required"}
+{"instruction": "Can an E-1 grade HR officer fix pay for new non-executives?", "input": "", "output": "No, minimum E-2 required"}
+{"instruction": "Who must approve executive pay fixation before finance vetting?", "input": "", "output": "HR Officer not below E-4"}
+{"instruction": "Does Clause 9 apply to first-time appointments only?", "input": "", "output": true}
+{"instruction": "What page number marks the first page of Section II?", "input": "", "output": "Page 43"}
+{"instruction": "Section II starts from which page?", "input": "", "output": "Page 43"}
+{"instruction": "The start of Personnel Powers is recorded on which page?", "input": "", "output": "Page 43"}
+{"instruction": "Where in the PDF does Section II begin?", "input": "", "output": "Page 43"}
+{"instruction": "From what page does Section II (Personnel Powers) commence?", "input": "", "output": "Page 43"}
+{"instruction": "Section II ends on what page?", "input": "", "output": "Page 45"}
+{"instruction": "What is the final page for Section II?", "input": "", "output": "Page 45"}
+{"instruction": "Where does Section II conclude?", "input": "", "output": "Page 45"}
+{"instruction": "Up to which page is Section II documented?", "input": "", "output": "Page 45"}
+{"instruction": "Section II closes on which page?", "input": "", "output": "Page 45"}
+{"instruction": "On which page is Clause 1 found?", "input": "", "output": "Page 43"}
+{"instruction": "Clause 1 is documented on which page?", "input": "", "output": "Page 43"}
+{"instruction": "Where can I find Clause 1 in the DOP document?", "input": "", "output": "Page 43"}
+{"instruction": "What is the page location of Clause 1?", "input": "", "output": "Page 43"}
+{"instruction": "Which page lists Clause 1?", "input": "", "output": "Page 43"}
+{"instruction": "On which page is Clause 2 found?", "input": "", "output": "Page 43"}
+{"instruction": "Clause 2 is documented on which page?", "input": "", "output": "Page 43"}
+{"instruction": "Where can I find Clause 2 in the DOP document?", "input": "", "output": "Page 43"}
+{"instruction": "What is the page location of Clause 2?", "input": "", "output": "Page 43"}
+{"instruction": "Which page lists Clause 2?", "input": "", "output": "Page 43"}
+{"instruction": "Where is Clause 3 located in the PDF?", "input": "", "output": "Page 43"}
+{"instruction": "Clause 3 belongs to which page?", "input": "", "output": "Page 43"}
+{"instruction": "What is the page number for Clause 3?", "input": "", "output": "Page 43"}
+{"instruction": "On what page is Clause 3?", "input": "", "output": "Page 43"}
+{"instruction": "Clause 3 appears on which document page?", "input": "", "output": "Page 43"}
+{"instruction": "Which page contains Clause 4?", "input": "", "output": "Page 43"}
+{"instruction": "Where in the file is Clause 4 found?", "input": "", "output": "Page 43"}
+{"instruction": "Clause 4 is located on what page?", "input": "", "output": "Page 43"}
+{"instruction": "Clause 4 can be found on which page?", "input": "", "output": "Page 43"}
+{"instruction": "What document page shows Clause 4?", "input": "", "output": "Page 43"}
+{"instruction": "Clause 5 is recorded on which page?", "input": "", "output": "Page 43"}
+{"instruction": "What page does Clause 5 belong to?", "input": "", "output": "Page 43"}
+{"instruction": "Where is Clause 5 documented in the PDF?", "input": "", "output": "Page 43"}
+{"instruction": "Which page outlines Clause 5?", "input": "", "output": "Page 43"}
+{"instruction": "What is the page reference for Clause 5?", "input": "", "output": "Page 43"}
+{"instruction": "What is the page number for Clause 6?", "input": "", "output": "Page 43"}
+{"instruction": "Clause 6 appears on what page?", "input": "", "output": "Page 43"}
+{"instruction": "Where can Clause 6 be found?", "input": "", "output": "Page 43"}
+{"instruction": "Clause 6 belongs to which part of the document?", "input": "", "output": "Page 43"}
+{"instruction": "Clause 6 is included on which page?", "input": "", "output": "Page 43"}
+{"instruction": "On which page is Clause 7 found?", "input": "", "output": "Page 43"}
+{"instruction": "Clause 7 is documented on which page?", "input": "", "output": "Page 43"}
+{"instruction": "Where can I find Clause 7 in the DOP document?", "input": "", "output": "Page 43"}
+{"instruction": "What is the page location of Clause 7?", "input": "", "output": "Page 43"}
+{"instruction": "Which page lists Clause 7?", "input": "", "output": "Page 43"}
+{"instruction": "Clause 8 is on which page?", "input": "", "output": "Page 43"}
+{"instruction": "What is the page number for Clause 8?", "input": "", "output": "Page 43"}
+{"instruction": "Clause 8 is recorded on what page?", "input": "", "output": "Page 43"}
+{"instruction": "Where can Clause 8 be found?", "input": "", "output": "Page 43"}
+{"instruction": "What document page includes Clause 8?", "input": "", "output": "Page 43"}
+{"instruction": "On which page is Clause 9 found?", "input": "", "output": "Page 43"}
+{"instruction": "Clause 9 appears on which page?", "input": "", "output": "Page 43"}
+{"instruction": "Where in the PDF can Clause 9 be located?", "input": "", "output": "Page 43"}
+{"instruction": "What is the location of Clause 9?", "input": "", "output": "Page 43"}
+{"instruction": "Clause 9 belongs to which page?", "input": "", "output": "Page 43"}
+{"instruction": "On which page does Clause 10 appear?", "input": "", "output": "Page 44"}
+{"instruction": "Clause 10 is documented on which page?", "input": "", "output": "Page 44"}
+{"instruction": "What is the page reference for Clause 10?", "input": "", "output": "Page 44"}
+{"instruction": "Where in the file is Clause 10 found?", "input": "", "output": "Page 44"}
+{"instruction": "What document page contains Clause 10?", "input": "", "output": "Page 44"}
+{"instruction": "Clause 11 appears on which page?", "input": "", "output": "Page 44"}
+{"instruction": "Clause 11 belongs to which page?", "input": "", "output": "Page 44"}
+{"instruction": "On what page is Clause 11 recorded?", "input": "", "output": "Page 44"}
+{"instruction": "Clause 11 can be found on which page?", "input": "", "output": "Page 44"}
+{"instruction": "Where in the DOP is Clause 11?", "input": "", "output": "Page 44"}
+{"instruction": "Clause 12 appears on what page?", "input": "", "output": "Page 44"}
+{"instruction": "What is the page number for Clause 12?", "input": "", "output": "Page 44"}
+{"instruction": "Where is Clause 12 found in the PDF?", "input": "", "output": "Page 44"}
+{"instruction": "What document page displays Clause 12?", "input": "", "output": "Page 44"}
+{"instruction": "On which page is Clause 12 included?", "input": "", "output": "Page 44"}
+{"instruction": "Clause 13 is on which page?", "input": "", "output": "Page 44"}
+{"instruction": "What is the page location of Clause 13?", "input": "", "output": "Page 44"}
+{"instruction": "Where is Clause 13 mentioned?", "input": "", "output": "Page 44"}
+{"instruction": "Which page in the document shows Clause 13?", "input": "", "output": "Page 44"}
+{"instruction": "Clause 13 can be found on what page?", "input": "", "output": "Page 44"}
+{"instruction": "Clause 14 is located on which page?", "input": "", "output": "Page 44"}
+{"instruction": "Where is Clause 14 in the document?", "input": "", "output": "Page 44"}
+{"instruction": "Clause 14 is documented on what page?", "input": "", "output": "Page 44"}
+{"instruction": "What is the PDF page number for Clause 14?", "input": "", "output": "Page 44"}
+{"instruction": "On which page is Clause 14 shown?", "input": "", "output": "Page 44"}
+{"instruction": "Clause 15 belongs to which page?", "input": "", "output": "Page 44"}
+{"instruction": "Clause 15 appears on what document page?", "input": "", "output": "Page 44"}
+{"instruction": "Where can Clause 15 be located?", "input": "", "output": "Page 44"}
+{"instruction": "Which page includes Clause 15?", "input": "", "output": "Page 44"}
+{"instruction": "Clause 15 is included on what page?", "input": "", "output": "Page 44"}
+{"instruction": "Clause 16 appears on which page?", "input": "", "output": "Page 44"}
+{"instruction": "What is the document page for Clause 16?", "input": "", "output": "Page 44"}
+{"instruction": "Clause 16 is shown on what page?", "input": "", "output": "Page 44"}
+{"instruction": "Where is Clause 16 written?", "input": "", "output": "Page 44"}
+{"instruction": "On which page do I find Clause 16?", "input": "", "output": "Page 44"}
+{"instruction": "Clause 17 is located on which page?", "input": "", "output": "Page 44"}
+{"instruction": "Where does Clause 17 appear?", "input": "", "output": "Page 44"}
+{"instruction": "What page number includes Clause 17?", "input": "", "output": "Page 44"}
+{"instruction": "Clause 17 is found on which document page?", "input": "", "output": "Page 44"}
+{"instruction": "What is the location of Clause 17 in the file?", "input": "", "output": "Page 44"}
+{"instruction": "Clause 18 appears on what page?", "input": "", "output": "Page 45"}
+{"instruction": "What is the page number for Clause 18?", "input": "", "output": "Page 45"}
+{"instruction": "Where is Clause 18 documented?", "input": "", "output": "Page 45"}
+{"instruction": "Clause 18 is included on which page?", "input": "", "output": "Page 45"}
+{"instruction": "Which page shows Clause 18?", "input": "", "output": "Page 45"}
+{"instruction": "Clause 19 is on what page?", "input": "", "output": "Page 45"}
+{"instruction": "Where in the PDF can I find Clause 19?", "input": "", "output": "Page 45"}
+{"instruction": "Which page records Clause 19?", "input": "", "output": "Page 45"}
+{"instruction": "On which document page is Clause 19?", "input": "", "output": "Page 45"}
+{"instruction": "What is the document page for Clause 19?", "input": "", "output": "Page 45"}
 {"instruction": "Which officials are authorized to approve land acquisition in NEEPCO?", "input": "", "output": "Authorized officials:\n1. Director (P) - For Corporate Offices (Guwahati/Shillong/New Delhi/Kolkata)\n2. ED in charge of Project - For project sites\n3. HOP not below rank E-8 - For project sites\n"}
 {"instruction": "Who has the authority to acquire land or file requisition with Land Acquiring Authorities in NEEPCO?", "input": "", "output": "Full powers to acquire land or file requisition with Land Acquiring Authorities are delegated to:\n1. Director (P) for Corporate Office (Guwahati / Shillong / New Delhi / Kolkata).\n2. ED in charge of Project / HOP not below the rank of E-8.\nConditions:\n- Subject to provision in the Capital budget.\n- As per requirements of the project.\n- Within approved project estimates and any award for payment of compensation.\n- If involving private entities, the process must go through concerned Government authorities.\n- Land acquisition must be processed by the HOD/HOP of the respective location in association with the Corporate Land Section.\n"}
 {"instruction": "What is the extent of power granted for acquiring land in NEEPCO?", "input": "", "output": "Full powers are granted for acquiring land and filing requisition with Land Acquiring Authorities. Authorized officials include:\n- Director (P) for Corporate Offices (Guwahati / Shillong / New Delhi / Kolkata)\n- ED in charge of Project / HOP not below rank E-8\nSubject to:\n- Capital budget provision\n- Approved project estimates\n- Compensation awards\n- Process routing through Government authorities for private acquisitions\n- Coordination with Corporate Land Section by HOD/HOP\n"}
@@ -40,16 +623,16 @@
 {"instruction": "What conditions must be met for land acquisition by NEEPCO officials?", "input": "", "output": "The conditions for land acquisition include:\n- Provision must exist in the Capital budget\n- Acquisition should align with project requirements\n- Must stay within approved estimates and awards\n- Private land purchase must be routed through proper Government channels\n- HOD/HOP must coordinate with Corporate Land Section for site-specific acquisition\n"}
 {"instruction": "Who can approve land requisition filings in NEEPCO?", "input": "", "output": "The following officials have full powers to approve land requisition filings:\n- Director (P) for Corporate Offices (Guwahati / Shillong / New Delhi / Kolkata)\n- ED in charge of Project / HOP not below E-8 rank\nThis authority is exercised with adherence to capital budget, project needs, cost estimates, and due governmental processes.\n"}
 {"instruction": "What is the process for acquiring land from private entities in NEEPCO?", "input": "", "output": "When land acquisition from private entities is required:\n- The process must be routed through the concerned Government authorities.\n- The acquisition should be handled by HOD/HOP of the respective site/location.\n- Coordination with the Corporate Land Section is mandatory.\n- Must comply with budget, estimate, and compensation award conditions.\n"}
-{"instruction": "Does Director (P) have full power for land acquisition in all corporate locations?", "input": "", "output": "Yes, Director (P) has full powers for land acquisition at corporate offices in Guwahati, Shillong, New Delhi, and Kolkata. The powers are subject to capital budget provision and other acquisition-related conditions.\n"}
-{"instruction": "Who can approve hiring of office or guest house accommodation at NEEPCO corporate offices?", "input": "", "output": "Full powers for hiring accommodation at Corporate Offices (Guwahati, Shillong, Kolkata, New Delhi, Tezpur) are vested in the Director (P), in consultation with Director (Finance).\n"}
+{"instruction": "Does Director (P) have full power for land acquisition in all corporate locations?", "input": "", "output": true}
+{"instruction": "Who can approve hiring of office or guest house accommodation at NEEPCO corporate offices?", "input": "", "output": "Full powers for hiring accommodation at Corporate Offices (Guwahati, Shillong, Kolkata, New Delhi, Tezpur) are vested in the Director (P), in consultation with Director (Finance)."}
 {"instruction": "What is the delegation of power for hiring storage space in NEEPCO project sites?", "input": "", "output": "At power stations, projects, and S&I units:\n- Full powers are delegated to Director (P), in consultation with Director (Finance).\n- The concerned Executive Director (ED) is authorised to approve hiring up to ₹1.00 lakh per month per case.\n"}
 {"instruction": "Who has the authority to sanction hiring of transit camps in project locations?", "input": "", "output": "For project locations, power stations, and S&I units:\n- Full powers: Director (P), in consultation with Director (Finance).\n- Up to ₹1 lakh/month per case: Concerned ED.\n"}
-{"instruction": "Is there a monetary limit for Executive Directors in approving accommodation hiring?", "input": "", "output": "Yes, Executive Directors are authorised to approve hiring of accommodation (office, guest house, storage, etc.) up to ₹1.00 lakh per month per case.\n"}
-{"instruction": "Can ED approve guest house hiring at a power station under NEEPCO?", "input": "", "output": "Yes, the concerned Executive Director can approve hiring of guest house accommodation at power stations, up to a monthly cost of ₹1.00 lakh per case.\n"}
-{"instruction": "What are the powers of Director (P) regarding hiring of field hostels at corporate offices?", "input": "", "output": "Director (P) has full powers to approve hiring of field hostels and other accommodation types at corporate offices (Guwahati, Shillong, Kolkata, New Delhi, Tezpur), in consultation with Director (Finance).\n"}
+{"instruction": "Is there a monetary limit for Executive Directors in approving accommodation hiring?", "input": "", "output": "Yes, Executive Directors are authorised to approve hiring of accommodation (office, guest house, storage, etc.) up to ₹1.00 lakh per month per case."}
+{"instruction": "Can ED approve guest house hiring at a power station under NEEPCO?", "input": "", "output": "Yes, the concerned Executive Director can approve hiring of guest house accommodation at power stations, up to a monthly cost of ₹1.00 lakh per case."}
+{"instruction": "What are the powers of Director (P) regarding hiring of field hostels at corporate offices?", "input": "", "output": "Director (P) has full powers to approve hiring of field hostels and other accommodation types at corporate offices (Guwahati, Shillong, Kolkata, New Delhi, Tezpur), in consultation with Director (Finance)."}
 {"instruction": "Who is responsible for approving hiring of storage space at S&I units in NEEPCO?", "input": "", "output": "At S&I units:\n- Full power: Director (P), in consultation with Director (Finance)\n- Up to ₹1 lakh/month per case: Concerned ED\n"}
-{"instruction": "What authority does D(F) have in hiring decisions for accommodation in NEEPCO?", "input": "", "output": "Director (Finance) is involved in all hiring decisions at both corporate and project levels, as consultation with D(F) is mandatory for the exercise of full powers by Director (P).\n"}
-{"instruction": "Who can approve accommodation hiring in Tezpur office of NEEPCO?", "input": "", "output": "For the Tezpur Corporate Office, Director (P) has full powers for hiring accommodation, in consultation with Director (Finance).\n"}
+{"instruction": "What authority does D(F) have in hiring decisions for accommodation in NEEPCO?", "input": "", "output": "Director (Finance) is involved in all hiring decisions at both corporate and project levels, as consultation with D(F) is mandatory for the exercise of full powers by Director (P)."}
+{"instruction": "Who can approve accommodation hiring in Tezpur office of NEEPCO?", "input": "", "output": "For the Tezpur Corporate Office, Director (P) has full powers for hiring accommodation, in consultation with Director (Finance)."}
 {"instruction": "What is the process for approving hiring of transit camps at NEEPCO project sites?", "input": "", "output": "The approval process is as follows:\n- Director (P), in consultation with Director (Finance), has full powers.\n- Concerned EDs may approve hiring up to ₹1 lakh per month per case.\n"}
 {"instruction": "What authority does D(F) have in hiring decisions for accommodation in NEEPCO?", "input": "", "output": "Director (Finance) plays a key advisory role in all accommodation hiring for corporate offices. \nApproval from Director (P) is contingent on consultation with D(F), ensuring financial concurrence.\n"}
 {"instruction": "Can ED approve guest house hiring at a power station under NEEPCO?", "input": "", "output": "Yes, the concerned Executive Director can approve guest house hiring at project sites, \nbut only up to a cost of ₹1.00 lakh per month per case.\n"}
@@ -62,12 +645,12 @@
 {"instruction": "What is the extent of power for allowing NEEPCO buildings to be used on rent?", "input": "", "output": "The extent of power is full for authorized officials:\n- HOP (E-8 and above) at Projects/Plants\n- HOD (Estate Service, E-8 and above) at Corporate Office\n"}
 {"instruction": "Who approves renting out NEEPCO guest houses in Shillong?", "input": "", "output": "The Head of Department (Estate Service), not below E-8 rank, is authorized to approve rental use of company buildings, including guest houses, in Shillong corporate office"}
 {"instruction": "Is HOP authorized to rent out NEEPCO storage facilities at plants?", "input": "", "output": "Yes, the Head of Project (HOP) not below the rank of E-8 has full power to authorize rental use of any company building, including storage spaces, at plants"}
-{"instruction": "Can an officer below E-8 allow use of NEEPCO buildings on rent?", "input": "", "output": "No, only officials not below the rank of E-8 are authorized:\n- HOP at Projects/Plants\n- HOD (Estate Service) at Corporate Office\n"}
+{"instruction": "Can an officer below E-8 allow use of NEEPCO buildings on rent?", "input": "", "output": false}
 {"instruction": "What department handles rental permissions for buildings in NEEPCO’s New Delhi office?", "input": "", "output": "The Estate Service department is responsible. The Head of Department (Estate Service) not below E-8 rank can grant permission for renting company buildings in the New Delhi office"}
 {"instruction": "What compliance is needed for leasing NEEPCO company buildings?", "input": "", "output": "All legal formalities related to lease agreements must be strictly adhered to. This includes documentation, approvals, and any relevant statutory compliance"}
 {"instruction": "Is there any rank condition for officials allowing building leases in NEEPCO?", "input": "", "output": "Yes, only officials of E-8 rank or above are authorized:\n- Head of Project (HOP) for plants/projects\n- Head of Department (Estate Services) for corporate offices\n"}
 {"instruction": "Who approves renting out NEEPCO guest houses in Shillong?", "input": "", "output": "The Head of Department (Estate Service), not below E-8 rank, is authorized to approve rental use of company buildings, including guest houses, in Shillong corporate office."}
-{"instruction": "Is HOP authorized to rent out NEEPCO storage facilities at plants?", "input": "", "output": "Yes, the Head of Project (HOP) not below the rank of E-8 has full power to authorize rental use of any company building, including storage spaces, at plants."}
+{"instruction": "Is HOP authorized to rent out NEEPCO storage facilities at plants?", "input": "", "output": true}
 {"instruction": "What department handles rental permissions for buildings in NEEPCO’s New Delhi office?", "input": "", "output": "The Estate Service department is responsible. The Head of Department (Estate Service) not below E-8 rank can grant permission for renting company buildings in the New Delhi office."}
 {"instruction": "Is there any rank condition for officials allowing building leases in NEEPCO?", "input": "", "output": "Yes, only officials of E-8 rank or above are authorized:\n- Head of Project (HOP) for plants/projects\n- Head of Department (Estate Services) for corporate offices\n"}
 {"instruction": "Who is authorized to approve building repairs at NEEPCO Corporate Offices?", "input": "", "output": "At Corporate Offices (Guwahati, Shillong, Kolkata, New Delhi):\n- Full powers are vested in the Executive Director (ED).\n- The HOD in charge of Estate Service (not below E-8) is authorized up to ₹20 Lakh per annum for respective locations.\n"}
@@ -87,6 +670,294 @@
 {"instruction": "Who can approve ₹25L repair work in Kolkata office?", "input": "", "output": "For Corporate Offices:\n- Only the ED has full powers (no limit).\n- HOD (Estate) ≥E-8 can approve up to ₹20L/year.  \nAnswer: ED must approve ₹25L (exceeds HOD's ₹20L limit).\n"}
 {"instruction": "Can Guwahati HOD-Estate approve ₹15L for annual maintenance?", "input": "", "output": "Yes, HOD (Estate Services) ≥E-8 can approve up to ₹20L/year for corporate offices.  \n₹15L is within their delegated limit.\n"}
 {"instruction": "Who approves ₹60L maintenance at a hydro project?", "input": "", "output": "Only the ED can approve ₹60L for projects:  \n- Exceeds HOP's ₹50L/year limit.  \n- ED holds full powers regardless of amount.\n"}
-{"instruction": "What if a project needs ₹55L repair but ED is unavailable?", "input": "", "output": "Options:  \n1. Split into ₹50L (HOP-approved) + ₹5L (separate approval).  \n2. Wait for ED’s availability.  \n3. Emergency provisions (if any) not stated in this clause.\n"}
-{"instruction": "What is the extent of financial power granted to the Director (Finance) for operating and closing bank accounts?", "input": "", "output": "The Director (Finance) has full power for operation and closing of bank accounts, including cash credit and approving the authorization matrix."}
-{"instruction": "In an organization, who is authorized to fully approve the authorization matrix for back account operations, and under what title is this pwoer granted?", "input": "", "output": "The Director (Finance) is authorized with full power to approve the authorization matrix for bank account operations."}
+{"instruction": "What if a project needs ₹55L repair but ED is unavailable?", "input": "", "output": "1. Split into ₹50L (HOP-approved) + ₹5L (separate approval).  \n2. Wait for ED’s availability.  \n3. Emergency provisions (if any) not stated in this clause.\n"}
+{"instruction": "Who has full powers for purchasing furniture and appliances in NEEPCO?", "input": "", "output": "Full powers are held by Director (P) and Director (T)."}
+{"instruction": "Can Director (Technical) approve unlimited furniture purchases?", "input": "", "output": "Yes, provided the purchase conforms to the laid-down furniture scales."}
+{"instruction": "Who can approve purchases up to ₹25 lakh annually?", "input": "", "output": "Executive Directors (EDs) are authorized to approve up to ₹25 lakh per annum."}
+{"instruction": "Can HOP approve ₹22 lakh worth of DTH equipment for a guest house?", "input": "", "output": "No, HOPs can only approve up to ₹20 lakh per annum; amounts beyond that require higher-level approval."}
+{"instruction": "What is the financial limit of CGM for purchasing canteen equipment?", "input": "", "output": "CGM (E-8 and above) can approve up to ₹20 lakh per annum."}
+{"instruction": "What guidelines must purchases of furniture and fixtures follow in NEEPCO?", "input": "", "output": "All purchases must conform to the scales of furniture and other items laid down by NEEPCO from time to time."}
+{"instruction": "Are there specific norms for recharges under DTH facility purchases?", "input": "", "output": "DTH recharges are allowed as part of approved items, but must follow prescribed norms and spending limits."}
+{"instruction": "Can an E-6 level officer approve furniture purchases in transit camps?", "input": "", "output": "No, only officers of grade E-8 and above are authorized."}
+{"instruction": "What rank is required to approve ₹20 lakh worth of appliances?", "input": "", "output": "CGM, HOP, or HOD not below grade E-8 can approve up to ₹20 lakh per annum."}
+{"instruction": "What is the difference between ED and HOD powers for furniture procurement?", "input": "", "output": "EDs can approve up to ₹25 lakh per annum, whereas CGM/HOP/HOD (≥E-8) are limited to ₹20 lakh per annum."}
+{"instruction": "What is the approval process for buying office appliances worth ₹18 lakh?", "input": "", "output": "If the official is CGM/HOP/HOD of E-8 or above, they can approve directly as it is within the ₹20 lakh annual limit."}
+{"instruction": "Can a CGM split a ₹30 lakh furniture order into two parts for approval?", "input": "", "output": "No, artificial splitting to bypass limits is irregular and not allowed under standard financial procedures."}
+{"instruction": "Can a HOP (E-9) approve ₹22L for canteen appliances?", "input": "", "output": "No, HOP/HOD ≥E-8 are capped at ₹20L/year.\nEither,\n1. Reduce purchase to ₹20L, or\n2. Escalate to CGM (₹25L limit) or ED (full powers).\n"}
+{"instruction": "Are laptops considered 'equipment' under this clause?", "input": "", "output": "- IT hardware may have separate delegation rules.\n- Verify with IT procurement policy.\n"}
+{"instruction": "Can ₹20L be split across multiple HOP approvals?", "input": "", "output": "Clause implies ₹20L is the annual cumulative limit per HOP/HOD.\nSplitting may be allowed if total ≤₹20L/year.\n"}
+{"instruction": "What does 'time to time' mean in this context?", "input": "", "output": "1.Delegation limits may be revised periodically.\n2.Approvals may require ad-hoc reviews.\nClarification needed from Finance Dept.\n"}
+{"instruction": "What if urgent furniture purchase exceeds HOP's limit?", "input": "", "output": "1.Seek CGM/ED's emergency approval.\n2.Procure essentials within ₹20L, defer balance.\nClause doesn't specify emergency protocols.\n"}
+{"instruction": "Who has full powers to approve IT infrastructure purchases in NEEPCO?", "input": "", "output": "Director (Technical) and ED (IT) have full powers to approve IT and communication infrastructure procurement."}
+{"instruction": "Can a HOP approve ₹30 lakh worth of computer hardware?", "input": "", "output": false}
+{"instruction": "What is the annual financial limit for IT procurement by a HOD in Guwahati?", "input": "", "output": "A HOD in the grade of E-8 in Guwahati can approve purchases up to ₹25 lakh per annum."}
+{"instruction": "Is consultation with ED (IT) mandatory for all IT purchases?", "input": "", "output": true}
+{"instruction": "What must be done after IT procurement is completed?", "input": "", "output": "All purchases must be reported periodically to the HOD (IT) at the Corporate Office for record-keeping."}
+{"instruction": "Does this clause cover software and peripherals?", "input": "", "output": true}
+{"instruction": "Can a HOD in Shillong independently approve software purchases?", "input": "", "output": false}
+{"instruction": "What happens if a purchase exceeds ₹50 lakh?", "input": "", "output": "The clause defines ₹50 lakh as a general cap; anything beyond this likely requires approval at the highest level."}
+{"instruction": "Who can approve IT purchases at project stations?", "input": "", "output": "HOPs in the grade of E-8 can approve up to ₹25 lakh per annum, in consultation with ED (IT)."}
+{"instruction": "Are there reporting requirements for IT software procurement?", "input": "", "output": "Yes, all hardware and software procurements must be periodically reported to the HOD (IT) at the Corporate Office."}
+{"instruction": "What grade is required to approve IT purchases up to ₹25 lakh?", "input": "", "output": "Officials must be of grade E-8 (HOD or HOP) to approve purchases up to ₹25 lakh per annum."}
+{"instruction": "Does this clause apply to consumables like printer cartridges?", "input": "", "output": true}
+{"instruction": "Can ED (IT) approve ₹45 lakh worth of networking hardware?", "input": "", "output": true}
+{"instruction": "Who holds full authority to ensure compliance with audit observations?", "input": "", "output": "Director (Finance), ED (Finance)"}
+{"instruction": "What is the responsibility of Director (Finance) under Clause 11?", "input": "", "output": "To implement all audit and government financial compliance requirements"}
+{"instruction": "Can ED (Finance) independently implement internal audit recommendations?", "input": "", "output": "Yes, ED (F) has full powers to manage operational-level compliance"}
+{"instruction": "Who must act on directions from the Comptroller & Auditor General (C&AG)?", "input": "", "output": "Director (Finance), ED (Finance)"}
+{"instruction": "Is CMD involved in Clause 11 execution?", "input": "", "output": "No, this clause specifically delegates to Director (Finance) and ED (Finance)"}
+{"instruction": "Who is responsible for responding to DPE financial circulars?", "input": "", "output": "Director (Finance), ED (Finance)"}
+{"instruction": "What authority does ED (Finance) have in audit compliance?", "input": "", "output": "Full powers to act on audit observations at the operational level"}
+{"instruction": "Who ensures follow-up actions on statutory audit findings?", "input": "", "output": "Director (Finance), ED (Finance)"}
+{"instruction": "What is the scope of Clause 11?", "input": "", "output": "Ensures compliance with audit reports and government financial directives"}
+{"instruction": "Who can take corrective financial actions based on audit flags?", "input": "", "output": "Director (Finance), ED (Finance)"}
+{"instruction": "Can GM (Finance) issue responses to government audit directions?", "input": "", "output": "No, not authorized under Clause 11"}
+{"instruction": "Is Clause 11 related to day-to-day accounting operations?", "input": "", "output": "No, it pertains to compliance with audit and government directives"}
+{"instruction": "Can Director (Finance) implement C&AG’s financial directions?", "input": "", "output": "Yes, full powers are delegated for such compliance"}
+{"instruction": "What are ED (Finance)’s duties under Clause 11?", "input": "", "output": "To implement and ensure adherence to audit and government financial instructions"}
+{"instruction": "Is audit compliance centralized or delegated in Clause 11?", "input": "", "output": "Delegated to Director (Finance) and ED (Finance)"}
+{"instruction": "Who handles implementation of internal audit recommendations?", "input": "", "output": "ED (Finance) and Director (Finance)"}
+{"instruction": "Are MoF (Ministry of Finance) circulars covered under Clause 11?", "input": "", "output": true}
+{"instruction": "What kind of audits are covered in Clause 11?", "input": "", "output": "Statutory, internal, and C&AG audits"}
+{"instruction": "Can ED (Finance) act independently on audit findings?", "input": "", "output": true}
+{"instruction": "Who ensures the finance wing’s compliance with audit directives?", "input": "", "output": "Director (Finance), ED (Finance)"}
+{"instruction": "Who has the full power to operate bank accounts and issue cheques?", "input": "", "output": "CMD: Full power\nDirector (Finance): Full power\nED (Finance): Full power\nGM (F): Full power\n"}
+{"instruction": "What is the maximum transaction limit for a DGM (Finance) when issuing RTGS or NEFT?", "input": "", "output": "₹50 lakh per transaction"}
+{"instruction": "Can a Sr. Manager (Finance) authorize a cheque worth ₹15 lakh?", "input": "", "output": "No, the limit for Sr. Manager (F) is ₹10 lakh per transaction."}
+{"instruction": "Is the Manager (Finance) authorized to operate the LOC system for payments up to ₹5 lakh?", "input": "", "output": "Yes, Manager (F) can operate for up to ₹5 lakh per transaction."}
+{"instruction": "Who among the F&A officers can approve NEFT payments of ₹50 lakh?", "input": "", "output": "CMD, Director (Finance), ED (Finance), GM (F), and DGM (F) can approve. Sr. M and M(F) cannot."}
+{"instruction": "Who are allowed to authorize cheque payments above ₹50 lakh?", "input": "", "output": "CMD, Director (Finance), ED (Finance), GM (F)"}
+{"instruction": "What is the maximum financial authority given to Manager (Finance) for banking operations?", "input": "", "output": "₹5 lakh per transaction"}
+{"instruction": "Can ED (Finance) issue unlimited-value cheques?", "input": "", "output": "Yes, ED (Finance) has full powers."}
+{"instruction": "Who has power to authorize payment transactions through RTGS without upper cap?", "input": "", "output": "CMD, Director (Finance), ED (Finance), GM (F)"}
+{"instruction": "What is the authority of a Sr. Manager (Finance) in operating LOCs?", "input": "", "output": "Up to ₹10 lakh per transaction"}
+{"instruction": "What level of delegation is given to a GM (F) for cheque issuance?", "input": "", "output": "Full powers"}
+{"instruction": "Can Director (Finance) authorize a payment above ₹1 crore?", "input": "", "output": "Yes, Director (Finance) has full powers without a limit."}
+{"instruction": "Which officers are limited in their cheque issuance authority?", "input": "", "output": "DGM (F): ₹50 lakh\nSr. M (F): ₹10 lakh\nManager (F): ₹5 lakh\n"}
+{"instruction": "Who has the least financial authority under Clause 1 of Section IV?", "input": "", "output": "Manager (Finance) with ₹5 lakh per transaction limit."}
+{"instruction": "Is concurrence required for Sr. Manager (F) to process a ₹12 lakh NEFT?", "input": "", "output": "Yes, as the limit is ₹10 lakh, Sr. Manager cannot approve this alone."}
+{"instruction": "Can a DGM (F) sign cheques of ₹48 lakh without escalation?", "input": "", "output": "Yes, since it's within the ₹50 lakh limit."}
+{"instruction": "Who are the signatories for cheques under Clause 1?", "input": "", "output": "CMD, Director (Finance), ED (Finance), GM (F), DGM (F), Sr. Manager (F), Manager (F) with respective limits."}
+{"instruction": "What are the cheque signing powers for F&A wing officers as per Clause 1?", "input": "", "output": "CMD: Full power\nDirector (Finance): Full power\nED (Finance): Full power\nGM (F): Full power\nDGM (F): ₹50 lakh\nSr. Manager (F): ₹10 lakh\nManager (F): ₹5 lakh\n"}
+{"instruction": "Can GM (F) override the limit of DGM (F) for payment approvals?", "input": "", "output": "Yes, GM (F) has full powers without financial limits."}
+{"instruction": "Does Clause 1 allow Director (Finance) to authorize RTGS for any amount?", "input": "", "output": "Yes, Director (Finance) has full authority for all transactions."}
+{"instruction": "Who holds full authority to ensure compliance with audit observations?", "input": "", "output": "Director (Finance), ED (Finance)"}
+{"instruction": "What is the responsibility of Director (Finance) under Clause 11?", "input": "", "output": "To implement all audit and government financial compliance requirements"}
+{"instruction": "Can ED (Finance) independently implement internal audit recommendations?", "input": "", "output": "Yes, ED (F) has full powers to manage operational-level compliance"}
+{"instruction": "Who must act on directions from the Comptroller & Auditor General (C&AG)?", "input": "", "output": "Director (Finance), ED (Finance)"}
+{"instruction": "Is CMD involved in Clause 11 execution?", "input": "", "output": "No, this clause specifically delegates to Director (Finance) and ED (Finance)"}
+{"instruction": "Who is responsible for responding to DPE financial circulars?", "input": "", "output": "Director (Finance), ED (Finance)"}
+{"instruction": "What authority does ED (Finance) have in audit compliance?", "input": "", "output": "Full powers to act on audit observations at the operational level"}
+{"instruction": "Who ensures follow-up actions on statutory audit findings?", "input": "", "output": "Director (Finance), ED (Finance)"}
+{"instruction": "What is the scope of Clause 11?", "input": "", "output": "Ensures compliance with audit reports and government financial directives"}
+{"instruction": "Who can take corrective financial actions based on audit flags?", "input": "", "output": "Director (Finance), ED (Finance)"}
+{"instruction": "Can GM (Finance) issue responses to government audit directions?", "input": "", "output": "No, not authorized under Clause 11"}
+{"instruction": "Is Clause 11 related to day-to-day accounting operations?", "input": "", "output": "No, it pertains to compliance with audit and government directives"}
+{"instruction": "Can Director (Finance) implement C&AG’s financial directions?", "input": "", "output": "Yes, full powers are delegated for such compliance"}
+{"instruction": "What are ED (Finance)’s duties under Clause 11?", "input": "", "output": "To implement and ensure adherence to audit and government financial instructions"}
+{"instruction": "Is audit compliance centralized or delegated in Clause 11?", "input": "", "output": "Delegated to Director (Finance) and ED (Finance)"}
+{"instruction": "Who handles implementation of internal audit recommendations?", "input": "", "output": "ED (Finance) and Director (Finance)"}
+{"instruction": "Are MoF (Ministry of Finance) circulars covered under Clause 11?", "input": "", "output": true}
+{"instruction": "What kind of audits are covered in Clause 11?", "input": "", "output": "Statutory, internal, and C&AG audits"}
+{"instruction": "Can ED (Finance) act independently on audit findings?", "input": "", "output": true}
+{"instruction": "Who ensures the finance wing’s compliance with audit directives?", "input": "", "output": "Director (Finance), ED (Finance)"}
+{"instruction": "Who has the full power to operate bank accounts and issue cheques?", "input": "", "output": "CMD: Full power\nDirector (Finance): Full power\nED (Finance): Full power\nGM (F): Full power\n"}
+{"instruction": "What is the maximum transaction limit for a DGM (Finance) when issuing RTGS or NEFT?", "input": "", "output": "₹50 lakh per transaction"}
+{"instruction": "Can a Sr. Manager (Finance) authorize a cheque worth ₹15 lakh?", "input": "", "output": "No, the limit for Sr. Manager (F) is ₹10 lakh per transaction."}
+{"instruction": "Is the Manager (Finance) authorized to operate the LOC system for payments up to ₹5 lakh?", "input": "", "output": "Yes, Manager (F) can operate for up to ₹5 lakh per transaction."}
+{"instruction": "Who among the F&A officers can approve NEFT payments of ₹50 lakh?", "input": "", "output": "CMD, Director (Finance), ED (Finance), GM (F), and DGM (F) can approve. Sr. M and M(F) cannot."}
+{"instruction": "Who are allowed to authorize cheque payments above ₹50 lakh?", "input": "", "output": "CMD, Director (Finance), ED (Finance), GM (F)"}
+{"instruction": "What is the maximum financial authority given to Manager (Finance) for banking operations?", "input": "", "output": "₹5 lakh per transaction"}
+{"instruction": "Can ED (Finance) issue unlimited-value cheques?", "input": "", "output": "Yes, ED (Finance) has full powers."}
+{"instruction": "Who has power to authorize payment transactions through RTGS without upper cap?", "input": "", "output": "CMD, Director (Finance), ED (Finance), GM (F)"}
+{"instruction": "What is the authority of a Sr. Manager (Finance) in operating LOCs?", "input": "", "output": "Up to ₹10 lakh per transaction"}
+{"instruction": "What level of delegation is given to a GM (F) for cheque issuance?", "input": "", "output": "Full powers"}
+{"instruction": "Can Director (Finance) authorize a payment above ₹1 crore?", "input": "", "output": "Yes, Director (Finance) has full powers without a limit."}
+{"instruction": "Which officers are limited in their cheque issuance authority?", "input": "", "output": "DGM (F): ₹50 lakh\nSr. M (F): ₹10 lakh\nManager (F): ₹5 lakh\n"}
+{"instruction": "Who has the least financial authority under Clause 1 of Section IV?", "input": "", "output": "Manager (Finance) with ₹5 lakh per transaction limit."}
+{"instruction": "Is concurrence required for Sr. Manager (F) to process a ₹12 lakh NEFT?", "input": "", "output": "Yes, as the limit is ₹10 lakh, Sr. Manager cannot approve this alone."}
+{"instruction": "Can a DGM (F) sign cheques of ₹48 lakh without escalation?", "input": "", "output": "Yes, since it's within the ₹50 lakh limit."}
+{"instruction": "Who are the signatories for cheques under Clause 1?", "input": "", "output": "CMD, Director (Finance), ED (Finance), GM (F), DGM (F), Sr. Manager (F), Manager (F) with respective limits."}
+{"instruction": "What are the cheque signing powers for F&A wing officers as per Clause 1?", "input": "", "output": "CMD: Full power\nDirector (Finance): Full power\nED (Finance): Full power\nGM (F): Full power\nDGM (F): ₹50 lakh\nSr. Manager (F): ₹10 lakh\nManager (F): ₹5 lakh\n"}
+{"instruction": "Can GM (F) override the limit of DGM (F) for payment approvals?", "input": "", "output": "Yes, GM (F) has full powers without financial limits."}
+{"instruction": "Does Clause 1 allow Director (Finance) to authorize RTGS for any amount?", "input": "", "output": "Yes, Director (Finance) has full authority for all transactions."}
+{"instruction": "Who can exercise full powers for vetting financial proposals?", "input": "", "output": "Director (Finance), ED (Finance), GM (F)"}
+{"instruction": "What is the vetting limit for a DGM (Finance)?", "input": "", "output": "Upto ₹50 lakh per proposal"}
+{"instruction": "What is the authority limit of a Sr. Manager (Finance) in vetting financial proposals?", "input": "", "output": "Upto ₹10 lakh per proposal"}
+{"instruction": "Who is authorized to vet financial proposals worth ₹5 lakh?", "input": "", "output": "Manager (Finance) and above"}
+{"instruction": "Can a Manager (F) vet a ₹7 lakh proposal?", "input": "", "output": "No, the Manager’s limit is ₹5 lakh per proposal"}
+{"instruction": "What is the financial vetting limit for a GM (Finance)?", "input": "", "output": "Full powers — no upper limit"}
+{"instruction": "Is ED (Finance) allowed to vet proposals of ₹1 crore?", "input": "", "output": "Yes, ED (Finance) has full powers"}
+{"instruction": "Can a DGM (F) vet a proposal of ₹55 lakh?", "input": "", "output": "No, the DGM limit is ₹50 lakh per proposal"}
+{"instruction": "Who must vet a financial proposal of ₹60 lakh?", "input": "", "output": "GM (F), ED (F), or Director (Finance)"}
+{"instruction": "What is the highest vetting limit for Manager (Finance)?", "input": "", "output": "₹5 lakh per proposal"}
+{"instruction": "Who has financial vetting powers above ₹50 lakh?", "input": "", "output": "GM (F), ED (F), Director (Finance)"}
+{"instruction": "Can a Sr. Manager (Finance) approve a ₹12 lakh contract proposal?", "input": "", "output": "No, the limit is ₹10 lakh — higher approval needed"}
+{"instruction": "What roles have full authority to vet all financial proposals irrespective of value?", "input": "", "output": "Director (Finance), ED (Finance), GM (F)"}
+{"instruction": "Who is responsible for financial concurrence of small proposals under ₹5 lakh?", "input": "", "output": "Manager (F) and above"}
+{"instruction": "Is it necessary for Director (Finance) to vet every financial proposal?", "input": "", "output": "No, delegated officers may vet proposals within their limits"}
+{"instruction": "Which officer should vet a tender estimate of ₹45 lakh?", "input": "", "output": "DGM (F), GM (F), ED (F), or Director (F)"}
+{"instruction": "Can ED (Finance) override DGM (F)’s vetting decision?", "input": "", "output": "Yes, ED (Finance) has higher authority and full powers"}
+{"instruction": "What is the maximum financial vetting limit below GM (F) level?", "input": "", "output": "DGM (F) has up to ₹50 lakh limit"}
+{"instruction": "Can Manager (F) vet a capital investment estimate worth ₹4 lakh?", "input": "", "output": "Yes, within the ₹5 lakh limit"}
+{"instruction": "What is the delegated power of a Sr. Manager (Finance) in financial vetting?", "input": "", "output": "Upto ₹10 lakh per proposal"}
+{"instruction": "Who can sign financial concurrence notes without any monetary restriction?", "input": "", "output": "Director (Finance), ED (Finance), GM (F)"}
+{"instruction": "Can a DGM (Finance) sign a concurrence note for a ₹60 lakh proposal?", "input": "", "output": "No, the DGM limit is ₹50 lakh per proposal"}
+{"instruction": "Can a Sr. Manager (Finance) sign off a financial note for a ₹9 lakh estimate?", "input": "", "output": "Yes, Sr. Manager (F) can sign up to ₹10 lakh"}
+{"instruction": "What is the maximum value of concurrence note a Manager (Finance) can sign?", "input": "", "output": "₹5 lakh"}
+{"instruction": "Is it mandatory that the note being signed is vetted by the same officer?", "input": "", "output": "Yes, signing is allowed only for proposals vetted by the same officer within their limit"}
+{"instruction": "Who has the authority to sign financial concurrence notes above ₹50 lakh?", "input": "", "output": "GM (F), ED (F), Director (F)"}
+{"instruction": "Can an ED (Finance) sign a concurrence note for ₹1 crore?", "input": "", "output": "Yes, ED (Finance) has full powers"}
+{"instruction": "What is the financial limit for DGM (F) to sign concurrence notes?", "input": "", "output": "₹50 lakh per vetted proposal"}
+{"instruction": "What level of officer is needed to sign concurrence for ₹75 lakh contract proposal?", "input": "", "output": "GM (F), ED (F), or Director (F)"}
+{"instruction": "Can a Manager (F) sign a note vetted by Sr. Manager (F)?", "input": "", "output": "No, a note can only be signed if vetted by the same officer within their limit"}
+{"instruction": "Can Sr. Manager (F) sign off a ₹12 lakh concurrence?", "input": "", "output": "No, limit is ₹10 lakh"}
+{"instruction": "What is the signing power of GM (F)?", "input": "", "output": "Full powers — can sign any concurrence note"}
+{"instruction": "Can concurrence notes be signed by officers for proposals they didn’t vet?", "input": "", "output": "No, concurrence note must be signed by the officer who vetted the proposal"}
+{"instruction": "Who can sign off concurrence notes for projects over ₹1 crore?", "input": "", "output": "Director (Finance), ED (Finance), GM (F)"}
+{"instruction": "Can DGM (F) sign a ₹49 lakh note if they vetted it themselves?", "input": "", "output": "Yes, within ₹50 lakh limit"}
+{"instruction": "Can Director (Finance) sign any note regardless of amount?", "input": "", "output": "Yes, Director (Finance) has full powers"}
+{"instruction": "What is the signature limit for Sr. Manager (F) on vetted proposals?", "input": "", "output": "₹10 lakh per proposal"}
+{"instruction": "What is the maximum authority a Manager (F) has for signing concurrence notes?", "input": "", "output": "₹5 lakh per proposal vetted by self"}
+{"instruction": "Are there any financial restrictions for ED (Finance) on signing?", "input": "", "output": "No, ED (Finance) has full signing powers"}
+{"instruction": "Can a Manager (F) sign a financial note without vetting the proposal?", "input": "", "output": "No, signing is only valid after self-vetting"}
+{"instruction": "Who holds the full power to invest surplus funds in the company?", "input": "", "output": "CMD"}
+{"instruction": "What is the investment limit of Director (Finance) for surplus funds?", "input": "", "output": "₹25 crore"}
+{"instruction": "How much can the ED (Finance) invest from surplus funds?", "input": "", "output": "₹10 crore"}
+{"instruction": "Can ED (Finance) approve an investment of ₹12 crore from surplus cash?", "input": "", "output": "No, ED (F) is limited to ₹10 crore"}
+{"instruction": "Who is authorized to invest ₹20 crore of surplus funds?", "input": "", "output": "CMD, Director (Finance)"}
+{"instruction": "What is the maximum amount of surplus funds that Director (Finance) can handle without CMD’s involvement?", "input": "", "output": "₹25 crore"}
+{"instruction": "Can CMD approve a ₹100 crore investment of surplus funds?", "input": "", "output": "Yes, CMD has full powers with no financial limit"}
+{"instruction": "What is the role of ED (Finance) in investing surplus funds?", "input": "", "output": "ED (Finance) can invest up to ₹10 crore as per delegation"}
+{"instruction": "Can the Director (Finance) invest ₹30 crore in surplus funds?", "input": "", "output": "No, the limit is ₹25 crore"}
+{"instruction": "Who are authorized officers for investing surplus funds?", "input": "", "output": "CMD, Director (Finance), ED (Finance)"}
+{"instruction": "Can ED (Finance) take decisions on surplus fund investments above ₹10 crore?", "input": "", "output": "No, approval from higher authority is required"}
+{"instruction": "What is the maximum amount CMD can invest from company surplus funds?", "input": "", "output": "CMD has full powers, no upper limit"}
+{"instruction": "Are surplus fund investments restricted for CMD?", "input": "", "output": "No, CMD can approve any amount"}
+{"instruction": "If an investment of ₹9 crore is proposed, who can authorize it?", "input": "", "output": "ED (Finance), Director (Finance), CMD"}
+{"instruction": "Who must be involved in a ₹26 crore investment of surplus funds?", "input": "", "output": "CMD, as it exceeds Director (F)’s limit"}
+{"instruction": "Is the Director (Finance) allowed to bypass CMD for a ₹20 crore investment?", "input": "", "output": "Yes, ₹20 crore is within Director (F)’s ₹25 crore limit"}
+{"instruction": "Who can invest up to ₹10 crore from surplus funds without escalation?", "input": "", "output": "ED (Finance), Director (Finance), CMD"}
+{"instruction": "Does Clause 5 specify any policy restrictions on investments?", "input": "", "output": "Yes, investments must comply with approved corporate policies and DPE guidelines"}
+{"instruction": "Can a GM (Finance) invest surplus funds?", "input": "", "output": "No, Clause 5 only delegates investment powers to CMD, Director (F), and ED (F)"}
+{"instruction": "What are the delegated investment powers for surplus funds in Section IV?", "input": "", "output": "CMD: Full powers\nDirector (Finance): ₹25 crore\nED (Finance): ₹10 crore\n"}
+{"instruction": "Who has full powers for fixation of pay and allowances?", "input": "", "output": "Director (Finance), ED (Finance)"}
+{"instruction": "What is the financial limit for GM (Finance) in approving personal claims?", "input": "", "output": "Upto ₹5 lakh per transaction"}
+{"instruction": "Can GM (F) approve a medical claim of ₹6 lakh?", "input": "", "output": "No, GM (F)'s limit is ₹5 lakh — higher authority required"}
+{"instruction": "Who can approve pay fixation upon employee promotion?", "input": "", "output": "Director (Finance), ED (Finance), GM (F) (if within ₹5 lakh)"}
+{"instruction": "What level of claim value can ED (Finance) approve for retirement benefits?", "input": "", "output": "ED (F) has full powers — no financial cap"}
+{"instruction": "Can GM (F) approve LTC claims exceeding ₹5 lakh?", "input": "", "output": "No, claims above ₹5 lakh need ED (F) or Director (F) approval"}
+{"instruction": "Who is responsible for sanctioning final pension benefits?", "input": "", "output": "Director (Finance), ED (Finance), GM (F) up to ₹5 lakh"}
+{"instruction": "Can Director (Finance) approve any personal financial claim?", "input": "", "output": "Yes, Director (F) has full powers"}
+{"instruction": "What retirement benefit approvals fall under GM (F)’s authority?", "input": "", "output": "Any claim up to ₹5 lakh per case"}
+{"instruction": "Can a GM (Finance) approve travel allowance re-imbursement of ₹4.5 lakh?", "input": "", "output": "Yes, within the ₹5 lakh limit"}
+{"instruction": "What happens if a claim exceeds ₹5 lakh under Clause 6?", "input": "", "output": "It must be escalated to ED (F) or Director (F) for approval"}
+{"instruction": "Can ED (F) approve fixation of pay after re-employment?", "input": "", "output": "Yes, ED (F) has full powers"}
+{"instruction": "What is the role of Director (Finance) in sanctioning personal claims?", "input": "", "output": "Full authority — no financial ceiling"}
+{"instruction": "Is the ₹5 lakh limit for GM (F) applicable per month or per transaction?", "input": "", "output": "Per transaction"}
+{"instruction": "Can a GM (Finance) approve pension arrears of ₹5 lakh?", "input": "", "output": true}
+{"instruction": "Can ED (F) approve all types of personal financial claims?", "input": "", "output": "Yes, ED (F) has full powers under Clause 6"}
+{"instruction": "What claims require escalation beyond GM (F)?", "input": "", "output": "Any individual claim above ₹5 lakh"}
+{"instruction": "Are allowances and medical claims treated equally in Clause 6?", "input": "", "output": "Yes, both fall under personal claims"}
+{"instruction": "Who can approve all pay-related matters for retired employees?", "input": "", "output": "Director (Finance), ED (Finance), GM (F) (up to ₹5 lakh)"}
+{"instruction": "Can ED (Finance) fix the salary of a newly transferred employee?", "input": "", "output": "Yes, ED (F) has full powers for fixation of pay"}
+{"instruction": "Who has full authority to approve TA/DA reimbursements of any amount?", "input": "", "output": "Director (Finance), ED (Finance)"}
+{"instruction": "What is the maximum reimbursement limit GM (Finance) can approve for TA/DA?", "input": "", "output": "₹5 lakh per case"}
+{"instruction": "Can a GM (F) approve a travel reimbursement of ₹4.9 lakh?", "input": "", "output": "Yes, it is within the ₹5 lakh limit"}
+{"instruction": "Can a GM (F) approve a ₹6 lakh TA claim?", "input": "", "output": "No, claims above ₹5 lakh require ED (F) or Director (F)"}
+{"instruction": "Who is empowered to reimburse TA/DA claims above ₹5 lakh?", "input": "", "output": "ED (Finance), Director (Finance)"}
+{"instruction": "Can ED (F) approve international travel reimbursements?", "input": "", "output": "Yes, ED (F) has full powers under Clause 7"}
+{"instruction": "What is the per-case authority limit of GM (F) under Clause 7?", "input": "", "output": "₹5 lakh"}
+{"instruction": "Is the Director (Finance) authorized to approve all travel-related reimbursements?", "input": "", "output": "Yes, Director (F) has full powers"}
+{"instruction": "Can a ₹3 lakh TA/DA claim be approved by GM (F)?", "input": "", "output": true}
+{"instruction": "What authority does ED (Finance) have in TA/DA reimbursements?", "input": "", "output": "Full powers — no financial ceiling"}
+{"instruction": "Does the ₹5 lakh limit for GM (F) apply to the total bill or per item?", "input": "", "output": "Per case — overall total reimbursement claim"}
+{"instruction": "Who should approve a travel reimbursement bill worth ₹7 lakh?", "input": "", "output": "Director (Finance) or ED (Finance)"}
+{"instruction": "Can Director (F) approve all DA claims regardless of value?", "input": "", "output": true}
+{"instruction": "What is the role of GM (F) in travel reimbursement approvals?", "input": "", "output": "Can approve up to ₹5 lakh per claim"}
+{"instruction": "Is a GM (F) allowed to approve multiple ₹5 lakh TA bills?", "input": "", "output": "Yes, as long as each is a separate case"}
+{"instruction": "Can ED (F) approve any TA/DA reimbursement case without escalation?", "input": "", "output": true}
+{"instruction": "What reimbursement limit applies to travel bills under Clause 7?", "input": "", "output": "Director (Finance): Full powers\nED (Finance): Full powers\nGM (Finance): ₹5 lakh per case\n"}
+{"instruction": "Can a travel reimbursement for ₹2 lakh be approved by GM (F)?", "input": "", "output": "Yes, it is within their authority"}
+{"instruction": "What level of officer is needed to process high-value TA/DA reimbursements?", "input": "", "output": "ED (F) or Director (F) for amounts exceeding ₹5 lakh"}
+{"instruction": "What is the approval requirement for a ₹10 lakh TA reimbursement?", "input": "", "output": "Requires approval by ED (F) or Director (F)"}
+{"instruction": "Who has the full authority to approve medical reimbursement claims of any amount?", "input": "", "output": "Director (Finance), ED (Finance)"}
+{"instruction": "What is the limit for GM (Finance) in approving medical bills?", "input": "", "output": "₹5 lakh per case"}
+{"instruction": "Can a GM (F) approve a medical bill of ₹4.8 lakh?", "input": "", "output": "Yes, it is within the ₹5 lakh limit"}
+{"instruction": "Who must approve a medical reimbursement of ₹6 lakh?", "input": "", "output": "ED (Finance) or Director (Finance)"}
+{"instruction": "Can ED (Finance) approve any amount of medical reimbursement?", "input": "", "output": "Yes, ED (F) has full powers"}
+{"instruction": "Can Director (Finance) approve a ₹12 lakh medical claim?", "input": "", "output": "Yes, Director (Finance) has full authority"}
+{"instruction": "What is the maximum claim value GM (F) can process under Clause 8?", "input": "", "output": "₹5 lakh per case"}
+{"instruction": "Is a ₹7 lakh hospital reimbursement claim within the powers of GM (F)?", "input": "", "output": "No, it exceeds the ₹5 lakh limit"}
+{"instruction": "What authority level is required to process a ₹10 lakh medical reimbursement?", "input": "", "output": "ED (F) or Director (F)"}
+{"instruction": "Who can approve medical claims for employee’s dependents?", "input": "", "output": "GM (F) up to ₹5 lakh; ED (F) and Director (F) for higher amounts"}
+{"instruction": "Can multiple ₹5 lakh claims be approved by GM (F)?", "input": "", "output": "Yes, provided each case is independent"}
+{"instruction": "What is the role of Director (Finance) in medical reimbursement bills?", "input": "", "output": "Full powers — can approve all claims without financial limits"}
+{"instruction": "Can GM (F) approve ₹2 lakh for employee’s surgery costs?", "input": "", "output": "Yes, within the ₹5 lakh limit"}
+{"instruction": "Does Clause 8 restrict ED (F)’s authority in medical bills?", "input": "", "output": "No, ED (F) has full powers"}
+{"instruction": "Who has the least delegated authority under Clause 8?", "input": "", "output": "GM (F) — limited to ₹5 lakh per case"}
+{"instruction": "Can a GM (F) approve a ₹5.5 lakh medical reimbursement?", "input": "", "output": "No, it must be escalated to ED (F) or Director (F)"}
+{"instruction": "Who should approve a ₹9 lakh chemotherapy reimbursement?", "input": "", "output": "Director (F) or ED (F)"}
+{"instruction": "Is the ₹5 lakh limit for GM (F) per year or per case?", "input": "", "output": "Per case"}
+{"instruction": "Can Director (Finance) approve family member medical expenses?", "input": "", "output": "Yes, without any financial limit"}
+{"instruction": "What levels are authorized for all medical claims under Clause 8?", "input": "", "output": "Director (Finance): Full powers\nED (Finance): Full powers\nGM (Finance): ₹5 lakh per case\n"}
+{"instruction": "Who has the full authority to write off losses of any amount?", "input": "", "output": "CMD"}
+{"instruction": "What is the maximum limit of write-off power delegated to Director (Finance)?", "input": "", "output": "₹10 lakh per case"}
+{"instruction": "How much loss can ED (Finance) write off independently?", "input": "", "output": "₹5 lakh per case"}
+{"instruction": "Can CMD approve waiver of ₹50 lakh in outstanding claims?", "input": "", "output": "Yes, CMD has full powers"}
+{"instruction": "Can ED (F) write off a claim worth ₹7 lakh?", "input": "", "output": "No, ED (F) is limited to ₹5 lakh"}
+{"instruction": "Who is authorized to waive a financial claim of ₹9 lakh?", "input": "", "output": "Director (Finance) or CMD"}
+{"instruction": "What is the role of CMD in Clause 9?", "input": "", "output": "CMD has unrestricted power to write off or waive claims"}
+{"instruction": "Who should approve a waiver of ₹12 lakh in vendor dues?", "input": "", "output": "CMD"}
+{"instruction": "What happens if the write-off amount exceeds ₹10 lakh?", "input": "", "output": "CMD's approval is mandatory"}
+{"instruction": "Can Director (Finance) approve a ₹6 lakh waiver?", "input": "", "output": "Yes, within the ₹10 lakh limit"}
+{"instruction": "What is the maximum claim amount ED (F) can waive?", "input": "", "output": "₹5 lakh per case"}
+{"instruction": "Can CMD waive multiple large losses totaling ₹1 crore?", "input": "", "output": "Yes, CMD has full powers without limit"}
+{"instruction": "Is ED (F) allowed to write off ₹5 lakh of unclaimed employee benefits?", "input": "", "output": true}
+{"instruction": "Who is responsible for write-offs beyond ₹10 lakh?", "input": "", "output": "CMD only"}
+{"instruction": "What are the delegated powers under Clause 9?", "input": "", "output": "CMD: Full powers\nDirector (Finance): Up to ₹10 lakh\nED (Finance): Up to ₹5 lakh\n"}
+{"instruction": "Can Director (Finance) approve a waiver for ₹15 lakh?", "input": "", "output": "No, this exceeds the ₹10 lakh limit — CMD must approve"}
+{"instruction": "Is CMD’s authority for claim waivers subject to any cap?", "input": "", "output": "No, CMD has full powers"}
+{"instruction": "Can ED (Finance) write off an irrecoverable fee of ₹3 lakh?", "input": "", "output": true}
+{"instruction": "Does Clause 9 require audit compliance for all write-offs?", "input": "", "output": "Yes, all write-offs must adhere to audit and policy norms"}
+{"instruction": "What level of authority is required for a ₹10.5 lakh loss waiver?", "input": "", "output": "CMD — as it exceeds Director (F)’s ₹10 lakh limit"}
+{"instruction": "Who is authorized to sign the annual financial statements of the company?", "input": "", "output": "CMD and Director (Finance)"}
+{"instruction": "Can CMD alone sign off on the Profit and Loss Account?", "input": "", "output": "Yes, CMD has full authority to sign financial statements"}
+{"instruction": "What is the role of Director (Finance) in signing annual accounts?", "input": "", "output": "Director (F) is delegated to co-sign the financial statements"}
+{"instruction": "Who signs the balance sheet before submission to auditors?", "input": "", "output": "CMD and Director (Finance)"}
+{"instruction": "Can ED (Finance) sign the company’s audited annual accounts?", "input": "", "output": "No, only CMD and Director (F) are delegated this authority"}
+{"instruction": "Are both CMD and Director (Finance) required to sign financial disclosures?", "input": "", "output": "Yes, both jointly sign disclosures and statements"}
+{"instruction": "Is CMD authorized to sign Notes to Accounts and Schedules?", "input": "", "output": true}
+{"instruction": "What financial documents fall under Clause 10 for signing?", "input": "", "output": "Balance Sheet, Profit & Loss Account, Notes, Disclosures, Schedules"}
+{"instruction": "Can GM (Finance) sign the audited accounts?", "input": "", "output": "No, not delegated under Clause 10"}
+{"instruction": "What is the legal requirement for signing the company’s annual accounts?", "input": "", "output": "They must be signed by CMD and Director (Finance) as per Clause 10"}
+{"instruction": "Who must sign the final annual financial report?", "input": "", "output": "CMD and Director (Finance)"}
+{"instruction": "Is the signature of Director (Finance) mandatory on audited financials?", "input": "", "output": "Yes, as per delegation under Clause 10"}
+{"instruction": "Can CMD sign the company’s final audit report?", "input": "", "output": true}
+{"instruction": "Who holds legal responsibility for signing annual accounts in the company?", "input": "", "output": "CMD and Director (Finance)"}
+{"instruction": "What level of financial authority does ED (Finance) have for annual reports?", "input": "", "output": "None — Clause 10 does not delegate this power to ED (F)"}
+{"instruction": "Are unaudited quarterly statements included in Clause 10?", "input": "", "output": "No, Clause 10 covers only annual accounts and related financial statements"}
+{"instruction": "What statements require CMD's approval and signature?", "input": "", "output": "All audited financials including Balance Sheet, P&L, Notes, Schedules"}
+{"instruction": "Who is responsible for ensuring compliance with Clause 10?", "input": "", "output": "CMD and Director (Finance)"}
+{"instruction": "Can the CMD sign the financial statements without the Director (Finance)?", "input": "", "output": "Technically, both signatures are generally required for compliance"}
+{"instruction": "What does Clause 10 authorize CMD to do?", "input": "", "output": "Sign all annual accounts, statements, disclosures, and related financial reports"}
+{"instruction": "Who holds full authority to ensure compliance with audit observations?", "input": "", "output": "Director (Finance), ED (Finance)"}
+{"instruction": "What is the responsibility of Director (Finance) under Clause 11?", "input": "", "output": "To implement all audit and government financial compliance requirements"}
+{"instruction": "Can ED (Finance) independently implement internal audit recommendations?", "input": "", "output": "Yes, ED (F) has full powers to manage operational-level compliance"}
+{"instruction": "Who must act on directions from the Comptroller & Auditor General (C&AG)?", "input": "", "output": "Director (Finance), ED (Finance)"}
+{"instruction": "Is CMD involved in Clause 11 execution?", "input": "", "output": "No, this clause specifically delegates to Director (Finance) and ED (Finance)"}
+{"instruction": "Who is responsible for responding to DPE financial circulars?", "input": "", "output": "Director (Finance), ED (Finance)"}
+{"instruction": "What authority does ED (Finance) have in audit compliance?", "input": "", "output": "Full powers to act on audit observations at the operational level"}
+{"instruction": "Who ensures follow-up actions on statutory audit findings?", "input": "", "output": "Director (Finance), ED (Finance)"}
+{"instruction": "What is the scope of Clause 11?", "input": "", "output": "Ensures compliance with audit reports and government financial directives"}
+{"instruction": "Who can take corrective financial actions based on audit flags?", "input": "", "output": "Director (Finance), ED (Finance)"}
+{"instruction": "Can GM (Finance) issue responses to government audit directions?", "input": "", "output": "No, not authorized under Clause 11"}
+{"instruction": "Is Clause 11 related to day-to-day accounting operations?", "input": "", "output": "No, it pertains to compliance with audit and government directives"}
+{"instruction": "Can Director (Finance) implement C&AG’s financial directions?", "input": "", "output": "Yes, full powers are delegated for such compliance"}
+{"instruction": "What are ED (Finance)’s duties under Clause 11?", "input": "", "output": "To implement and ensure adherence to audit and government financial instructions"}
+{"instruction": "Is audit compliance centralized or delegated in Clause 11?", "input": "", "output": "Delegated to Director (Finance) and ED (Finance)"}
+{"instruction": "Who handles implementation of internal audit recommendations?", "input": "", "output": "ED (Finance) and Director (Finance)"}
+{"instruction": "Are MoF (Ministry of Finance) circulars covered under Clause 11?", "input": "", "output": true}
+{"instruction": "What kind of audits are covered in Clause 11?", "input": "", "output": "Statutory, internal, and C&AG audits"}
+{"instruction": "Can ED (Finance) act independently on audit findings?", "input": "", "output": true}
+{"instruction": "Who ensures the finance wing’s compliance with audit directives?", "input": "", "output": "Director (Finance), ED (Finance)"}

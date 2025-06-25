@@ -492,7 +492,9 @@
 
 - instruction: Is there a specific process for leave sanctioning?
   input: "" 
-  output: Yes, as per Leave Rules of the Corporation- instruction: Who accepts resignation of executives E-7 and above?
+  output: Yes, as per Leave Rules of the Corporation
+
+- instruction: Who is incharge of accepting resignations from senior executives?
   input: ""
   output: CMD
 
@@ -690,9 +692,12 @@
 - instruction: Can permission be granted if it goes against organizational interest?
   input: ""
   output: No
+
 - instruction: Is there a formal process for applying to posts elsewhere?
   input: ""
-  output: Yes, as per the organization's policy- instruction: Who accepts voluntary retirement notices for executives E-7 and above?
+  output: Yes, as per the organization's policy
+
+- instruction: Who accepts voluntary retirement notices for executives E-7 and above?
   input: ""
   output: CMD
 
@@ -791,9 +796,12 @@
 - instruction: Are retirement applications subject to corporate VR policy?
   input: ""
   output: Yes
+
 - instruction: Who processes voluntary retirement applications in the HR department?
   input: ""
-  output: HR Department- instruction: Who has the authority to waive bond money for executives E-7 and above?
+  output: HR Department
+
+- instruction: Who has the authority to waive bond money for executives E-7 and above?
   input: ""
   output: CMD
 
@@ -892,9 +900,12 @@
 - instruction: Can bond be waived without HR processing?
   input: ""
   output: No
+
 - instruction: Is justification required for waiving bond money?
   input: ""
-  output: Yes- instruction: Who grants permission to pursue higher studies for E-7 and above?
+  output: Yes
+
+- instruction: Who grants permission to pursue higher studies for E-7 and above?
   input: ""
   output: CMD
 
@@ -993,9 +1004,12 @@
 - instruction: Are higher study permissions routed through HR?
   input: ""
   output: Yes
+
 - instruction: Can part-time studies be pursued without HR approval?
   input: ""
-  output: No- instruction: Who approves full-time higher study for executives in grade E-7 and above?
+  output: No
+  
+- instruction: Who approves full-time higher study for executives in grade E-7 and above?
   input: ""
   output: CMD
 
@@ -1096,7 +1110,9 @@
   output: No
 - instruction: Is full-time study leave subject to company policies?
   input: ""
-  output: Yes- instruction: Who is responsible for forming a medical board for fitness examination?
+  output: Yes
+
+- instruction: Who is responsible for forming a medical board for fitness examination?
   input: ""
   output: CMO
 
@@ -1253,7 +1269,9 @@
 
 - instruction: In recruitment and promotion events, who approves all related expenses?
   input: ""
-  output: D(P) or HOD (HR) not below E-8- instruction: Who can approve joining date extensions for newly appointed executives?
+  output: D(P) or HOD (HR) not below E-8
+  
+- instruction: Who can approve joining date extensions for newly appointed executives?
   input: ""
   output: All Executives
 
@@ -1331,15 +1349,20 @@
 
 - instruction: Does this clause apply to new hires only?
   input: ""
-  output: Yes- instruction: Who is responsible for approving travel allowance for candidates attending interviews?
+  output: Yes
+
+- instruction: Who is responsible for approving travel allowance for candidates attending interviews?
   input: ""
   output: HOD (HR) not below E-8
+
 - instruction: Who has the authority to sanction travel allowance for candidates attending interviews?
   input: "" 
   output: HOD (HR) not below E-8
+
 - instruction: Who is authorized to approve travel allowance for candidates appearing for interviews?
   input: ""
   output: HOD (HR) not below E-8
+
 - instruction: Who approves travel allowance for candidates attending interviews?
   input: ""
   output: HOD (HR) not below E-8
@@ -2043,7 +2066,8 @@
 - instruction: Clause 6 is included on which page?
   input: ""
   output: Page 43
-  - instruction: On which page is Clause 7 found?
+
+- instruction: On which page is Clause 7 found?
   input: ""
   output: Page 43
 

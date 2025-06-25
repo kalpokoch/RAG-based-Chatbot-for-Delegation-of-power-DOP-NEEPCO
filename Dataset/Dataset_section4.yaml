@@ -133,7 +133,10 @@
 
 - instruction: Which officers are limited in their cheque issuance authority?
   input: ""
-  output: DGM (F): ₹50 lakh, Sr. M (F): ₹10 lakh, Manager (F): ₹5 lakh
+  output: | 
+    DGM (F): ₹50 lakh
+    Sr. M (F): ₹10 lakh
+    Manager (F): ₹5 lakh
 
 - instruction: Who has the least financial authority under Clause 1 of Section IV?
   input: ""
@@ -305,7 +308,10 @@
 
 - instruction: Which officers are limited in their cheque issuance authority?
   input: ""
-  output: DGM (F): ₹50 lakh, Sr. M (F): ₹10 lakh, Manager (F): ₹5 lakh
+  output: |
+    DGM (F): ₹50 lakh
+    Sr. M (F): ₹10 lakh
+    Manager (F): ₹5 lakh
 
 - instruction: Who has the least financial authority under Clause 1 of Section IV?
   input: ""
