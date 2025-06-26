@@ -262,4 +262,55 @@
 - instruction: Power to F&A Wing in DOP?
   input: ""
   output: Section IV details the "Delegation of Power to F&A Wing"
- 
+
+- instruction: On what page can I find the "Guidelines for Exercising the Delegation of Powers"?
+  input: ""
+  output: Page 3
+
+- instruction: Which page has "Guidelines for Exercising the Delegation of Powers"?
+  input: ""
+  output: Page 3
+
+- instruction: Guidelines for Exercising the Delegation of Powers is in which page?
+  input: ""
+  output: Page 3
+
+- instruction: Which page covers "Policy Guidelines of Financial Concurrence"?
+  input: ""
+  output: Page 6
+
+- instruction: Policy Guidelines of Financial Concurrence is in which page?
+  input: ""
+  output: Page 6
+
+- instruction: on what page covers "Policy Guidelines of Financial Concurrence"?
+  input: ""
+  output: Page 6
+
+- instruction: Where can I find the section about powers delegated to the CMD?
+  input: ""
+  output: Page 11
+
+- instruction: Where can I find the section about powers delegated to the CMD?
+  input: ""
+  output: Page 11
+
+- instruction: On what page are the powers excluded from CMD's delegation listed?
+  input: ""
+  output: Page 12
+
+- instruction: What page does Section I (Works & Procurement Powers) begin on?
+  input: ""
+  output: Page 16
+
+- instruction: Where are Personnel Powers (Section II) described?
+  input: ""
+  output: Page 43
+
+- instruction: On which page can i find Section III (Administrative Powers)?
+  input: ""
+  output: Page 46
+
+- instruction: Which section starts on page 68?
+  input: ""
+  output: Section IV Delegation of power to F&A Wing.
