@@ -576,6 +576,103 @@
   input: ""
   output: The ₹70,000 per annum limit applies only to Coordinators (≥E-7); HODs ≥E-8 have no cap.
 
+##Sl no 8
+- instruction: "Who holds full powers for hiring security vehicles in NEEPCO?"
+  input: ""
+  output: Director has full powers for hiring security and escort vehicles.
+
+- instruction: "Can an ED approve hiring a fleet of vehicles worth ₹28 lakh annually?"
+  input: ""
+  output: Yes, Executive Directors can approve hiring up to ₹30.00 lakh per annum.
+
+- instruction: "What is the hiring limit for HOD (RA) under this clause?"
+  input: ""
+  output: HOD (RA) not below grade E-8 can approve hiring up to ₹20.00 lakh per annum.
+
+- instruction: "Are HR department heads authorized to hire ambulances?"
+  input: ""
+  output: Yes, HOD (HR) not below grade E-8 can approve vehicle hiring up to ₹20 lakh per annum.
+
+- instruction: "Can HOD (CA) hire buses for project staff transportation?"
+  input: ""
+  output: Yes
+
+- instruction: "Is there a difference in hiring limits between EDs and HODs?"
+  input: ""
+  output: Yes, EDs can approve up to ₹30 lakh/year, while HODs (CA/RA/HR ≥ E-8) are limited to ₹20 lakh/year.
+
+- instruction: "Can a daily-hire ambulance contract be approved under this clause?"
+  input: ""
+  output: Yes, this clause covers daily, monthly, annual, and periodical basis hiring of such vehicles.
+
+- instruction: "Can HOD (HR) approve hiring two jeeps for admin use costing ₹22 lakh?"
+  input: ""
+  output: No, ₹22 lakh exceeds the ₹20 lakh limit for HODs; ED or Director must approve.
+
+- instruction: "Does this clause allow for periodical escort vehicle hiring?"
+  input: ""
+  output: Yes, periodical hiring is explicitly permitted under this clause.
+
+- instruction: "What ranks are required to approve hiring under ₹20 lakh?"
+  input: ""
+  output: HODs (CA/RA/HR) not below the grade of E-8 can approve hiring up to ₹20 lakh annually.
+
+
+##Sl no 9
+- instruction: "Who can approve long-term spares supply agreements in NEEPCO?"
+  input: ""
+  output: Director (Technical) has full powers to approve long-term spares agreements.
+
+- instruction: "Is there a duration limit for long-term spares agreements in NEEPCO?"
+  input: ""
+  output: Yes, agreements can be signed for a period up to 5 years.
+
+- instruction: "Can agreements be made with any vendor for spare supply?"
+  input: ""
+  output: No, agreements must be made only with OEMs or authorized service providers.
+
+- instruction: "What is the scope of the long-term spares clause in NEEPCO?"
+  input: ""
+  output: It covers the supply of spares for O&M plants from OEMs or authorized service providers under agreements lasting up to 5 years.
+
+- instruction: "Can ED approve a 5-year spares agreement?"
+  input: ""
+  output: No, only the Director (Technical) is authorized with full powers under this clause.
+
+- instruction: "Does this clause apply to procurement of tools or only spares?"
+  input: ""
+  output: It specifically applies to spares; tools or other items are not covered unless they are part of spare assemblies.
+
+- instruction: "What is the maximum duration for a spare supply contract under this clause?"
+  input: ""
+  output: The maximum allowed duration for such agreements is 5 years.
+
+- instruction: "Can the Director (Technical) renew an existing long-term spares contract?"
+  input: ""
+  output: Yes, as long as the renewed term does not exceed 5 years in total.
+
+- instruction: "Is there any financial ceiling mentioned for these agreements?"
+  input: ""
+  output: No financial limit is specified in this clause; only a time limit of 5 years is mentioned.
+
+- instruction: "Are service providers other than OEM-authorized vendors eligible?"
+  input: ""
+  output: No, only OEMs or their officially authorized service providers are eligible for these contracts.
+
+
+
+
+
+
+  
+
+  
+
+  
+
+  
+
+
 
 
 
