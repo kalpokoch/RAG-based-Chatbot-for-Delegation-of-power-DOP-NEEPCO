@@ -1,4 +1,4 @@
-- instruction: Tell me the index of the Delegation of Powers document.
+- instruction: Tell me the index of the Delegation of Powers document?
   input: ""
   output: |
     1. Guidelines for Exercising the Delegation of Powers - Page 3
@@ -34,3 +34,232 @@
     7. Administrative Powers (Section - III) - Page 46
     8. Delegation of Power to F&A Wing (Section - IV) - Page 68
 
+- instruction: Index
+  input: ""
+  output: |
+    1. Guidelines for Exercising the Delegation of Powers - Page 3
+    2. Policy Guidelines of Financial Concurrence - Page 6
+    3. Powers Delegated to The Chairman & Managing Director - Page 11
+    4. Power Excluded/Excepted from Delegation - Page 12
+    5. Works & Procurement Powers (Section - I) - Page 16
+    6. Personnel Powers (Section - II) - Page 43
+    7. Administrative Powers (Section - III) - Page 46
+    8. Delegation of Power to F&A Wing (Section - IV) - Page 68
+
+
+- instruction: what is in the Index?
+  input: ""
+  output: |
+    1. Guidelines for Exercising the Delegation of Powers - Page 3
+    2. Policy Guidelines of Financial Concurrence - Page 6
+    3. Powers Delegated to The Chairman & Managing Director - Page 11
+    4. Power Excluded/Excepted from Delegation - Page 12
+    5. Works & Procurement Powers (Section - I) - Page 16
+    6. Personnel Powers (Section - II) - Page 43
+    7. Administrative Powers (Section - III) - Page 46
+    8. Delegation of Power to F&A Wing (Section - IV) - Page 68
+
+- instruction: What is the subject of Section 1 in the DOP document?
+  input: ""
+  output: Section 1 is titled "Guidelines for Exercising the Delegation of Powers"
+
+- instruction: What is Section 1 in the DOP document?
+  input: ""
+  output: Section 1 is titled "Guidelines for Exercising the Delegation of Powers"
+
+- instruction: What is Section 1 in the DOP?
+  input: ""
+  output: Section 1 is titled "Guidelines for Exercising the Delegation of Powers"
+
+- instruction: Section 1 in DOP?
+  input: ""
+  output: Section 1 is titled "Guidelines for Exercising the Delegation of Powers"
+
+- instruction: What is in Section 1 of the DOP?
+  input: ""
+  output: Section 1 is titled "Guidelines for Exercising the Delegation of Powers"
+
+- instruction: What does Section 2 of the DOP document cover?
+  input: ""
+  output: Section 2 Covers "Policy Guidelines of Financial Concurrence"
+
+- instruction: Section 2 of the DOP?
+  input: ""
+  output: Section 2 Covers "Policy Guidelines of Financial Concurrence"
+
+- instruction: What is Section 2 in the DOP?
+  input: ""
+  output: Section 2 Covers "Policy Guidelines of Financial Concurrence"
+
+- instruction: What is in Section 2 of the DOP?
+  input: ""
+  output: Section 2 Covers "Policy Guidelines of Financial Concurrence"
+ 
+- instruction: What does Section 2 of the DOP mean?
+  input: ""
+  output: Section 2 Covers "Policy Guidelines of Financial Concurrence"
+ 
+- instruction: Meaning of section 2 in the DOP?
+  input: ""
+  output: Section 2 Covers "Policy Guidelines of Financial Concurrence"
+ 
+- instruction: Which powers are listed in Section 3 of the DOP Document?
+  input: ""
+  output: Section 3 lists "Power Delegated to The Chairman & Managing Director"
+ 
+- instruction: what is Section 3 in DOP?
+  input: ""
+  output: Section 3 lists "Power Delegated to The Chairman & Managing Director"
+ 
+- instruction: Section 3 DOP?
+  input: ""
+  output: Section 3 lists "Power Delegated to The Chairman & Managing Director"
+ 
+- instruction: What is in Section 3 of the DOP?
+  input: ""
+  output: Section 3 lists "Power Delegated to The Chairman & Managing Director"
+ 
+- instruction: What are the contents of Section 3 in DOP?
+  input: ""
+  output: Section 3 lists "Power Delegated to The Chairman & Managing Director"
+ 
+- instruction: What is the content of Section 4 in the DOP document?
+  input: ""
+  output: Section 4 covers "Power excluded/Excepted from the Delegation of Power to the Chairman & Managing Director"
+ 
+- instruction: What is Section 4 in DOP?
+  input: ""
+  output: Section 4 covers "Power excluded/Excepted from the Delegation of Power to the Chairman & Managing Director"
+ 
+- instruction: Section 4 of the DOP includes?
+  input: ""
+  output: Section 4 covers "Power excluded/Excepted from the Delegation of Power to the Chairman & Managing Director"
+ 
+- instruction: What is in Section 4 of the DOP?
+  input: ""
+  output: Section 4 covers "Power excluded/Excepted from the Delegation of Power to the Chairman & Managing Director"
+ 
+- instruction: DOP section 4?
+  input: ""
+  output: Section 4 covers "Power excluded/Excepted from the Delegation of Power to the Chairman & Managing Director"
+ 
+- instruction: What does Section I focus on in the DOP Document?
+  input: ""
+  output: Section I focuses on "Works & Procurement Powers"
+ 
+- instruction: Section I DOP?
+  input: ""
+  output: Section I focuses on "Works & Procurement Powers"
+ 
+- instruction: What is Section I of the DOP?
+  input: ""
+  output: Section I focuses on "Works & Procurement Powers"
+ 
+- instruction: Section I of the DOP includes?
+  input: ""
+  output: Section I focuses on "Works & Procurement Powers"
+ 
+- instruction: What is in the Section I of the DOP?
+  input: ""
+  output: Section I focuses on "Works & Procurement Powers"
+ 
+- instruction: Which Section includes Works & Procurement Powers?
+  input: ""
+  output: Section I
+ 
+- instruction: Works & Procurement Powers which Section?
+  input: ""
+  output: Section I
+ 
+- instruction: What is discussed in Section II of the DOP document?
+  input: ""
+  output: Section II discusses "Personnel Powers"
+ 
+- instruction: What is discussed in Section II of the DOP document?
+  input: ""
+  output: Section II discusses "Personnel Powers"
+ 
+- instruction: What is Section II of the DOP document?
+  input: ""
+  output: Section II discusses "Personnel Powers"
+ 
+- instruction: Section II of the DOP document?
+  input: ""
+  output: Section II discusses "Personnel Powers"
+ 
+- instruction: What is included in Section II of the DOP?
+  input: ""
+  output: Section II discusses "Personnel Powers"
+ 
+- instruction: What is discussed in Section II of the DOP document?
+  input: ""
+  output: Section II discusses "Personnel Powers"
+ 
+- instruction: Which Section includes Personnel Powers?
+  input: ""
+  output: Section II discusses "Personnel Powers"
+ 
+- instruction: Which section is about Personnel Powers?
+  input: ""
+  output: Section II discusses "Personnel Powers"
+ 
+- instruction: Personnel Powers in DOP?
+  input: ""
+  output: Section II discusses "Personnel Powers"
+ 
+- instruction: What kind of powers are outlined in Section III of the DOP document?
+  input: ""
+  output: Section III outlines "Administrative Powers"
+ 
+- instruction: What is Section III in the DOP?
+  input: ""
+  output: Section III outlines "Administrative Powers"
+ 
+- instruction: Section III DOP?
+  input: ""
+  output: Section III outlines "Administrative Powers"
+ 
+- instruction: What is in Section III of the DOP?
+  input: ""
+  output: Section III outlines "Administrative Powers"
+ 
+- instruction: Which section discusses about Administrative Powers?
+  input: ""
+  output: Section III outlines "Administrative Powers"
+ 
+- instruction: Administrative Powers in DOP?
+  input: ""
+  output: Section III outlines "Administrative Powers"
+ 
+- instruction: Administrative Powers?
+  input: ""
+  output: Section III outlines "Administrative Powers"
+ 
+- instruction: What is Detailed in Section IV of the DOP document?
+  input: ""
+  output: Section IV details the "Delegation of Power to F&A Wing"
+ 
+- instruction: What is Section IV of the DOP document?
+  input: ""
+  output: Section IV details the "Delegation of Power to F&A Wing"
+ 
+- instruction: Section IV of the DOP document?
+  input: ""
+  output: Section IV details the "Delegation of Power to F&A Wing"
+ 
+- instruction: What is in Section IV of the DOP document?
+  input: ""
+  output: Section IV details the "Delegation of Power to F&A Wing"
+ 
+- instruction: Section IV of the DOP document includes?
+  input: ""
+  output: Section IV details the "Delegation of Power to F&A Wing"
+ 
+- instruction: Which Section discusses about power to F&A Wing?
+  input: ""
+  output: Section IV details the "Delegation of Power to F&A Wing"
+ 
+- instruction: Power to F&A Wing in DOP?
+  input: ""
+  output: Section IV details the "Delegation of Power to F&A Wing"
+ 
