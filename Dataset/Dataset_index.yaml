@@ -314,3 +314,47 @@
 - instruction: Which section starts on page 68?
   input: ""
   output: Section IV Delegation of power to F&A Wing.
+
+- instruction: What does CO stand for in DOP document?
+  input: ""
+  output: CO stand for Corporate Office
+
+- instruction: What is the full form of HOP?
+  input: ""
+  output: HOP stands for Head Of the Project not below the rank of GM
+
+- instruction: What does HOD refer to in NEEPCO?
+  input: ""
+  output: HOD means Head of the Department not below the rank of GM
+
+- instruction: What is the abbreviation for Corporate Affairs?
+  input: ""
+  output: CA
+
+- instruction: What does RA stand for?
+  input: ""
+  output: RA stands for Regional Affairs
+
+- instruction: What is the meaning of Coordinator in this document?
+  input: ""
+  output: Coordinator refers to someone not below the rank of E-7
+
+- instruction: What does TOC mean in the DOP?
+  input: ""
+  output: TOC stands for Tender Opening Committee
+
+- instruction: What is the full form of TEC?
+  input: ""
+  output: TEC is Tender Evaluation Committee
+
+- instruction: Waht does FR stand for?
+  input: ""
+  output: FR stands for Feasibility Report
+
+- instruction: What is the abbreviation for Detailed Project Report?
+  input: ""
+  output: DPR
+
+- instruction: What does DOP refer to in the document?
+  input: ""
+  output: DOP stands for Delegation of Powers
