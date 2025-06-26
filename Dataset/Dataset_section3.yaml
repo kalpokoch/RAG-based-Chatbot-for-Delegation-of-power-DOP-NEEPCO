@@ -469,6 +469,124 @@
   input: ""
   output: Yes
 
+## Sl no 6
+
+
+- instruction: "Who can approve repair of furniture in project offices?"
+  input: ""
+  output: HOP or HOD not below grade E-8 has full powers for such approvals.
+
+- instruction: "What is the financial limit for coordinators approving repair of furniture?"
+  input: ""
+  output: Coordinators not below E-7 or DGM (HR) in Shillong can approve up to ₹5 lakh per annum.
+
+- instruction: "Can a DGM (HR) approve ₹6 lakh for fixture repairs in Shillong?"
+  input: ""
+  output: No, the DGM (HR) can only approve up to ₹5 lakh per annum; higher approvals must go to E-8 grade officials.
+
+- instruction: "Is there any site-specific condition for furniture maintenance?"
+  input: ""
+  output: Yes, in Shillong, the HR Administration Coordinator (E-7 or DGM) can exercise limited financial power (₹5 lakh p.a.).
+
+- instruction: "Can an E-6 officer approve furniture upkeep?"
+  input: ""
+  output: No
+
+
+- instruction: "Who is authorized to approve repair of office equipment in NEEPCO?"
+  input: ""
+  output: HOP or HOD not below the rank of E-8 have full powers for this activity.
+
+- instruction: "Is there any financial cap for office equipment repair?"
+  input: ""
+  output: No specific cap is mentioned; officials with full powers (E-8 and above) can approve as needed.
+
+- instruction: "Can an E-7 officer approve office equipment maintenance?"
+  input: ""
+  output: No, only officers of E-8 grade and above (HOP/HOD) are authorized.
+
+- instruction: "Does this power apply at corporate offices and project sites?"
+  input: ""
+  output: Yes, HOPs and HODs (E-8+) across all NEEPCO sites have this power.
+
+- instruction: "Can HOD approve computer printer repairs under office equipment?"
+  input: ""
+  output: Yes
+
+
+- instruction: "Who is authorized to approve repairs of IT systems in corporate offices?"
+  input: ""
+  output: HOD (ITS) not below E-8 in Corporate Office (Guwahati/Shillong) is authorized.
+
+- instruction: "Can project-based HOPs approve network repairs?"
+  input: ""
+  output: Yes, HOPs not below E-8 at Projects/Plants have full powers for this.
+
+- instruction: "Is there a grade requirement for approving IT system repairs?"
+  input: ""
+  output: Yes, only officers of E-8 grade and above (HOD ITS or HOP) can exercise this authority.
+
+- instruction: "Does this include both hardware and communication network systems?"
+  input: ""
+  output: Yes, the clause covers IT devices, communication systems, peripherals, and networks.
+
+- instruction: "Is prior consultation with ED (IT) required for routine IT repairs?"
+  input: ""
+  output: No
+
+##Sl no 7
+
+- instruction: "Who has the authority to approve hiring of furniture in NEEPCO project sites?"
+  input: ""
+  output: HOP or HOD (CA/RA) not below the grade of E-8 has full powers for hiring at project sites.
+
+- instruction: "What is the annual hiring limit for a Coordinator in NEEPCO?"
+  input: ""
+  output: Coordinators not below the rank of E-7 are authorized to approve hiring up to ₹70,000 per annum.
+
+- instruction: "Can a CGM(HR) approve hiring of water coolers at corporate offices?"
+  input: ""
+  output: Yes
+
+- instruction: "Is there any financial ceiling for HOD (CA) when hiring office appliances?"
+  input: ""
+  output: No, HOD (CA/RA) not below E-8 has full powers with no specified monetary ceiling.
+
+- instruction: "Can an E-6 officer approve hiring of electric fans for an office?"
+  input: ""
+  output: No, only Coordinators not below E-7 or higher-grade officials are authorized.
+
+- instruction: "Are project and corporate office hiring powers the same in NEEPCO?"
+  input: ""
+  output: Yes, both project (HOP/HOD) and corporate office (CGM HR) officials of E-8 grade or above have full powers.
+
+- instruction: "Who can hire furniture temporarily for a training setup in Shillong?"
+  input: ""
+  output: A Coordinator (E-7 or above) can approve if cost is within ₹70,000 p.a.; else, HOD or CGM must approve.
+
+- instruction: "Does this clause include hiring of both equipment and appliances?"
+  input: ""
+  output: Yes, it includes office equipment, furniture, fixtures, and appliances like fans and coolers.
+
+- instruction: "What role does CGM(HR) play in hiring for the Corporate Office?"
+  input: ""
+  output: CGM(HR) has full powers to approve hiring of listed items for corporate office use.
+
+- instruction: "Is ₹70,000 limit applicable to HODs or just Coordinators?"
+  input: ""
+  output: The ₹70,000 per annum limit applies only to Coordinators (≥E-7); HODs ≥E-8 have no cap.
+
+
+
+
+  
+
+  
+
+  
+
+  
+
 
 
 
