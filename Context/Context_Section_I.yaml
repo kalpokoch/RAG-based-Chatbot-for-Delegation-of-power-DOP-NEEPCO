@@ -102,3 +102,60 @@ clauses:
           Sr. M: NIL
         
         remarks: The spot work orders are to be resorted to under extreme circumstances based on field requirement, essentially for works/services of short duration in nature. Deviations in spot work orders shall normally be avoided. However, in case of quantity deviations in a work order, the authority competent to award the work order inclusive of the above deviations (i.e. original value plus deviations) shall approve these deviations.
+
+  - clause: 3
+    title: Technical sanction to detailed estimates
+    subclauses:
+      - id: a
+        description: Purchase of Materials/ equipment/ instruments/ T&P and accompanying spares etc. through (i) Open tender {Remarks under Clause 2(a) of Section-I shall be complied.}
+        delegation:
+          D(T): ₹25 crore
+          ED: ₹10 crore
+          CGM: ₹1 crore 
+          GM: ₹60 lakh 
+          DGM: ₹20 lakh
+          Sr. M: ₹10 lakh
+        
+        remarks:
+          - Tenders will be invited only after approval of the cost estimate.
+          - Tenders will be invited after approval of the work and technical sanction to detailed cost estimate is accorded. 
+          - Enquiries are required to be issued for open & Limited tenders and published through various Government portals/ NEEPCO website only. In case of any special cases which may require release of short notices/ classifieds in Newspaper, the issuing authority may send the demand with justifications for obtaining approval of Competent authority.
+          - Acceptance of tender for award of work which is more than 20 % of the estimate shall be approved by the next higher authority.
+          - The Techno Commercial (TC) evaluation irrespective of nature of tendering shall be approved by the authority competent of approving the award. However, TC evaluation concerning tenders, award of which is within the power of BOD shall be approved by the CMD.
+          - In case the tender/ offer received is less than three, irrespective of nature of tendering, the tendering authority is to record the fact prior to opening of the tender/ offer. However, in case of e-tenders where the number of participants cannot be ascertained before opening the bids, the matter of number of bids received, if less than 3(three), shall be recorded immediately after opening of bids. Under such circumstances, approval of next higher authority is to be obtained for award of works. However, for TC evaluation, approval of next higher authority will not be necessary. Director (Tech) is the self-approving authority. 
+          - EMD need not to be taken from IIMs/ IITs/ NITs/ IISc. / CBRI/ CPRI/ GSI/ CWPRS/ CWC and other Govt. Institutes/ agencies (excluding PSUs) irrespective of nature of tendering. 
+          - In case of new projects where TEC is accorded, advance action for tendering wherever considered necessary shall be taken pending Investment Approval with the objective of coinciding the date of award with the zero date of the project. Such proposals including splitting of works into major packages for procurement shall require approval of the BOD with recommendation of CMD. However, letter of award (LoA) for tendered works shall be issued after obtaining Investment approval. 
+    
+      - id: b 
+        description: Purchase of Materials/ equipment/ instruments/ T&P and accompanying spares etc. through (ii) limited tender {Remarks under Clause 2(b) of Section-I shall be complied.}
+        delegation:
+          D(T): ₹15 crore
+          ED: ₹1.5 crore
+          CGM: ₹75 lakh
+          GM: ₹40 lakh 
+          DGM: ₹15 lakh
+          Sr. M: NIL 
+
+        remarks:
+          - Tenders will be invited only after approval of the cost estimate.
+          - Limited tender enquiries are those issued for requirements which do not fall under open tender category or which are required due to urgency or for specialized jobs and issued preferably to not less than five vendors based on past experience, or current offers from parties having credential for carrying out such nature of works and from the vendor lists maintained in the State Govt./ Central Govt./ PSUs.
+          - The number and names of parties selected for issue of limited tender enquiry shall be approved by the next higher authority. D(T) will be self approving authority.
+
+      - id: c 
+        description: Purchase of Materials/ equipment/ instruments/ T&P and accompanying spares etc. through (iii) Single tender / Nomination basis {Remarks under Clause 2(c) of Section-I shall be complied.}
+        delegation:
+          D(T): ₹15 crore
+          ED: ₹1.5 crore
+          CGM: ₹75 lakh
+          GM: ₹40 lakh 
+          DGM: ₹15 lakh
+          Sr. M: NIL 
+
+        remarks:
+          - Procurement to be made against Proprietary Article Certificate (PAC), for source standardization or in case of urgency. Proprietary Article Certificate or such other documents establishing proprietary nature of the article being supplied shall be approved by HOP.
+          - Source standardization or urgency should be established/ justified and recorded and Finance Concurrence to be obtained.
+          - The spot work orders are to be resorted to under extreme circumstances based on field requirement, essentially for works/services of short duration in nature. Deviations in spot work orders shall normally be avoided. However, in case of quantity deviations in a work order, the authority competent to award the work order inclusive of the above deviations (i.e. original value plus deviations) shall approve these deviations.
+      
+  - clause: 4
+    subclauses:
+      - id: 
