@@ -1,0 +1,177 @@
+section: II
+title: Personnel Powers
+clauses:
+  - clause: 1
+    title: Interview List Preparation
+    subclauses:
+      - id: a
+        description: List of candidates to be called for interview on induction/recruitment.
+    remarks:
+      - Extent of Power: Full Powers
+      - Applies to: All Executives, Non-Executives
+      - Officials Authorized: D (P); HOD (HR) not below the grade of E-8 in consultation with D (P)
+
+  - clause: 2
+    title: Medical Board Constitution
+    subclauses:
+      - id: a
+        description: Constitution of Medical Board for examining the fitness for service of new appointees.
+    remarks:
+      - Extent of Power: Full Powers
+      - Officials Authorized: CMO
+
+  - clause: 3
+    title: Sanction of Recruitment & Promotion Expenditure
+    subclauses:
+      - id: a
+        description: Sanction of expenditure on Recruitment & Promotion (DPC Expenses) including venue and other expenditure related matters.
+    remarks:
+      - Extent of Power: Full Powers (₹2,00,000/- per event)
+      - Officials Authorized: D (P); HOD (HR) not below the grade of E-8
+
+  - clause: 4
+    title: Extension of Joining Time
+    subclauses:
+      - id: a
+        description: Extension of time for joining the post on initial appointment.
+    remarks:
+      - Extent of Power: Full Powers
+      - Applies to: All Executives, Non-Executives
+      - Officials Authorized: D (P); HOD (HR) not below the grade of E-8
+
+  - clause: 5
+    title: Grant of TA to Interview Candidates
+    subclauses:
+      - id: a
+        description: Grant of TA to candidates called for interview.
+    remarks:
+      - Extent of Power: Full Powers in accordance with TA Rules
+      - Officials Authorized: HOD (HR) not below the grade of E-8
+
+  - clause: 6
+    title: Probation Completion and Extension
+    subclauses:
+      - id: i
+        description: Approval of satisfactory completion of period of probation on Promotion and Recruitment (wherever applicable).
+      - id: ii
+        description: Extension of Probation on the basis of the Report.
+    remarks:
+      - Subclause (i):
+          - E-8 to E-9: Full Powers - CMD
+          - E-5 to E-7: Full Powers - Director
+          - E-1 to E-4 & Non-Executives: Full Powers - Concerned HOP/HOD not below the grade of E-8
+      - Subclause (ii):
+          - Same authorities as Subclause (i)
+      - Note: Orders to be issued by the HR
+
+  - clause: 7
+    title: Termination of service on account of unsatisfactory performance during probation
+    extent_of_power: Full Powers
+    authority: D(P) in consultation with FD
+    remarks: Orders to be issued by the HR
+
+  - clause: 8
+    title: Forwarding of applications of the employees for outside Employment
+    extent_of_power:
+      - Executives (E-1 to E-9): Full Powers
+      - Non-Executives: Full Powers
+    authority:
+      - Executives: D(P) in consultation with FD
+      - Non-Executives: HOD (HR) not below E-8 in consultation with D(P)
+    remarks: With recommendation of concerned HOD/HOP
+
+  - clause: 9
+    title: Acceptance of Resignation of employees including waiver of notice period
+    extent_of_power:
+      - Executives up to E-8: Full Powers
+      - Non-Executives: Full Powers
+    authority:
+      - Executives: D(P) on recommendation of FD
+      - Non-Executives: D(P)
+    remarks: Orders to be issued by HR
+
+  - clause: 10
+    title: Termination of the Services of Employee
+    extent_of_power: Full Powers up to E-8
+    authority: D(P) on recommendation of FD
+    remarks: Orders to be issued by HR
+
+  - clause: 11
+    title: Transfer of Bond in case of Trainees
+    extent_of_power: Full Powers
+    authority: D(P)
+
+  - clause: 12
+    title: Constitution of Departmental Promotion Committee
+    extent_of_power:
+      - Executives: Full Powers
+      - Non-Executives including Supervisors: Full Powers
+    authority:
+      - Executives: D(P) in consultation with FD
+      - Non-Executives: HOD (HR) not below E-8 in consultation with D(P)
+
+  - clause: 13
+    title: Approval for change of Home Town (Allowed only once in entire service period)
+    extent_of_power:
+      - Corporate Office (Shillong): Full Powers
+      - Other locations: Full Powers
+    authority:
+      - Shillong: HOD (HR) not below the grade of E-8
+      - Other locations: Concerned HOP/HOD not below E-8
+    remarks: Orders to be issued by the Project HR
+
+  - clause: 14
+    title: Permission for employees to undertake courses/examinations/classes outside office hours for up to 3 years
+    extent_of_power: All Employees
+    authority: D(P)
+    remarks: Permission shall not confer any right to the employee in any manner
+
+  - clause: 15
+    title: Nomination of employees to attend seminars/conferences/workshops/training in India (short term, max 2 weeks)
+    extent_of_power:
+      - Executives E-7 to E-9: Full Powers
+      - Executives E-1 to E-6 and Non-Executives: Full Powers
+    authority:
+      - E-7 to E-9: D(P) in consultation with FD
+      - E-1 to E-6 & Non-Executives: HOD (HR) not below E-8 with recommendation of concerned HOP/HOD
+
+  - clause: 16
+    title: Permission for delivering lectures/functioning as Faculty/Committee Member in outside orgs and accepting fees/honoraria
+    extent_of_power:
+      - Executives E-1 to E-9: Full Powers
+      - All Non-Executives & Supervisors: Full Powers
+    authority:
+      - Executives: Director
+      - Non-Executives: HOD (HR) not below E-8
+
+  - clause: 17
+    title: Insurance
+    sub_clauses:
+      a: 
+        title: Insurance of personnel as per approved policy and guidelines
+        extent_of_power: Full Powers
+        authority: D(P)
+      b:
+        title: Directors and Officers Liability Insurance
+        extent_of_power: Full Powers
+        authority: D(P)
+      c:
+        title: Public Liability Insurance
+        extent_of_power: Full Powers
+        authority: D(P)
+
+  - clause: 18
+    title: Transfer of Employees
+    extent_of_power:
+      - E-8/E-9/HOP/HOD: CMD
+      - Executives E-1 to E-7: Full Power
+      - All Non-Executives and Supervisors: Full Power
+    authority:
+      - Executives E-1 to E-7: D(P) on recommendation of FD
+      - Non-Executives and Supervisors: D(P) on recommendation of FD
+    remarks: Quarterly report to be submitted to CMD for his information
+
+  - clause: 19
+    title: Panel approving authority for recruitment
+    extent_of_power: E-7 and below
+    authority: D(P)
