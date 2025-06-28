@@ -1924,382 +1924,288 @@
   input: ""
   output: Page 45
 
-- instruction: On which page is Clause 1 found?
-  input: ""
+- instruction: On which page is Clause 1 in Section II found?
+  input: ''
   output: Page 43
-
-- instruction: Clause 1 is documented on which page?
-  input: ""
+- instruction: Clause 1 in Section II is documented on which page?
+  input: ''
   output: Page 43
-
-- instruction: Where can I find Clause 1 in the DOP document?
-  input: ""
+- instruction: Where can I find Clause 1 in Section II of the DOP document?
+  input: ''
   output: Page 43
-
-- instruction: What is the page location of Clause 1?
-  input: ""
+- instruction: What is the page location of Clause 1 in Section II?
+  input: ''
   output: Page 43
-
-- instruction: Which page lists Clause 1?
-  input: ""
+- instruction: Which page lists Clause 1 in Section II?
+  input: ''
   output: Page 43
-
-- instruction: On which page is Clause 2 found?
-  input: ""
+- instruction: On which page is Clause 2 in Section II found?
+  input: ''
   output: Page 43
-
-- instruction: Clause 2 is documented on which page?
-  input: ""
+- instruction: Clause 2 in Section II is documented on which page?
+  input: ''
   output: Page 43
-
-- instruction: Where can I find Clause 2 in the DOP document?
-  input: ""
+- instruction: Where can I find Clause 2 in Section II of the DOP document?
+  input: ''
   output: Page 43
-
-- instruction: What is the page location of Clause 2?
-  input: ""
+- instruction: What is the page location of Clause 2 in Section II?
+  input: ''
   output: Page 43
-
-- instruction: Which page lists Clause 2?
-  input: ""
+- instruction: Which page lists Clause 2 in Section II?
+  input: ''
   output: Page 43
-
-- instruction: Where is Clause 3 located in the PDF?
-  input: ""
+- instruction: On which page is Clause 3 in Section II found?
+  input: ''
   output: Page 43
-
-- instruction: Clause 3 belongs to which page?
-  input: ""
+- instruction: Clause 3 in Section II is documented on which page?
+  input: ''
   output: Page 43
-
-- instruction: What is the page number for Clause 3?
-  input: ""
+- instruction: Where can I find Clause 3 in Section II of the DOP document?
+  input: ''
   output: Page 43
-
-- instruction: On what page is Clause 3?
-  input: ""
+- instruction: What is the page location of Clause 3 in Section II?
+  input: ''
   output: Page 43
-
-- instruction: Clause 3 appears on which document page?
-  input: ""
+- instruction: Which page lists Clause 3 in Section II?
+  input: ''
   output: Page 43
-
-- instruction: Which page contains Clause 4?
-  input: ""
+- instruction: On which page is Clause 4 in Section II found?
+  input: ''
   output: Page 43
-
-- instruction: Where in the file is Clause 4 found?
-  input: ""
+- instruction: Clause 4 in Section II is documented on which page?
+  input: ''
   output: Page 43
-
-- instruction: Clause 4 is located on what page?
-  input: ""
+- instruction: Where can I find Clause 4 in Section II of the DOP document?
+  input: ''
   output: Page 43
-
-- instruction: Clause 4 can be found on which page?
-  input: ""
+- instruction: What is the page location of Clause 4 in Section II?
+  input: ''
   output: Page 43
-
-- instruction: What document page shows Clause 4?
-  input: ""
+- instruction: Which page lists Clause 4 in Section II?
+  input: ''
   output: Page 43
-
-- instruction: Clause 5 is recorded on which page?
-  input: ""
+- instruction: On which page is Clause 5 in Section II found?
+  input: ''
   output: Page 43
-
-- instruction: What page does Clause 5 belong to?
-  input: ""
+- instruction: Clause 5 in Section II is documented on which page?
+  input: ''
   output: Page 43
-
-- instruction: Where is Clause 5 documented in the PDF?
-  input: ""
+- instruction: Where can I find Clause 5 in Section II of the DOP document?
+  input: ''
   output: Page 43
-
-- instruction: Which page outlines Clause 5?
-  input: ""
+- instruction: What is the page location of Clause 5 in Section II?
+  input: ''
   output: Page 43
-
-- instruction: What is the page reference for Clause 5?
-  input: ""
+- instruction: Which page lists Clause 5 in Section II?
+  input: ''
   output: Page 43
-
-- instruction: What is the page number for Clause 6?
-  input: ""
+- instruction: On which page is Clause 6 in Section II found?
+  input: ''
   output: Page 43
-
-- instruction: Clause 6 appears on what page?
-  input: ""
+- instruction: Clause 6 in Section II is documented on which page?
+  input: ''
   output: Page 43
-
-- instruction: Where can Clause 6 be found?
-  input: ""
+- instruction: Where can I find Clause 6 in Section II of the DOP document?
+  input: ''
   output: Page 43
-
-- instruction: Clause 6 belongs to which part of the document?
-  input: ""
+- instruction: What is the page location of Clause 6 in Section II?
+  input: ''
   output: Page 43
-
-- instruction: Clause 6 is included on which page?
-  input: ""
+- instruction: Which page lists Clause 6 in Section II?
+  input: ''
   output: Page 43
-  - instruction: On which page is Clause 7 found?
-  input: ""
+- instruction: On which page is Clause 7 in Section II found?
+  input: ''
   output: Page 43
-
-- instruction: Clause 7 is documented on which page?
-  input: ""
+- instruction: Clause 7 in Section II is documented on which page?
+  input: ''
   output: Page 43
-
-- instruction: Where can I find Clause 7 in the DOP document?
-  input: ""
+- instruction: Where can I find Clause 7 in Section II of the DOP document?
+  input: ''
   output: Page 43
-
-- instruction: What is the page location of Clause 7?
-  input: ""
+- instruction: What is the page location of Clause 7 in Section II?
+  input: ''
   output: Page 43
-
-- instruction: Which page lists Clause 7?
-  input: ""
+- instruction: Which page lists Clause 7 in Section II?
+  input: ''
   output: Page 43
-
-- instruction: Clause 8 is on which page?
-  input: ""
+- instruction: On which page is Clause 8 in Section II found?
+  input: ''
   output: Page 43
-
-- instruction: What is the page number for Clause 8?
-  input: ""
+- instruction: Clause 8 in Section II is documented on which page?
+  input: ''
   output: Page 43
-
-- instruction: Clause 8 is recorded on what page?
-  input: ""
+- instruction: Where can I find Clause 8 in Section II of the DOP document?
+  input: ''
   output: Page 43
-
-- instruction: Where can Clause 8 be found?
-  input: ""
+- instruction: What is the page location of Clause 8 in Section II?
+  input: ''
   output: Page 43
-
-- instruction: What document page includes Clause 8?
-  input: ""
+- instruction: Which page lists Clause 8 in Section II?
+  input: ''
   output: Page 43
-
-- instruction: On which page is Clause 9 found?
-  input: ""
+- instruction: On which page is Clause 9 in Section II found?
+  input: ''
   output: Page 43
-
-- instruction: Clause 9 appears on which page?
-  input: ""
+- instruction: Clause 9 in Section II is documented on which page?
+  input: ''
   output: Page 43
-
-- instruction: Where in the PDF can Clause 9 be located?
-  input: ""
+- instruction: Where can I find Clause 9 in Section II of the DOP document?
+  input: ''
   output: Page 43
-
-- instruction: What is the location of Clause 9?
-  input: ""
+- instruction: What is the page location of Clause 9 in Section II?
+  input: ''
   output: Page 43
-
-- instruction: Clause 9 belongs to which page?
-  input: ""
+- instruction: Which page lists Clause 9 in Section II?
+  input: ''
   output: Page 43
-
-- instruction: On which page does Clause 10 appear?
-  input: ""
+- instruction: On which page is Clause 10 in Section II found?
+  input: ''
   output: Page 44
-
-- instruction: Clause 10 is documented on which page?
-  input: ""
+- instruction: Clause 10 in Section II is documented on which page?
+  input: ''
   output: Page 44
-
-- instruction: What is the page reference for Clause 10?
-  input: ""
+- instruction: Where can I find Clause 10 in Section II of the DOP document?
+  input: ''
   output: Page 44
-
-- instruction: Where in the file is Clause 10 found?
-  input: ""
+- instruction: What is the page location of Clause 10 in Section II?
+  input: ''
   output: Page 44
-
-- instruction: What document page contains Clause 10?
-  input: ""
+- instruction: Which page lists Clause 10 in Section II?
+  input: ''
   output: Page 44
-
-- instruction: Clause 11 appears on which page?
-  input: ""
+- instruction: On which page is Clause 11 in Section II found?
+  input: ''
   output: Page 44
-
-- instruction: Clause 11 belongs to which page?
-  input: ""
+- instruction: Clause 11 in Section II is documented on which page?
+  input: ''
   output: Page 44
-
-- instruction: On what page is Clause 11 recorded?
-  input: ""
+- instruction: Where can I find Clause 11 in Section II of the DOP document?
+  input: ''
   output: Page 44
-
-- instruction: Clause 11 can be found on which page?
-  input: ""
+- instruction: What is the page location of Clause 11 in Section II?
+  input: ''
   output: Page 44
-
-- instruction: Where in the DOP is Clause 11?
-  input: ""
+- instruction: Which page lists Clause 11 in Section II?
+  input: ''
   output: Page 44
-
-- instruction: Clause 12 appears on what page?
-  input: ""
+- instruction: On which page is Clause 12 in Section II found?
+  input: ''
   output: Page 44
-
-- instruction: What is the page number for Clause 12?
-  input: ""
+- instruction: Clause 12 in Section II is documented on which page?
+  input: ''
   output: Page 44
-
-- instruction: Where is Clause 12 found in the PDF?
-  input: ""
+- instruction: Where can I find Clause 12 in Section II of the DOP document?
+  input: ''
   output: Page 44
-
-- instruction: What document page displays Clause 12?
-  input: ""
+- instruction: What is the page location of Clause 12 in Section II?
+  input: ''
   output: Page 44
-
-- instruction: On which page is Clause 12 included?
-  input: ""
+- instruction: Which page lists Clause 12 in Section II?
+  input: ''
   output: Page 44
-
-- instruction: Clause 13 is on which page?
-  input: ""
+- instruction: On which page is Clause 13 in Section II found?
+  input: ''
   output: Page 44
-
-- instruction: What is the page location of Clause 13?
-  input: ""
+- instruction: Clause 13 in Section II is documented on which page?
+  input: ''
   output: Page 44
-
-- instruction: Where is Clause 13 mentioned?
-  input: ""
+- instruction: Where can I find Clause 13 in Section II of the DOP document?
+  input: ''
   output: Page 44
-
-- instruction: Which page in the document shows Clause 13?
-  input: ""
+- instruction: What is the page location of Clause 13 in Section II?
+  input: ''
   output: Page 44
-
-- instruction: Clause 13 can be found on what page?
-  input: ""
+- instruction: Which page lists Clause 13 in Section II?
+  input: ''
   output: Page 44
-
-- instruction: Clause 14 is located on which page?
-  input: ""
+- instruction: On which page is Clause 14 in Section II found?
+  input: ''
   output: Page 44
-
-- instruction: Where is Clause 14 in the document?
-  input: ""
+- instruction: Clause 14 in Section II is documented on which page?
+  input: ''
   output: Page 44
-
-- instruction: Clause 14 is documented on what page?
-  input: ""
+- instruction: Where can I find Clause 14 in Section II of the DOP document?
+  input: ''
   output: Page 44
-
-- instruction: What is the PDF page number for Clause 14?
-  input: ""
+- instruction: What is the page location of Clause 14 in Section II?
+  input: ''
   output: Page 44
-
-- instruction: On which page is Clause 14 shown?
-  input: ""
+- instruction: Which page lists Clause 14 in Section II?
+  input: ''
   output: Page 44
-
-- instruction: Clause 15 belongs to which page?
-  input: ""
+- instruction: On which page is Clause 15 in Section II found?
+  input: ''
   output: Page 44
-
-- instruction: Clause 15 appears on what document page?
-  input: ""
+- instruction: Clause 15 in Section II is documented on which page?
+  input: ''
   output: Page 44
-
-- instruction: Where can Clause 15 be located?
-  input: ""
+- instruction: Where can I find Clause 15 in Section II of the DOP document?
+  input: ''
   output: Page 44
-
-- instruction: Which page includes Clause 15?
-  input: ""
+- instruction: What is the page location of Clause 15 in Section II?
+  input: ''
   output: Page 44
-
-- instruction: Clause 15 is included on what page?
-  input: ""
+- instruction: Which page lists Clause 15 in Section II?
+  input: ''
   output: Page 44
-
-- instruction: Clause 16 appears on which page?
-  input: ""
+- instruction: On which page is Clause 16 in Section II found?
+  input: ''
   output: Page 44
-
-- instruction: What is the document page for Clause 16?
-  input: ""
+- instruction: Clause 16 in Section II is documented on which page?
+  input: ''
   output: Page 44
-
-- instruction: Clause 16 is shown on what page?
-  input: ""
+- instruction: Where can I find Clause 16 in Section II of the DOP document?
+  input: ''
   output: Page 44
-
-- instruction: Where is Clause 16 written?
-  input: ""
+- instruction: What is the page location of Clause 16 in Section II?
+  input: ''
   output: Page 44
-
-- instruction: On which page do I find Clause 16?
-  input: ""
+- instruction: Which page lists Clause 16 in Section II?
+  input: ''
   output: Page 44
-
-- instruction: Clause 17 is located on which page?
-  input: ""
+- instruction: On which page is Clause 17 in Section II found?
+  input: ''
   output: Page 44
-
-- instruction: Where does Clause 17 appear?
-  input: ""
+- instruction: Clause 17 in Section II is documented on which page?
+  input: ''
   output: Page 44
-
-- instruction: What page number includes Clause 17?
-  input: ""
+- instruction: Where can I find Clause 17 in Section II of the DOP document?
+  input: ''
   output: Page 44
-
-- instruction: Clause 17 is found on which document page?
-  input: ""
+- instruction: What is the page location of Clause 17 in Section II?
+  input: ''
   output: Page 44
-
-- instruction: What is the location of Clause 17 in the file?
-  input: ""
+- instruction: Which page lists Clause 17 in Section II?
+  input: ''
   output: Page 44
-
-- instruction: Clause 18 appears on what page?
-  input: ""
+- instruction: On which page is Clause 18 in Section II found?
+  input: ''
   output: Page 45
-
-- instruction: What is the page number for Clause 18?
-  input: ""
+- instruction: Clause 18 in Section II is documented on which page?
+  input: ''
   output: Page 45
-
-- instruction: Where is Clause 18 documented?
-  input: ""
+- instruction: Where can I find Clause 18 in Section II of the DOP document?
+  input: ''
   output: Page 45
-
-- instruction: Clause 18 is included on which page?
-  input: ""
+- instruction: What is the page location of Clause 18 in Section II?
+  input: ''
   output: Page 45
-
-- instruction: Which page shows Clause 18?
-  input: ""
+- instruction: Which page lists Clause 18 in Section II?
+  input: ''
   output: Page 45
-
-- instruction: Clause 19 is on what page?
-  input: ""
+- instruction: On which page is Clause 19 in Section II found?
+  input: ''
   output: Page 45
-
-- instruction: Where in the PDF can I find Clause 19?
-  input: ""
+- instruction: Clause 19 in Section II is documented on which page?
+  input: ''
   output: Page 45
-
-- instruction: Which page records Clause 19?
-  input: ""
+- instruction: Where can I find Clause 19 in Section II of the DOP document?
+  input: ''
   output: Page 45
-
-- instruction: On which document page is Clause 19?
-  input: ""
+- instruction: What is the page location of Clause 19 in Section II?
+  input: ''
   output: Page 45
-
-- instruction: What is the document page for Clause 19?
-  input: ""
+- instruction: Which page lists Clause 19 in Section II?
+  input: ''
   output: Page 45
-
