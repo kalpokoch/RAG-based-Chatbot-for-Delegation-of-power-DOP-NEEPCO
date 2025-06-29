@@ -659,6 +659,536 @@
   input: ""
   output: No, only OEMs or their officially authorized service providers are eligible for these contracts.
 
+##Sl no 10
+- instruction: "Who is authorized to purchase newspapers for field hostels in NEEPCO?"
+  input: ""
+  output: HOP, HOD, or HOD (CC) not below E-8 are authorized for such purchases.
+
+- instruction: "Can HOD (CC) approve subscription to monthly magazines for guesthouses?"
+  input: ""
+  output: Yes, HOD (CC) not below grade E-8 has full powers to approve such subscriptions.
+
+- instruction: "Is there any monetary limit for newspaper purchases in offices?"
+  input: ""
+  output: No, officials of grade E-8 or above have full powers for such purchases.
+
+- instruction: "Can an E-7 officer approve journal subscriptions for project offices?"
+  input: ""
+  output: No, only officials not below E-8 are authorized to make these purchases.
+
+- instruction: "What types of publications can be purchased under this clause?"
+  input: ""
+  output: Newspapers, magazines, and journals for use in offices, guesthouses, and field hostels.
+
+- instruction: "Are electronic versions of journals covered under this clause?"
+  input: ""
+  output: No, electronic publications are specifically covered in subclause 10.ii.
+
+- instruction: "What is the financial limit for book purchases in the Corporate Central Library?"
+  input: ""
+  output: ₹15,000 per annum is the limit for Corporate Central Library purchases.
+
+- instruction: "Who can approve purchases for project libraries?"
+  input: ""
+  output: HOP or Head of Project HR not below grade E-7 has full powers for project library purchases.
+
+- instruction: "Can an E-6 officer approve book purchases for departmental libraries?"
+  input: ""
+  output: No, approval must be given by an officer not below E-7 or DGM (HR) for Shillong.
+
+- instruction: "What publications are covered under technical journals and standards?"
+  input: ""
+  output: Books, technical journals, periodicals, and standard documents, including electronic formats.
+
+- instruction: "Who is authorized to approve e-journal subscriptions for the corporate library?"
+  input: ""
+  output: HOD (CC) or HOD (HR) not below the grade of E-8 can approve, within the ₹15,000 p.a. limit.
+
+- instruction: "Is there any location-specific authority under this clause?"
+  input: ""
+  output: Yes, in Shillong, the DGM (HR) Administration can approve purchases for departmental libraries.
+
+- instruction: "Can an E-7 HOD in Delhi approve technical book purchases for departmental libraries?"
+  input: ""
+  output: Yes, HOD not below E-7 can approve such purchases for departmental libraries.
+
+- instruction: "Are project libraries subject to a financial ceiling?"
+  input: ""
+  output: No, project libraries have full powers with no financial cap mentioned.
+
+- instruction: Can an E-7 grade officer approve purchases for the Corporate Central Library?
+  input: ""
+  output: No, only HOD (CC) or HOD (HR) not below grade E-8 can approve such purchases.
+
+- instruction: Does the ₹15,000 limit for the Corporate Central Library apply to electronic subscriptions?
+  input: ""
+  output: Yes, the limit includes books and technical journals in electronic form.
+
+- instruction: Can a Project HR head below grade E-7 approve purchases for Project Libraries?
+  input: ""
+  output: No, the approving authority must be at least grade E-7.
+
+- instruction: Is prior approval required for purchases beyond the ₹15,000 limit for the Corporate Library?
+  input: ""
+  output: The document does not specify, implying that exceeding the limit may require higher authorization.
+
+- instruction: Can the DGM (HR) Admin at Shillong approve purchases for all Departmental Libraries?
+  input: ""
+  output: Only for Departmental Libraries in Shillong; other locations require HOD not below grade E-7.
+
+- instruction: What is the difference in authority between Corporate and Project Libraries?
+  input: ""
+  output: Corporate Library requires E-8 grade approval, while Project Libraries allow E-7 grade approval.
+
+- instruction: Are standards (e.g., ISO) included in the purchase scope for technical journals?
+  input: ""
+  output: Yes, the document explicitly mentions "standards" alongside books and journals.
+
+##Sl no 12
+- instruction: "Who is authorized to approve prepayment for franking machines in NEEPCO?"
+  input: ""
+  output: HOP or HOD not below the rank of E-8 are authorized to sanction such prepayments.
+
+- instruction: "What is the rank requirement for sanctioning franking machine unit prepayment?"
+  input: ""
+  output: Only officers not below the rank of E-8 (HOP/HOD) can sanction prepayment for franking machines.
+
+- instruction: "Is there any monetary limit specified for franking machine prepayment?"
+  input: ""
+  output: No, the clause grants full powers to the authorized officers with no financial ceiling.
+
+- instruction: "Can an E-7 officer approve prepayment for franking machines?"
+  input: ""
+  output: No, only HOPs or HODs not below E-8 are permitted to approve such prepayments.
+
+- instruction: "Does the clause cover prepayment for franking units at both project and corporate locations?"
+  input: ""
+  output: Yes, it applies wherever franking machines are used, provided the officer is HOP/HOD ≥ E-8.
+
+- instruction: "What operational purpose does franking machine prepayment serve in NEEPCO?"
+  input: ""
+  output: It enables timely stamping of official communications and dispatches by funding the franking machine in advance.
+
+- instruction: "Is prior approval from a higher authority needed for franking prepayment?"
+  input: ""
+  output: No, HOP/HOD ≥ E-8 can exercise full powers without additional approval under this clause.
+
+- instruction: What does "Franking Machine units" refer to?
+  input: ""
+  output: The document does not clarify, but it likely includes hardware, software, or related services.
+
+- instruction: Are there any restrictions on vendor selection for these prepayments?
+  input: ""
+  output: The document does not specify; additional procurement guidelines may apply.
+
+##Sl no 13
+- instruction: Who can sanction installation of residential telephones in NEEPCO?
+  input: ""
+  output: HOP or HOD not below the rank of E-8.
+
+- instruction: Is there any policy condition tied to telephone installation approval?
+  input: ""
+  output: Yes, the approval must be as per the approved policy and norms of the Corporation.
+
+- instruction: Can an E-7 officer approve installation of official telephones?
+  input: ""
+  output: No, only HOP/HOD not below E-8 are authorized.
+
+- instruction: Who arranges telephone installation for officers at the Corporate Office?
+  input: ""
+  output: The In-charge Admin at the Corporate Office arranges installations.
+
+- instruction: Does this clause apply to both project and corporate offices?
+  input: ""
+  output: Yes, but corporate office installations are handled specifically by Admin-In-Charge.
+
+- instruction: What authority level is required for sanctioning a new landline at a field unit?
+  input: ""
+  output: HOP or HOD of E-8 rank or higher.
+
+- instruction: Are installations covered under this clause limited to only landlines?
+  input: ""
+  output: The document does not specify, but it generally includes standard telephone connections.
+
+- instruction: Who can approve waiving excess charges on residential phones in NEEPCO?
+  input: ""
+  output: Only the Director is authorized.
+
+- instruction: Is justification required for approving telephone charge waivers?
+  input: ""
+  output: Yes, necessary justification must be furnished before the waiver is approved.
+
+- instruction: Can ED waive excess telephone charges for an executive’s home phone?
+  input: ""
+  output: No, only the Director has the authority to approve such waivers.
+
+- instruction: What does 'exceeding eligibility limit' mean in this context?
+  input: ""
+  output: It refers to usage beyond the predefined entitlements set by company policy.
+
+- instruction: Does this clause apply to corporate and project employees alike?
+  input: ""
+  output: Yes, as long as the charges are for residential telephones exceeding the eligible limit.
+
+- instruction: Is there a monetary threshold for seeking waiver approvals?
+  input: ""
+  output: The clause does not define a specific financial limit; justification is the key condition.
+
+- instruction: Can repeated violations of phone limits be waived under this clause?
+  input: ""
+  output: The clause does not specify recurrence policy; waivers require case-by-case justification.
+
+- instruction: What level can waive excess residential telephone charges?
+  input: ""
+  output: Only Director-level officials can approve waivers for excess residential charges.
+
+- instruction: Can a department head approve charge waivers?
+  input: ""
+  output: No, charge waivers require Director approval regardless of department head rank.
+
+- instruction: Do these policies apply to all office locations?
+  input: ""
+  output: The document specifies Corporate Office procedures; other locations may have different arrangements.
+
+- instruction: Is there a difference between official and residential phone approvals?
+  input: ""
+  output: Both types follow the same approval chain (HOP/HOD ≥E8), but residential use has additional waiver rules.
+
+- instruction: Are there limits on waived amounts?
+  input: ""
+  output: The document mentions "excess of eligibility limit" but doesn't specify amount thresholds.
+
+##Sl no 14
+- instruction: Who can approve repair work for departmental vehicles in Corporate Offices?
+  input: ""
+  output: HOD In-charge of Transport Services not below the grade of E-8.
+
+- instruction: What is the annual financial limit for vehicle repairs approved by Shillong Coordinator?
+  input: ""
+  output: ₹100,000 per annum.
+
+- instruction: Can a DGM (HR) in Shillong approve vehicle maintenance?
+  input: ""
+  output: Yes, if the officer is not below the grade of E-7.
+
+- instruction: Who has full powers to approve departmental vehicle repairs at project locations?
+  input: ""
+  output: HOP not below the grade of E-8.
+
+- instruction: Is there a grade requirement for approving transport maintenance in Guwahati?
+  input: ""
+  output: Yes, the HOD in-charge of Transport Services must be of grade E-8 or above.
+
+- instruction: Can an E-6 level officer approve car repairs in Shillong?
+  input: ""
+  output: No, only officers of grade E-7 and above (e.g. Coordinator or DGM-HR) may approve.
+
+- instruction: What authority does HOP have for vehicle maintenance outside Corporate Office?
+  input: ""
+  output: HOP not below E-8 grade has full powers to approve all departmental vehicle repairs.
+
+- instruction: Are there different limits based on officer grade for vehicle repairs?
+  input: ""
+  output: Yes, in Shillong, E-7 officers are capped at ₹100,000 p.a., while E-8+ officers have full powers.
+
+- instruction: Who approves minor repairs like oil changes at Corporate Offices?
+  input: ""
+  output: HOD in-charge of Transport Services (not below E-8) is authorized at Corporate Offices.
+
+- instruction: Do vehicle repair powers apply equally across all NEEPCO locations?
+  input: ""
+  output: No, approvals vary by location — CO (HOD ≥E-8), Projects (HOP ≥E-8), Shillong (≥E-7, capped).
+
+- instruction: What officials can approve repairs at project locations?
+  input: ""
+  output: HOP (E-8) or Coordinator (E-7) can approve at project locations. DGM (HR) Admin can approve at Shillong.
+
+- instruction: What's special about Shillong location approvals?
+  input: ""
+  output: Shillong allows DGM (HR) Admin to approve in addition to standard project location authorities.
+
+- instruction: Are there different rules for different corporate offices?
+  input: ""
+  output: No, all listed corporate offices (Guwahati/Shillong/Kolkata/New Delhi) follow the same HOD approval rule.
+
+- instruction: Can a Transport Coordinator (E-6) approve repairs?
+  input: ""
+  output: No, the minimum grade for coordinators is specified as E-7.
+
+- instruction: Does "departmental vehicles" include leased vehicles?
+  input: ""
+  output: The document doesn't specify; this would require checking vehicle policy documents.
+
+- instruction: What about vehicle maintenance in non-listed locations?
+  input: ""
+  output: The document only specifies rules for listed corporate offices and "other locations".
+
+- instruction: Is prior justification required for maintenance approvals?
+  input: ""
+  output: The document doesn't specify any justification requirements for standard repairs.
+
+##Sl no 15
+- instruction: Who can approve an AMC contract worth ₹8 lakh per annum?
+  input: ""
+  output: HOP or HOD not below E-8, or Head of HR at power stations not below E-7 can approve AMC contracts up to ₹10 lakh per annum.
+
+- instruction: Is there a monetary cap for outsourcing services like scanning or data entry?
+  input: ""
+  output: Yes, outsourcing services such as data entry or digitalization are limited to ₹10 lakh per annum.
+
+- instruction: Can an E-6 officer approve maintenance contracts?
+  input: ""
+  output: No, only officials not below E-8 (HOP/HOD) or E-7 (Head of HR at power stations) are authorized.
+
+- instruction: What is the maximum contract duration allowed for these services?
+  input: ""
+  output: Normally up to 3 years; extension up to 50% of original period allowed in exceptional cases with approval from the original sanctioning authority.
+
+- instruction: Are there special provisions for AMC contracts in O&M plants?
+  input: ""
+  output: Yes, AMC or service contracts in O&M plants must comply with Section-I of the DOP, including technical sanction and award procedures.
+
+- instruction: Can contracts be extended beyond three years?
+  input: ""
+  output: Only in exceptional cases, and only up to 50% of the original duration, with approval from the original sanctioning authority.
+
+- instruction: What type of outsourced services are covered under this subclause?
+  input: ""
+  output: Services like data entry, photocopying, scanning, and digitalization are included.
+
+- instruction: Who approves technical service contracts in project sites?
+  input: ""
+  output: HOP/HOD ≥E-8 at project sites or Head of HR (≥E-7) in power stations.
+
+- instruction: Who has full powers to approve contracts for guest house management?
+  input: ""
+  output: Director (P) has full powers with no financial limit for such contracts.
+
+- instruction: Can an ED approve hospitality service contracts?
+  input: ""
+  output: Yes, Executive Directors can approve contracts up to ₹25 lakh per annum.
+
+- instruction: What is the financial limit for a HOD approving guest house operations?
+  input: ""
+  output: HOP/HOD (CA/RA/HR) not below E-8 can approve contracts up to ₹15 lakh per annum.
+
+- instruction: Can a contract for transit camp housekeeping worth ₹30L be approved by an ED?
+  input: ""
+  output: No, EDs are authorized up to ₹25L/year. Contracts above that require Director (P)’s approval.
+
+- instruction: What roles are authorized to handle field hostel management services?
+  input: ""
+  output: Director (P), EDs, and HOP/HOD (CA/RA/HR) not below E-8 depending on contract value.
+
+- instruction: Are there per-contract limits for hospitality services?
+  input: ""
+  output: Yes, ₹25L/year for EDs, ₹15L/year for E-8 grade officers; no limit for Director (P).
+
+- instruction: Can a HOD approve housekeeping for multiple locations?
+  input: ""
+  output: Yes, provided the cumulative contract value per year does not exceed ₹15L per contract.
+
+- instruction: Is prior consultation with D(F) needed for guest house operation contracts?
+  input: ""
+  output: This clause does not specify any consultation with Director (Finance).
+
+- instruction: Who can approve a 3-year photocopying service contract?
+  input: ""
+  output: HOP or HOD not below E-8 grade, or Head of HR (≥E-7) for power stations.
+
+- instruction: What's the maximum extension allowed for AMC contracts?
+  input: ""
+  output: Up to 50% of original period (1.5 years for 3-year contracts) in exceptional cases.
+
+- instruction: Can an E-7 grade officer approve ₹20 lakh hostel service contracts?
+  input: ""
+  output: No, ₹15-25 lakh contracts require ED (HR/Plants/Projects) or HOD (≥E-8) approval.
+
+- instruction: Which contracts follow Section-1 provisions?
+  input: ""
+  output: Plant Operation & Maintenance service contracts require technical sanctions per Section-1.
+
+- instruction: Who has unlimited financial authority for guest house management?
+  input: ""
+  output: Only Director (Projects) has full powers; others have ₹15/25 lakh annual limits.
+
+- instruction: What's the difference between 15a and 15b contract authorities?
+  input: ""
+  output: 15a: Equipment/services (HOP/HOD ≥E8). 15b: Facilities (tiered approvals with financial limits).
+
+- instruction: Can the same official approve both contract types?
+  input: ""
+  output: Only if they're HOD ≥E8 - they can approve 15a contracts and ₹15 lakh 15b contracts.
+
+- instruction: Are there special rules for power station contracts?
+  input: ""
+  output: Yes, Head of HR (≥E7) can approve technical service contracts at power stations.
+
+- instruction: What defines "allied services" in facility management?
+  input: ""
+  output: The document doesn't specify but likely includes laundry, security, etc.
+
+- instruction: Is tender process required for these contracts?
+  input: ""
+  output: Not mentioned; would depend on corporate procurement policies.
+
+##Sl no 16
+- instruction: Who has full powers to approve ceremonial expenditure?
+  input: ""
+  output: Director has full powers for ceremonial expenditure without any financial ceiling.
+
+- instruction: What is the maximum amount ED can approve for a single event?
+  input: ""
+  output: ED can approve up to ₹3 lakh per occasion, subject to an annual ceiling of ₹15 lakh.
+
+- instruction: What is the annual limit for EDs on festival-related expenses?
+  input: ""
+  output: EDs have an annual ceiling of ₹15 lakh for such expenditures.
+
+- instruction: Can a HOD approve ₹2.5 lakh for a local festival?
+  input: ""
+  output: No, HOD (CA/HR) or HOP not below E-8 grade can approve only up to ₹2 lakh per occasion and ₹12 lakh annually.
+
+- instruction: Who approves ₹1.5 lakh expenditure for a dignitary visit in a project site?
+  input: ""
+  output: HOP (not below E-8 grade) can approve up to ₹2 lakh per occasion, within ₹12 lakh annual ceiling.
+
+- instruction: Are Republic Day and Independence Day expenses covered under this clause?
+  input: ""
+  output: No, expenses for Republic Day, Independence Day, and NEEPCO Raising Day are covered under separate orders.
+
+- instruction: What is the financial limit for HODs for ceremonial occasions?
+  input: ""
+  output: HOD (CA/HR) not below grade E-8 can approve ₹2 lakh per occasion, subject to ₹12 lakh annual ceiling.
+
+- instruction: Can a Director approve a ₹5 lakh local festival expense?
+  input: ""
+  output: Yes, the Director has full powers with no financial cap.
+
+- instruction: Does this clause apply to national holidays?
+  input: ""
+  output: No, national events like Independence Day and Republic Day are excluded and governed by separate orders.
+
+- instruction: What happens if annual ceiling is exceeded by a HOD?
+  input: ""
+  output: Exceeding ₹12 lakh annually would require escalation to ED or Director level approval.
+
+- instruction: Can an E-8 grade HOD(Finance) approve ₹2 lakh festival spending?
+  output: No, only HOD(CA) or HOD(HR) ≥E-8 are authorized for such approvals.
+
+- instruction: What's the maximum a Director can spend annually on these events?
+  output: ₹15 lakh annual ceiling, with no single event exceeding ₹3 lakh.
+
+- instruction: How does ED's approval capacity compare to Director's?
+  output: EDs have slightly lower limits (₹3 lakh/occasion, ₹15 lakh/year) versus Director's full powers.
+
+- instruction: Are there different rules for multi-day dignitary visits?
+  output: The document doesn't specify whether "per occasion" means per day or per visit.
+
+- instruction: Can HOP/HOD combine multiple ₹2 lakh approvals for one event?
+  output: Not addressed; would likely require higher authority approval if exceeding ₹2 lakh.
+
+- instruction: What constitutes a "ceremonial occasion"?
+  output: The policy doesn't define this term explicitly.
+
+- instruction: Is there flexibility to exceed annual ceilings?
+  output: No provision is mentioned for exceeding the stated annual limits.
+
+- instruction: Who monitors the annual ceiling utilization?
+  output: Monitoring mechanism isn't specified in this delegation.
+
+- instruction: Can unused annual limits be carried forward?
+  output: The document is silent on carry-forward provisions.
+
+##Sl no 17
+- instruction: Who has full authority to approve purchase of office stationery?
+  input: ""
+  output: HOP or HOD not below the grade of E-8, and Company Secretary (CS), have full powers.
+
+- instruction: Can the Company Secretary approve binding service bills?
+  input: ""
+  output: Yes, the CS is authorized with full powers under this clause.
+
+- instruction: What is the financial limit for DGM (HR) Admin at Shillong?
+  input: ""
+  output: ₹50,000 per annum.
+
+- instruction: Can an E-7 officer approve ₹60,000 worth of printing services?
+  input: ""
+  output: No, only officials of E-8 grade and above or CS have full powers; DGM (HR) Shillong is capped at ₹50,000/year.
+
+- instruction: Who can approve bulk photocopying orders at a power station?
+  input: ""
+  output: HOP not below E-8 is authorized with full powers for such approvals.
+
+- instruction: Is there any mention of carry forward for unused ₹50,000 limit?
+  input: ""
+  output: No
+
+- instruction: Can DGM (HR) Admin at Shillong approve binding charges exceeding ₹50,000?
+  input: ""
+  output: No, they are restricted to ₹50,000 per annum as per the clause.
+
+- instruction: Are there different financial limits for different regions?
+  input: ""
+  output: Yes, DGM (HR) Admin at Shillong has a ₹50,000 annual cap, while others (E-8 and above) have full powers.
+
+- instruction: Is the purchase of printing paper included in this clause?
+  input: ""
+  output: Yes, purchase of office stationery includes items like printing paper as per standard interpretation.
+
+##Sl no 18
+- instruction: Who can approve purchases of cleaning materials above ₹2 lakh?
+  input: ""
+  output: HOD or HOP not below the grade of E-8 have full powers with no upper financial limit.
+
+- instruction: Can a Coordinator approve toiletries purchase worth ₹1.5 lakh?
+  input: ""
+  output: Yes, if the Coordinator is not below E-7 grade, and within the ₹2 lakh per annum limit.
+
+- instruction: What is the annual financial limit for E-7 grade officials for such purchases?
+  input: ""
+  output: ₹2,00,000 per annum.
+
+- instruction: Who is authorized to make such purchases in S&I units?
+  input: ""
+  output: Head of S&I units not below E-7 grade is authorized for purchases up to ₹2 lakh per year.
+
+- instruction: Can DGM (HR) Admin at Shillong buy disinfectants for office use?
+  input: ""
+  output: Yes, DGM (HR) Admin at Shillong (≥E-7) is authorized within the ₹2 lakh annual limit.
+
+- instruction: Do HOPs have full powers to approve washroom equipment purchases?
+  input: ""
+  output: Yes, HOPs not below E-8 rank have full powers with no financial limit.
+
+- instruction: Is there a separate clause for purchase of cleaning items for project sites?
+  input: ""
+  output: No separate clause; this clause applies generally, including for project locations through HOPs.
+
+- instruction: What kind of items are covered under this clause?
+  input: ""
+  output: Cleaning materials, toiletries, washroom items, equipment, and disinfectants.
+
+- instruction: Can an E-6 officer approve purchase of toilet cleaning supplies?
+  input: ""
+  output: No, only officers of E-7 grade and above are authorized for such purchases.
+
+- instruction: Does the ₹2 lakh limit apply per item or total annual spend?
+  input: ""
+  output: The ₹2 lakh limit applies to the total annual expenditure per authorized official.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
