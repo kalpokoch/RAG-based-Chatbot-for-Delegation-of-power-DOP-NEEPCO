@@ -224,7 +224,6 @@
     - Head of Department (Estate Services) for corporate offices
 
 ##Sl no 3
-    
 - instruction: Who is authorized to approve building repairs at NEEPCO Corporate Offices?
   input: ""
   output: |
@@ -244,7 +243,6 @@
     - Executive Director (ED) holds full powers.
     - Head of Project (HOP), not below E-8, is authorized up to ₹50 Lakh per annum.
 
-    
 - instruction: What is the financial limit for repair approval at a project site by HOP?
   input: ""
   output: HOPs (not below grade E-8) are authorized to approve repair and maintenance work up to ₹50 Lakh per annum at project sites.
@@ -285,12 +283,10 @@
     - Project Site: HOP ≤ ₹50 Lakh/year
     - ED has full powers in both locations.
 
-    
 - instruction: What happens if maintenance costs exceed ₹50 Lakh at a power station?
   input: ""
   output: Costs exceeding ₹50 Lakh per annum must be approved by the Executive Director, who holds full powers for project-site repair works.
 
-    
 - instruction: Who approves repairs for a field hostel at the New Delhi office?
   input: ""
   output: The HOD in charge (Estate Service), if of E-8 grade or higher, may approve repairs up to ₹20 Lakh per annum. Beyond that, ED approval is required.
@@ -332,7 +328,6 @@
     3. Emergency provisions (if any) not stated in this clause.
 
  ##Sl no 4
-
 - instruction: "Who has full powers for purchasing furniture and appliances in NEEPCO?"
   input: ""
   output: Full powers are held by Director (P) and Director (T).
@@ -416,7 +411,6 @@
    Clause doesn't specify emergency protocols.
 
 ##Sl no 5
-
 - instruction: "Who has full powers to approve IT infrastructure purchases in NEEPCO?"
   input: ""
   output: Director (Technical) and ED (IT) have full powers to approve IT and communication infrastructure procurement.
@@ -470,8 +464,6 @@
   output: Yes
 
 ## Sl no 6
-
-
 - instruction: "Who can approve repair of furniture in project offices?"
   input: ""
   output: HOP or HOD not below grade E-8 has full powers for such approvals.
@@ -492,7 +484,6 @@
   input: ""
   output: No
 
-
 - instruction: "Who is authorized to approve repair of office equipment in NEEPCO?"
   input: ""
   output: HOP or HOD not below the rank of E-8 have full powers for this activity.
@@ -512,7 +503,6 @@
 - instruction: "Can HOD approve computer printer repairs under office equipment?"
   input: ""
   output: Yes
-
 
 - instruction: "Who is authorized to approve repairs of IT systems in corporate offices?"
   input: ""
@@ -535,7 +525,6 @@
   output: No
 
 ##Sl no 7
-
 - instruction: "Who has the authority to approve hiring of furniture in NEEPCO project sites?"
   input: ""
   output: HOP or HOD (CA/RA) not below the grade of E-8 has full powers for hiring at project sites.
