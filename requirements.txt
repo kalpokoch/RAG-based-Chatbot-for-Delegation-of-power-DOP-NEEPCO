@@ -1,0 +1,6 @@
+pip install sentence-transformers
+pip install chromadb
+pip install transformers
+pip install torch
+pip install datasets
+pip install sentence-transformers chromadb transformers torch datasets
