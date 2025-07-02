@@ -64,7 +64,6 @@ clauses:
           - EMD need not to be taken from IIMs/ IITs/ NITs/ IISc. / CBRI/ CPRI/ GSI/ CWPRS/ CWC and other Govt. Institutes/ agencies (excluding PSUs) irrespective of nature of tendering. 
           - In case of new projects where TEC is accorded, advance action for tendering wherever considered necessary shall be taken pending Investment Approval with the objective of coinciding the date of award with the zero date of the project. Such proposals including splitting of works into major packages for procurement shall require approval of the BOD with recommendation of CMD. However, letter of award (LoA) for tendered works shall be issued after obtaining Investment approval.
 
-
       - id: b
         description: Limited tender for works ( to be invited in case of urgency having limited source, in unavoidable circumstances with the approval of next higher authority. {Remarks under Clause 2(a) of Section-I shall be complied.} 
         delegation:
@@ -238,3 +237,4 @@ clauses:
           - Before taking any procurement action, the O&M estimate is required to be approved by the Project Head (CGM/GM) at the beginning of the financial year and included in the annual procurement plan.
           - Items to be procured should be earmarked even if on "broad head" in the O&M estimate.
           - Quantity justification to be recorded.
+ 

@@ -1003,7 +1003,9 @@
 
 - instruction: What's the difference between 15a and 15b contract authorities?
   input: ""
-  output: 15a: Equipment/services (HOP/HOD ≥E8). 15b: Facilities (tiered approvals with financial limits).
+  output: |
+    15a: Equipment/services (HOP/HOD ≥E8).
+    15b: Facilities (tiered approvals with financial limits).
 
 - instruction: Can the same official approve both contract types?
   input: ""
