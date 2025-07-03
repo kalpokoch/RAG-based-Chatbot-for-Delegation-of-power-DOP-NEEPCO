@@ -953,6 +953,131 @@
 {"instruction": "What kind of items are covered under this clause?", "input": "", "output": "Cleaning materials, toiletries, washroom items, equipment, and disinfectants."}
 {"instruction": "Can an E-6 officer approve purchase of toilet cleaning supplies?", "input": "", "output": "No, only officers of E-7 grade and above are authorized for such purchases."}
 {"instruction": "Does the ₹2 lakh limit apply per item or total annual spend?", "input": "", "output": "The ₹2 lakh limit applies to the total annual expenditure per authorized official."}
+{"instruction": "Who has full powers for purchasing petty items at corporate offices?", "input": "", "output": "Director has full powers without any specified monetary limit."}
+{"instruction": "What is the purchase limit for HODs in corporate offices?", "input": "", "output": "₹50,000 per purchase, subject to an annual ceiling of ₹30 lakh."}
+{"instruction": "Can a DGM in Shillong approve contingent purchases?", "input": "", "output": "Yes, DGM (HR) Admin at Shillong can approve up to ₹20,000 per purchase, capped at ₹10 lakh per annum."}
+{"instruction": "Is there any officer below E-8 who can approve petty purchases in Guwahati?", "input": "", "output": "No, only HODs not below the grade of E-8 are authorized in Guwahati."}
+{"instruction": "What is the total amount a HOD can approve in one year?", "input": "", "output": "A HOD can approve purchases up to ₹30 lakh annually, provided each purchase is within ₹50,000."}
+{"instruction": "Can the purchase limits be exceeded with prior approval?", "input": "", "output": "The clause does not mention provisions for exceeding limits; such cases may need escalation to Director."}
+{"instruction": "Are these powers applicable to all corporate locations?", "input": "", "output": "Yes, they apply to Shillong, Guwahati, Delhi, and Kolkata corporate offices."}
+{"instruction": "Can the ₹10 lakh limit for DGM (HR) at Shillong be used for a single large purchase?", "input": "", "output": "No, each purchase by DGM (HR) Shillong is limited to ₹20,000, even if within the annual ₹10 lakh ceiling."}
+{"instruction": "Who should be contacted for high-value miscellaneous purchases at Delhi corporate office?", "input": "", "output": "The Director should be approached, as they hold full powers without specified financial ceilings."}
+{"instruction": "Is the ₹50,000 limit per purchase or per month for HODs?", "input": "", "output": "The ₹50,000 limit applies per purchase, not per month, within the annual cap of ₹30 lakh."}
+{"instruction": "What is the per-purchase limit for Directors approving petty expenses?", "input": "", "output": "Directors can approve ₹50,000 per individual purchase of petty/contingent items."}
+{"instruction": "How much can a HOD (E-8) spend annually on miscellaneous office items?", "input": "", "output": "HODs (grade E-8+) have an annual ceiling of ₹10 lakhs for such purchases."}
+{"instruction": "Compare the approval limits between Directors and HODs.", "input": "", "output": "Directors: ₹50,000/purchase (₹30L annual)  \nHODs: ₹20,000/purchase (₹10L annual)  \nDirectors have 2.5x higher per-transaction limits and 3x annual ceilings.\n"}
+{"instruction": "Which locations follow these petty purchase rules?", "input": "", "output": "Only corporate offices in Shillong, Guwahati, Delhi, and Kolkata."}
+{"instruction": "What authority does DGM (HR) at Shillong have for these purchases?", "input": "", "output": "DGM (HR) Admin at Shillong can approve purchases up to ₹20,000 per transaction, subject to ₹10 lakh annually."}
+{"instruction": "Can a HOD approve ₹25,000 for a single contingent purchase?", "input": "", "output": "No, HODs are capped at ₹20,000 per individual transaction."}
+{"instruction": "Are there separate rules for emergency petty purchases?", "input": "", "output": "The policy doesn't mention exceptions for emergency situations."}
+{"instruction": "What items qualify as \"miscellaneous\" under this delegation?", "input": "", "output": "The document doesn't define specific items, only using \"petty/contingent/misc.\""}
+{"instruction": "How does this policy prevent budget misuse?", "input": "", "output": "Through dual controls-> per-purchase limits and annual ceilings for each authority level."}
+{"instruction": "Why does Shillong's DGM (HR) have special mention?", "input": "", "output": "Likely reflects Shillong's operational significance as a corporate office location."}
+{"instruction": "Who has full powers for petty purchases at project locations?", "input": "", "output": "Executive Directors (EDs) have full powers without a specified financial limit."}
+{"instruction": "What is the spending limit for HOPs on petty items?", "input": "", "output": "HOPs not below the grade of E-8 can approve ₹20,000 per purchase with an annual ceiling of ₹20 lakhs."}
+{"instruction": "Can an E-7 officer approve ₹15,000 for stationery at a project site?", "input": "", "output": "No, only HOPs with a grade of E-8 or above are authorized for such approvals."}
+{"instruction": "Are there different rules for corporate offices and project sites?", "input": "", "output": "Yes, corporate offices follow Clause 19, while project sites follow Clause 20 with different limits and roles."}
+{"instruction": "What happens if a project exceeds ₹20 lakh in petty purchases annually?", "input": "", "output": "Further approvals must be routed through higher authority like the ED, as HOPs are capped at ₹20 lakh annually."}
+{"instruction": "Is ₹20,000 the total budget or per transaction limit?", "input": "", "output": "₹20,000 is the per purchase limit for HOPs, with a total annual ceiling of ₹20 lakhs."}
+{"instruction": "Why is the HOP’s grade mentioned in the policy?", "input": "", "output": "To ensure accountability, only HOPs not below the grade of E-8 can exercise this delegation of financial power."}
+{"instruction": "Are Directors mentioned in Clause 20?", "input": "", "output": "Yes, Directors (EDs) are listed as having full powers for petty and miscellaneous purchases at project units."}
+{"instruction": "Can the ₹20,000 per transaction limit be split to bypass the rule?", "input": "", "output": "The policy does not allow artificial splitting to avoid the per transaction limit."}
+{"instruction": "Is there any mention of procurement methods for these purchases?", "input": "", "output": "No, the clause only defines delegation of authority and limits, not procurement procedures."}
+{"instruction": "Why do projects have higher annual ceilings than corporate?", "input": "", "output": "Likely reflects greater operational needs and decentralized decision-making in field locations."}
+{"instruction": "What items are excluded from \"miscellaneous\" purchases?", "input": "", "output": "The policy doesn't specify exclusions, only using \"petty/contingent/misc.\""}
+{"instruction": "Can multiple ₹20K purchases be combined to bypass limits?", "input": "", "output": "The document prohibits this implicitly through annual ceilings."}
+{"instruction": "Who monitors annual petty expenditure utilization?", "input": "", "output": "Monitoring mechanisms aren't specified in this delegation."}
+{"instruction": "Who has full powers for writing off obsolete furniture?", "input": "", "output": "Directors have full powers to write off office equipment, furniture, and books."}
+{"instruction": "Can ED approve ₹25,000 write-off of damaged office books?", "input": "", "output": "Yes, ED can approve individual write-offs up to ₹25,000, subject to ₹10 lakh annual ceiling."}
+{"instruction": "What is the financial ceiling for ED's write-off approvals?", "input": "", "output": "EDs can approve up to ₹25,000 per proposal, limited to ₹10 lakh per annum."}
+{"instruction": "Can a HOP write off unusable IT equipment?", "input": "", "output": "Yes, HOP (≥E-8) can approve write-offs up to ₹20,000 per proposal and ₹5 lakh annually."}
+{"instruction": "What is the difference in write-off powers between Director and HOP?", "input": "", "output": "Directors: ₹25,000/proposal (₹10L/year)\nHOPs (≥E-8): ₹20,000/proposal (₹5L/year)\n"}
+{"instruction": "Can multiple write-off proposals bypass annual ceilings?", "input": "", "output": "No, total approved write-offs must remain within the ₹10L/year (Director) or ₹5L/year (HOP) limits."}
+{"instruction": "Is there any minimum rank required for write-off authority?", "input": "", "output": "Yes, HOP must be of grade E-8 or above to exercise write-off powers."}
+{"instruction": "Are books included in the write-off clause?", "input": "", "output": "Yes, books are explicitly included along with furniture and office equipment."}
+{"instruction": "Can an E-7 officer initiate write-off of broken office chair?", "input": "", "output": "No, minimum grade for approval is E-8 (HOP or above)."}
+{"instruction": "Is there a cap on number of write-off proposals?", "input": "", "output": "No cap on number, but total value must stay within the approved annual limits."}
+{"instruction": "What is the maximum amount a Director can write off for a single office chair?", "input": "", "output": "₹25,000 per individual asset write-off."}
+{"instruction": "How does HOP write-off authority compare to ED level?", "input": "", "output": "HOPs (≥E8): ₹20K/item (₹5L annual)  \nDirectors/EDs: ₹25K/item (₹10L annual)  \nTop management has 25% higher per-item limits and 2x annual capacity.\n"}
+{"instruction": "Why is there a lower annual ceiling for project-level write-offs?", "input": "", "output": "Likely reflects smaller asset pools and more centralized oversight at projects."}
+{"instruction": "How are multi-component assets (e.g., computer systems) evaluated?", "input": "", "output": "The document doesn't specify whether components can be written off separately."}
+{"instruction": "What documentation is required for write-off proposals?", "input": "", "output": "Not specified in this delegation, likely covered in financial procedures."}
+{"instruction": "Can unused annual write-off limits be carried forward?", "input": "", "output": "The policy is silent on carry-forward provisions."}
+{"instruction": "Are there different rules for fully depreciated assets?", "input": "", "output": "The document doesn't distinguish based on depreciation status."}
+{"instruction": "Who has the authority to empanel attorneys and legal professionals for court and arbitration matters?", "input": "", "output": "CMD has full powers to empanel Attorneys, Solicitors, Counsels, Arbitrators, and Advocates."}
+{"instruction": "Can an ED or Director approve legal panel empanelments?", "input": "", "output": "No, only the CMD is authorized for empanelment of legal professionals."}
+{"instruction": "Is the empanelment authority limited by geography or court type?", "input": "", "output": "No, CMD has full powers for empanelment across all court cases and arbitration matters."}
+{"instruction": "What legal roles are covered under this empanelment clause?", "input": "", "output": "Attorneys, Solicitors, Counsels, Arbitrators, and Advocates are covered."}
+{"instruction": "Are empanelments permanent or periodic?", "input": "", "output": "The clause does not specify duration; policy details may be defined elsewhere."}
+{"instruction": "Who can fix remuneration for empaneled legal professionals?", "input": "", "output": "CMD has full powers to fix the fee/remuneration for empaneled legal professionals."}
+{"instruction": "Can a legal department HOD set advocate fees?", "input": "", "output": "No, only the CMD has authority to fix fee schedules for legal empaneled personnel."}
+{"instruction": "Is there a monetary cap for fixing legal fees?", "input": "", "output": "No monetary ceiling is mentioned; CMD has full discretionary power."}
+{"instruction": "Does this clause apply to arbitration matters too?", "input": "", "output": "Yes, fee fixation authority extends to both court cases and arbitration matters."}
+{"instruction": "Are fixed fees uniform across roles?", "input": "", "output": "The clause does not specify; CMD may fix differentiated rates per role or case."}
+{"instruction": "Can the Legal Head independently set fees for arbitrators?", "input": "", "output": "No, fee schedules must be approved exclusively by the CMD."}
+{"instruction": "Does this apply to both ongoing and future court cases?", "input": "", "output": "Yes, it covers \"all Court cases and Arbitration Matters\"."}
+{"instruction": "Why is this authority not delegated to the Legal Department?", "input": "", "output": "Likely ensures centralized control over sensitive legal engagements and expenditures."}
+{"instruction": "Can project sites hire local counsel for urgent matters?", "input": "", "output": "The document doesn't provide exceptions; suggests all engagements require CMD approval."}
+{"instruction": "How often can the empanelment list be updated?", "input": "", "output": "The policy doesn't specify review frequency for the empanelment list."}
+{"instruction": "What criteria are used for empanelment decisions?", "input": "", "output": "The document doesn't outline selection criteria or process details."}
+{"instruction": "Are there different rules for arbitration vs litigation counsel?", "input": "", "output": "No, both are covered under the same empanelment and fee-setting rules."}
+{"instruction": "Who can represent NEEPCO in court or quasi-judicial matters?", "input": "", "output": "The concerned Director has full powers to contest, institute, or defend legal proceedings."}
+{"instruction": "Who is authorized to intervene in employee-related court cases?", "input": "", "output": "The concerned Director has full powers in legal matters involving employees or the company."}
+{"instruction": "What powers are granted for filing writ petitions by NEEPCO?", "input": "", "output": "The concerned Director has full authority to file writ petitions on behalf of NEEPCO."}
+{"instruction": "Can Directors defend the company in arbitration?", "input": "", "output": "Yes, the concerned Director is fully empowered to handle arbitration proceedings."}
+{"instruction": "What legal actions can a Director take regarding company affairs?", "input": "", "output": "The Director can contest, institute, defend, or intervene in suits, appeals, revisions, and petitions."}
+{"instruction": "Who refers claims to arbitration in NEEPCO?", "input": "", "output": "The concerned Director has full powers to refer claims to arbitration."}
+{"instruction": "Can Directors demand arbitration against a third party?", "input": "", "output": "Yes, Directors are authorized to refer any claims and/or demands to arbitration."}
+{"instruction": "Is prior approval needed to initiate arbitration?", "input": "", "output": "No, the concerned Director has independent full powers for such actions."}
+{"instruction": "What grade is required to initiate arbitration in legal disputes?", "input": "", "output": "Directors hold this authority; no lower grade is mentioned."}
+{"instruction": "Are both inbound and outbound arbitration claims allowed?", "input": "", "output": "Yes, Directors may refer or respond to arbitration claims as per the delegation."}
+{"instruction": "Who signs pleadings for NEEPCO court submissions?", "input": "", "output": "The concerned Director has full powers to sign and verify any legal pleadings."}
+{"instruction": "What types of documents can the Director sign?", "input": "", "output": "Plaints, affidavits, objections, appeals, and other related court documents."}
+{"instruction": "Can objections in tribunals be signed by the Director?", "input": "", "output": "Yes, the concerned Director is authorized to sign objections before tribunals."}
+{"instruction": "Is Director approval mandatory for filing appeals?", "input": "", "output": "Yes, filing appeals requires the signature and verification by the concerned Director."}
+{"instruction": "Who represents NEEPCO in quasi-judicial proceedings?", "input": "", "output": "The concerned Director has full powers to act in such proceedings."}
+{"instruction": "Who can enforce court or tribunal decrees on behalf of NEEPCO?", "input": "", "output": "The concerned Director has full powers to execute judgments and decrees."}
+{"instruction": "What powers exist for enforcing arbitral awards?", "input": "", "output": "Full authority is delegated to the concerned Director for enforcement of awards."}
+{"instruction": "Can Directors act on orders from quasi-judicial authorities?", "input": "", "output": "Yes, the concerned Director may enforce such orders."}
+{"instruction": "Who takes steps after a judgment is passed?", "input": "", "output": "The concerned Director is responsible for all actions in furtherance of court or tribunal judgments."}
+{"instruction": "What actions can a Director take post-judgment?", "input": "", "output": "Execution of decree, taking enforcement steps, or implementing tribunal awards."}
+{"instruction": "Can the Director initiate a public interest litigation (PIL)?", "input": "", "output": "Yes, if related to company affairs as the clause covers 'any' proceedings."}
+{"instruction": "Are there geographical limits to this legal authority?", "input": "", "output": "No, applies to proceedings in 'any Court' without territorial restrictions."}
+{"instruction": "Does this include criminal proceedings against employees?", "input": "", "output": "Yes, covers suits 'by or against employees' without case-type exclusions."}
+{"instruction": "Can ongoing court cases be moved to arbitration mid-trial?", "input": "", "output": "Yes, the clause doesn't impose timing restrictions on referrals."}
+{"instruction": "Is board approval needed for high-value arbitration referrals?", "input": "", "output": "No, the Director has 'Full Powers' without monetary thresholds."}
+{"instruction": "Who selects the arbitration institution/rules?", "input": "", "output": "The Concerned Director decides as part of referral authority."}
+{"instruction": "Can suppliers force arbitration without Director approval?", "input": "", "output": "No, company participation requires Director-initiated referral per this clause."}
+{"instruction": "Can e-filed documents be signed digitally?", "input": "", "output": "Yes, 'any pleadings' includes electronic submissions to modern courts/tribunals."}
+{"instruction": "Are non-litigation affidavits (e.g., compliance) covered?", "input": "", "output": "Only if filed before judicial/quasi-judicial authorities."}
+{"instruction": "Can the Legal Head countersign documents?", "input": "", "output": "The clause doesn't provide for sub-delegation of signing authority."}
+{"instruction": "What about amendments to filed pleadings?", "input": "", "output": "Covered under 'any other pleadings' as part of ongoing proceedings."}
+{"instruction": "Does this cover foreign arbitral awards under NY Convention?", "input": "", "output": "Yes, includes awards from 'any Arbitrator/Tribunal' without jurisdictional limits."}
+{"instruction": "Can the Director negotiate settlements during enforcement?", "input": "", "output": "The clause doesn't restrict post-judgment settlement authority."}
+{"instruction": "Who handles physical seizure of assets under orders?", "input": "", "output": "The Director can authorize all enforcement actions per 'Full Powers'."}
+{"instruction": "Are there time limits on enforcing old decrees?", "input": "", "output": "Not specified here - would depend on applicable limitation laws."}
+{"instruction": "Who can appoint legal consultants outside NEEPCO’s approved panel?", "input": "", "output": "Only the CMD has full powers to appoint legal professionals not listed in the approved panel."}
+{"instruction": "Can an HOD engage an external lawyer not on the approved list?", "input": "", "output": "No, only the CMD is authorized to appoint such professionals."}
+{"instruction": "What is the scope of CMD’s power in appointing non-panel legal advisors?", "input": "", "output": "The CMD holds full powers with no financial or procedural restrictions for such appointments."}
+{"instruction": "Why might legal professionals be appointed outside the approved panel?", "input": "", "output": "In urgent, specialized, or exceptional cases where approved panel members are unsuitable or unavailable."}
+{"instruction": "Are there financial limits for hiring outside-panel counsels?", "input": "", "output": "No, the delegation specifies “Full Powers” to the CMD without monetary limits."}
+{"instruction": "Does this clause apply to arbitration consultants as well?", "input": "", "output": "Yes, the clause includes Arbitrators and Consultants in addition to legal counsel."}
+{"instruction": "Who can engage legal professionals from the approved panel?", "input": "", "output": "The CMD has full powers to appoint legal professionals from the approved panel."}
+{"instruction": "Can the CMD approve payments beyond the standard fee schedule for panel counsels?", "input": "", "output": "No, engagement must follow the approved schedule of fees."}
+{"instruction": "What types of legal roles can be appointed from the panel?", "input": "", "output": "Attorneys, Solicitors, Counsels, Arbitrators, Advocates, and Consultants."}
+{"instruction": "Is Legal Department involved in panel-based appointments?", "input": "", "output": "The clause does not delegate powers to the Legal Department; CMD alone holds the authority."}
+{"instruction": "What is the fee condition for panel-based legal engagements?", "input": "", "output": "Appointments must be made at the approved rates or as per the schedule of remuneration."}
+{"instruction": "Can a power station HOP appoint a panel advocate directly?", "input": "", "output": "No, only the CMD is authorized to engage even panel advocates as per this clause."}
+{"instruction": "When can the CMD appoint non-panel legal professionals?", "input": "", "output": "For any engagement requiring attorneys, arbitrators, or consultants outside the approved panel."}
+{"instruction": "Are there rate limits for non-panel counsel appointments?", "input": "", "output": "No, the CMD has 'Full Powers' without fee restrictions for non-panel engagements."}
+{"instruction": "Can non-panel arbitrators be appointed for sensitive disputes?", "input": "", "output": "Yes, the CMD has unrestricted authority to appoint any qualified non-panel arbitrator."}
+{"instruction": "What documentation justifies non-panel appointments?", "input": "", "output": "The policy doesn't specify requirements - implied at CMD's discretion."}
+{"instruction": "Are there geographical limits to non-panel appointments?", "input": "", "output": "No, the clause applies universally without territorial constraints."}
+{"instruction": "Who maintains the approved legal professionals panel?", "input": "", "output": "The document doesn't specify - likely a separate panel management process exists."}
+{"instruction": "Can the CMD exceed approved rates for exceptional panel cases?", "input": "", "output": "No, panel appointments must use pre-approved rates without exception."}
+{"instruction": "How often is the legal panel updated?", "input": "", "output": "The policy doesn't define panel refresh frequency."}
+{"instruction": "Can panel advocates be used for international arbitration?", "input": "", "output": "Yes, if they're on the approved panel and the case type matches their mandate."}
+{"instruction": "What happens if no panel member is available for a case?", "input": "", "output": "The CMD must then use non-panel appointment authority under Subclause 24(1)."}
 {"instruction": "Who holds full authority to ensure compliance with audit observations?", "input": "", "output": "Director (Finance), ED (Finance)"}
 {"instruction": "What is the responsibility of Director (Finance) under Clause 11?", "input": "", "output": "To implement all audit and government financial compliance requirements"}
 {"instruction": "Can ED (Finance) independently implement internal audit recommendations?", "input": "", "output": "Yes, ED (F) has full powers to manage operational-level compliance"}

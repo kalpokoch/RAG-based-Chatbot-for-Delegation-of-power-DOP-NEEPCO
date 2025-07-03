@@ -1329,7 +1329,9 @@
 
 - instruction: What is the difference in write-off powers between Director and HOP?
   input: ""
-  output: Directors: ₹25,000/proposal (₹10L/year), HOPs (≥E-8): ₹20,000/proposal (₹5L/year).
+  output: |
+    Directors: ₹25,000/proposal (₹10L/year)
+    HOPs (≥E-8): ₹20,000/proposal (₹5L/year)
 
 - instruction: Can multiple write-off proposals bypass annual ceilings?
   input: ""
