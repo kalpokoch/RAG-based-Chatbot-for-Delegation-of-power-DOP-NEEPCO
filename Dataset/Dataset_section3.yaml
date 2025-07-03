@@ -1425,7 +1425,7 @@
   input: ""
   output: The clause does not specify; CMD may fix differentiated rates per role or case.
 
-- instruction: "Can the Legal Head independently set fees for arbitrators?"
+- instruction: Can the Legal Head independently set fees for arbitrators?
   input: ""
   output: No, fee schedules must be approved exclusively by the CMD.
 
@@ -1445,11 +1445,11 @@
   input: ""
   output: The policy doesn't specify review frequency for the empanelment list.
 
-- instruction: "What criteria are used for empanelment decisions?"
+- instruction: What criteria are used for empanelment decisions?
   input: ""
   output: The document doesn't outline selection criteria or process details.
 
-- instruction: "Are there different rules for arbitration vs litigation counsel?"
+- instruction: Are there different rules for arbitration vs litigation counsel?
   input: ""
   output: No, both are covered under the same empanelment and fee-setting rules.
 

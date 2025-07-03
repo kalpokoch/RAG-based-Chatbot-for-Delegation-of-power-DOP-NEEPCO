@@ -1,14 +1,17 @@
 - instruction: Who has the authority to approve the list of candidates for executive interviews?
   input: ""
-  output: All Executives
+  output: |
+    D(P) has the authority for all executives
+    HOD (HR) not below the rank of E-8 in consulation with D(P) has the authority for Non-Executives
 
 - instruction: Who is responsible for approving the candidates to be interviewed for executive positions?
   input: ""   
   output: All Executives
-  
+
 - instruction: Which authority approves the list of candidates for executive-level interviews?
   input: ""
   output: All Executives
+
 - instruction: Who approves the list of candidates to be called for interview for executive posts?
   input: ""
   output: All Executives
