@@ -299,7 +299,7 @@
   input: ""
   output: No, only officials of E-8 grade or higher (HOD or HOP) are authorized to approve repair/maintenance. E-7 and below cannot exercise these powers.
 
-- instruction: "Who can approve ₹25L repair work in Kolkata office?"
+- instruction: Who can approve ₹25L repair work in Kolkata office?
   input: ""
   output: |
     For Corporate Offices:
@@ -328,55 +328,55 @@
     3. Emergency provisions (if any) not stated in this clause.
 
  ##Sl no 4
-- instruction: "Who has full powers for purchasing furniture and appliances in NEEPCO?"
+- instruction: Who has full powers for purchasing furniture and appliances in NEEPCO?
   input: ""
   output: Full powers are held by Director (P) and Director (T).
 
-- instruction: "Can Director (Technical) approve unlimited furniture purchases?"
+- instruction: Can Director (Technical) approve unlimited furniture purchases?
   input: ""
   output: Yes, provided the purchase conforms to the laid-down furniture scales.
 
-- instruction: "Who can approve purchases up to ₹25 lakh annually?"
+- instruction: Who can approve purchases up to ₹25 lakh annually?
   input: ""
   output: Executive Directors (EDs) are authorized to approve up to ₹25 lakh per annum.
 
-- instruction: "Can HOP approve ₹22 lakh worth of DTH equipment for a guest house?"
+- instruction: Can HOP approve ₹22 lakh worth of DTH equipment for a guest house?
   input: ""
   output: No, HOPs can only approve up to ₹20 lakh per annum; amounts beyond that require higher-level approval.
 
-- instruction: "What is the financial limit of CGM for purchasing canteen equipment?"
+- instruction: What is the financial limit of CGM for purchasing canteen equipment?
   input: ""
   output: CGM (E-8 and above) can approve up to ₹20 lakh per annum.
 
-- instruction: "What guidelines must purchases of furniture and fixtures follow in NEEPCO?"
+- instruction: What guidelines must purchases of furniture and fixtures follow in NEEPCO?
   input: ""
   output: All purchases must conform to the scales of furniture and other items laid down by NEEPCO from time to time.
 
-- instruction: "Are there specific norms for recharges under DTH facility purchases?"
+- instruction: Are there specific norms for recharges under DTH facility purchases?
   input: ""
   output: DTH recharges are allowed as part of approved items, but must follow prescribed norms and spending limits.
 
-- instruction: "Can an E-6 level officer approve furniture purchases in transit camps?"
+- instruction: Can an E-6 level officer approve furniture purchases in transit camps?
   input: ""
   output: No, only officers of grade E-8 and above are authorized.
 
-- instruction: "What rank is required to approve ₹20 lakh worth of appliances?"
+- instruction: What rank is required to approve ₹20 lakh worth of appliances?
   input: ""
   output: CGM, HOP, or HOD not below grade E-8 can approve up to ₹20 lakh per annum.
 
-- instruction: "What is the difference between ED and HOD powers for furniture procurement?"
+- instruction: What is the difference between ED and HOD powers for furniture procurement?
   input: ""
   output: EDs can approve up to ₹25 lakh per annum, whereas CGM/HOP/HOD (≥E-8) are limited to ₹20 lakh per annum.
 
-- instruction: "What is the approval process for buying office appliances worth ₹18 lakh?"
+- instruction: What is the approval process for buying office appliances worth ₹18 lakh?
   input: ""
   output: If the official is CGM/HOP/HOD of E-8 or above, they can approve directly as it is within the ₹20 lakh annual limit.
 
-- instruction: "Can a CGM split a ₹30 lakh furniture order into two parts for approval?"
+- instruction: Can a CGM split a ₹30 lakh furniture order into two parts for approval?
   input: ""
   output: No, artificial splitting to bypass limits is irregular and not allowed under standard financial procedures.
 
-- instruction: "Can a HOP (E-9) approve ₹22L for canteen appliances?"
+- instruction: Can a HOP (E-9) approve ₹22L for canteen appliances?
   input: ""
   output: |
    No, HOP/HOD ≥E-8 are capped at ₹20L/year.
@@ -384,26 +384,26 @@
    1. Reduce purchase to ₹20L, or
    2. Escalate to CGM (₹25L limit) or ED (full powers).
 
-- instruction: "Are laptops considered 'equipment' under this clause?"
+- instruction: Are laptops considered 'equipment' under this clause?
   input: ""
   output: |
    - IT hardware may have separate delegation rules.
    - Verify with IT procurement policy.
 
-- instruction: "Can ₹20L be split across multiple HOP approvals?"
+- instruction: Can ₹20L be split across multiple HOP approvals?
   input: ""
   output: |
    Clause implies ₹20L is the annual cumulative limit per HOP/HOD.
    Splitting may be allowed if total ≤₹20L/year.
 
-- instruction: "What does 'time to time' mean in this context?"
+- instruction: What does 'time to time' mean in this context?
   input: ""
   output: |
    1.Delegation limits may be revised periodically.
    2.Approvals may require ad-hoc reviews.
    Clarification needed from Finance Dept.
 
-- instruction: "What if urgent furniture purchase exceeds HOP's limit?"
+- instruction: What if urgent furniture purchase exceeds HOP's limit?
   input: ""
   output: |
    1.Seek CGM/ED's emergency approval.
@@ -411,297 +411,297 @@
    Clause doesn't specify emergency protocols.
 
 ##Sl no 5
-- instruction: "Who has full powers to approve IT infrastructure purchases in NEEPCO?"
+- instruction: Who has full powers to approve IT infrastructure purchases in NEEPCO?
   input: ""
   output: Director (Technical) and ED (IT) have full powers to approve IT and communication infrastructure procurement.
 
-- instruction: "Can a HOP approve ₹30 lakh worth of computer hardware?"
+- instruction: Can a HOP approve ₹30 lakh worth of computer hardware?
   input: ""
   output: No
 
-- instruction: "What is the annual financial limit for IT procurement by a HOD in Guwahati?"
+- instruction: What is the annual financial limit for IT procurement by a HOD in Guwahati?
   input: ""
   output: A HOD in the grade of E-8 in Guwahati can approve purchases up to ₹25 lakh per annum.
 
-- instruction: "Is consultation with ED (IT) mandatory for all IT purchases?"
+- instruction: Is consultation with ED (IT) mandatory for all IT purchases?
   input: ""
   output: Yes
 
-- instruction: "What must be done after IT procurement is completed?"
+- instruction: What must be done after IT procurement is completed?
   input: ""
   output: All purchases must be reported periodically to the HOD (IT) at the Corporate Office for record-keeping.
 
-- instruction: "Does this clause cover software and peripherals?"
+- instruction: Does this clause cover software and peripherals?
   input: ""
   output: Yes
 
-- instruction: "Can a HOD in Shillong independently approve software purchases?"
+- instruction: Can a HOD in Shillong independently approve software purchases?
   input: ""
   output: No
 
-- instruction: "What happens if a purchase exceeds ₹50 lakh?"
+- instruction: What happens if a purchase exceeds ₹50 lakh?
   input: ""
   output: The clause defines ₹50 lakh as a general cap; anything beyond this likely requires approval at the highest level.
 
-- instruction: "Who can approve IT purchases at project stations?"
+- instruction: Who can approve IT purchases at project stations?
   input: ""
   output: HOPs in the grade of E-8 can approve up to ₹25 lakh per annum, in consultation with ED (IT).
 
-- instruction: "Are there reporting requirements for IT software procurement?"
+- instruction: Are there reporting requirements for IT software procurement?
   input: ""
   output: Yes, all hardware and software procurements must be periodically reported to the HOD (IT) at the Corporate Office.
 
-- instruction: "What grade is required to approve IT purchases up to ₹25 lakh?"
+- instruction: What grade is required to approve IT purchases up to ₹25 lakh?
   input: ""
   output: Officials must be of grade E-8 (HOD or HOP) to approve purchases up to ₹25 lakh per annum.
 
-- instruction: "Does this clause apply to consumables like printer cartridges?"
+- instruction: Does this clause apply to consumables like printer cartridges?
   input: ""
   output: Yes
 
-- instruction: "Can ED (IT) approve ₹45 lakh worth of networking hardware?"
+- instruction: Can ED (IT) approve ₹45 lakh worth of networking hardware?
   input: ""
   output: Yes
 
 ## Sl no 6
-- instruction: "Who can approve repair of furniture in project offices?"
+- instruction: Who can approve repair of furniture in project offices?
   input: ""
   output: HOP or HOD not below grade E-8 has full powers for such approvals.
 
-- instruction: "What is the financial limit for coordinators approving repair of furniture?"
+- instruction: What is the financial limit for coordinators approving repair of furniture?
   input: ""
   output: Coordinators not below E-7 or DGM (HR) in Shillong can approve up to ₹5 lakh per annum.
 
-- instruction: "Can a DGM (HR) approve ₹6 lakh for fixture repairs in Shillong?"
+- instruction: Can a DGM (HR) approve ₹6 lakh for fixture repairs in Shillong?
   input: ""
   output: No, the DGM (HR) can only approve up to ₹5 lakh per annum; higher approvals must go to E-8 grade officials.
 
-- instruction: "Is there any site-specific condition for furniture maintenance?"
+- instruction: Is there any site-specific condition for furniture maintenance?
   input: ""
   output: Yes, in Shillong, the HR Administration Coordinator (E-7 or DGM) can exercise limited financial power (₹5 lakh p.a.).
 
-- instruction: "Can an E-6 officer approve furniture upkeep?"
+- instruction: Can an E-6 officer approve furniture upkeep?
   input: ""
   output: No
 
-- instruction: "Who is authorized to approve repair of office equipment in NEEPCO?"
+- instruction: Who is authorized to approve repair of office equipment in NEEPCO?
   input: ""
   output: HOP or HOD not below the rank of E-8 have full powers for this activity.
 
-- instruction: "Is there any financial cap for office equipment repair?"
+- instruction: Is there any financial cap for office equipment repair?
   input: ""
   output: No specific cap is mentioned; officials with full powers (E-8 and above) can approve as needed.
 
-- instruction: "Can an E-7 officer approve office equipment maintenance?"
+- instruction: Can an E-7 officer approve office equipment maintenance?
   input: ""
   output: No, only officers of E-8 grade and above (HOP/HOD) are authorized.
 
-- instruction: "Does this power apply at corporate offices and project sites?"
+- instruction: Does this power apply at corporate offices and project sites?
   input: ""
   output: Yes, HOPs and HODs (E-8+) across all NEEPCO sites have this power.
 
-- instruction: "Can HOD approve computer printer repairs under office equipment?"
+- instruction: Can HOD approve computer printer repairs under office equipment?
   input: ""
   output: Yes
 
-- instruction: "Who is authorized to approve repairs of IT systems in corporate offices?"
+- instruction: Who is authorized to approve repairs of IT systems in corporate offices?
   input: ""
   output: HOD (ITS) not below E-8 in Corporate Office (Guwahati/Shillong) is authorized.
 
-- instruction: "Can project-based HOPs approve network repairs?"
+- instruction: Can project-based HOPs approve network repairs?
   input: ""
   output: Yes, HOPs not below E-8 at Projects/Plants have full powers for this.
 
-- instruction: "Is there a grade requirement for approving IT system repairs?"
+- instruction: Is there a grade requirement for approving IT system repairs?
   input: ""
   output: Yes, only officers of E-8 grade and above (HOD ITS or HOP) can exercise this authority.
 
-- instruction: "Does this include both hardware and communication network systems?"
+- instruction: Does this include both hardware and communication network systems?
   input: ""
   output: Yes, the clause covers IT devices, communication systems, peripherals, and networks.
 
-- instruction: "Is prior consultation with ED (IT) required for routine IT repairs?"
+- instruction: Is prior consultation with ED (IT) required for routine IT repairs?
   input: ""
   output: No
 
 ##Sl no 7
-- instruction: "Who has the authority to approve hiring of furniture in NEEPCO project sites?"
+- instruction: Who has the authority to approve hiring of furniture in NEEPCO project sites?
   input: ""
   output: HOP or HOD (CA/RA) not below the grade of E-8 has full powers for hiring at project sites.
 
-- instruction: "What is the annual hiring limit for a Coordinator in NEEPCO?"
+- instruction: What is the annual hiring limit for a Coordinator in NEEPCO?
   input: ""
   output: Coordinators not below the rank of E-7 are authorized to approve hiring up to ₹70,000 per annum.
 
-- instruction: "Can a CGM(HR) approve hiring of water coolers at corporate offices?"
+- instruction: Can a CGM(HR) approve hiring of water coolers at corporate offices?
   input: ""
   output: Yes
 
-- instruction: "Is there any financial ceiling for HOD (CA) when hiring office appliances?"
+- instruction: Is there any financial ceiling for HOD (CA) when hiring office appliances?
   input: ""
   output: No, HOD (CA/RA) not below E-8 has full powers with no specified monetary ceiling.
 
-- instruction: "Can an E-6 officer approve hiring of electric fans for an office?"
+- instruction: Can an E-6 officer approve hiring of electric fans for an office?
   input: ""
   output: No, only Coordinators not below E-7 or higher-grade officials are authorized.
 
-- instruction: "Are project and corporate office hiring powers the same in NEEPCO?"
+- instruction: Are project and corporate office hiring powers the same in NEEPCO?
   input: ""
   output: Yes, both project (HOP/HOD) and corporate office (CGM HR) officials of E-8 grade or above have full powers.
 
-- instruction: "Who can hire furniture temporarily for a training setup in Shillong?"
+- instruction: Who can hire furniture temporarily for a training setup in Shillong?
   input: ""
   output: A Coordinator (E-7 or above) can approve if cost is within ₹70,000 p.a.; else, HOD or CGM must approve.
 
-- instruction: "Does this clause include hiring of both equipment and appliances?"
+- instruction: Does this clause include hiring of both equipment and appliances?
   input: ""
   output: Yes, it includes office equipment, furniture, fixtures, and appliances like fans and coolers.
 
-- instruction: "What role does CGM(HR) play in hiring for the Corporate Office?"
+- instruction: What role does CGM(HR) play in hiring for the Corporate Office?
   input: ""
   output: CGM(HR) has full powers to approve hiring of listed items for corporate office use.
 
-- instruction: "Is ₹70,000 limit applicable to HODs or just Coordinators?"
+- instruction: Is ₹70,000 limit applicable to HODs or just Coordinators?
   input: ""
   output: The ₹70,000 per annum limit applies only to Coordinators (≥E-7); HODs ≥E-8 have no cap.
 
 ##Sl no 8
-- instruction: "Who holds full powers for hiring security vehicles in NEEPCO?"
+- instruction: Who holds full powers for hiring security vehicles in NEEPCO?
   input: ""
   output: Director has full powers for hiring security and escort vehicles.
 
-- instruction: "Can an ED approve hiring a fleet of vehicles worth ₹28 lakh annually?"
+- instruction: Can an ED approve hiring a fleet of vehicles worth ₹28 lakh annually?
   input: ""
   output: Yes, Executive Directors can approve hiring up to ₹30.00 lakh per annum.
 
-- instruction: "What is the hiring limit for HOD (RA) under this clause?"
+- instruction: What is the hiring limit for HOD (RA) under this clause?
   input: ""
   output: HOD (RA) not below grade E-8 can approve hiring up to ₹20.00 lakh per annum.
 
-- instruction: "Are HR department heads authorized to hire ambulances?"
+- instruction: Are HR department heads authorized to hire ambulances?
   input: ""
   output: Yes, HOD (HR) not below grade E-8 can approve vehicle hiring up to ₹20 lakh per annum.
 
-- instruction: "Can HOD (CA) hire buses for project staff transportation?"
+- instruction: Can HOD (CA) hire buses for project staff transportation?
   input: ""
   output: Yes
 
-- instruction: "Is there a difference in hiring limits between EDs and HODs?"
+- instruction: Is there a difference in hiring limits between EDs and HODs?
   input: ""
   output: Yes, EDs can approve up to ₹30 lakh/year, while HODs (CA/RA/HR ≥ E-8) are limited to ₹20 lakh/year.
 
-- instruction: "Can a daily-hire ambulance contract be approved under this clause?"
+- instruction: Can a daily-hire ambulance contract be approved under this clause?
   input: ""
   output: Yes, this clause covers daily, monthly, annual, and periodical basis hiring of such vehicles.
 
-- instruction: "Can HOD (HR) approve hiring two jeeps for admin use costing ₹22 lakh?"
+- instruction: Can HOD (HR) approve hiring two jeeps for admin use costing ₹22 lakh?
   input: ""
   output: No, ₹22 lakh exceeds the ₹20 lakh limit for HODs; ED or Director must approve.
 
-- instruction: "Does this clause allow for periodical escort vehicle hiring?"
+- instruction: Does this clause allow for periodical escort vehicle hiring?
   input: ""
   output: Yes, periodical hiring is explicitly permitted under this clause.
 
-- instruction: "What ranks are required to approve hiring under ₹20 lakh?"
+- instruction: What ranks are required to approve hiring under ₹20 lakh?
   input: ""
   output: HODs (CA/RA/HR) not below the grade of E-8 can approve hiring up to ₹20 lakh annually.
 
 
 ##Sl no 9
-- instruction: "Who can approve long-term spares supply agreements in NEEPCO?"
+- instruction: Who can approve long-term spares supply agreements in NEEPCO?
   input: ""
   output: Director (Technical) has full powers to approve long-term spares agreements.
 
-- instruction: "Is there a duration limit for long-term spares agreements in NEEPCO?"
+- instruction: Is there a duration limit for long-term spares agreements in NEEPCO?
   input: ""
   output: Yes, agreements can be signed for a period up to 5 years.
 
-- instruction: "Can agreements be made with any vendor for spare supply?"
+- instruction: Can agreements be made with any vendor for spare supply?
   input: ""
   output: No, agreements must be made only with OEMs or authorized service providers.
 
-- instruction: "What is the scope of the long-term spares clause in NEEPCO?"
+- instruction: What is the scope of the long-term spares clause in NEEPCO?
   input: ""
   output: It covers the supply of spares for O&M plants from OEMs or authorized service providers under agreements lasting up to 5 years.
 
-- instruction: "Can ED approve a 5-year spares agreement?"
+- instruction: Can ED approve a 5-year spares agreement?
   input: ""
   output: No, only the Director (Technical) is authorized with full powers under this clause.
 
-- instruction: "Does this clause apply to procurement of tools or only spares?"
+- instruction: Does this clause apply to procurement of tools or only spares?
   input: ""
   output: It specifically applies to spares; tools or other items are not covered unless they are part of spare assemblies.
 
-- instruction: "What is the maximum duration for a spare supply contract under this clause?"
+- instruction: What is the maximum duration for a spare supply contract under this clause?
   input: ""
   output: The maximum allowed duration for such agreements is 5 years.
 
-- instruction: "Can the Director (Technical) renew an existing long-term spares contract?"
+- instruction: Can the Director (Technical) renew an existing long-term spares contract?
   input: ""
   output: Yes, as long as the renewed term does not exceed 5 years in total.
 
-- instruction: "Is there any financial ceiling mentioned for these agreements?"
+- instruction: Is there any financial ceiling mentioned for these agreements?
   input: ""
   output: No financial limit is specified in this clause; only a time limit of 5 years is mentioned.
 
-- instruction: "Are service providers other than OEM-authorized vendors eligible?"
+- instruction: Are service providers other than OEM-authorized vendors eligible?
   input: ""
   output: No, only OEMs or their officially authorized service providers are eligible for these contracts.
 
 ##Sl no 10
-- instruction: "Who is authorized to purchase newspapers for field hostels in NEEPCO?"
+- instruction: Who is authorized to purchase newspapers for field hostels in NEEPCO?
   input: ""
   output: HOP, HOD, or HOD (CC) not below E-8 are authorized for such purchases.
 
-- instruction: "Can HOD (CC) approve subscription to monthly magazines for guesthouses?"
+- instruction: Can HOD (CC) approve subscription to monthly magazines for guesthouses?
   input: ""
   output: Yes, HOD (CC) not below grade E-8 has full powers to approve such subscriptions.
 
-- instruction: "Is there any monetary limit for newspaper purchases in offices?"
+- instruction: Is there any monetary limit for newspaper purchases in offices?
   input: ""
   output: No, officials of grade E-8 or above have full powers for such purchases.
 
-- instruction: "Can an E-7 officer approve journal subscriptions for project offices?"
+- instruction: Can an E-7 officer approve journal subscriptions for project offices?
   input: ""
   output: No, only officials not below E-8 are authorized to make these purchases.
 
-- instruction: "What types of publications can be purchased under this clause?"
+- instruction: What types of publications can be purchased under this clause?
   input: ""
   output: Newspapers, magazines, and journals for use in offices, guesthouses, and field hostels.
 
-- instruction: "Are electronic versions of journals covered under this clause?"
+- instruction: Are electronic versions of journals covered under this clause?
   input: ""
   output: No, electronic publications are specifically covered in subclause 10.ii.
 
-- instruction: "What is the financial limit for book purchases in the Corporate Central Library?"
+- instruction: What is the financial limit for book purchases in the Corporate Central Library?
   input: ""
   output: ₹15,000 per annum is the limit for Corporate Central Library purchases.
 
-- instruction: "Who can approve purchases for project libraries?"
+- instruction: Who can approve purchases for project libraries?
   input: ""
   output: HOP or Head of Project HR not below grade E-7 has full powers for project library purchases.
 
-- instruction: "Can an E-6 officer approve book purchases for departmental libraries?"
+- instruction: Can an E-6 officer approve book purchases for departmental libraries?
   input: ""
   output: No, approval must be given by an officer not below E-7 or DGM (HR) for Shillong.
 
-- instruction: "What publications are covered under technical journals and standards?"
+- instruction: What publications are covered under technical journals and standards?
   input: ""
   output: Books, technical journals, periodicals, and standard documents, including electronic formats.
 
-- instruction: "Who is authorized to approve e-journal subscriptions for the corporate library?"
+- instruction: Who is authorized to approve e-journal subscriptions for the corporate library?
   input: ""
   output: HOD (CC) or HOD (HR) not below the grade of E-8 can approve, within the ₹15,000 p.a. limit.
 
-- instruction: "Is there any location-specific authority under this clause?"
+- instruction: Is there any location-specific authority under this clause?
   input: ""
   output: Yes, in Shillong, the DGM (HR) Administration can approve purchases for departmental libraries.
 
-- instruction: "Can an E-7 HOD in Delhi approve technical book purchases for departmental libraries?"
+- instruction: Can an E-7 HOD in Delhi approve technical book purchases for departmental libraries?
   input: ""
   output: Yes, HOD not below E-7 can approve such purchases for departmental libraries.
 
-- instruction: "Are project libraries subject to a financial ceiling?"
+- instruction: Are project libraries subject to a financial ceiling?
   input: ""
   output: No, project libraries have full powers with no financial cap mentioned.
 
@@ -734,31 +734,31 @@
   output: Yes, the document explicitly mentions "standards" alongside books and journals.
 
 ##Sl no 12
-- instruction: "Who is authorized to approve prepayment for franking machines in NEEPCO?"
+- instruction: Who is authorized to approve prepayment for franking machines in NEEPCO?
   input: ""
   output: HOP or HOD not below the rank of E-8 are authorized to sanction such prepayments.
 
-- instruction: "What is the rank requirement for sanctioning franking machine unit prepayment?"
+- instruction: What is the rank requirement for sanctioning franking machine unit prepayment?
   input: ""
   output: Only officers not below the rank of E-8 (HOP/HOD) can sanction prepayment for franking machines.
 
-- instruction: "Is there any monetary limit specified for franking machine prepayment?"
+- instruction: Is there any monetary limit specified for franking machine prepayment?
   input: ""
   output: No, the clause grants full powers to the authorized officers with no financial ceiling.
 
-- instruction: "Can an E-7 officer approve prepayment for franking machines?"
+- instruction: Can an E-7 officer approve prepayment for franking machines?
   input: ""
   output: No, only HOPs or HODs not below E-8 are permitted to approve such prepayments.
 
-- instruction: "Does the clause cover prepayment for franking units at both project and corporate locations?"
+- instruction: Does the clause cover prepayment for franking units at both project and corporate locations?
   input: ""
   output: Yes, it applies wherever franking machines are used, provided the officer is HOP/HOD ≥ E-8.
 
-- instruction: "What operational purpose does franking machine prepayment serve in NEEPCO?"
+- instruction: What operational purpose does franking machine prepayment serve in NEEPCO?
   input: ""
   output: It enables timely stamping of official communications and dispatches by funding the franking machine in advance.
 
-- instruction: "Is prior approval from a higher authority needed for franking prepayment?"
+- instruction: Is prior approval from a higher authority needed for franking prepayment?
   input: ""
   output: No, HOP/HOD ≥ E-8 can exercise full powers without additional approval under this clause.
 
@@ -906,7 +906,7 @@
 
 - instruction: Does "departmental vehicles" include leased vehicles?
   input: ""
-  output: The document doesn't specify; this would require checking vehicle policy documents.
+  output: The document does not specify; this would require checking vehicle policy documents.
 
 - instruction: What about vehicle maintenance in non-listed locations?
   input: ""
@@ -985,7 +985,7 @@
   input: ""
   output: HOP or HOD not below E-8 grade, or Head of HR (≥E-7) for power stations.
 
-- instruction: What's the maximum extension allowed for AMC contracts?
+- instruction: What is the maximum extension allowed for AMC contracts?
   input: ""
   output: Up to 50% of original period (1.5 years for 3-year contracts) in exceptional cases.
 
@@ -1001,7 +1001,7 @@
   input: ""
   output: Only Director (Projects) has full powers; others have ₹15/25 lakh annual limits.
 
-- instruction: What's the difference between 15a and 15b contract authorities?
+- instruction: What is the difference between 15a and 15b contract authorities?
   input: ""
   output: |
     15a: Equipment/services (HOP/HOD ≥E8).
@@ -1067,7 +1067,7 @@
 - instruction: Can an E-8 grade HOD(Finance) approve ₹2 lakh festival spending?
   output: No, only HOD(CA) or HOD(HR) ≥E-8 are authorized for such approvals.
 
-- instruction: What's the maximum a Director can spend annually on these events?
+- instruction: What is the maximum a Director can spend annually on these events?
   output: ₹15 lakh annual ceiling, with no single event exceeding ₹3 lakh.
 
 - instruction: How does ED's approval capacity compare to Director's?
@@ -1429,19 +1429,19 @@
   input: ""
   output: No, fee schedules must be approved exclusively by the CMD.
 
-- instruction: "Does this apply to both ongoing and future court cases?"
+- instruction: Does this apply to both ongoing and future court cases?
   input: ""
   output: Yes, it covers "all Court cases and Arbitration Matters".
 
-- instruction: "Why is this authority not delegated to the Legal Department?"
+- instruction: Why is this authority not delegated to the Legal Department?
   input: ""
   output: Likely ensures centralized control over sensitive legal engagements and expenditures.
 
-- instruction: "Can project sites hire local counsel for urgent matters?"
+- instruction: Can project sites hire local counsel for urgent matters?
   input: ""
   output: The document doesn't provide exceptions; suggests all engagements require CMD approval.
 
-- instruction: "How often can the empanelment list be updated?"
+- instruction: How often can the empanelment list be updated?
   input: ""
   output: The policy doesn't specify review frequency for the empanelment list.
 
@@ -1534,63 +1534,63 @@
   input: ""
   output: Execution of decree, taking enforcement steps, or implementing tribunal awards.
 
-- instruction: "Can the Director initiate a public interest litigation (PIL)?"
+- instruction: Can the Director initiate a public interest litigation (PIL)?
   input: ""
   output: Yes, if related to company affairs as the clause covers 'any' proceedings.
 
-- instruction: "Are there geographical limits to this legal authority?"
+- instruction: Are there geographical limits to this legal authority?
   input: ""
   output: No, applies to proceedings in 'any Court' without territorial restrictions.
 
-- instruction: "Does this include criminal proceedings against employees?"
+- instruction: Does this include criminal proceedings against employees?
   input: ""
   output: Yes, covers suits 'by or against employees' without case-type exclusions.
 
-- instruction: "Can ongoing court cases be moved to arbitration mid-trial?"
+- instruction: Can ongoing court cases be moved to arbitration mid-trial?
   input: ""
   output: Yes, the clause doesn't impose timing restrictions on referrals.
 
-- instruction: "Is board approval needed for high-value arbitration referrals?"
+- instruction: Is board approval needed for high-value arbitration referrals?
   input: ""
   output: No, the Director has 'Full Powers' without monetary thresholds.
 
-- instruction: "Who selects the arbitration institution/rules?"
+- instruction: Who selects the arbitration institution/rules?
   input: ""
   output: The Concerned Director decides as part of referral authority.
 
-- instruction: "Can suppliers force arbitration without Director approval?"
+- instruction: Can suppliers force arbitration without Director approval?
   input: ""
   output: No, company participation requires Director-initiated referral per this clause.
 
-- instruction: "Can e-filed documents be signed digitally?"
+- instruction: Can e-filed documents be signed digitally?
   input: ""
   output: Yes, 'any pleadings' includes electronic submissions to modern courts/tribunals.
 
-- instruction: "Are non-litigation affidavits (e.g., compliance) covered?"
+- instruction: Are non-litigation affidavits (e.g., compliance) covered?
   input: ""
   output: Only if filed before judicial/quasi-judicial authorities.
 
-- instruction: "Can the Legal Head countersign documents?"
+- instruction: Can the Legal Head countersign documents?
   input: ""
   output: The clause doesn't provide for sub-delegation of signing authority.
 
-- instruction: "What about amendments to filed pleadings?"
+- instruction: What about amendments to filed pleadings?
   input: ""
   output: Covered under 'any other pleadings' as part of ongoing proceedings.
 
-- instruction: "Does this cover foreign arbitral awards under NY Convention?"
+- instruction: Does this cover foreign arbitral awards under NY Convention?
   input: ""
   output: Yes, includes awards from 'any Arbitrator/Tribunal' without jurisdictional limits.
 
-- instruction: "Can the Director negotiate settlements during enforcement?"
+- instruction: Can the Director negotiate settlements during enforcement?
   input: ""
   output: The clause doesn't restrict post-judgment settlement authority.
 
-- instruction: "Who handles physical seizure of assets under orders?"
+- instruction: Who handles physical seizure of assets under orders?
   input: ""
   output: The Director can authorize all enforcement actions per 'Full Powers'.
 
-- instruction: "Are there time limits on enforcing old decrees?"
+- instruction: Are there time limits on enforcing old decrees?
   input: ""
   output: Not specified here - would depend on applicable limitation laws.
 
@@ -1643,43 +1643,43 @@
   input: ""
   output: No, only the CMD is authorized to engage even panel advocates as per this clause.
 
-- instruction: "When can the CMD appoint non-panel legal professionals?"
+- instruction: When can the CMD appoint non-panel legal professionals?
   input: ""
   output: For any engagement requiring attorneys, arbitrators, or consultants outside the approved panel.
 
-- instruction: "Are there rate limits for non-panel counsel appointments?"
+- instruction: Are there rate limits for non-panel counsel appointments?
   input: ""
   output: No, the CMD has 'Full Powers' without fee restrictions for non-panel engagements.
 
-- instruction: "Can non-panel arbitrators be appointed for sensitive disputes?"
+- instruction: Can non-panel arbitrators be appointed for sensitive disputes?
   input: ""
   output: Yes, the CMD has unrestricted authority to appoint any qualified non-panel arbitrator.
 
-- instruction: "What documentation justifies non-panel appointments?"
+- instruction: What documentation justifies non-panel appointments?
   input: ""
   output: The policy doesn't specify requirements - implied at CMD's discretion.
 
-- instruction: "Are there geographical limits to non-panel appointments?"
+- instruction: Are there geographical limits to non-panel appointments?
   input: ""
   output: No, the clause applies universally without territorial constraints.
 
-- instruction: "Who maintains the approved legal professionals panel?"
+- instruction: Who maintains the approved legal professionals panel?
   input: ""
   output: The document doesn't specify - likely a separate panel management process exists.
 
-- instruction: "Can the CMD exceed approved rates for exceptional panel cases?"
+- instruction: Can the CMD exceed approved rates for exceptional panel cases?
   input: ""
   output: No, panel appointments must use pre-approved rates without exception.
 
-- instruction: "How often is the legal panel updated?"
+- instruction: How often is the legal panel updated?
   input: ""
   output: The policy doesn't define panel refresh frequency.
 
-- instruction: "Can panel advocates be used for international arbitration?"
+- instruction: Can panel advocates be used for international arbitration?
   input: ""
   output: Yes, if they're on the approved panel and the case type matches their mandate.
 
-- instruction: "What happens if no panel member is available for a case?"
+- instruction: What happens if no panel member is available for a case?
   input: ""
   output: The CMD must then use non-panel appointment authority under Subclause 24(1).
 
