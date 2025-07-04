@@ -5,7 +5,7 @@ import json
 from typing import List, Dict
 
 class NEEPCOPolicyChatbot:
-    def __init__(self, model_path="Model/phi-2", vector_db_path="./chroma_db"):
+    def __init__(self, model_path="/kaggle/input/phi2-model", vector_db_path="/kaggle/working/chroma_db"):
         """Initialize the RAG chatbot"""
         
         print("Loading Phi-2 model...")
@@ -36,10 +36,17 @@ class NEEPCOPolicyChatbot:
         # Build context section
         context_text = ""
         for i, result in enumerate(context_results, 1):
+            metadata = result.get("metadata", {})
+            section = metadata.get("section", "N/A")
+            title = metadata.get("title", "N/A")
+            authority = metadata.get("authority", "Not specified")
+            chunk = result.get("text", "")
+            
             context_text += f"Policy {i}:\n"
-            context_text += f"Section: {result['metadata']['section']}\n"
-            context_text += f"Authority: {result['metadata']['authority']}\n"
-            context_text += f"Details: {result['text']}\n\n"
+            context_text += f"Section: {section} - {title}\n" 
+            context_text += f"Authority: {authority}\n"
+            context_text += f"Details: {chunk}\n\n"
+
         
         # Create the full prompt
         prompt = f"""You are a helpful assistant for NEEPCO's Delegation of Power (DOP) policies. Use only the provided policy information to answer questions accurately.
@@ -102,9 +109,9 @@ Answer: Based on the above policy information,"""
         sources = []
         for result in context_results:
             sources.append({
-                'section': result['metadata']['section'],
-                'title': result['metadata']['title'],
-                'authority': result['metadata']['authority'],
+                'section': result['metadata'].get('section', 'N/A'),
+                'title': result['metadata'].get('title', 'N/A'),
+                'authority': result['metadata'].get('authority', 'Not specified'),
                 'relevance': result['relevance_score']
             })
         
