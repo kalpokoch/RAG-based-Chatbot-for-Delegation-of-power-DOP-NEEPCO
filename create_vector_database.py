@@ -2,7 +2,6 @@ import json
 import chromadb
 from sentence_transformers import SentenceTransformer
 from typing import List, Dict
-import uuid
 
 class PolicyVectorDB:
     def __init__(self, db_path="./chroma_db"):
@@ -23,14 +22,25 @@ class PolicyVectorDB:
                 metadata={"description": "NEEPCO DOP Policy chunks"}
             )
             print("Created new collection")
-    
+
+    def _flatten_metadata(self, metadata: Dict) -> Dict:
+        """Remove nested metadata (dicts/lists) and stringify others"""
+        flat_meta = {}
+        for key, value in metadata.items():
+            if isinstance(value, (dict, list)):
+                continue  # skip nested fields
+            if isinstance(value, (str, int, float, bool)) or value is None:
+                flat_meta[key] = value
+            else:
+                flat_meta[key] = str(value)  # fallback to string
+        return flat_meta
+
     def add_chunks(self, chunks: List[Dict]):
         """Add policy chunks to vector database"""
         print(f"Adding {len(chunks)} chunks to database...")
-        
-        # Extract texts and metadata
+
         texts = [chunk['text'] for chunk in chunks]
-        metadatas = [chunk['metadata'] for chunk in chunks]
+        metadatas = [self._flatten_metadata(chunk['metadata']) for chunk in chunks]
         ids = [chunk['id'] for chunk in chunks]
         
         # Generate embeddings
@@ -45,7 +55,7 @@ class PolicyVectorDB:
         )
         
         print("Successfully added chunks to database!")
-    
+
     def search(self, query: str, top_k: int = 3) -> List[Dict]:
         """Search for relevant policy chunks"""
         
@@ -70,6 +80,7 @@ class PolicyVectorDB:
         
         return search_results
 
+
 def setup_vector_database():
     """Complete setup of vector database"""
     
@@ -85,6 +96,7 @@ def setup_vector_database():
     
     return vector_db
 
+
 # Example usage
 if __name__ == "__main__":
     # Setup database
@@ -98,6 +110,6 @@ if __name__ == "__main__":
     print("Results:")
     for i, result in enumerate(results, 1):
         print(f"\n{i}. Relevance: {result['relevance_score']:.3f}")
-        print(f"Section: {result['metadata']['section']}")
-        print(f"Authority: {result['metadata']['authority']}")
+        print(f"Section: {result['metadata'].get('section', 'N/A')}")
+        print(f"Authority: {result['metadata'].get('authority', 'N/A')}")
         print(f"Text: {result['text'][:200]}...")
