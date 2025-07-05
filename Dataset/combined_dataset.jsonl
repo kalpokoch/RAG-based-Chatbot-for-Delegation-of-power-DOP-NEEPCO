@@ -110,7 +110,7 @@
 {"instruction": "How much sanctioning power does ED have for works and supplies within budget in non-construction offices?", "input": "", "output": "Full power"}
 {"instruction": "What level of authority does ED hold for sanctioning estimates in O&M plants for non-construction approved budgets?", "input": "", "output": "Full power"}
 {"instruction": "What power does D(T) have in sanctioning services and supplies within budget for non-construction offices?", "input": "", "output": "Full power"}
-{"instruction": "Who has the authority to approve the list of candidates for executive interviews?", "input": "", "output": "All Executives"}
+{"instruction": "Who has the authority to approve the list of candidates for executive interviews?", "input": "", "output": "D(P) has the authority for all executives\nHOD (HR) not below the rank of E-8 in consulation with D(P) has the authority for Non-Executives\n"}
 {"instruction": "Who is responsible for approving the candidates to be interviewed for executive positions?", "input": "", "output": "All Executives"}
 {"instruction": "Which authority approves the list of candidates for executive-level interviews?", "input": "", "output": "All Executives"}
 {"instruction": "Who approves the list of candidates to be called for interview for executive posts?", "input": "", "output": "All Executives"}
@@ -886,7 +886,7 @@
 {"instruction": "What's special about Shillong location approvals?", "input": "", "output": "Shillong allows DGM (HR) Admin to approve in addition to standard project location authorities."}
 {"instruction": "Are there different rules for different corporate offices?", "input": "", "output": "No, all listed corporate offices (Guwahati/Shillong/Kolkata/New Delhi) follow the same HOD approval rule."}
 {"instruction": "Can a Transport Coordinator (E-6) approve repairs?", "input": "", "output": "No, the minimum grade for coordinators is specified as E-7."}
-{"instruction": "Does \"departmental vehicles\" include leased vehicles?", "input": "", "output": "The document doesn't specify; this would require checking vehicle policy documents."}
+{"instruction": "Does \"departmental vehicles\" include leased vehicles?", "input": "", "output": "The document does not specify; this would require checking vehicle policy documents."}
 {"instruction": "What about vehicle maintenance in non-listed locations?", "input": "", "output": "The document only specifies rules for listed corporate offices and \"other locations\"."}
 {"instruction": "Is prior justification required for maintenance approvals?", "input": "", "output": "The document doesn't specify any justification requirements for standard repairs."}
 {"instruction": "Who can approve an AMC contract worth ₹8 lakh per annum?", "input": "", "output": "HOP or HOD not below E-8, or Head of HR at power stations not below E-7 can approve AMC contracts up to ₹10 lakh per annum."}
@@ -906,11 +906,11 @@
 {"instruction": "Can a HOD approve housekeeping for multiple locations?", "input": "", "output": "Yes, provided the cumulative contract value per year does not exceed ₹15L per contract."}
 {"instruction": "Is prior consultation with D(F) needed for guest house operation contracts?", "input": "", "output": "This clause does not specify any consultation with Director (Finance)."}
 {"instruction": "Who can approve a 3-year photocopying service contract?", "input": "", "output": "HOP or HOD not below E-8 grade, or Head of HR (≥E-7) for power stations."}
-{"instruction": "What's the maximum extension allowed for AMC contracts?", "input": "", "output": "Up to 50% of original period (1.5 years for 3-year contracts) in exceptional cases."}
+{"instruction": "What is the maximum extension allowed for AMC contracts?", "input": "", "output": "Up to 50% of original period (1.5 years for 3-year contracts) in exceptional cases."}
 {"instruction": "Can an E-7 grade officer approve ₹20 lakh hostel service contracts?", "input": "", "output": "No, ₹15-25 lakh contracts require ED (HR/Plants/Projects) or HOD (≥E-8) approval."}
 {"instruction": "Which contracts follow Section-1 provisions?", "input": "", "output": "Plant Operation & Maintenance service contracts require technical sanctions per Section-1."}
 {"instruction": "Who has unlimited financial authority for guest house management?", "input": "", "output": "Only Director (Projects) has full powers; others have ₹15/25 lakh annual limits."}
-{"instruction": "What's the difference between 15a and 15b contract authorities?", "input": "", "output": "15a: Equipment/services (HOP/HOD ≥E8).\n15b: Facilities (tiered approvals with financial limits).\n"}
+{"instruction": "What is the difference between 15a and 15b contract authorities?", "input": "", "output": "15a: Equipment/services (HOP/HOD ≥E8).\n15b: Facilities (tiered approvals with financial limits).\n"}
 {"instruction": "Can the same official approve both contract types?", "input": "", "output": "Only if they're HOD ≥E8 - they can approve 15a contracts and ₹15 lakh 15b contracts."}
 {"instruction": "Are there special rules for power station contracts?", "input": "", "output": "Yes, Head of HR (≥E7) can approve technical service contracts at power stations."}
 {"instruction": "What defines \"allied services\" in facility management?", "input": "", "output": "The document doesn't specify but likely includes laundry, security, etc."}
@@ -926,7 +926,7 @@
 {"instruction": "Does this clause apply to national holidays?", "input": "", "output": "No, national events like Independence Day and Republic Day are excluded and governed by separate orders."}
 {"instruction": "What happens if annual ceiling is exceeded by a HOD?", "input": "", "output": "Exceeding ₹12 lakh annually would require escalation to ED or Director level approval."}
 {"instruction": "Can an E-8 grade HOD(Finance) approve ₹2 lakh festival spending?", "output": "No, only HOD(CA) or HOD(HR) ≥E-8 are authorized for such approvals."}
-{"instruction": "What's the maximum a Director can spend annually on these events?", "output": "₹15 lakh annual ceiling, with no single event exceeding ₹3 lakh."}
+{"instruction": "What is the maximum a Director can spend annually on these events?", "output": "₹15 lakh annual ceiling, with no single event exceeding ₹3 lakh."}
 {"instruction": "How does ED's approval capacity compare to Director's?", "output": "EDs have slightly lower limits (₹3 lakh/occasion, ₹15 lakh/year) versus Director's full powers."}
 {"instruction": "Are there different rules for multi-day dignitary visits?", "output": "The document doesn't specify whether \"per occasion\" means per day or per visit."}
 {"instruction": "Can HOP/HOD combine multiple ₹2 lakh approvals for one event?", "output": "Not addressed; would likely require higher authority approval if exceeding ₹2 lakh."}
