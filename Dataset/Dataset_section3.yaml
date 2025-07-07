@@ -1750,7 +1750,7 @@
 
 ## Sl no 26
 - instruction: Who is authorized to approve actions under engagement for statutory certifications?
-   input: ""
+  input: ""
   output: As per Clause 26(i) of the NEEPCO Delegation of Powers.
 - instruction: What is the financial ceiling under engagement for statutory certifications (companies act, sebi, rbi, etc.)?
   input: ""
