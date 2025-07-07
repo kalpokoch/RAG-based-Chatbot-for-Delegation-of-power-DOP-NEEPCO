@@ -1,0 +1,87 @@
+section: Annexure A
+title: Powers Excluded from Delegation to CMD
+clauses:
+  - clause: 1
+    title: Budget
+    items:
+      - Annual and revised estimates for capital expenditure
+      - Annual and revised estimates for operational expenditure
+      - Budget requirement for five-year plans
+
+  - clause: 2
+    title: Plans
+    items:
+      - Annual Plans
+      - Five-Year Plans
+      - Long-Term Plans
+      - Corporate Plans
+      - Resource Mobilization Plans
+
+  - clause: 3
+    title: Acquisitions
+    description: Acquiring shares, stock, securities, etc., of other companies (except Govt. securities for short term and registered employee co-ops)
+
+  - clause: 4
+    title: Capital Estimates
+    items:
+      - Approval of feasibility/project/township reports exceeding ₹100 crore
+      - Capital expenditure above ₹50 crore not included in approved capital budget
+      - Deviation of more than 10% from Board/Govt.-approved component estimates
+
+  - clause: 5
+    title: Procurement and Consultancy
+    items:
+      - Award of work/supply contracts > ₹100 crore
+      - Commitments for contracts > ₹100 crore
+      - Consultancy contracts > ₹2 crore
+      - Foreign consultancy/collaboration agreements (irrespective of value)
+      - Contract value variations beyond ₹100–200 crore based on contract size
+      - Idle charges/interest/hire charges > ₹5 crore
+      - Disputed claims > ₹5 crore
+    subcommittee_items:
+      - LOI/contracts between ₹100–200 crore
+      - BOQ/item substitutions/deviations > 25% but ≤ ₹200 crore
+      - Idle charges/claims between ₹2–10 crore
+      - Disputed claims between ₹2–10 crore
+
+  - clause: 6
+    title: Personnel
+    items:
+      - Recruitment/promotion/VRS policy changes involving > ₹1 crore
+      - Creation of posts of DGM (E-7) and above
+      - Changes in pay structure/wages
+      - Policy matters on allowances, bonuses, amenities
+      - Policy changes, manpower budget
+
+  - clause: 7
+    title: Accounts
+    items:
+      - Acceptance of annual/semiannual P&L
+      - Declaration of dividend
+
+  - clause: 8
+    title: Power to Invest
+    description: Investment of surplus funds > ₹25 crore beyond DPE guidelines
+
+  - clause: 9
+    title: Power to Borrow
+    description: Borrowing for non-working capital purposes
+
+  - clause: 10
+    title: Write-Off
+    items:
+      - Store/equipment losses > ₹25 lakh
+      - Cash shortage > ₹50,000
+      - Port charges/demurrage > ₹50 lakh/year/project
+      - Demolition of temp buildings > ₹2.5 crore/project
+
+  - clause: 11
+    title: General
+    items:
+      - Compensation (non-employees) > ₹25 lakh
+      - Sale/mortgage/alienation of company immovable property
+      - Donations/ex-gratia payments > ₹50,000 not covered by rules
+      - Settlement of unlisted claims > ₹10 lakh
+      - Land allotment policy to outside parties
+      - Any expenditure beyond objectives of the Corporation
+      - Disposal of the whole or substantial part of the undertaking
