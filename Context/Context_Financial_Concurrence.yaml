@@ -1,0 +1,96 @@
+section: Financial Concurrence
+title: Policy Guidelines of Financial Concurrence (Approved in 161st Board Meeting on 24.03.2008)
+clauses:
+  - clause: 1
+    title: Procedural Aspects
+    description: >
+      Financial concurrence must precede approval by the final approving authority and be granted by a delegated officer in the F&A wing.
+    remarks:
+      - Proposals for CMD/Board approval require prior concurrence by Project/Corporate Finance Head and Director (Finance). In absence of Director (Finance), ED (Finance) may concur.
+      - If the approving authority overrules concurring authority, reasons must be recorded and shared with next higher authority (not below CGM).
+      - Approvals without financial concurrence or reporting overruling are invalid, and approving authority is personally liable.
+      - Chairman can designate additional items requiring financial concurrence.
+      - Director (Finance) may allow sub-delegation of concurrence powers under HOF to subordinate officers for flexibility.
+
+  - clause: 2
+    title: Matters Requiring Financial Concurrence
+    subclauses:
+      - id: 2.1
+        title: Budget
+        items:
+          - Capital & Revenue Budget
+          - Re-appropriation of Capital & Revenue Budget
+      - id: 2.2
+        title: Capital Investment
+        items:
+          - New capital investment proposals
+          - Revised cost for approved capital schemes
+      - id: 2.3
+        title: Works, Purchases & Sales
+        items:
+          - Works > ₹2 lakh and Purchases > ₹1 lakh
+          - Tender evaluation and acceptance
+          - Commercial negotiations with tenderers
+          - Contract term variations
+          - Scope, rate, and condition changes in concluded contracts
+          - Advance payments to contractors/suppliers (with/without security)
+          - Contract termination
+      - id: 2.4
+        title: Claims, Write-offs & Waivals
+        items:
+          - Arbitration or court referrals
+          - Out-of-court settlements
+          - Compensation (non-statutory)
+          - Write-offs (losses, debts, advances)
+      - id: 2.5
+        title: Personnel
+        items:
+          - Wage/emolument/benefit/service rule changes
+          - Employee advances beyond budget
+          - Ex-gratia and ad hoc payments outside rules
+      - id: 2.6
+        title: General
+        items:
+          - Price fixation (products/services/discounts)
+          - Publicity scheme expenditure
+          - Contributions to external agencies
+          - Rent fixation and hiring arrangements
+          - Credit arrangements and advance payments to outsiders
+          - Disposal of surplus material
+          - Material procurement arrangements
+          - Imprest/cash handling approvals
+          - Changes in accounting system
+
+  - clause: 3
+    title: Matters Not Requiring Financial Concurrence
+    subclauses:
+      - id: 3.1
+        title: Works and Purchases
+        items:
+          - Works ≤ ₹2 lakh and purchases ≤ ₹1 lakh
+          - Vetted estimates based on Project SORs for WOs
+      - id: 3.2
+        title: Personnel
+        items:
+          - Advances/benefits/payments covered under rules
+      - id: 3.3
+        title: General
+        items:
+          - Legal/professional fees ≤ ₹50,000 per case
+          - Tender/public notice/recruitment publication expenses
+          - Advertisements ≤ ₹5 lakh
+          - Publicity expenses ≤ ₹1 lakh
+
+  - clause: 4
+    title: Financial Concurrence – Scope Limitations
+    description: >
+      The following are excluded from the scope of financial concurrence and remain the responsibility of the initiating department:
+    exclusions:
+      - Arithmetic accuracy of calculations
+      - Factual accuracy of technical assumptions
+      - Compliance with statutory and safety regulations
+
+  - clause: 5
+    title: Changes in Guidelines
+    description: >
+      Director (Finance) may approve changes to these guidelines based on operational need, transaction nature, concurrence adequacy, or control sufficiency.
