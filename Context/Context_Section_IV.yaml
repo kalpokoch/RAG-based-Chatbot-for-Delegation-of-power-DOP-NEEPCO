@@ -8,7 +8,7 @@ clauses:
       - ED (Finance) / CGM (Finance): 
           - Full Power in absence of D(F)
           - Full Power for dropping officers from authorization matrix on transfer/separation
-      - Opening of Letter of Credit: ED (Finance) / CGM (Finance): Full Power
+      - Opening of Letter of Credit: ED (Finance) / CGM (Finance) - Full Power
 
   - clause: 2
     title: Passing and Payment of Bills
@@ -28,11 +28,11 @@ clauses:
         groups:
           - group: Head of Finance not below Sr. Mgr (F)
             limit: Full Power
-          - group: Sr. Mgr (F) not being Head of Finance: ₹100 Lakh
-          - group: Manager (F): ₹50 Lakh
-          - group: Deputy Manager (F): ₹20 Lakh
-          - group: AO/AM (F): ₹10 Lakh
-          - group: AAO: ₹2.5 Lakh
+          - group: Sr. Mgr (F) not being Head of Finance - ₹100 Lakh
+          - group: Manager (F) - ₹50 Lakh
+          - group: Deputy Manager (F) - ₹20 Lakh
+          - group: AO/AM (F) - ₹10 Lakh
+          - group: AAO - ₹2.5 Lakh
         note: No limit for establishment bills
       - id: c
         location: Head of Finance (lower levels)
