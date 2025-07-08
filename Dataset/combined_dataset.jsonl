@@ -1071,13 +1071,90 @@
 {"instruction": "When can the CMD appoint non-panel legal professionals?", "input": "", "output": "For any engagement requiring attorneys, arbitrators, or consultants outside the approved panel."}
 {"instruction": "Are there rate limits for non-panel counsel appointments?", "input": "", "output": "No, the CMD has 'Full Powers' without fee restrictions for non-panel engagements."}
 {"instruction": "Can non-panel arbitrators be appointed for sensitive disputes?", "input": "", "output": "Yes, the CMD has unrestricted authority to appoint any qualified non-panel arbitrator."}
-{"instruction": "What documentation justifies non-panel appointments?", "input": "", "output": "The policy doesn't specify requirements - implied at CMD's discretion."}
+{"instruction": "What documentation justifies non-panel appointments?", "input": "", "output": "The policy does not specify requirements - implied at CMD's discretion."}
 {"instruction": "Are there geographical limits to non-panel appointments?", "input": "", "output": "No, the clause applies universally without territorial constraints."}
-{"instruction": "Who maintains the approved legal professionals panel?", "input": "", "output": "The document doesn't specify - likely a separate panel management process exists."}
+{"instruction": "Who maintains the approved legal professionals panel?", "input": "", "output": "The document does not specify - likely a separate panel management process exists."}
 {"instruction": "Can the CMD exceed approved rates for exceptional panel cases?", "input": "", "output": "No, panel appointments must use pre-approved rates without exception."}
-{"instruction": "How often is the legal panel updated?", "input": "", "output": "The policy doesn't define panel refresh frequency."}
-{"instruction": "Can panel advocates be used for international arbitration?", "input": "", "output": "Yes, if they're on the approved panel and the case type matches their mandate."}
+{"instruction": "How often is the legal panel updated?", "input": "", "output": "The policy does not define panel refresh frequency."}
+{"instruction": "Can panel advocates be used for international arbitration?", "input": "", "output": "Yes, if they are on the approved panel and the case type matches their mandate."}
 {"instruction": "What happens if no panel member is available for a case?", "input": "", "output": "The CMD must then use non-panel appointment authority under Subclause 24(1)."}
+{"instruction": "Who can sign legal pleadings in court on behalf of NEEPCO?", "input": "", "output": "HOD of the concerned Wing (≥E8) or Officer of the Law Wing (≥E5) on advice of Law Wing."}
+{"instruction": "Can an E-6 officer in the Legal Department sign affidavits for litigation?", "input": "", "output": "No, only Law Wing officers of grade E-5 and above are authorized."}
+{"instruction": "Is Law Wing consultation mandatory for document signing?", "input": "", "output": "Yes, action is to be taken only on advice of the Law Wing."}
+{"instruction": "What types of documents can the authorized official sign?", "input": "", "output": "Vakalatnama, Written Statements, Objections, Rejoinders, Appeals, Counter Claims, and related pleadings."}
+{"instruction": "Does this authority apply to quasi-judicial forums as well?", "input": "", "output": "Yes, includes Courts, Quasi-Judicial Authorities, Tribunals, and other Authorities."}
+{"instruction": "Who can sign pleadings for arbitration matters on NEEPCO’s behalf?", "input": "", "output": "HOD (≥E8) or Officer of Arbitration Wing (≥E5), on advice of Law Wing."}
+{"instruction": "Are document execution powers different for arbitration cases?", "input": "", "output": "No, the authorized officials remain the same, but actions relate specifically to arbitration forums."}
+{"instruction": "Can arbitration officers act independently of the Law Wing?", "input": "", "output": "No, all actions must be based on the Law Wing’s advice."}
+{"instruction": "Does this include power to verify Counter Claims?", "input": "", "output": "Yes, includes verification of Counter Claims in arbitration or court proceedings."}
+{"instruction": "Is there a financial cap for signing these documents?", "input": "", "output": "No financial limits are specified; full powers apply for authorized officials."}
+{"instruction": "How does arbitration document authority differ from court documents?", "input": "", "output": "Same document types, but arbitration requires Arbitration Wing officers instead of Law Wing."}
+{"instruction": "What if urgent court filings are needed after hours?", "input": "", "output": "Policy does not specify emergency protocols - likely requires advance planning."}
+{"instruction": "Why is E5 the minimum grade for wing officers?", "input": "", "output": "Ensures basic experience level while maintaining operational flexibility."}
+{"instruction": "Can one officer sign both plaints and counterclaims together?", "input": "", "output": "Yes, if authorized for the relevant forum and with Law Wing advice."}
+{"instruction": "Can Law Wing officers sign arbitration documents?", "input": "", "output": "No, arbitration requires specific Arbitration Wing officers."}
+{"instruction": "Are there training requirements for signing officers?", "input": "", "output": "Not specified in this delegation clause."}
+{"instruction": "Who is authorized to approve actions under engagement for statutory certifications?", "input": "", "output": "As per Clause 26(i) of the NEEPCO Delegation of Powers."}
+{"instruction": "What is the financial ceiling under engagement for statutory certifications (companies act, sebi, rbi, etc.)?", "input": "", "output": "As stated under Clause 26(i) — refer to specific annual and per-case limits."}
+{"instruction": "Can an officer below E-8 grade approve tasks under 26(i)?", "input": "", "output": "No, only those authorized in the clause, such as D(F), ED(F), or HOD (≥E8), may approve."}
+{"instruction": "Does Clause 26(i) allow full powers for engagements?", "input": "", "output": "Yes, where stated 'Full Powers', officers may act within defined financial ceilings."}
+{"instruction": "What types of professionals are engaged under Clause 26(i)?", "input": "", "output": "Typically includes Chartered Accountants, Cost Accountants, Company Secretaries, or Legal Consultants as per the clause."}
+{"instruction": "Who is authorized to approve actions under engagement for accounting work/manuals/opinions?", "input": "", "output": "As per Clause 26(ii) of the NEEPCO Delegation of Powers."}
+{"instruction": "What is the financial ceiling under engagement for accounting work/manuals/opinions?", "input": "", "output": "As stated under Clause 26(ii) — refer to specific annual and per-case limits."}
+{"instruction": "Can an officer below E-8 grade approve tasks under 26(ii)?", "input": "", "output": "No, only those authorized in the clause, such as D(F), ED(F), or HOD (≥E8), may approve."}
+{"instruction": "Does Clause 26(ii) allow full powers for engagements?", "input": "", "output": "Yes, where stated 'Full Powers', officers may act within defined financial ceilings."}
+{"instruction": "What types of professionals are engaged under Clause 26(ii)?", "input": "", "output": "Typically includes Chartered Accountants, Cost Accountants, Company Secretaries, or Legal Consultants as per the clause."}
+{"instruction": "Who is authorized to approve actions under engagement for tax audits under income tax act?", "input": "", "output": "As per Clause 26(iii-a) of the NEEPCO Delegation of Powers."}
+{"instruction": "What is the financial ceiling under engagement for tax audits under income tax act?", "input": "", "output": "As stated under Clause 26(iii-a) — refer to specific annual and per-case limits."}
+{"instruction": "Can an officer below E-8 grade approve tasks under 26(iii-a)?", "input": "", "output": "No, only those authorized in the clause, such as D(F), ED(F), or HOD (≥E8), may approve."}
+{"instruction": "Does Clause 26(iii-a) allow full powers for engagements?", "input": "", "output": "Yes, where stated 'Full Powers', officers may act within defined financial ceilings."}
+{"instruction": "What types of professionals are engaged under Clause 26(iii-a)?", "input": "", "output": "Typically includes Chartered Accountants, Cost Accountants, Company Secretaries, or Legal Consultants as per the clause."}
+{"instruction": "Who is authorized to approve actions under engagement for gst audits under gst act?", "input": "", "output": "As per Clause 26(iii-b) of the NEEPCO Delegation of Powers."}
+{"instruction": "What is the financial ceiling under engagement for gst audits under gst act?", "input": "", "output": "As stated under Clause 26(iii-b) — refer to specific annual and per-case limits."}
+{"instruction": "Can an officer below E-8 grade approve tasks under 26(iii-b)?", "input": "", "output": "No, only those authorized in the clause, such as D(F), ED(F), or HOD (≥E8), may approve."}
+{"instruction": "Does Clause 26(iii-b) allow full powers for engagements?", "input": "", "output": "Yes, where stated 'Full Powers', officers may act within defined financial ceilings."}
+{"instruction": "What types of professionals are engaged under Clause 26(iii-b)?", "input": "", "output": "Typically includes Chartered Accountants, Cost Accountants, Company Secretaries, or Legal Consultants as per the clause."}
+{"instruction": "Who is authorized to approve actions under sanction of audit expenses (meetings, audit events)?", "input": "", "output": "As per Clause 26(iv) of the NEEPCO Delegation of Powers."}
+{"instruction": "What is the financial ceiling under sanction of audit expenses (meetings, audit events)?", "input": "", "output": "As stated under Clause 26(iv) — refer to specific annual and per-case limits."}
+{"instruction": "Can an officer below E-8 grade approve tasks under 26(iv)?", "input": "", "output": "No, only those authorized in the clause, such as D(F), ED(F), or HOD (≥E8), may approve."}
+{"instruction": "Does Clause 26(iv) allow full powers for engagements?", "input": "", "output": "Yes, where stated 'Full Powers', officers may act within defined financial ceilings."}
+{"instruction": "Who is authorized to approve actions under engagement for tax matters (litigation, verification, company law)?", "input": "", "output": "As per Clause 26(v) of the NEEPCO Delegation of Powers."}
+{"instruction": "What is the financial ceiling under engagement for tax matters (litigation, verification, company law)?", "input": "", "output": "As stated under Clause 26(v) — refer to specific annual and per-case limits."}
+{"instruction": "Can an officer below E-8 grade approve tasks under 26(v)?", "input": "", "output": "No, only those authorized in the clause, such as D(F), ED(F), or HOD (≥E8), may approve."}
+{"instruction": "Does Clause 26(v) allow full powers for engagements?", "input": "", "output": "Yes, where stated 'Full Powers', officers may act within defined financial ceilings."}
+{"instruction": "Who is authorized to approve actions under engagement for certification work related to tariff purpose?", "input": "", "output": "As per Clause 26(vi) of the NEEPCO Delegation of Powers."}
+{"instruction": "What is the financial ceiling under engagement for certification work related to tariff purpose?", "input": "", "output": "As stated under Clause 26(vi) — refer to specific annual and per-case limits."}
+{"instruction": "Can an officer below E-8 grade approve tasks under 26(vi)?", "input": "", "output": "No, only those authorized in the clause, such as D(F), ED(F), or HOD (≥E8), may approve."}
+{"instruction": "Does Clause 26(vi) allow full powers for engagements?", "input": "", "output": "Yes, where stated 'Full Powers', officers may act within defined financial ceilings."}
+{"instruction": "What types of professionals are engaged under Clause 26(vi)?", "input": "", "output": "Typically includes Chartered Accountants, Cost Accountants, Company Secretaries, or Legal Consultants"}
+{"instruction": "Who is authorized to approve actions under miscellaneous legal/arbitration expenses (opinions, affidavits, poa)?", "input": "", "output": "As per Clause 26(vii) of the NEEPCO Delegation of Powers."}
+{"instruction": "What is the financial ceiling under miscellaneous legal/arbitration expenses (opinions, affidavits, poa)?", "input": "", "output": "As stated under Clause 26(vii) — refer to specific annual and per-case limits."}
+{"instruction": "Can an officer below E-8 grade approve tasks under 26(vii)?", "input": "", "output": "No, only those authorized in the clause, such as D(F), ED(F), or HOD (≥E8), may approve."}
+{"instruction": "Does Clause 26(vii) allow full powers for engagements?", "input": "", "output": "Yes, where stated 'Full Powers', officers may act within defined financial ceilings."}
+{"instruction": "Who is authorized to approve actions under summoning of witnesses?", "input": "", "output": "As per Clause 26(viii) of the NEEPCO Delegation of Powers."}
+{"instruction": "What is the financial ceiling under summoning of witnesses?", "input": "", "output": "As stated under Clause 26(viii) — refer to specific annual and per-case limits."}
+{"instruction": "Can an officer below E-8 grade approve tasks under 26(viii)?", "input": "", "output": "No, only those authorized in the clause, such as D(F), ED(F), or HOD (≥E8), may approve."}
+{"instruction": "Does Clause 26(viii) allow full powers for engagements?", "input": "", "output": "Yes, where stated 'Full Powers', officers may act within defined financial ceilings."}
+{"instruction": "What types of professionals are engaged under Clause 26(viii)?", "input": "", "output": "Typically includes Chartered Accountants, Cost Accountants, Company Secretaries, or Legal Consultants as per the clause."}
+{"instruction": "Who is authorized to approve actions under engagement for filing with mca, sebi, obtaining dsc, corporate law compliance?", "input": "", "output": "As per Clause 26(ix) of the NEEPCO Delegation of Powers."}
+{"instruction": "What is the financial ceiling under engagement for filing with mca, sebi, obtaining dsc, corporate law compliance?", "input": "", "output": "As stated under Clause 26(ix) — refer to specific annual and per-case limits."}
+{"instruction": "Can an officer below E-8 grade approve tasks under 26(ix)?", "input": "", "output": "No, only those authorized in the clause, such as D(F), ED(F), or HOD (≥E8), may approve."}
+{"instruction": "Does Clause 26(ix) allow full powers for engagements?", "input": "", "output": "Yes, where stated 'Full Powers', officers may act within defined financial ceilings."}
+{"instruction": "What types of professionals are engaged under Clause 26(ix)?", "input": "", "output": "Typically includes Chartered Accountants, Cost Accountants, Company Secretaries, or Legal Consultants as per the clause."}
+{"instruction": "Who is authorized to approve actions under engagement of rating agencies?", "input": "", "output": "As per Clause 26(x) of the NEEPCO Delegation of Powers."}
+{"instruction": "What is the financial ceiling under engagement of rating agencies?", "input": "", "output": "As stated under Clause 26(x) — refer to specific annual and per-case limits."}
+{"instruction": "Can an officer below E-8 grade approve tasks under 26(x)?", "input": "", "output": "No, only those authorized in the clause, such as D(F), ED(F), or HOD (≥E8), may approve."}
+{"instruction": "Does Clause 26(x) allow full powers for engagements?", "input": "", "output": "Yes, where stated 'Full Powers', officers may act within defined financial ceilings."}
+{"instruction": "Who is authorized to approve actions under engagement of intermediaries (rta, trustee, legal consultant, etc.)?", "input": "", "output": "As per Clause 26(xi) of the NEEPCO Delegation of Powers."}
+{"instruction": "What is the financial ceiling under engagement of intermediaries (rta, trustee, legal consultant, etc.)?", "input": "", "output": "As stated under Clause 26(xi) — refer to specific annual and per-case limits."}
+{"instruction": "Can an officer below E-8 grade approve tasks under 26(xi)?", "input": "", "output": "No, only those authorized in the clause, such as D(F), ED(F), or HOD (≥E8), may approve."}
+{"instruction": "Does Clause 26(xi) allow full powers for engagements?", "input": "", "output": "Yes, where stated 'Full Powers', officers may act within defined financial ceilings."}
+{"instruction": "What types of professionals are engaged under Clause 26(xi)?", "input": "", "output": "Typically includes Chartered Accountants, Cost Accountants, Company Secretaries, or Legal Consultants as per the clause."}
+{"instruction": "Who is authorized to approve actions under payment of cerc fee?", "input": "", "output": "As per Clause 26(xii) of the NEEPCO Delegation of Powers."}
+{"instruction": "What is the financial ceiling under payment of cerc fee?", "input": "", "output": "As stated under Clause 26(xii) — refer to specific annual and per-case limits."}
+{"instruction": "Can an officer below E-8 grade approve tasks under 26(xii)?", "input": "", "output": "No, only those authorized in the clause, such as D(F), ED(F), or HOD (≥E8), may approve."}
+{"instruction": "Does Clause 26(xii) allow full powers for engagements?", "input": "", "output": "Yes, where stated 'Full Powers', officers may act within defined financial ceilings."}
+{"instruction": "What types of professionals are engaged under Clause 26(xii)?", "input": "", "output": "Typically includes Chartered Accountants, Cost Accountants, Company Secretaries, or Legal Consultants as per the clause."}
 {"instruction": "Who holds full authority to ensure compliance with audit observations?", "input": "", "output": "Director (Finance), ED (Finance)"}
 {"instruction": "What is the responsibility of Director (Finance) under Clause 11?", "input": "", "output": "To implement all audit and government financial compliance requirements"}
 {"instruction": "Can ED (Finance) independently implement internal audit recommendations?", "input": "", "output": "Yes, ED (F) has full powers to manage operational-level compliance"}
