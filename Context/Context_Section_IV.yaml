@@ -1,0 +1,101 @@
+section: IV
+title: Financial Power to F&A Wing
+clauses:
+  - clause: 1
+    title: Operation and closing of Bank account & Opening of Letter of Credit
+    delegated_to:
+      - Director (Finance): Full Power
+      - ED (Finance) / CGM (Finance): 
+          - Full Power in absence of D(F)
+          - Full Power for dropping officers from authorization matrix on transfer/separation
+      - Opening of Letter of Credit: ED (Finance) / CGM (Finance): Full Power
+
+  - clause: 2
+    title: Passing and Payment of Bills
+    subclauses:
+      - id: a
+        location: Corporate Office
+        limits:
+          - ED(F)/CGM(F)/GM(F)/DGM(F)/Sr. Mgr(F): Full Power
+          - Manager (F): ₹50 Lakh
+          - Deputy Manager (F): ₹20 Lakh
+          - AO/AM (F): ₹10 Lakh
+          - AAO: ₹2.5 Lakh
+        note: No limit for passing establishment bills
+      - id: b
+        location: Project / Other Offices
+        description: Power delegated to HOP for Contracts executed at project/HOD/Corporate Affairs/Coordinator (not below E-7)
+        groups:
+          - group: Head of Finance not below Sr. Mgr (F)
+            limit: Full Power
+          - group: Sr. Mgr (F) not being Head of Finance: ₹100 Lakh
+          - group: Manager (F): ₹50 Lakh
+          - group: Deputy Manager (F): ₹20 Lakh
+          - group: AO/AM (F): ₹10 Lakh
+          - group: AAO: ₹2.5 Lakh
+        note: No limit for establishment bills
+      - id: c
+        location: Head of Finance (lower levels)
+        limits:
+          - Manager (F): ₹75 Lakh
+          - Deputy Manager (F): ₹40 Lakh
+
+  - clause: 3
+    title: Financial Examination & Vetting of Proposals
+    subclauses:
+      - id: a
+        location: Corporate Office
+        rules:
+          - CMD/Board’s powers: Director (Finance) (or HOD Finance in absence)
+          - Functional Directors' powers: In-charge of Finance Concurrence Cell (not below GM)
+          - Approvals below Functional Directors: Officer not below Sr. Manager (F)
+      - id: b
+        location: Project / Coordination Offices
+        ranks:
+          - Sr. Manager (F) & above:
+              HOF: Full Power
+              Non-HOF: ₹100 Lakh
+          - Manager (F):
+              HOF: ₹75 Lakh
+              Non-HOF: ₹50 Lakh
+          - Deputy Manager (F):
+              HOF: ₹35 Lakh
+              Non-HOF: ₹20 Lakh
+          - AO/AM (F):
+              HOF: ₹20 Lakh
+              Non-HOF: ₹10 Lakh
+        notes:
+          - All proposals for vetting must go through HOF, even if subordinate officers are delegated
+          - Full power is linked to the power of the concerned HOP/HOD/Coordinator not below E-7
+
+  - clause: 4
+    title: Fixation of Pay & Other Matters Relating to Pay & Allowances
+    subclauses:
+      - id: a
+        location: Corporate Office
+        powers:
+          - Sr. Manager (F): Full Power (routine matters)
+          - Manager (F): up to E4
+          - Dy. Manager (F): up to E2
+          - AO/AM (F): up to E1
+          - AAO (F): up to S3
+      - id: b
+        location: Project / Coordination Offices
+        powers:
+          - Sr. Manager (F): Full Power (routine matters)
+          - Manager (F): up to E4
+          - Dy. Manager (F): up to E3
+          - AO/AM (F): up to E1
+          - AAO (F): up to S3
+
+  - clause: 5
+    title: Power to Invest Money (not Shares in Companies)
+    delegated_to:
+      - i: Committee of CMD and Director (Finance)
+      - ii: Committee of CMD, Director (Finance), and Director (Technical)/Director (Personnel)
+    note: As per powers delegated in the Short-Term Investment of Cash Surplus Policy approved by the Board
+
+notes:
+  - All project/office proposals require prior vetting of HOF
+  - Power exercise is subject to Policy Guidelines of Financial Concurrence
+  - Specific relaxation/special powers may be granted by Director (Finance)
