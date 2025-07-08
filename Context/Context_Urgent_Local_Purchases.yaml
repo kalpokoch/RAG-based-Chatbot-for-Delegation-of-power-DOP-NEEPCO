@@ -1,0 +1,29 @@
+section: Urgent Local Purchases
+title: Guidelines for Constitution and Functioning of Local Purchase Committees (LPC)
+clauses:
+  - clause: LPC-1
+    title: Committee for Purchases Below ₹3 Lakh
+    composition:
+      - Chairman: Deputy General Manager
+      - Members:
+          - One member from Finance
+          - One member from Indenter side (not below the rank of Sr. Manager)
+    approving_authority: ED / CGM / GM (HR) (HOD & HOP) – not below the rank of E-8
+    remarks:
+      - The Committee shall survey the market and assess stock availability.
+      - At least 3 vendor quotations must be obtained in sealed/pasted covers.
+      - Codal formalities must be fulfilled.
+      - A comparative statement and reasonability of rates should be prepared.
+      - The proposal shall be submitted to the approving authority.
+      - After approval, the Chairman of the Committee will place the order.
+
+  - clause: LPC-2
+    title: Committee for Purchases Below ₹50,000
+    composition:
+      - Chairman: Senior Manager
+      - Members:
+          - One member from Finance
+          - One member from Indenter side (not below the rank of Deputy Manager)
+    approving_authority: ED / CGM / GM (HR) (HOD & HOP) – not below the rank of E-8
+    remarks:
+      - Same procedure as LPC-1
