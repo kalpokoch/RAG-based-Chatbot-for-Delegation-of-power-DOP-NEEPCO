@@ -9,126 +9,350 @@
     Sr. M: NIL
     This is applicable to works, services, and supplies for approved projects.
 
-- instruction: What is the maximum limit up to which a CGM can approve estimates for non-approved projects?
+- instruction: What is the extent of authority D(T) has to sanction technical estimates for approved projects?
+  input: ""
+  output: Full power
+
+- instruction: How much sanctioning power does D(T) have for services and supplies in approved projects?
+  input: ""
+  output: Full power
+
+- instruction: What level of technical sanction authority does D(T) hold for works under approved projects?
+  input: ""
+  output: Full power
+
+- instruction: For detailed estimates in approved projects, what power does D(T) have?
+  input: ""
+  output: Full power
+
+- instruction: What is the maximum authority D(T) holds to approve technical estimates in already sanctioned projects?
+  input: ""
+  output: Full power
+
+- instruction: What sanctioning authority is vested in D(T) for detailed estimates of approved services?
+  input: ""
+  output: Full power
+
+- instruction: In the case of approved projects, what is D(T)’s power to issue technical sanctions?
+  input: ""
+  output: Full power
+
+- instruction: For works covered under approved projects, what technical sanction authority does D(T) have?
+  input: ""
+  output: Full power
+
+- instruction: What is the extent of power D(T) has in giving technical sanctions for already approved works and supplies?
+  input: ""
+  output: Full power
+
+- instruction: Under approved project categories, how much technical sanctioning power is assigned to D(T)?
+  input: ""
+  output: Full power
+
+- instruction: What is the authority of D(T) for sanctioning estimates in projects not previously approved?
+  input: ""
+  output: Full power
+
+- instruction: To what extent can D(T) approve technical estimates in unapproved works?
+  input: ""
+  output: Full power
+
+- instruction: What level of sanctioning power does D(T) have for estimates outside of approved projects?
+  input: ""
+  output: Full power
+
+- instruction: How much authority does D(T) have to issue technical sanctions for standalone service estimates?
+  input: ""
+  output: Full power
+
+- instruction: What is the power of D(T) to approve detailed estimates for projects not included in prior approvals?
+  input: ""
+  output: Full power
+
+- instruction: What sanctioning authority does D(T) hold for non-approved project work estimates?
+  input: ""
+  output: Full power
+
+- instruction: What is the extent of D(T)’s technical sanction power for newly proposed or ad hoc works?
+  input: ""
+  output: Full power
+
+- instruction: What kind of technical sanction authority does D(T) have for estimates not tied to approved plans?
+  input: ""
+  output: Full power
+
+- instruction: In projects outside the approved list, what level of power does D(T) have to sanction?
+  input: ""
+  output: Full power
+
+- instruction: How much sanctioning authority is granted to D(T) for independent technical works not pre-approved?
+  input: ""
+  output: Full power
+
+- instruction: What is the extent of the sanctioning power of D(T) for technical estimates within budget in O&M offices?
+  input: ""
+  output: Full power
+
+- instruction: How much power does D(T) have to approve detailed estimates in O&M plants under the approved budget?
+  input: ""
+  output: Full power
+
+- instruction: What authority does D(T) have for sanctioning technical works in non-construction departments within budget?
+  input: ""
+  output: Full power
+
+- instruction: What level of power is granted to D(T) for approving budgeted estimates in O&M settings excluding construction?
+  input: ""
+  output: Full power
+
+- instruction: Within the approved budget, what is the authority of D(T) to issue technical sanctions for O&M services?
+  input: ""
+  output: Full power
+
+- instruction: For plant and office services under the budget and excluding construction, how much sanctioning power does D(T) hold?
+  input: ""
+  output: Full power
+
+- instruction: What is the authority of D(T) to give technical sanctions for maintenance-related works within budget limits?
+  input: ""
+  output: Full power
+
+- instruction: In administrative offices under O&M, what is the technical sanctioning power of D(T) when within budget?
+  input: ""
+  output: Full power
+
+- instruction: For non-construction work in plant operations within budget, how much authority does D(T) hold?
+  input: ""
+  output: Full power
+
+- instruction: What power does D(T) have to technically sanction within-budget estimates in O&M areas not involving construction?
+  input: ""
+  output: Full power
+
+- instruction: What level of authority does the ED hold to approve detailed estimates under approved projects?
+  input: ""
+  output: Full power
+
+- instruction: How much power is given to the Executive Director for sanctioning estimates of approved services?
+  input: ""
+  output: Full power
+
+- instruction: For already sanctioned projects, what extent of sanctioning authority does the ED have?
+  input: ""
+  output: Full power
+
+- instruction: What is the scope of ED in providing technical sanctions for works in approved project categories?
+  input: ""
+  output: Full power
+
+- instruction: Under approved projects, what sanctioning authority is delegated to the ED?
+  input: ""
+  output: Full power
+
+- instruction: In the context of approved services and supplies, what technical sanction power does ED possess?
+  input: ""
+  output: Full power
+
+- instruction: What power does ED have when approving detailed estimates for approved project work?
+  input: ""
+  output: Full power
+
+- instruction: Can the ED exercise complete authority in sanctioning approved project estimates?
+  input: ""
+  output: Full power
+
+- instruction: Is ED’s authority limited while issuing sanctions for already approved technical works?
+  input: ""
+  output: Full power
+
+- instruction: What sanctioning limits apply to the ED for detailed estimates under approved initiatives?
+  input: ""
+  output: Full power
+
+- instruction: What is the level of technical sanction authority ED has for works outside the approved project list?
+  input: ""
+  output: Full power
+
+- instruction: To what extent can the Executive Director approve technical estimates for unapproved projects?
+  input: ""
+  output: Full power
+
+- instruction: For services and supplies unrelated to approved projects, what is ED’s sanctioning capacity?
+  input: ""
+  output: Full power
+
+- instruction: Does the ED have full sanctioning power for ad hoc or non-planned project estimates?
+  input: ""
+  output: Full power
+
+- instruction: What technical sanction authority does ED hold for estimates not part of approved schemes?
+  input: ""
+  output: Full power
+
+- instruction: Can the Executive Director approve detailed estimates for standalone or emergency works?
+  input: ""
+  output: Full power
+
+- instruction: What is the maximum sanctioning power ED exercises for other than approved projects?
+  input: ""
+  output: Full power
+
+- instruction: For independently proposed technical works, what authority is given to the ED?
+  input: ""
+  output: Full power
+
+- instruction: Is prior project approval required for ED to issue technical sanctions?
+  input: ""
+  output: Full power
+
+- instruction: What kind of financial authority does ED hold for services not included in prior approvals?
+  input: ""
+  output: Full power
+
+- instruction: Within the approved budget, what level of technical sanction authority does ED have for O&M offices?
+  input: ""
+  output: Full power
+
+- instruction: How much sanctioning power is granted to the Executive Director for budgeted, non-construction office works?
+  input: ""
+  output: Full power
+
+- instruction: What technical sanction power does ED have for works within budget in O&M units excluding construction?
+  input: ""
+  output: Full power
+
+- instruction: For supplies in O&M plant areas (excluding construction), what sanctioning power does ED have?
+  input: ""
+  output: Full power
+
+- instruction: Is ED fully empowered to sanction estimates within the approved budget for office maintenance services?
+  input: ""
+  output: Full power
+
+- instruction: What is the authority of ED for sanctioning technical estimates in administrative or plant offices within budget?
+  input: ""
+  output: Full power
+
+- instruction: In departments not involving construction, what sanctioning power does ED have for within-budget works?
+  input: ""
+  output: Full power
+
+- instruction: What is the sanctioning limit of ED for estimates related to non-construction O&M work under budget?
+  input: ""
+  output: Full power
+
+- instruction: What power does ED hold in technically sanctioning works in O&M offices under financial approval?
+  input: ""
+  output: Full power
+
+- instruction: How much authority does ED have for routine technical estimates in office operations, excluding construction?
+  input: ""
+  output: Full power
+
+- instruction: What is the maximum financial limit CGM can sanction for approved project estimates?
   input: ""
   output: ₹15 crore
 
-- instruction: What is the maximum limit up to which a D(T) can approve estimates for approved projects?
+- instruction: Up to what amount can CGM approve technical estimates for approved services and works?
   input: ""
-  output: Full power
+  output: ₹15 crore
 
-- instruction: What is authority that the D(T) has over sanctioning for approved projects?
+- instruction: What is the extent of CGM’s authority in sanctioning detailed estimates under approved projects?
   input: ""
-  output: Full power
+  output: ₹15 crore
 
-- instruction: How much sanctioning power does D(T) have for works and supplies under approved projects?
+- instruction: For already sanctioned projects, how much can CGM approve in terms of estimate value?
   input: ""
-  output: Full power
+  output: ₹15 crore
 
-- instruction: What level of authority does D(T) hold for sanctioning approved project estimates?
+- instruction: How much technical sanctioning power does CGM have for approved projects?
   input: ""
-  output: Full power
+  output: ₹15 crore
 
-- instruction: What power does D(T) have in sanctioning services and supplies for approved projects?
+- instruction: In approved projects, what is CGM’s sanction limit for detailed estimates?
   input: ""
-  output: Full power
+  output: ₹15 crore
 
-- instruction: What is the maximum limit up to which a D(T) can approve estimates for non-approved projects?
+- instruction: What is the financial cap on CGM’s power to approve detailed estimates in sanctioned projects?
   input: ""
-  output: Full power
+  output: ₹15 crore
 
-- instruction: What is authority that D(T) has for sanctioning estimates in non-approved projects?
+- instruction: How much can CGM independently sanction in terms of technical estimates for approved project work?
   input: ""
-  output: Full power
+  output: ₹15 crore
 
-- instruction: How much sanctioning power does D(T) have for works and supplies under non-approved projects?
+- instruction: What limit applies to CGM while approving technical estimates for works under approved projects?
   input: ""
-  output: Full power
+  output: ₹15 crore
 
-- instruction: What level of authority does D(T) hold for sanctioning non-approved project estimates?
+- instruction: What is the maximum amount CGM can approve for estimates not covered by approved projects?
   input: ""
-  output: Full power
+  output: ₹15 crore
 
-- instruction: What power does D(T) have in sanctioning services and supplies for non-approved projects?
+- instruction: How much can CGM sanction for technical estimates outside the list of approved projects?
   input: ""
-  output: Full power
+  output: ₹15 crore
 
-- instruction: What is the maximum limit up to which a D(T) can approve estimates in O&M plants and offices excluding construction projects?
+- instruction: What is the upper limit of authority of CGM for sanctioning unapproved or new project estimates?
   input: ""
-  output: Full power
+  output: ₹15 crore
 
-- instruction: What is the authority that D(T) has for sanctioning estimates within approved budget in O&M offices for non-construction projects?
+- instruction: For other than approved projects, how much can CGM sanction in technical estimates?
   input: ""
-  output: Full power
+  output: ₹15 crore
 
-- instruction: How much sanctioning power does D(T) have for works and supplies within budget in non-construction offices?
+- instruction: What is CGM’s sanctioning authority for technical estimates in standalone or emergency works?
   input: ""
-  output: Full power
+  output: ₹15 crore
 
-- instruction: What level of authority does D(T) hold for sanctioning estimates in O&M plants for non-construction approved budgets?
+- instruction: For ad hoc or new works not tied to approved projects, what is CGM’s technical sanction limit?
   input: ""
-  output: Full power
+  output: ₹15 crore
 
-- instruction: What power does D(T) have in sanctioning services and supplies within budget for non-construction offices?
+- instruction: How much authority does CGM have for technical estimates not included in project plans?
   input: ""
-  output: Full power
+  output: ₹15 crore
 
-- instruction: What is the maximum limit up to which a ED can approve estimates for approved projects?
+- instruction: What is the highest estimate value CGM can sanction for non-approved project services?
   input: ""
-  output: Full power
+  output: ₹15 crore
 
-- instruction: What is authority that the ED has over sanctioning for approved projects?
+- instruction: What technical sanction limit is given to CGM when the project isn’t part of the approved list?
   input: ""
-  output: Full power
+  output: ₹15 crore
 
-- instruction: How much sanctioning power does ED have for works and supplies under approved projects?
+- instruction: What is CGM’s limit to approve technical estimates in O&M offices within the approved budget?
   input: ""
-  output: Full power
+  output: ₹15 crore
 
-- instruction: What level of authority does ED hold for sanctioning approved project estimates?
+- instruction: What is the financial ceiling for CGM’s sanction authority in non-construction O&M departments?
   input: ""
-  output: Full power
+  output: ₹15 crore
 
-- instruction: What power does ED have in sanctioning services and supplies for approved projects?
+- instruction: How much can CGM approve in estimates for plant operations and administrative offices within budget?
   input: ""
-  output: Full power
+  output: ₹15 crore
 
-- instruction: What is the maximum limit up to which a ED can approve estimates for non-approved projects?
+- instruction: For O&M plant work excluding construction, what is CGM’s sanction limit?
   input: ""
-  output: Full power
+  output: ₹15 crore
 
-- instruction: What is authority that ED has for sanctioning estimates in non-approved projects?
+- instruction: How much sanctioning power does CGM hold in non-construction budgeted maintenance work?
   input: ""
-  output: Full power
+  output: ₹15 crore
 
-- instruction: How much sanctioning power does ED have for works and supplies under non-approved projects?
+- instruction: In budgeted technical estimates for plant offices, how much can CGM approve?
   input: ""
-  output: Full power
+  output: ₹15 crore
 
-- instruction: What level of authority does ED hold for sanctioning non-approved project estimates?
+- instruction: What is CGM’s limit for sanctioning services in non-construction departments under the approved budget?
   input: ""
-  output: Full power
+  output: ₹15 crore
 
-- instruction: What power does ED have in sanctioning services and supplies for non-approved projects?
+- instruction: For routine O&M services under the budget, what financial limit applies to CGM?
   input: ""
-  output: Full power
+  output: ₹15 crore
 
-- instruction: What is the maximum limit up to which a ED can approve estimates in O&M plants and offices excluding construction projects?
+- instruction: What is the authorized limit for CGM to approve estimates in non-construction, budgeted workspaces?
   input: ""
-  output: Full power
-
-- instruction: What is the authority that ED has for sanctioning estimates within approved budget in O&M offices for non-construction projects?
-  input: ""
-  output: Full power
-
-- instruction: How much sanctioning power does ED have for works and supplies within budget in non-construction offices?
-  input: ""
-  output: Full power
-
-- instruction: What level of authority does ED hold for sanctioning estimates in O&M plants for non-construction approved budgets?
-  input: ""
-  output: Full power
-
-- instruction: What power does D(T) have in sanctioning services and supplies within budget for non-construction offices?
-  input: ""
-  output: Full power
+  output: ₹15 crore
