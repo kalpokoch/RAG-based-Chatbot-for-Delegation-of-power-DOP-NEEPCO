@@ -301,3 +301,34 @@ clauses:
           Sr. M: null
         remarks:
           - Powers are to be exercised after consideration of all factors like urgency, specialized jobs, budget availability, rate reasonableness, and after ascertaining that the same rates are being charged by suppliers/manufacturers etc. from other Government Departments.
+      
+      - id : e
+        title: Local / spot purchases of materials on grounds of urgency 
+        delegation:
+          D(T): ₹40 Lakh
+          ED: ₹30 Lakh
+          CGM: ₹10 Lakh per annum
+          GM: ₹40,000 subject to a maximum ceiling of ₹3 Lakh per annum
+          DGM: ₹15,000 subject to a maximum ceiling of ₹2 Lakh per annum
+          Sr. M: null
+        remarks:
+          - Where dedicated stores do not exist, proper stock register for receipts and issues against such purchases shall be maintained.
+          - Spot purchase should not form a part of a regular purchase and the same shall be adopted only for immediate requirement / consumption.
+          - The list of items to be bought, with estimated price shall be approved by the competent authority, as per delegation alongside.
+          - Purchase will be made after a market survey and determination of price reasonableness, which shall be recorded accordingly.
+          - Purchases beyond Rs.2 Lac shall be made by a committee comprising one member each from the indenting department, Proc. Deptt. and Finance. The Committee officials shall comprise of at least one officer at E-6 level and rest not below level of E-1.
+  
+  - clause: 6
+    title: Procurement of HSD /Petrol/Lubricants from PSU oil companies/their Authorized fuel pump including rate contracts.
+    subclauses:
+      - id: a
+        description: Procurement of HSD /Petrol/Lubricants from PSU oil companies/their Authorized fuel pump including rate contracts.
+        delegation:
+          D(T): ₹5 crore
+          ED: ₹2 crore
+          CGM: ₹75 lakh
+          GM: NIL
+          DGM: NIL
+          Sr. M: NIL
+
+        reference: Delegation shall be limited to procurement per project /plant/ Corporate Office /Other locations during a year.
