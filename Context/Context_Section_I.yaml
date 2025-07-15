@@ -332,3 +332,65 @@ clauses:
           Sr. M: NIL
 
         reference: Delegation shall be limited to procurement per project /plant/ Corporate Office /Other locations during a year.
+
+  - clause: 7
+    title: Purchase of cement/steel
+    subclauses:
+      - id: a
+        title: Open Tender
+        description: Remarks under Clause 2(a) of Section-I shall be complied.
+        delegation:
+          D(T): ₹25 crore
+          ED: ₹10 crore
+          CGM: ₹3 crore
+          GM: ₹2 crore
+          DGM: ₹1 crore
+          Sr. M: NIL
+
+      - id: b
+        title: Limited Tender
+        description: Remarks under Clause 2(b) of Section-I shall be complied.
+        delegation:
+          D(T): ₹15 crore
+          ED: ₹5 crore
+          CGM: ₹50 lakh
+          GM: ₹35 lakh
+          DGM: ₹25 lakh
+          Sr. M: NIL
+
+      - id: c
+        title: Single Tender / Nomination Basis
+        description: Remarks under Clause 2(c) of Section-I shall be complied.
+        delegation:
+          D(T): ₹5 crore
+          ED: ₹1 crore
+          CGM: ₹25 lakh
+          GM: ₹15 lakh
+          DGM: ₹10 lakh
+          Sr. M: NIL
+
+      - id: d
+        title: Procurement of Steel in case of MOU with PSU Steel Companies
+        delegation:
+          D(T): ₹50 crore
+          ED: ₹25 crore
+          CGM: ₹10 crore
+          GM: null
+          DGM: null
+          Sr. M: null
+
+    remarks:
+      - **CEMENT:**
+      - Cement will be procured by MM Wing through open tenders to be invited from reputed manufacturers having BIS registration and fulfilling production and other standard quality, commercial and financial requirements. Accordingly, project wise requirement for 6 (six) months with monthly breakup shall be submitted by respective projects.
+      - On finalization of tender, procurement shall be done from the lowest bidder in phased manner depending on project requirement.
+      - The qualified bidders may be empaneled by the MM Wing with the approval of Director (Tech) for a maximum period of 2 (two) years for the purpose of procurement.
+      - In the event of failure on the part of L1 bidder to fulfill the supply obligation, cement may be procured from empaneled bidders at L1 rate or at lowest rate arrived through fresh price offers invited from empaneled bidders. Approval on award shall be treated in terms of open tender delegations.
+      - Cement may also be procured at project level in case of emergency or crisis of cement at Project site or when the requirement is small (maximum 100 MT in each case) from empaneled bidders or their authorized dealers at L1 rate arrived through fresh price offers. If not available at site, procurement from other locally available BIS-conforming sources is permitted with proper justification and codal formalities.
+
+      - **STEEL:**
+      - Steel will be procured by MM Wing from manufacturers empaneled for maximum period of 2 (two) years through open tenders from reputed manufacturers having BIS registration and fulfilling standard requirements. List of empaneled vendors approved by Director (Tech).
+      - Project-wise requirement for 6 (six) months with monthly breakup shall be submitted by projects.
+      - Procurement as per project needs at L1 price invited from empaneled vendors. Approval shall be treated under open tender limits.
+      - Steel items not manufactured by empaneled vendors (e.g. angles, flats, etc.) may be procured through open/limited tenders conforming to standards.
+      - MOU shall be signed with CMD’s approval. Post-MOU, material procurement will be as per above delegation.
+
