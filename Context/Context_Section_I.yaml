@@ -237,4 +237,67 @@ clauses:
           - Before taking any procurement action, the O&M estimate is required to be approved by the Project Head (CGM/GM) at the beginning of the financial year and included in the annual procurement plan.
           - Items to be procured should be earmarked even if on "broad head" in the O&M estimate.
           - Quantity justification to be recorded.
- 
+
+  - clause: 5
+    title: Award of contract for purchase of spares for Equipment / Instruments / T&P etc. (locations other than O&M project)
+    subclauses:
+      - id: a
+        title: On open tender
+        description: From manufacturer of original equipment or their authorized dealers
+        delegation:
+          D(T): ₹5 Crore
+          ED: ₹1 Crore
+          CGM: ₹50 Lakh
+          GM: ₹30 Lakh
+          DGM: ₹20 Lakh
+          Sr. M: ₹10 Lakh
+        remarks:
+          - Remarks under Clause 2(a) of Section-I shall be complied.
+          - Tenders will be invited by the respective Contracts Wing of the Corporation only after approval of the cost estimate.
+          - Proprietary Article Certificate (PAC) shall be approved by HOP not below the rank of GM
+          - Source standardization or urgency should be established/justified and recorded. Finance Concurrence is to be obtained.
+          - In cases other than procurement through open tender, ground of urgency is to be recorded.
+          
+      - id: b
+        title: Limited tender
+        delegation:
+          D(T): ₹2 Crore
+          ED: ₹50 Lakh
+          CGM: ₹25 Lakh
+          GM: ₹20 Lakh
+          DGM: ₹10 Lakh
+          Sr. M: ₹5 Lakh
+        remarks:
+          - Remarks under Clause 2(b) of Section-I shall be complied.
+          - Tenders will be invited by the respective Contracts Wing of the Corporation only after approval of the cost estimate.
+          - Proprietary Article Certificate (PAC) shall be approved by HOP not below the rank of GM
+          - Source standardization or urgency should be established/justified and recorded. Finance Concurrence is to be obtained.
+          - In cases other than procurement through open tender, ground of urgency is to be recorded.
+
+      - id: c
+        title: Single tender / Nomination basis including PAC and Source Standardization
+        delegation:
+          D(T): ₹1 Crore
+          ED: ₹50 Lakh
+          CGM: ₹25 Lakh
+          GM: ₹10 Lakh
+          DGM: ₹5 Lakh
+          Sr. M: null
+        remarks:
+          - Remarks under Clause 2(c) of Section-I shall be complied.
+          - Tenders will be invited by the respective Contracts Wing of the Corporation only after approval of the cost estimate.
+          - Proprietary Article Certificate (PAC) shall be approved by HOP not below the rank of GM
+          - Source standardization or urgency should be established/justified and recorded. Finance Concurrence is to be obtained.
+          - In cases other than procurement through open tender, ground of urgency is to be recorded.
+
+      - id: d
+        title: Single tender / Nomination basis on purchases from Govt. Department / Undertakings
+        delegation:
+          D(T): ₹1 Crore
+          ED: ₹50 Lakh
+          CGM: ₹25 Lakh
+          GM: ₹10 Lakh
+          DGM: ₹5 Lakh
+          Sr. M: null
+        remarks:
+          - Powers are to be exercised after consideration of all factors like urgency, specialized jobs, budget availability, rate reasonableness, and after ascertaining that the same rates are being charged by suppliers/manufacturers etc. from other Government Departments.
