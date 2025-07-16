@@ -1993,6 +1993,439 @@
   input: ""
   output: Typically includes Chartered Accountants, Cost Accountants, Company Secretaries, or Legal Consultants as per the clause.
 
+##Sl no 27
+- instruction: Who is authorized to sign import license applications?
+  input: "" 
+  output: Executives not below the rank of Senior Manager (E-6) who are specifically nominated by a Director.
+
+- instruction: What preconditions must be met before signing import license applications?
+  input: "" 
+  output: |
+        The signing is subject to the issuance of a Letter of Award/Acceptance and verification of the Bill of Quantities (BOQ) to be imported.
+
+- instruction: Can any E-6 officer sign import license applications?
+  input: "" 
+  output: No, only those E-6 or above officers who are nominated by a Director may sign.
+
+- instruction: Is there any financial limit on the signing of import license applications?
+  input: "" 
+  output: No, the clause provides Full Powers without specifying a financial ceiling.
+
+- instruction: What is the minimum grade required for signing import license documents?
+  input: "" 
+  output: Senior Manager, i.e., E-6 grade, is the minimum, provided the officer is nominated by a Director.
+
+- instruction: Who verifies the Bill of Quantities for import licensing?
+  input: "" 
+  output: |
+        The clause requires verification of BOQ but does not specify who performs it; typically, this is done by the relevant technical or procurement wing.
+
+- instruction: Can import license applications be processed without a Letter of Acceptance?
+  input: "" 
+  output: No, the clause clearly states that it is subject to the issuance of a Letter of Award/Acceptance.
+
+- instruction: Why is Director nomination required for signing import license applications?
+  input: "" 
+  output: |
+        To ensure accountability and oversight, even though the power is extended to E-6 officers, they must be formally nominated by a Director.
+
+- instruction: What does the Bill of Quantities refer to in this context?
+  input: "" 
+  output: |
+        It refers to the itemized list of goods or materials to be imported as part of a project or supply order, which must be verified before proceeding.
+
+- instruction: Does this clause apply to exports or only imports?
+  input: "" 
+  output: This clause applies specifically to signing import license applications, not export-related documentation.
+
+- instruction: Can an E-5 manager sign if temporarily acting as Sr. Manager?
+  input: "" 
+  output: No, the delegation strictly requires E-6 rank even for acting positions.
+
+- instruction: How are executives nominated for this authority?
+  input: "" 
+  output: The policy doesn't specify nomination procedures - at Director's discretion.
+
+- instruction: Can multiple executives be authorized simultaneously?
+  input: "" 
+  output: Yes, the clause permits multiple nominations by the Director.
+
+- instruction: What about amendments to submitted licenses?
+  input: "" 
+  output: The policy doesn't distinguish between initial and amended applications.
+
+- instruction: Are digital signatures permitted?
+  input: "" 
+  output: Not specified - would depend on applicable import regulations.
+
+##Sl no 28
+- instruction: Who is authorized to approve cancellation charge payments?
+  input: "" 
+  output: HOP or HOD not below the rank of E-8 are authorized.
+
+- instruction: Are there any financial ceilings for cancellation charge approval?
+  input: "" 
+  output: No, the clause grants Full Powers without specifying a monetary limit.
+
+- instruction: Can an E-7 officer approve ticket cancellation charges?
+  input: "" 
+  output: No, only officers of E-8 grade or above (HOP or HOD) may approve.
+
+- instruction: Under what condition can cancellation charges be reimbursed?
+  input: "" 
+  output: Only if the tickets or bookings were made against an approved tour programme.
+
+- instruction: Is prior tour approval mandatory for ticket cancellation reimbursement?
+  input: "" 
+  output: Yes, approved tour programme is a mandatory precondition for such payments.
+
+- instruction: Can cancellation charges be paid for personal bookings?
+  input: "" 
+  output: No, payments are allowed only if bookings were related to official approved tours.
+
+- instruction: Is there any documentation required before approving such charges?
+  input: "" 
+  output: The clause implies that the approved tour programme and cancellation proof must be verified.
+
+- instruction: Does the policy differentiate between air, train, or bus ticket cancellations?
+  input: "" 
+  output: No, the clause applies generally to all ticket types provided the booking was official.
+
+- instruction: Can the Finance department question such payments?
+  input: "" 
+  output: Yes, if documentation like approved tour programme or cancellation memo is missing.
+
+- instruction: Are digital/e-tickets covered under this clause?
+  input: "" 
+  output: Yes, the clause does not limit by ticket type; any valid official booking is covered.
+
+- instruction: What checks are required before approving cancellation payments?
+  input: "" 
+  output: Verification that the original booking was made under a company-approved tour program.
+
+- instruction: Does this cover event tickets (e.g., conferences)?
+  input: "" 
+  output: Yes, if booked under an approved program, regardless of ticket type (travel/event).
+
+- instruction: Can employees claim cancellation fees for personal trips?
+  input: "" 
+  output: No, only tickets from approved company tours qualify.
+
+- instruction: How is approved tour program defined?
+  input: "" 
+  output: The clause does not specify; likely refers to pre-authorized travel plans in company policies.
+
+- instruction: Are retroactive approvals allowed for past cancellations?
+  input: "" 
+  output: Not addressed; standard practice would require pre-approval for non-emergency cancellations.
+
+- instruction: What if the cancellation is due to employee negligence?
+  input: "" 
+  output: The policy does not distinguish reasons—only requires original booking approval.
+
+- instruction: Can HOPs/HODs delegate this authority?
+  input: "" 
+  output: No, the clause restricts approval to E-8+ HOPs/HODs without sub-delegation options.
+
+##Sl no 29
+- instruction: Who can approve recruitment advertisements for NEEPCO?
+  input: ""
+  output: ED, HOP (≥E8), CGM (HR), and GM in charge of CC/CA have authority.
+
+- instruction: Are there financial limits for issuing tender notices?
+  input: ""
+  output: No, Clause 29 grants Full Powers without monetary restrictions.
+
+- instruction: Can an E-7 officer approve press ads under this clause?
+  input: ""
+  output: No, minimum rank for HOP eligibility is E-8.
+
+- instruction: What types of advertisements are covered under this clause?
+  input: ""
+  output: Tenders, recruitment notifications, and financial result announcements.
+
+- instruction: Are there any conditions tied to issuing advertisements?
+  input: ""
+  output: Yes, approvals are subject to corporate guidelines and evolving policies.
+
+- instruction: Is prior CMD approval required for high-value ad campaigns?
+  input: ""
+  output: Not if the approving officer is authorized under Clause 29.
+
+- instruction: Can the GM (CC/CA) release both tender and result ads?
+  input: ""
+  output: Yes, GM in charge of CC/CA is authorized for all ad types listed.
+
+- instruction: Does this clause apply to digital advertisements?
+  input: ""
+  output: Yes, if they relate to the specified topics and follow current guidelines.
+
+- instruction: Are recruitment ads subject to HR department coordination?
+  input: ""
+  output: Likely yes, since CGM (HR) is explicitly empowered in this clause.
+
+- instruction: Can ad format or language be decided by the approving officer?
+  input: ""
+  output: Possibly, unless restricted by corporate communication policy or government norms.
+
+- instruction: Can GM(CC/CA) override HR department ad decisions?
+  input: "" 
+  output: |
+      The clause does not establish any hierarchy among the listed officers; therefore, one authorized officer cannot automatically override another’s decision without additional internal directives.
+
+- instruction: How often are advertising guidelines updated?
+  input: ""
+  output: |
+      Clause 29 states guidelines may be issued “from time to time,” implying no fixed schedule; updates occur as and when management deems necessary.
+
+- instruction: What about ads for internal job postings?
+  input: "" 
+  output: Internal recruitment notices also fall under “recruitment” advertisements unless separate guidelines exclude them.
+
+- instruction: Is legal review required before ad issuance?
+  input: "" 
+  output: |
+     Clause 29 is silent on mandatory legal vetting; any such requirement would arise from the organization’s advertising or legal-compliance policies.
+
+- instruction: Can authorized officers delegate approval power?
+  input: ""
+  output: No
+
+##Sl no 30
+- instruction: What is the annual limit for ED to sanction official hospitality expenses?
+  input: ""
+  output: ₹2,00,000 per annum
+
+- instruction: How much can a CGM or HOP/HOD (CA/RA) spend annually on official hospitality?
+  input: ""
+  output: ₹1,00,000 per annum, provided the officer is not below E-8 grade
+
+- instruction: What is the financial delegation for a GM under Clause 30?
+  input: ""
+  output: ₹50,000 per annum
+
+- instruction: Can a Company Secretary approve hospitality expenses?
+  input: ""
+  output: Yes, up to ₹30,000 per annum if not below E-7 and in charge of CMD/Director’s Secretariat
+
+- instruction: Who can declare someone as an official guest of the corporation?
+  input: ""
+  output: Director/CVO, ED, CGM, HOP/HOD (CA/RA), GM, or Company Secretary depending on their respective limits and roles
+
+- instruction: Is there any financial cap for Directors or CVO under Clause 30?
+  input: ""
+  output: No, they hold full powers for sanctioning such expenditure
+
+- instruction: What rank must an officer hold to exercise ₹1 lakh hospitality powers?
+  input: ""
+  output: At least E-8, typically CGM or HOP/HOD (CA/RA)
+
+- instruction: Are E-6 grade officers allowed to approve any amount under Clause 30?
+  input: ""
+  output: No, the lowest authorized level is E-7 for CMD/Director’s Secretariat-related roles
+
+- instruction: What does Clause 30 of NEEPCO DOP deal with?
+  input: ""
+  output: It covers the delegation of powers for sanctioning official hospitality expenditure and declaring official guests
+
+- instruction: Who can exercise full powers under Clause 30 for official hospitality?
+  input: ""
+  output: Director or Chief Vigilance Officer (CVO)
+
+- instruction: Which officers can declare unlimited official guests?
+  input: ""
+  output: Only Director and CVO have unlimited declaration authority under Full Powers.
+
+- instruction: Can a Chief General Manager (CGM) approve ₹1,50,000 in hospitality costs?
+  input: ""
+  output: No, CGMs are restricted to ₹1,00,000 annually regardless of circumstances.
+
+- instruction: Why can't an E7-grade HOD approve hospitality expenses?
+  input: ""
+  output: HODs require minimum E8 rank for hospitality approvals as per delegation rules.
+
+- instruction: Does an acting GM (E6) temporarily inherit ₹50,000 approval authority?
+  input: ""
+  output: No, the policy strictly requires substantive rank (E7 for GM, E8 for HOD).
+
+- instruction: What steps must precede a ₹75,000 hospitality approval?
+  input: ""
+  output: Requires escalation to ED (₹2L limit) or CGM/HOD (₹1L limit) with guest declarations.
+
+- instruction: How are multi-day conference hospitality costs calculated?
+  input: ""
+  output: All expenses per event count toward the approver's annual ceiling.
+
+- instruction: Are virtual meeting catering costs considered hospitality?
+  input: ""
+  output: The clause doesn't specify; would depend on organizational expense categorization.
+
+- instruction: Does 'official guest' include contractor representatives?
+  input: ""
+  output: Yes, if their visit directly relates to company business as per policy intent.
+
+- instruction: What if hospitality needs exceed an ED's annual limit?
+  input: ""
+  output: Requires Director/CVO approval, as EDs cannot exceed ₹2,00,000 under any circumstances.
+
+- instruction: Can two HODs combine their ₹1L limits for a single event?
+  input: ""
+  output: No, limits are individual and non-transferable per delegation rules.
+
+- instruction: What proof is required for guest declaration?
+  input: ""
+  output: Policy doesn't specify but typically requires purpose, duration, and attendee list.
+
+- instruction: Are receipts mandatory for ₹25,000 hospitality claims?
+  input: ""
+  output: Yes, all expenditures require documentation regardless of amount.
+
+- instruction: Do limits reset mid-year if an approver changes roles?
+  input: ""
+  output: Unspecified - new role's limit would apply but historical spending may still count.
+
+- instruction: Can Q4 hospitality spending exceed 25% of annual limit?
+  input: ""
+  output: No pro-rata restrictions mentioned, but must not exceed total annual ceiling.
+
+- instruction: How does this compare to international office hospitality rules?
+  input: ""
+  output: This clause governs domestic approvals only; international may have separate policies.
+
+- instruction: Why do CMD secretariats have lower limits than GMs?
+  input: ""
+  output: Reflects their role in routine office hosting vs GMs' broader operational needs.
+
+- instruction: What if a guest becomes official after expenses are incurred?
+  input: ""
+  output: Retroactive approvals aren't addressed - likely requires pre-declaration.
+
+- instruction: Are cultural gift exchanges included in hospitality limits?
+  input: ""
+  output: Only if categorized as official hospitality under company policies.
+
+- instruction: How are violations of hospitality limits handled?
+  input: ""
+  output: Policy doesn't specify penalties, but likely triggers audit investigations.
+
+- instruction: Can Finance reject approved hospitality claims?
+  input: ""
+  output: Yes, if they violate delegation rules despite approver's sign-off.
+
+##Sl no 31
+- instruction: What is Clause 31 in the NEEPCO Delegation of Powers about?
+  input: ""
+  output: It deals with the sanctioning of advances for contingent expenditure by authorized officers.
+
+- instruction: Who has full powers for sanctioning advances under Clause 31?
+  input: ""
+  output: The Director has full powers with no financial ceiling.
+
+- instruction: What is the limit CGM or HOP/HOD (E8 and above) can sanction for contingent expenses?
+  input: ""
+  output: Up to ₹1,00,000 per executive, subject to a total ceiling of ₹10 lakh per annum.
+
+- instruction: Can a GM approve contingent advances under Clause 31?
+  input: ""
+  output: Yes, GMs not below E-7 grade can approve up to ₹25,000 per executive, within ₹2 lakh annually.
+
+- instruction: What is the annual ceiling for E8-level officers under Clause 31?
+  input: ""
+  output: ₹10 lakh per annum.
+
+- instruction: What is the maximum amount an E7-level officer can approve for contingent expenditure?
+  input: ""
+  output: ₹25,000 per executive, subject to ₹2 lakh ceiling annually.
+
+- instruction: Are there different financial limits for E7 and E8 grade officers under Clause 31?
+  input: ""
+  output: Yes, E8-grade officers can approve higher advances (₹1 lakh), while E7-grade officers are limited to ₹25,000.
+
+- instruction: Can multiple advances be given to one executive under Clause 31?
+  input: ""
+  output: Yes, as long as they stay within the per-executive limit and annual ceiling.
+
+- instruction: Who can approve a ₹75,000 advance for contingent expenditure?
+  input: ""
+  output: Only CGM/HOP/HOD of E8 grade or above, as GMs are limited to ₹25,000.
+
+- instruction: What is considered contingent expenditure in Clause 31?
+  input: ""
+  output: Temporary or operational expenses that arise unexpectedly and require advance payment.
+
+- instruction: Can a Director approve a ₹50L contingent advance?
+  input: ""
+  output: Yes, Directors have Full Powers without monetary limits for advances.
+
+- instruction: Why can't an E6-grade HOD approve ₹30,000 advances?
+  input: ""
+  output: HODs require minimum E7 rank for ₹25K advances and E8 for ₹1L advances.
+
+- instruction: What documentation is needed for a ₹80,000 advance?
+  input: ""
+  output: Requires CGM/HOD (≥E8) approval with purpose justification, counted toward the ₹10L annual limit.
+
+- instruction: How are recurring advances tracked against annual limits?
+  input: ""
+  output: All advances to an executive are cumulatively tracked per approver's annual ceiling.
+
+- instruction: Are travel advances considered contingent expenditure?
+  input: ""
+  output: Only if categorized as such; separate travel advance rules may exist.
+
+- instruction: Can 'executive' include contract staff for advance purposes?
+  input: ""
+  output: The clause doesn't specify; likely restricted to permanent employees.
+
+- instruction: What if an executive needs ₹1.2L for an emergency purchase?
+  input: ""
+  output: Requires Director approval, as CGMs/HODs cannot exceed ₹1L per advance.
+
+- instruction: Can two HODs combine their limits for one executive's needs?
+  input: ""
+  output: No, annual limits are per-executive and non-transferable between approvers.
+
+- instruction: What proof is required for advance settlement?
+  input: ""
+  output: Policy doesn't specify but typically requires expense receipts within a timeframe.
+
+- instruction: Are unused advance amounts automatically deducted from salary?
+  input: ""
+  output: The clause doesn't state; would follow company's financial recovery policies.
+
+- instruction: Do advance limits reset if an executive changes departments?
+  input: ""
+  output: Unspecified - likely follows the executive (not department) for annual tracking.
+
+- instruction: Can Q4 advances exceed 25% of annual limit?
+  input: ""
+  output: No pro-rata restrictions, but must not exceed total annual ceiling.
+
+- instruction: How does this compare to petty cash delegations?
+  input: ""
+  output: Petty cash is for small immediate needs; these are larger pre-approved advances.
+
+- instruction: Why do GMs have lower limits than CGMs?
+  input: ""
+  output: Reflects hierarchy - CGMs oversee larger operational budgets and teams.
+
+- instruction: What if an advance is spent on unauthorized items?
+  input: ""
+  output: Policy doesn't specify penalties but would require repayment and disciplinary action.
+
+- instruction: Are foreign currency advances covered?
+  input: ""
+  output: Only if converted to INR equivalent within delegated limits.
+
+- instruction: How are advance limit violations detected?
+  input: ""
+  output: Through Finance audits tracking cumulative advances per executive.
+
+- instruction: Can an executive receive advances from multiple approvers?
+  input: ""
+  output: No, the annual ceiling applies collectively across all approvals.
+
+
 
 
 
