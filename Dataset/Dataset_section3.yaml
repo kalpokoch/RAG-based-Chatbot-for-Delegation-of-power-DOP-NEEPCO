@@ -1752,15 +1752,19 @@
 - instruction: Who is authorized to approve actions under engagement for statutory certifications?
   input: ""
   output: As per Clause 26(i) of the NEEPCO Delegation of Powers.
+  
 - instruction: What is the financial ceiling under engagement for statutory certifications (companies act, sebi, rbi, etc.)?
   input: ""
   output: As stated under Clause 26(i) — refer to specific annual and per-case limits.
+  
 - instruction: Can an officer below E-8 grade approve tasks under 26(i)?
   input: ""
   output: No, only those authorized in the clause, such as D(F), ED(F), or HOD (≥E8), may approve.
+  
 - instruction: Does Clause 26(i) allow full powers for engagements?
   input: ""
   output: Yes, where stated 'Full Powers', officers may act within defined financial ceilings.
+  
 - instruction: What types of professionals are engaged under Clause 26(i)?
   input: ""
   output: Typically includes Chartered Accountants, Cost Accountants, Company Secretaries, or Legal Consultants as per the clause.
