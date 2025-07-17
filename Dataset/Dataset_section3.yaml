@@ -2425,6 +2425,730 @@
   input: ""
   output: No, the annual ceiling applies collectively across all approvals.
 
+## Sl no 32
+- instruction: What is the sanctioning limit of the Director for recoupable imprest?
+  input: ""
+  output: Full Powers
+
+- instruction: Who can approve imprest amounts beyond ₹20,000?
+  input: ""
+  output: Only the Director has authority beyond ₹20,000 under Full Powers.
+
+- instruction: Can the Director approve any amount for permanent imprest?
+  input: ""
+  output: Yes, the Director has Full Powers without a ceiling.
+
+- instruction: What level of approval authority does the Director hold for imprest cases?
+  input: ""
+  output: Full Powers
+
+- instruction: Is there any cap on imprest sanctions by the Director?
+  input: ""
+  output: No, the Director has unlimited approval authority.
+
+- instruction: What is the imprest sanctioning limit for a HOP?
+  input: ""
+  output: Up to ₹20,000 per case
+
+- instruction: Can an E7 officer approve ₹20,000 imprest?
+  input: ""
+  output: No, only HOP/HOD of E8 or higher can approve up to ₹20,000.
+
+- instruction: What rank must a HOD hold to sanction imprest under this clause?
+  input: ""
+  output: Not below E8
+
+- instruction: Who can approve petty cash under ₹20,000 for routine office use?
+  input: ""
+  output: HOP/HOD of E8 or higher as per delegation.
+
+- instruction: Is E8 the minimum required rank to sanction permanent imprest?
+  input: ""
+  output: Yes, only E8 and above are eligible.
+
+- instruction: What is the difference in sanction authority between Director and HOD?
+  input: ""
+  output: Director has Full Powers, while HOD (≥E8) can approve up to ₹20,000 only.
+
+- instruction: Can both Director and HOD approve ₹20,000 imprest?
+  input: ""
+  output: Yes, both can approve ₹20,000, but only the Director can exceed it.
+
+- instruction: Is the ₹20,000 imprest limit per month or per case?
+  input: ""
+  output: The limit applies per case as specified.
+
+- instruction: What does 'permanent recoupable imprest' mean in this context?
+  input: ""
+  output: A recurring petty cash advance for ongoing use, reimbursed regularly.
+
+- instruction: Can imprest be used for emergency purchases?
+   input: ""
+  output: Yes, if within limits and approved by eligible officers.
+
+- instruction: Does this clause cover temporary imprest too?
+  input: ""
+  output: No, it specifically applies to permanent recoupable imprest.
+
+- instruction: What is the maximum imprest amount a HOD can sanction?
+  input: ""
+  output: HODs/HOPs at E8 rank or above can sanction up to ₹20,000 per permanent recoupable imprest.
+
+- instruction: Can a Director approve a ₹50,000 standing imprest?
+  input: ""
+  output: Yes, Directors have Full Powers to approve any amount for permanent recoupable imprest.
+
+- instruction: Why can't an E7-grade HOP sanction ₹15,000 imprest?
+  input: ""
+  output: The policy strictly requires E8 rank or higher for imprest approvals, regardless of amount.
+
+- instruction: Does an acting HOD (E7) gain temporary imprest approval power?
+  input: ""
+  output: No, substantive E8 rank is mandatory even for acting positions.
+
+- instruction: What documentation is required for ₹18,000 imprest sanction?
+  input: ""
+  output: The clause doesn't specify but typically requires purpose justification and repayment plan.
+
+- instruction: How is 'permanent recoupable imprest' different from regular advances?
+  input: ""
+  output: Permanent imprest is standing fund for recurring needs, while advances are for specific one-time expenses.
+
+- instruction: Are imprest funds allowed for personal emergency use?
+  input: ""
+  output: No, only for official business expenses as implied by 'recoupable' nature.
+
+- instruction: Can the same employee hold multiple imprest accounts?
+  input: ""
+  output: The clause doesn't prohibit but cumulative amounts must stay within approver's limits.
+
+- instruction: What if a department needs ₹25,000 as standing imprest?
+  input: ""
+  output: Requires Director approval as HODs/HOPs cannot exceed ₹20,000 per imprest.
+
+- instruction: Can two HODs combine their limits for one ₹40,000 imprest?
+  input: ""
+  output: No, the ₹20,000 limit is per-imprest and non-cumulative across approvers.
+
+- instruction: What proof is required for imprest recoupment?
+  input: ""
+  output: Policy doesn't specify but standard practice requires expense vouchers with receipts.
+
+- instruction: Are monthly imprest reconciliations mandatory?
+  input: ""
+  output: The clause doesn't state but financial controls likely require periodic reviews.
+
+- instruction: Do imprest limits adjust for inflation annually?
+  input: ""
+  output: No automatic adjustment - limits remain fixed unless policy is revised.
+
+- instruction: Can unused imprest be carried forward indefinitely?
+  input: ""
+  output: The clause doesn't specify expiry but likely follows fiscal year cycles.
+
+- instruction: What if imprest money is lost/stolen?
+  input: ""
+  output: Policy doesn't specify but would require police report and disciplinary action.
+
+- instruction: Are digital/wallet-based imprests permitted?
+  input: ""
+  output: The clause doesn't address modern payment methods.
+
+- instruction: Can Finance revoke an approved imprest?
+  input: ""
+  output: Yes, if misuse is detected or policy violations occur.
+
+## Sl no 33
+- instruction: Who has full powers for sanctioning advertisement expenditure through Corporate Communications?
+  input: ""
+  output: D(P) holds full powers for such sanctions.
+
+- instruction: What is the per-insertion limit for HODs under Clause 33?
+  input: ""
+  output: HOD(CA/CC) not below E-8 can sanction up to ₹3,00,000 per insertion, with an annual ceiling of ₹20 lakh.
+
+- instruction: Can a HOP approve publicity expenses of ₹90,000 per insertion?
+  input: ""
+  output: Yes, a HOP not below E-8 can approve up to ₹1,00,000 per insertion with an annual cap of ₹10 lakh.
+
+- instruction: What is the annual ceiling for HODs for non-tender advertisement expenses?
+  input: ""
+  output: ₹20 lakh annually.
+
+- instruction: Is there a standard format for advertisement text under Clause 33?
+  input: ""
+  output: Yes, the advertisement text should follow the standard format or be finalized in consultation with the CC wing.
+
+- instruction: Can an E7-grade officer approve a ₹3 lakh sponsorship under Corporate Communications?
+  input: ""
+  output: No, only HODs of grade E-8 and above can approve up to ₹3 lakh per insertion.
+
+- instruction: Can a HOP sanction ₹12 lakh worth of advertisements annually?
+  input: ""
+  output: No, HOPs can only approve up to ₹10 lakh per annum.
+
+- instruction: Are tender-related advertisements covered under Clause 33?
+  input: ""
+  output: No, this clause excludes tender and recruitment advertisements.
+
+- instruction: What approvals are needed for event sponsorship under this clause?
+  input: ""
+  output: Approvals must come from D(P), HOD(CA/CC) ≥E-8, or HOP ≥E-8 depending on the financial limits.
+
+- instruction: What happens if the standard format for advertisements is not available?
+  input: ""
+  output: The content must be finalized in consultation with the Corporate Communications (CC) wing.
+
+- instruction: Can D(P) sanction more than ₹20 lakh for sponsorships in a year?
+  input: ""
+  output: Yes, D(P) has full powers with no specified financial ceiling.
+
+- instruction: What is the limit for a single insertion under HOP authority?
+  input: ""
+  output: ₹1,00,000 per insertion with an annual ceiling of ₹10 lakh.
+
+- instruction: Who are the officers authorized to sanction expenditures under Clause 33?
+  input: ""
+  output: D(P), HOD(CA/CC) not below E-8, and HOP not below E-8.
+
+- instruction: What is the purpose of Clause 33 in NEEPCO DOP?
+  input: ""
+  output: It allows sanction of expenses for publicity, advertisements, and sponsorships not related to tenders or recruitment, handled through Corporate Communications.
+
+- instruction: Can an E7-grade officer approve a ₹3 lakh sponsorship under Corporate Communications?
+  input: ""
+  output: No, only HODs of grade E-8 and above can approve up to ₹3 lakh per insertion.
+
+- instruction: Can a HOP sanction ₹12 lakh worth of advertisements annually?
+  input: ""
+  output: No, HOPs can only approve up to ₹10 lakh per annum.
+
+- instruction: Are tender-related advertisements covered under Clause 33?
+  input: ""
+  output: No, this clause excludes tender and recruitment advertisements.
+
+- instruction: What is the purpose of Clause 33 in NEEPCO DOP?
+  input: ""
+  output: It allows sanction of expenses for publicity, advertisements, and sponsorships not related to tenders or recruitment, handled through Corporate Communications.
+
+- instruction: Can D(P) sanction more than ₹20 lakh for sponsorships in a year?
+  input: ""
+  output: Yes, D(P) has full powers with no specified financial ceiling.
+
+- instruction: Who are the officers authorized to sanction expenditures under Clause 33?
+  input: ""
+  output: D(P), HOD(CA/CC) not below E-8, and HOP not below E-8.
+
+## Sl no 34
+- instruction: Who is authorized to approve uniform supply for entitled employees?
+  input: ""
+  output: HOD (Security/CA) and HOP not below the grade of E-8
+
+- instruction: What is the delegation power for supply of liveries to entitled staff?
+  input: ""
+  output: Full Powers are vested in HOD (Security/CA) and HOP not below E-8
+
+- instruction: Who can sanction badge supply for eligible employees?
+  input: ""
+  output: HOD (Security/CA) and HOP of at least E-8 rank
+
+- instruction: What is the minimum rank required to approve uniform supply for entitled employees?
+  input: ""
+  output: The official must be HOD (Security/CA) or HOP not below the rank of E-8
+
+- instruction: Can a Deputy Manager approve supply of liveries to entitled personnel?
+  input: ""
+  output: No, only HOD (Security/CA) or HOP not below E-8 can exercise this power
+
+- instruction: Which departments are authorized to approve liveries for entitled employees?
+  input: ""
+  output: Security and CA departments, by HODs or HOPs at E-8 level and above
+
+- instruction: Are there any financial limits for sanctioning uniforms for entitled staff?
+  input: ""
+  output: No, Full Powers are delegated with no specific monetary ceiling
+
+- instruction: What does Clause 34(a) say about uniform approvals for regular staff?
+  input: ""
+  output: It allows Full Powers to HOD (Security/CA) and HOP (≥E-8) for approving supply
+
+- instruction: Who has the authority for approving badges for eligible NEEPCO employees?
+  input: ""
+  output: HOD (Security/CA) and HOP with minimum rank of E-8
+
+- instruction: Who can approve uniform supply for contract workers?
+  input: ""
+  output: The Director has Full Powers for sanctioning uniform, badge, and liveries for contract employees
+
+- instruction: What is the delegation of power for liveries of contractual employees?
+  input: ""
+  output: Only the Director holds Full Powers under Clause 34(b)
+
+- instruction: Can an HOD approve uniform for contract labor?
+  input: ""
+  output: No, only the Director is authorized to sanction such expenditures
+
+- instruction: Who holds authority to supply badges to contract staff?
+  input: ""
+  output: Director has Full Powers for such approvals
+
+- instruction: What rank is needed to approve liveries for contractual employees?
+  input: ""
+  output: Director level only, as per Clause 34(b)
+
+- instruction: Can a GM approve uniform supply for outsourced employees?
+  input: ""
+  output: No, this authority lies solely with the Director
+
+- instruction: Is there a financial limit on uniform supply for contract workers?
+  input: ""
+  output: No, the Director has Full Powers with no specified monetary ceiling
+
+- instruction: What does Clause 34(b) specify regarding contract employees?
+  input: ""
+  output: Only Directors are empowered to sanction uniform, badge, and liveries for contractual staff
+
+- instruction: Who approves the supply of uniforms for casual or temporary workers?
+  input: ""
+  output: Director as per Clause 34(b) with Full Powers
+
+- instruction: Who is authorized to approve uniform supply for entitled employees?
+  input: ""
+  output: HOD (Security/CA) and HOP not below the grade of E-8
+  
+- instruction: What is the delegation power for supply of liveries to entitled staff?
+  input: ""
+  output: Full Powers are vested in HOD (Security/CA) and HOP not below E-8
+
+- instruction: Who can sanction badge supply for eligible employees?
+  input: ""
+  output: HOD (Security/CA) and HOP of at least E-8 rank
+
+- instruction: What is the minimum rank required to approve uniform supply for entitled employees?
+  input: ""
+  output: The official must be HOD (Security/CA) or HOP not below the rank of E-8
+
+- instruction: Can a Deputy Manager approve supply of liveries to entitled personnel?
+  input: ""
+  output: No, only HOD (Security/CA) or HOP not below E-8 can exercise this power
+
+- instruction: Which departments are authorized to approve liveries for entitled employees?
+  input: ""
+  output: Security and CA departments, by HODs or HOPs at E-8 level and above
+
+- instruction: Are there any financial limits for sanctioning uniforms for entitled staff?
+  input: ""
+  output: No, Full Powers are delegated with no specific monetary ceiling
+
+- instruction: What does Clause 34(a) say about uniform approvals for regular staff?
+  input: ""
+  output: It allows Full Powers to HOD (Security/CA) and HOP (≥E-8) for approving supply
+
+- instruction: Who has the authority for approving badges for eligible NEEPCO employees?
+  input: ""
+  output: HOD (Security/CA) and HOP with minimum rank of E-8
+
+- instruction: Who can approve uniform supply for contract workers?
+  input: ""
+  output: The Director has Full Powers for sanctioning uniform, badge, and liveries for contract employees
+
+- instruction: What is the delegation of power for liveries of contractual employees?
+  input: ""
+  output: Only the Director holds Full Powers under Clause 34(b)
+
+- instruction: Can an HOD approve uniform for contract labor?
+  input: ""
+  output: No, only the Director is authorized to sanction such expenditures
+
+- instruction: Who holds authority to supply badges to contract staff?
+  input: ""
+  output: Director has Full Powers for such approvals
+
+- instruction: What rank is needed to approve liveries for contractual employees?
+  input: ""
+  output: Director level only, as per Clause 34(b)
+
+- instruction: Can a GM approve uniform supply for outsourced employees?
+  input: ""
+  output: No, this authority lies solely with the Director
+
+- instruction: Is there a financial limit on uniform supply for contract workers?
+  input: ""
+  output: No, the Director has Full Powers with no specified monetary ceiling
+
+- instruction: What does Clause 34(b) specify regarding contract employees?
+  input: ""
+  output: Only Directors are empowered to sanction uniform, badge, and liveries for contractual staff
+
+- instruction: Who approves the supply of uniforms for casual or temporary workers?
+  input: ""
+  output: Director as per Clause 34(b) with Full Powers
+
+## Sl no 35
+- instruction: Who has full powers to sanction PR-related design production?
+  input: ""
+  output: Director (P) has full powers to approve PR-related design and production expenses.
+
+- instruction: What is the per occasion limit for a HOD (CC) on PR design expenses?
+  input: ""
+  output: HOD (CC) not below E-8 can sanction up to ₹5,00,000 per occasion with an annual ceiling of ₹25 lakh.
+
+- instruction: What is the limit for a HOP to approve PR design expenses?
+  input: ""
+  output: HOP not below E-8 can approve up to ₹50,000 per occasion, subject to an annual ceiling of ₹5 lakh.
+
+- instruction: Who is eligible to empanel PR-related agencies?
+  input: ""
+  output: Director (P), HOD (CC) ≥E8, and HOP ≥E8 can empanel agencies as per their financial limits.
+
+- instruction: Can a HOP approve a documentary film shoot for PR?
+  input: ""
+  output: Yes, if the cost does not exceed ₹50,000 per occasion and is within the annual ceiling of ₹5 lakh.
+
+- instruction: What is the role of Director (P) in PR design approval?
+  input: ""
+  output: Director (P) holds Full Powers to sanction expenditure on PR-related design and agency empanelment.
+
+- instruction: Are PR digital printing activities covered under Clause 35(a)?
+  input: ""
+  output: Yes, digital printers and related activities for PR are covered, including empanelment.
+
+- instruction: Who approves expenses for photographers in PR activities?
+  input: ""
+  output: HOD (CC) or HOP ≥E8 can approve based on their limits; Director (P) has full powers.
+
+- instruction: What is the delegation for CC-related design production?
+  input: ""
+  output: Director (P) has full powers; HOD (CC) ≥E8 can sanction up to ₹5,00,000 per occasion with an annual cap of ₹25 lakh.
+
+- instruction: Can a HOD (CC) approve multiple CC designs in a year?
+  input: ""
+  output: Yes, as long as each is within ₹5L and total annual spending doesn't exceed ₹25L.
+
+- instruction: Is PR empanelment allowed under Clause 35(b)?
+  input: ""
+  output: No, empanelment is only mentioned under Clause 35(a), not 35(b).
+
+- instruction: Who holds powers for CC-related promotional expenses?
+  input: ""
+  output: Director (P) with full powers; HOD (CC) ≥E8 within specified limits.
+
+- instruction: What is the upper financial limit for HOD (CC) in Clause 35(b)?
+  input: ""
+  output: ₹5,00,000 per occasion and ₹25,00,000 per annum.
+
+- instruction: Does HOP have any role in CC design approvals?
+  input: ""
+  output: No, Clause 35(b) only authorizes Director (P) and HOD (CC).
+
+- instruction: Can Director (P) bypass the annual ceiling for CC expenses?
+  input: ""
+  output: Yes, Director (P) has full powers without annual or per occasion financial ceilings.
+
+- instruction: Is CC material design treated differently from PR?
+  input: ""
+  output: Yes, the sub-clauses separate PR and CC designs with different authority structures.
+
+- instruction: Who approves NEEPCO’s participation in exhibitions?
+  input: ""
+  output: Director (P) and HOD (CC) ≥E8 can approve up to ₹5L per occasion.
+
+- instruction: What is the exhibition expenditure limit for HOD (CC)?
+  input: ""
+  output: Up to ₹5,00,000 per occasion as per Clause 35(c).
+
+- instruction: Does HOP have powers for exhibition spending?
+  input: ""
+  output: No, only Director (P) and HOD (CC) ≥E8 are authorized.
+
+- instruction: Are exhibition-related expenses governed separately?
+  input: ""
+  output: Yes, they fall under Clause 35(c) with distinct authority and limits.
+
+- instruction: Can exhibitions be funded under PR or CC heads?
+  input: ""
+  output: No, Clause 35(c) governs exhibitions separately.
+
+- instruction: What is the role of HOD (CC) in exhibitions?
+  input: ""
+  output: HOD (CC) not below E-8 may approve up to ₹5L per occasion.
+
+- instruction: Can a Deputy Manager approve exhibition participation?
+  input: ""
+  output: No, only HOD (CC) ≥E8 and Director (P) are authorized.
+
+- instruction: Does Clause 35(c) impose any annual ceiling for HOD?
+  input: ""
+  output: No specific annual ceiling is mentioned under Clause 35(c).
+
+- instruction: What is the highest authority for media-related project expenses?
+  input: ""
+  output: Director has Full Powers for all such expenditures.
+
+- instruction: How much can an ED or HOD(CC) sanction for video projects?
+  input: ""
+  output: They can sanction up to ₹20,00,000 per project.
+
+- instruction: Who can approve drone photography for project events?
+  input: ""
+  output: HOP or HOD(HR) ≥E8 can approve up to ₹10,00,000.
+
+- instruction: Can a HOP approve videography of internal functions?
+  input: ""
+  output: Yes, if the expense does not exceed ₹10,00,000.
+
+- instruction: What is the limit for printing project photos under Clause 35(d)?
+  input: ""
+  output: |
+     Limits depend on the official: Director has Full Powers, ED/HOD(CC) ≥E8 can sanction up to ₹20L, and HOP/HOD(HR) ≥E8 up to ₹10L.
+
+- instruction: Who authorizes expenditure on TV/radio coverage tracking?
+  input: ""
+  output: HOD(HR)/HOP ≥E8 up to ₹10L, HOD(CC)/ED ≥E8 up to ₹20L, Director has full powers.
+
+- instruction: Are CD/DVD creations for projects covered under Clause 35(d)?
+  input: ""
+  output: Yes, CD/DVD creation for projects/functions is covered with specified limits.
+
+- instruction: Is framing included in multimedia expense sanctioning?
+  input: ""
+  output: Yes, project expenses including framing are covered under Clause 35(d).
+
+- instruction: What is the financial limit for HOD(CC) in project documentation?
+  input: ""
+  output: ₹20 lakh per project
+
+- instruction: Does framing of photographs fall under 35(d)?
+  input: ""
+  output: Yes, expenses for framing are explicitly covered.
+
+- instruction: What if a HOP sanctions ₹12 lakh for drone coverage?
+  input: ""
+  output: It would violate the ₹10 lakh limit applicable to HOP/HOD(HR).
+
+- instruction: Who can approve PR designs above ₹5 lakh in a single instance?
+  input: ""
+  output: Only Director (Projects) has Full Powers to do so.
+
+- instruction: Can HOD(CC) approve PR design contracts without rate contracts?
+  input: ""
+  output: Yes, both with or without rate contracts are allowed.
+
+- instruction: Are PR promotions for national days covered under this subclause?
+  input: ""
+  output: Yes, provided they fall under PR production/design activities.
+
+- instruction: Who approves CC design if the cost is ₹6 lakh?
+  input: ""
+  output: Director (Projects), as HOD(CC) is capped at ₹5 lakh per occasion.
+
+- instruction: What if HOD(CC) spends ₹26L annually on CC design?
+  input: ""
+  output: That exceeds the ₹25 lakh annual ceiling and is not permitted.
+
+- instruction: Are both physical and virtual exhibitions covered under 35(c)?
+  input: ""
+  output: Yes, the clause includes all types of exhibition participation.
+
+- instruction: What is the spending cap for HOD(CC) on a single exhibition?
+  input: ""
+  output: ₹5 lakh per exhibition
+
+##Sl no 36
+- instruction: Who can approve tours to projects and operational areas?
+  input: ""
+  output: Controlling Officers (HOP / HOD) not below the rank of E-8 can approve tours to projects and other operational areas.
+
+- instruction: What is the extent of power granted for approving tours under Clause 36(i)?
+  input: ""
+  output: Full Powers are delegated to Controlling Officers (HOP/HOD) of at least E-8 rank.
+
+- instruction: Can an E7 level officer approve tour expenditure to operational areas?
+  input: ""
+  output: No, only officers of E-8 rank and above are authorized for such approvals.
+
+- instruction: Who is the approving authority for tours outside the North Eastern Region?
+  input: ""
+  output: The Director is the approving authority for all tours outside the North Eastern Region.
+
+- instruction: Are there any financial ceilings for sanctioning expenditure on project tours?
+  input: ""
+  output: No, Full Powers are granted for sanctioning expenditure related to tours.
+
+- instruction: What roles qualify as Controlling Officers under Clause 36(i)?
+  input: ""
+  output: |
+    HOP (Head of Project) and HOD (Head of Department) are considered Controlling Officers if they are not below the rank of E-8.
+
+- instruction: Does Clause 36(i) include sanctioning travel expenditure?
+  input: ""
+  output: Yes, the clause covers both approval of tours and the sanction of associated expenditure.
+
+- instruction: What kind of locations are included in Clause 36(i)?
+  input: ""
+  output: Projects, areas of operation, and other official locations are covered under this clause.
+
+- instruction: Who can sanction expenditure for approved press conferences?
+  input: ""
+  output: |
+    ED has Full Powers. HOP / HOD (CC/RA) not below the rank of E-8 can sanction up to ₹50,000 per occasion subject to an annual ceiling of ₹2,00,000.
+
+- instruction: What is the financial limit for HOD(CC/RA) to sanction press meet expenses?
+  input: ""
+  output: HOD (CC/RA) can approve up to ₹50,000 per occasion with a total annual ceiling of ₹2,00,000.
+
+- instruction: Can a press conference expense of ₹75,000 be approved by a HOP?
+  input: ""
+  output: No, the maximum limit per occasion for HOP/HOD (CC/RA) is ₹50,000.
+
+- instruction: Does ED have any financial ceiling for press meet approvals?
+  input: ""
+  output: No, the Executive Director (ED) holds Full Powers without a specified financial ceiling for approved press meets.
+
+- instruction: Can HOD(CC) approve three press conferences of ₹50,000 each in a year?
+  input: ""
+  output: No, because the total would exceed the annual ceiling of ₹2,00,000.
+
+- instruction: What rank must an officer hold to approve press conference expenditure under Clause 36(ii)?
+  input: ""
+  output: The officer must be at least of E-8 rank and hold the position of HOP or HOD (CC/RA).
+
+- instruction: Are there different limits for ED and HOD in approving press meet expenses?
+  input: ""
+  output: Yes, ED has Full Powers while HOD (CC/RA) is limited to ₹50,000 per occasion and ₹2,00,000 per annum.
+
+- instruction: Does Clause 36(ii) cover expenditure on refreshments during press conferences?
+  input: ""
+  output: Yes, all expenditure related to approved press conferences or meets is covered, including hospitality.
+
+- instruction: Who can approve domestic tours within Northeast region?
+  input: ""
+  output: Controlling Officers (HOP/HOD) not below E-8 rank.
+
+- instruction: What authority is needed for staff tours to Delhi?
+  input: ""
+  output: Only the Director can approve tours outside the NE Region.
+
+- instruction: Can an E7-grade HOP sanction tour expenditures?
+  input: ""
+  output: No, the policy strictly requires E8 rank for tour approvals.
+
+- instruction: Are there financial limits for NE region tours?
+  input: ""
+  output: No, Controlling Officers have Full Powers without monetary ceilings.
+
+- instruction: How are 'areas of operation' defined for tour purposes?
+  input: ""
+  output: The clause does not specify but likely means company project sites/offices.
+
+- instruction: Can a HOD combine multiple tours into one approval?
+  input: ""
+  output: Yes, as long as all destinations are within the NE Region.
+
+- instruction: What about tours to border areas within NE states?
+  input: ""
+  output: Permitted if approved by Controlling Officers (HOP/HOD ≥E8).
+
+- instruction: Does this cover international tours from NE locations?
+  input: ""
+  output: No, all non-NE destinations require Director approval.
+
+- instruction: Are advance tour payments covered under this clause?
+  input: ""
+  output: Yes, as it includes 'sanction of expenditure' for approved tours.
+
+- instruction: Who monitors tour expenditure compliance?
+  input: ""
+  output: The clause does not specify but likely Finance department.
+
+- instruction: What is the maximum amount for a single press conference?
+  input: ""
+  output: EDs have unlimited authority; others are capped at ₹50,000 per event.
+
+- instruction: Can a HOD(CC) approve ₹75,000 for a media meet?
+  input: ""
+  output: No, HODs are limited to ₹50,000 per press conference.
+
+- instruction: Who can sanction expenditures for unplanned press briefings?
+  input: ""
+  output: Only EDs can approve non-routine press meets (Full Powers).
+
+- instruction: Does the ₹2L annual limit apply to ED approvals?
+  input: ""
+  output: No, EDs have Full Powers without annual ceilings.
+
+- instruction: Are digital press conferences covered?
+  input: ""
+  output: Yes, if classified as official press meets.
+
+- instruction: What costs are included in press conference expenditures?
+  input: ""
+  output: Venue, equipment, hospitality, and related expenses for approved events.
+
+- instruction: Can two HODs combine limits for one large press event?
+  input: ""
+  output: No, the ₹50K limit is per-occasion for each authorized officer.
+
+- instruction: Who approves international media interactions?
+  input: ""
+  output: EDs have Full Powers for all press conferences regardless of location.
+
+- instruction: Are press kits and handouts included in the limits?
+  input: ""
+  output: Yes, as part of press conference expenditures.
+
+- instruction: What defines an 'approved' press conference?
+  input: ""
+  output: The clause does not specify but likely means pre-authorized in company plans.
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+  
+
+  
+
+
+
+
+
+  
+
+  
+
+  
+
+  
+
+
+
+
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
 
 
 
