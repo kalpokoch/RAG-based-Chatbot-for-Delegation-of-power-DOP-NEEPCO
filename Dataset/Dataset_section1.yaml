@@ -1,4 +1,6 @@
-- instruction: What is the delegation of power for technical sanction to detailed estimates for approved projects?
+
+
+- instruction: Who can approve technical sanction for detailed estimates under approved projects?
   input: ""
   output: |
     D(T): Full power
@@ -7,128 +9,4130 @@
     GM: ₹10 crore
     DGM: ₹5 crore
     Sr. M: NIL
-    This is applicable to works, services, and supplies for approved projects.
 
-- instruction: What is the maximum limit up to which a CGM can approve estimates for non-approved projects?
+- instruction: Can CGM approve technical sanction of ₹14 crore for an approved project?
   input: ""
-  output: ₹15 crore
+  output: |
+    Yes. CGM can approve up to ₹15 crore for technical sanction under approved projects.
 
-- instruction: What is the maximum limit up to which a D(T) can approve estimates for approved projects?
+- instruction: Is GM authorized to give technical sanction for a ₹12 crore estimate?
   input: ""
-  output: Full power
+  output: |
+    No. GM can only approve up to ₹10 crore. Amounts above that must go to CGM or higher.
 
-- instruction: What is authority that the D(T) has over sanctioning for approved projects?
+- instruction: What is the technical sanction limit for a DGM?
   input: ""
-  output: Full power
+  output: |
+    DGM can approve up to ₹5 crore under approved projects.
 
-- instruction: How much sanctioning power does D(T) have for works and supplies under approved projects?
+- instruction: Does the technical sanction include works, services, and supplies?
   input: ""
-  output: Full power
+  output: |
+    Yes. Delegation applies to all three: works, services, and supplies.
 
-- instruction: What level of authority does D(T) hold for sanctioning approved project estimates?
+- instruction: Is finance concurrence necessary for technical sanction?
   input: ""
-  output: Full power
+  output: |
+    Yes. Finance concurrence is mandatory.
 
-- instruction: What power does D(T) have in sanctioning services and supplies for approved projects?
+- instruction: What qualifies a project for technical sanction?
   input: ""
-  output: Full power
+  output: |
+    The estimate must be part of a DPR, cost estimate, or approved budget/plan.
 
-- instruction: What is the maximum limit up to which a D(T) can approve estimates for non-approved projects?
+- instruction: What is the technical sanction limit for ED?
   input: ""
-  output: Full power
+  output: |
+    ED has full power to grant technical sanction under approved projects.
 
-- instruction: What is authority that D(T) has for sanctioning estimates in non-approved projects?
+- instruction: Can Sr. Manager approve technical sanction?
   input: ""
-  output: Full power
+  output: |
+    No. Sr. M has NIL delegation.
 
-- instruction: How much sanctioning power does D(T) have for works and supplies under non-approved projects?
+- instruction: Who can approve if estimate is ₹18 crore?
   input: ""
-  output: Full power
+  output: |
+    ED or D(T) must approve as they have full powers.
 
-- instruction: What level of authority does D(T) hold for sanctioning non-approved project estimates?
+- instruction: What happens if cost exceeds DPR by 15%?
   input: ""
-  output: Full power
+  output: |
+    A quarterly report must be sent to D(T) if deviation >10% or ₹5 crore.
 
-- instruction: What power does D(T) have in sanctioning services and supplies for non-approved projects?
+- instruction: Can a 4-year service contract be technically sanctioned?
   input: ""
-  output: Full power
+  output: |
+    No. Max contract period is 3 years; exceptional extension: 6 months or 50%.
 
-- instruction: What is the maximum limit up to which a D(T) can approve estimates in O&M plants and offices excluding construction projects?
+- instruction: Who prepares the technical specification and BoQ?
   input: ""
-  output: Full power
+  output: |
+    The Design Wing or a team appointed by competent authority.
 
-- instruction: What is the authority that D(T) has for sanctioning estimates within approved budget in O&M offices for non-construction projects?
+- instruction: What is the meaning of "full power" in this context?
   input: ""
-  output: Full power
+  output: |
+    Full power means unrestricted delegation to approve any amount.
 
-- instruction: How much sanctioning power does D(T) have for works and supplies within budget in non-construction offices?
+- instruction: Can technical sanction be given without budget approval?
   input: ""
-  output: Full power
+  output: |
+    No. Estimate must align with approved DPR or budget.
 
-- instruction: What level of authority does D(T) hold for sanctioning estimates in O&M plants for non-construction approved budgets?
+- instruction: Is extension beyond 3 years allowed for service contracts?
   input: ""
-  output: Full power
+  output: |
+    Yes, in exceptional cases: up to 6 months or 50% of duration, whichever is less.
 
-- instruction: What power does D(T) have in sanctioning services and supplies within budget for non-construction offices?
+- instruction: Is D(T) allowed to approve ₹100 crore estimate?
   input: ""
-  output: Full power
+  output: |
+    Yes. D(T) has full power.
 
-- instruction: What is the maximum limit up to which a ED can approve estimates for approved projects?
+- instruction: What must be ensured before exercising delegation?
   input: ""
-  output: Full power
+  output: |
+    Estimate must align with approved DPR/cost/budget, have finance concurrence, and follow codal norms.
 
-- instruction: What is authority that the ED has over sanctioning for approved projects?
+- instruction: Can GM approve ₹10 crore estimate for services?
   input: ""
-  output: Full power
+  output: |
+    Yes. GM is authorized up to ₹10 crore including for services.
 
-- instruction: How much sanctioning power does ED have for works and supplies under approved projects?
+- instruction: Is there a reporting requirement for cost deviations?
   input: ""
-  output: Full power
+  output: |
+    Yes. Quarterly report to D(T) is needed if deviation >10% or ₹5 crore from DPR.
 
-- instruction: What level of authority does ED hold for sanctioning approved project estimates?
-  input: ""
-  output: Full power
 
-- instruction: What power does ED have in sanctioning services and supplies for approved projects?
-  input: ""
-  output: Full power
 
-- instruction: What is the maximum limit up to which a ED can approve estimates for non-approved projects?
-  input: ""
-  output: Full power
 
-- instruction: What is authority that ED has for sanctioning estimates in non-approved projects?
+- instruction: Who can approve technical sanction for non-approved project estimates?
   input: ""
-  output: Full power
+  output: |
+    D(T): Full power
+    ED: Full power
+    CGM: ₹15 crore
+    GM: ₹10 crore
+    DGM: ₹5 crore
+    Sr. M: NIL
 
-- instruction: How much sanctioning power does ED have for works and supplies under non-approved projects?
+- instruction: Can GM approve a technical sanction for ₹9 crore in a non-DPR project?
   input: ""
-  output: Full power
+  output: |
+    Yes. GM can approve up to ₹10 crore under non-approved projects.
 
-- instruction: What level of authority does ED hold for sanctioning non-approved project estimates?
+- instruction: Is administrative approval mandatory for non-approved projects?
   input: ""
-  output: Full power
+  output: |
+    Yes. Administrative approval is required as per Clause 9.
 
-- instruction: What power does ED have in sanctioning services and supplies for non-approved projects?
+- instruction: Is finance concurrence required for non-approved project estimates?
   input: ""
-  output: Full power
+  output: |
+    Yes. Finance concurrence is mandatory.
 
-- instruction: What is the maximum limit up to which a ED can approve estimates in O&M plants and offices excluding construction projects?
+- instruction: What is the limit for CGM in Clause 1(b)?
   input: ""
-  output: Full power
+  output: |
+    CGM can approve up to ₹15 crore.
 
-- instruction: What is the authority that ED has for sanctioning estimates within approved budget in O&M offices for non-construction projects?
+- instruction: Can Sr. M approve estimates under Clause 1(b)?
   input: ""
-  output: Full power
+  output: |
+    No. Sr. M has NIL delegation.
 
-- instruction: How much sanctioning power does ED have for works and supplies within budget in non-construction offices?
+- instruction: Who has full power for Clause 1(b)?
   input: ""
-  output: Full power
+  output: |
+    D(T) and ED both have full power.
 
-- instruction: What level of authority does ED hold for sanctioning estimates in O&M plants for non-construction approved budgets?
+- instruction: Is it necessary for estimates to align with DPR in Clause 1(b)?
   input: ""
-  output: Full power
+  output: |
+    No. Clause 1(b) is for non-approved projects (outside DPR/budget).
 
-- instruction: What power does D(T) have in sanctioning services and supplies within budget for non-construction offices?
+- instruction: Does Clause 1(b) include services and supplies?
   input: ""
-  output: Full power
+  output: |
+    Yes. It applies to works, services, and supplies.
+
+- instruction: Can DGM approve a ₹6 crore estimate under Clause 1(b)?
+  input: ""
+  output: |
+    No. DGM is limited to ₹5 crore.
+
+- instruction: What approvals are needed before exercising powers under Clause 1(b)?
+  input: ""
+  output: |
+    Finance concurrence and administrative approval.
+
+- instruction: What is the purpose of Clause 1(b)?
+  input: ""
+  output: |
+    To enable sanction of estimates outside approved DPR/cost plans.
+
+- instruction: Can ED approve ₹12 crore estimate under Clause 1(b)?
+  input: ""
+  output: |
+    Yes. ED has full power.
+
+- instruction: Is Clause 1(b) applicable to capital projects only?
+  input: ""
+  output: |
+    No. It applies to any non-approved work requiring estimates.
+
+- instruction: Is Clause 9 relevant to Clause 1(b)?
+  input: ""
+  output: |
+    Yes. Clause 9 governs administrative approval requirements.
+
+- instruction: Can technical sanction be granted if finance concurrence is not available?
+  input: ""
+  output: |
+    No. Concurrence is mandatory.
+
+- instruction: Can GM use Clause 1(b) for supply procurement?
+  input: ""
+  output: |
+    Yes. Clause applies to works, services, and supplies.
+
+- instruction: What distinguishes Clause 1(a) from 1(b)?
+  input: ""
+  output: |
+    Clause 1(a) is for approved DPR/budget projects, Clause 1(b) is for others.
+
+- instruction: Who is the lowest-level officer with delegation in Clause 1(b)?
+  input: ""
+  output: |
+    DGM: ₹5 crore. Sr. M has NIL powers.
+
+- instruction: What happens if estimate exceeds GM’s limit in Clause 1(b)?
+  input: ""
+  output: |
+    Must be escalated to CGM or above.
+
+
+
+
+- instruction: What is the delegation for O&M-related technical sanctions?
+  input: ""
+  output: |
+    D(T): Full power
+    ED: Full power
+    CGM: ₹15 crore
+    GM: ₹10 crore
+    DGM: ₹5 crore
+    Sr. M: NIL
+
+- instruction: Can this clause be used for new construction?
+  input: ""
+  output: |
+    No. Clause 1(c) excludes construction-related works.
+
+- instruction: Can CGM approve ₹14 crore under O&M maintenance?
+  input: ""
+  output: |
+    Yes. CGM’s limit is ₹15 crore.
+
+- instruction: What kind of works are covered under Clause 1(c)?
+  input: ""
+  output: |
+    Repairs, maintenance, and services in O&M plants and offices.
+
+- instruction: Are finance concurrence and budget approval required?
+  input: ""
+  output: |
+    Yes. Both are mandatory for exercising delegation.
+
+- instruction: Who cannot sanction under Clause 1(c)?
+  input: ""
+  output: |
+    Sr. M: NIL powers.
+
+- instruction: Can GM approve ₹11 crore for O&M repair?
+  input: ""
+  output: |
+    No. GM is authorized only up to ₹10 crore.
+
+- instruction: What is the limit for DGM under Clause 1(c)?
+  input: ""
+  output: |
+    ₹5 crore.
+
+- instruction: Is Clause 1(c) applicable to supply items?
+  input: ""
+  output: |
+    Yes. It applies to works, services, and supplies in O&M scope.
+
+- instruction: Can ED approve any amount under Clause 1(c)?
+  input: ""
+  output: |
+    Yes. ED has full power.
+
+- instruction: Can this clause be applied to project execution estimates?
+  input: ""
+  output: |
+    No. It applies only to O&M and offices, not construction projects.
+
+- instruction: Is Clause 1(c) linked to DPR approval?
+  input: ""
+  output: |
+    No. It’s limited to items within approved O&M budgets.
+
+- instruction: Who prepares the O&M estimates for technical sanction?
+  input: ""
+  output: |
+    Designated maintenance wing or engineering team.
+
+- instruction: Can this clause be used for IT equipment maintenance?
+  input: ""
+  output: |
+    Yes, if it falls under O&M and within budgeted scope.
+
+- instruction: What is required before sanction under Clause 1(c)?
+  input: ""
+  output: |
+    Budget availability and finance concurrence.
+
+- instruction: Does this clause permit repeat order extensions?
+  input: ""
+  output: |
+    No. Repeat orders fall under a different clause.
+
+- instruction: Who is responsible for certifying O&M scope relevance?
+  input: ""
+  output: |
+    Head of maintenance or competent authority.
+
+- instruction: Can a ₹3 crore HVAC repair be approved by GM?
+  input: ""
+  output: |
+    Yes. GM’s limit is ₹10 crore.
+
+- instruction: Are there time restrictions on O&M contracts under this clause?
+  input: ""
+  output: |
+    Yes. Usual limits of 3 years apply unless specified otherwise.
+
+- instruction: What is the difference between Clause 1(a) and 1(c)?
+  input: ""
+  output: |
+    Clause 1(a) is for approved project execution; 1(c) is for O&M offices/plants only.
+
+
+
+
+- instruction: What is the delegation limit for D(T) for lowest tender via open bidding?
+  input: ""
+  output: |
+    ₹75 crore
+
+- instruction: Who can approve the lowest tender up to ₹25 crore through open tender?
+  input: ""
+  output: |
+    ED
+
+- instruction: Can GM approve a lowest tender worth ₹10 crore?
+  input: ""
+  output: |
+    No. GM is limited to ₹9 crore.
+
+- instruction: Can CGM approve a ₹12 crore bid under open tender?
+  input: ""
+  output: |
+    Yes. CGM has a limit of ₹12 crore.
+
+- instruction: Can Sr. M approve any open tender contracts?
+  input: ""
+  output: |
+    No. Sr. M has NIL power under this clause.
+
+- instruction: What must be done if the lowest bid exceeds the estimated cost by over 25%?
+  input: ""
+  output: |
+    The case must be referred to the next higher authority for approval.
+
+- instruction: What is required if fewer than three bids are received in an open tender?
+  input: ""
+  output: |
+    A note must be recorded and approval from the next higher authority is needed.
+
+- instruction: Who can approve a ₹6 crore open tender contract?
+  input: ""
+  output: |
+    DGM. DGM’s limit is ₹6 crore.
+
+- instruction: Can ED approve a ₹30 crore tender through open bidding?
+  input: ""
+  output: |
+    No. ED’s limit is ₹25 crore.
+
+- instruction: What happens when number of bids is less than three?
+  input: ""
+  output: |
+    The deviation must be recorded and approval escalated to higher authority.
+
+- instruction: Can D(T) approve ₹70 crore work through open tender?
+  input: ""
+  output: |
+    Yes. D(T)’s delegation limit is ₹75 crore.
+
+- instruction: What is required when bid is unusually high in open tender?
+  input: ""
+  output: |
+    If over 25% higher than estimate, get next higher authority’s approval.
+
+- instruction: Can GM approve ₹8.5 crore tender through open process?
+  input: ""
+  output: |
+    Yes. GM is authorized up to ₹9 crore.
+
+- instruction: Is it mandatory to record justification if less than 3 bids are received?
+  input: ""
+  output: |
+    Yes. It must be documented and further approved.
+
+- instruction: Who has the highest delegation power for open tender acceptance?
+  input: ""
+  output: |
+    Director (Technical) — ₹75 crore
+
+- instruction: Does open tender cover works, services, and supply?
+  input: ""
+  output: |
+    Yes. All categories apply.
+
+- instruction: What limits apply to CGM for lowest tender approval?
+  input: ""
+  output: |
+    ₹12 crore
+
+- instruction: Can DGM approve ₹7 crore tender?
+  input: ""
+  output: |
+    No. DGM is limited to ₹6 crore.
+
+- instruction: What type of approval is 2(a) related to?
+  input: ""
+  output: |
+    Acceptance of lowest bid in open tender process.
+
+- instruction: Are there exceptions to 3-bid rule?
+  input: ""
+  output: |
+    Yes. Approval from higher authority is needed.
+
+
+
+
+- instruction: What is the delegation for ED in limited tender?
+  input: ""
+  output: |
+    ₹5 crore
+
+- instruction: Can DGM approve ₹50 lakh work through limited tender?
+  input: ""
+  output: |
+    Yes. DGM can approve up to ₹60 lakh.
+
+- instruction: What is the upper limit for CGM under limited tender?
+  input: ""
+  output: |
+    ₹2.5 crore
+
+- instruction: When is limited tender applicable?
+  input: ""
+  output: |
+    In case of urgency or limited vendor availability.
+
+- instruction: Who can approve ₹1 crore limited tender?
+  input: ""
+  output: |
+    GM. GM's limit is ₹1 crore.
+
+- instruction: Can Sr. M approve ₹25 lakh limited tender?
+  input: ""
+  output: |
+    No. Sr. M has NIL power under this clause.
+
+- instruction: What must be documented before using limited tender?
+  input: ""
+  output: |
+    Justification for urgency or vendor limitation.
+
+- instruction: What is D(T)'s limit under limited tender?
+  input: ""
+  output: |
+    ₹25 crore
+
+- instruction: Can CGM approve ₹3 crore limited tender?
+  input: ""
+  output: |
+    No. CGM is limited to ₹2.5 crore.
+
+- instruction: Can GM approve ₹1.2 crore tender under limited process?
+  input: ""
+  output: |
+    No. GM’s limit is ₹1 crore.
+
+- instruction: Is limited tender allowed without justification?
+  input: ""
+  output: |
+    No. Proper reasoning must be recorded.
+
+- instruction: Can ED approve ₹4.5 crore limited tender?
+  input: ""
+  output: |
+    Yes. Limit is ₹5 crore.
+
+- instruction: Can DGM approve ₹75 lakh limited tender?
+  input: ""
+  output: |
+    No. DGM’s limit is ₹60 lakh.
+
+- instruction: What does Clause 2(b) authorize?
+  input: ""
+  output: |
+    Acceptance of tenders under limited bidding conditions.
+
+- instruction: Is finance concurrence required under 2(b)?
+  input: ""
+  output: |
+    Yes, as applicable to all procurement clauses.
+
+- instruction: What is the maximum value GM can approve in limited tender?
+  input: ""
+  output: |
+    ₹1 crore
+
+- instruction: When can Clause 2(b) be bypassed?
+  input: ""
+  output: |
+    Never. Justification and limit adherence are mandatory.
+
+- instruction: Can this clause be used for emergency procurement?
+  input: ""
+  output: |
+    Yes, if documented properly.
+
+- instruction: What is the minimum rank authorized under Clause 2(b)?
+  input: ""
+  output: |
+    DGM (₹60 lakh). Sr. M is not authorized.
+
+- instruction: Can D(T) approve ₹20 crore limited tender?
+  input: ""
+  output: |
+    Yes. D(T)’s delegation is ₹25 crore.
+
+
+
+
+- instruction: What is the delegation for awarding single tender to D(T)?
+  input: ""
+  output: |
+    ₹10 crore
+
+- instruction: What is the maximum ED can approve under single tender?
+  input: ""
+  output: |
+    ₹2 crore
+
+- instruction: Can GM approve ₹55 lakh work under nomination?
+  input: ""
+  output: |
+    No. GM's limit is ₹50 lakh
+
+- instruction: What is DGM's limit for single tender?
+  input: ""
+  output: |
+    ₹25 lakh
+
+- instruction: Can Sr. M approve ₹5 lakh nomination work?
+  input: ""
+  output: |
+    No. Sr. M has NIL delegation.
+
+- instruction: Is justification required for single tender work?
+  input: ""
+  output: |
+    Yes. Written justification and urgency proof is mandatory.
+
+- instruction: Is finance concurrence mandatory under this clause?
+  input: ""
+  output: |
+    Yes. Finance concurrence is required.
+
+- instruction: Is quarterly reporting needed for single tender awards?
+  input: ""
+  output: |
+    Yes. It must be reported every quarter.
+
+- instruction: Can CGM approve ₹1.5 crore single tender work?
+  input: ""
+  output: |
+    Yes. That is CGM’s limit.
+
+- instruction: Can ED approve ₹2.5 crore single tender contract?
+  input: ""
+  output: |
+    No. ED's limit is ₹2 crore.
+
+- instruction: Who can approve ₹8 crore nomination basis work?
+  input: ""
+  output: |
+    Only D(T) — delegation is ₹10 crore.
+
+- instruction: What is the lowest officer authorized under this clause?
+  input: ""
+  output: |
+    DGM — ₹25 lakh
+
+- instruction: When is nomination basis work allowed?
+  input: ""
+  output: |
+    In exceptional situations with valid documentation.
+
+- instruction: Are technical and financial approvals required?
+  input: ""
+  output: |
+    Yes. Both are mandatory.
+
+- instruction: Can GM approve ₹40 lakh work on single tender?
+  input: ""
+  output: |
+    Yes. Limit is ₹50 lakh.
+
+- instruction: Is concurrence needed before issuing a PO?
+  input: ""
+  output: |
+    Yes. Pre-approval from finance is required.
+
+- instruction: Can work be split to stay within limits?
+  input: ""
+  output: |
+    No. That is not permitted.
+
+- instruction: Is post-facto approval allowed?
+  input: ""
+  output: |
+    Only in rare emergency cases with strong justification.
+
+- instruction: Can a ₹1 crore work be awarded by CGM?
+  input: ""
+  output: |
+    Yes. CGM can approve up to ₹1.5 crore.
+
+- instruction: What level of audit scrutiny applies here?
+  input: ""
+  output: |
+    High — must be auditable with full justification.
+
+
+
+- instruction: What is the purpose of spot work orders?
+  input: ""
+  output: |
+    For short-term, urgent field works under extreme conditions.
+
+- instruction: What is the delegation limit of D(T) under spot work orders?
+  input: ""
+  output: |
+    ₹50 lakh
+
+- instruction: What is CGM’s yearly limit under this clause?
+  input: ""
+  output: |
+    ₹10 lakh/year
+
+- instruction: How much can GM approve per spot work order?
+  input: ""
+  output: |
+    ₹40,000 per order, up to ₹3 lakh per year
+
+- instruction: What is the per-order limit for DGM under this clause?
+  input: ""
+  output: |
+    ₹15,000 per order, ₹2 lakh/year
+
+- instruction: Can Sr. M issue spot work orders?
+  input: ""
+  output: |
+    No. Sr. M is not authorized.
+
+- instruction: Can deviations be allowed in such orders?
+  input: ""
+  output: |
+    Deviations must be approved by next higher authority.
+
+- instruction: Are spot orders meant for planned works?
+  input: ""
+  output: |
+    No. Only for unplanned, urgent requirements.
+
+- instruction: Is written justification needed for spot orders?
+  input: ""
+  output: |
+    Yes. Document the urgency and field condition.
+
+- instruction: Can GM approve ₹60,000 work under spot order?
+  input: ""
+  output: |
+    No. GM can only approve ₹40,000 per order.
+
+- instruction: Is this clause meant for long-term contracts?
+  input: ""
+  output: |
+    No. Spot orders are for short-duration requirements.
+
+- instruction: Can spot orders be used multiple times in a year?
+  input: ""
+  output: |
+    Yes, within the annual limit.
+
+- instruction: What type of works qualify under spot orders?
+  input: ""
+  output: |
+    Urgent, minor, field-level works and services.
+
+- instruction: Are spot orders auditable?
+  input: ""
+  output: |
+    Yes. All documentation must be maintained.
+
+- instruction: Is it necessary to mention site condition?
+  input: ""
+  output: |
+    Yes. It should justify urgency and need.
+
+- instruction: Who can approve ₹25,000 work as spot order?
+  input: ""
+  output: |
+    DGM. Limit is ₹15,000 per order.
+
+- instruction: Is finance concurrence required?
+  input: ""
+  output: |
+    Yes. For amounts above local discretionary limits.
+
+- instruction: Can D(T) approve ₹45 lakh spot order?
+  input: ""
+  output: |
+    Yes. D(T)'s limit is ₹50 lakh.
+
+- instruction: How is annual limit monitored?
+  input: ""
+  output: |
+    Each officer must maintain records and ensure compliance.
+
+- instruction: Can spot orders be extended later?
+  input: ""
+  output: |
+    No. They should not be extended; a new approval is needed.
+
+
+
+
+- instruction: What is the purchase delegation for D(T) via open tender?
+  input: ""
+  output: |
+    ₹25 crore
+
+- instruction: Who can approve ₹20 crore purchase through open tender?
+  input: ""
+  output: |
+    D(T) — authorized up to ₹25 crore
+
+- instruction: Can ED approve ₹12 crore material purchase under open tender?
+  input: ""
+  output: |
+    No. ED’s limit is ₹10 crore
+
+- instruction: What is CGM’s delegation under open tender for purchase?
+  input: ""
+  output: |
+    ₹1 crore
+
+- instruction: Can GM approve ₹60 lakh worth of equipment purchase?
+  input: ""
+  output: |
+    Yes. That’s GM’s upper limit under open tender
+
+- instruction: Is DGM authorized to purchase equipment worth ₹25 lakh through open tender?
+  input: ""
+  output: |
+    No. DGM is limited to ₹20 lakh
+
+- instruction: What is Sr. M’s maximum limit under open tender?
+  input: ""
+  output: |
+    ₹10 lakh
+
+- instruction: Can GM approve ₹70 lakh open tender purchase?
+  input: ""
+  output: |
+    No. GM can only approve up to ₹60 lakh
+
+- instruction: Who can approve open tender purchase beyond ₹1 crore?
+  input: ""
+  output: |
+    Only ED or D(T)
+
+- instruction: Does open tender require prior administrative approval?
+  input: ""
+  output: |
+    Yes. As per DOP guidelines
+
+- instruction: Is finance concurrence needed for open tender procurement?
+  input: ""
+  output: |
+    Yes. Concurrence must be taken before issuing PO
+
+- instruction: Can Sr. M approve ₹15 lakh purchase?
+  input: ""
+  output: |
+    No. Sr. M’s limit is ₹10 lakh
+
+- instruction: What happens if bid amount exceeds officer’s limit?
+  input: ""
+  output: |
+    Approval must be escalated to the next higher authority
+
+- instruction: Can purchase limits be split to remain within delegation?
+  input: ""
+  output: |
+    No. Splitting is not allowed under DOP
+
+- instruction: What documentation is needed with an open tender?
+  input: ""
+  output: |
+    Technical specs, BOQ, bid evaluation, finance concurrence, and approval notes
+
+- instruction: Can DGM approve ₹20 lakh material order?
+  input: ""
+  output: |
+    Yes. That is within DGM's open tender limit
+
+- instruction: What is the hierarchy of approval for open tender?
+  input: ""
+  output: |
+    Sr. M < DGM < GM < CGM < ED < D(T)
+
+- instruction: Can ED approve ₹9 crore open tender contract?
+  input: ""
+  output: |
+    Yes. That is within the ₹10 crore limit
+
+- instruction: Who is the minimum level officer with open tender powers?
+  input: ""
+  output: |
+    Sr. M — ₹10 lakh limit
+
+- instruction: Can CGM approve ₹1.1 crore purchase?
+  input: ""
+  output: |
+    No. CGM is limited to ₹1 crore
+
+
+
+- instruction: What is D(T)’s limit for limited tender purchases?
+  input: ""
+  output: |
+    ₹15 crore
+
+- instruction: Who can approve ₹10 crore material purchase via limited tender?
+  input: ""
+  output: |
+    D(T). ED’s limit is only ₹1.5 crore
+
+- instruction: Can CGM approve ₹80 lakh via limited tender?
+  input: ""
+  output: |
+    No. CGM’s limit is ₹75 lakh
+
+- instruction: What is GM’s limit for limited tender?
+  input: ""
+  output: |
+    ₹40 lakh
+
+- instruction: Can DGM approve ₹16 lakh purchase through limited tender?
+  input: ""
+  output: |
+    No. DGM's limit is ₹15 lakh
+
+- instruction: Is Sr. M authorized for limited tender purchases?
+  input: ""
+  output: |
+    No. Sr. M has NIL delegation under limited tender
+
+- instruction: What is ED's delegation limit for limited tender procurement?
+  input: ""
+  output: |
+    ₹1.5 crore
+
+- instruction: Can GM approve ₹35 lakh worth procurement under limited tender?
+  input: ""
+  output: |
+    Yes. GM’s delegation is ₹40 lakh
+
+- instruction: Is splitting tenders allowed to fit within limits?
+  input: ""
+  output: |
+    No. DOP strictly prohibits such practice
+
+- instruction: Who can approve ₹50 lakh limited tender procurement?
+  input: ""
+  output: |
+    Only CGM or higher authority
+
+- instruction: What is the documentation required for limited tenders?
+  input: ""
+  output: |
+    Justification note, limited vendor list, bid summary, concurrence
+
+- instruction: Can CGM approve ₹75 lakh order under limited tender?
+  input: ""
+  output: |
+    Yes. That’s CGM’s upper limit
+
+- instruction: Can ED approve ₹2 crore limited tender order?
+  input: ""
+  output: |
+    No. ED’s delegation is ₹1.5 crore
+
+- instruction: What type of cases allow limited tender?
+  input: ""
+  output: |
+    Urgency, restricted vendor availability, or limited scope requirements
+
+- instruction: What happens if fewer than 3 vendors respond?
+  input: ""
+  output: |
+    Remarks and justification required in the approval file
+
+- instruction: Can Sr. M approve ₹5 lakh limited tender?
+  input: ""
+  output: |
+    No. Sr. M is not delegated under this mode
+
+- instruction: Is finance concurrence required for limited tender?
+  input: ""
+  output: |
+    Yes. It must be attached before approval
+
+- instruction: What is DGM’s role under this clause?
+  input: ""
+  output: |
+    DGM can approve up to ₹15 lakh through limited tender
+
+- instruction: Who can approve ₹1.2 crore limited tender purchase?
+  input: ""
+  output: |
+    ED — limit is ₹1.5 crore
+
+- instruction: Can GM approve ₹45 lakh under limited tender?
+  input: ""
+  output: |
+    No. GM is restricted to ₹40 lakh
+
+
+
+- instruction: What is D(T)’s delegation for single tender purchases?
+  input: ""
+  output: |
+    ₹5 crore
+
+- instruction: Who can approve ₹75 lakh single tender purchase?
+  input: ""
+  output: |
+    ED — authorized up to ₹75 lakh
+
+- instruction: Can CGM approve ₹50 lakh purchase under single tender?
+  input: ""
+  output: |
+    No. CGM’s limit is ₹40 lakh
+
+- instruction: What is GM’s delegation for single tender?
+  input: ""
+  output: |
+    ₹30 lakh
+
+- instruction: Can DGM approve ₹9 lakh via single tender?
+  input: ""
+  output: |
+    Yes. DGM can approve up to ₹10 lakh
+
+- instruction: Is Sr. M authorized under single tender?
+  input: ""
+  output: |
+    No. Sr. M has NIL powers under this clause
+
+- instruction: What is the maximum CGM can approve through single tender?
+  input: ""
+  output: |
+    ₹40 lakh
+
+- instruction: Can ED approve ₹1 crore under single tender?
+  input: ""
+  output: |
+    No. ED’s limit is ₹75 lakh
+
+- instruction: What justifications are required for single tender use?
+  input: ""
+  output: |
+    Urgency, proprietary item, or absence of multiple sources — with concurrence
+
+- instruction: Is quarterly reporting required?
+  input: ""
+  output: |
+    Yes. All single tender cases must be reported quarterly
+
+- instruction: Can GM approve ₹35 lakh under single tender?
+  input: ""
+  output: |
+    No. GM's limit is ₹30 lakh
+
+- instruction: Who approves ₹5 crore single tender equipment?
+  input: ""
+  output: |
+    D(T). This is the highest delegation under this mode
+
+- instruction: Can DGM approve ₹11 lakh purchase?
+  input: ""
+  output: |
+    No. DGM is restricted to ₹10 lakh
+
+- instruction: What is the procedure before placing single tender order?
+  input: ""
+  output: |
+    Record justification, obtain concurrence, and route through approval chain
+
+- instruction: Can Sr. M approve any single tender purchase?
+  input: ""
+  output: |
+    No. Sr. M has NIL delegation
+
+- instruction: Who can approve ₹1 lakh purchase under this clause?
+  input: ""
+  output: |
+    DGM — limit is ₹10 lakh
+
+- instruction: What is required in case of proprietary item?
+  input: ""
+  output: |
+    PAC (Proprietary Article Certificate) with finance and technical vetting
+
+- instruction: Is splitting allowed to avoid delegation limits?
+  input: ""
+  output: |
+    No. DOP prohibits such practice
+
+- instruction: Can ED approve ₹70 lakh single tender?
+  input: ""
+  output: |
+    Yes. Within ₹75 lakh limit
+
+- instruction: What kind of audit scrutiny applies?
+  input: ""
+  output: |
+    High. Single tender must be fully documented and justified
+
+
+
+
+- instruction: What is the delegation of power for D(T) to approve material purchase via open tender?
+  input: ""
+  output: |
+    D(T): ₹25 crore
+
+- instruction: How much material purchase can ED approve via open tender?
+  input: ""
+  output: |
+    ₹10 crore
+
+- instruction: Can CGM approve ₹2 crore purchase via open tender?
+  input: ""
+  output: |
+    No. CGM’s limit is ₹1 crore
+
+- instruction: What is the maximum GM can approve under open tender mode?
+  input: ""
+  output: |
+    ₹60 lakh
+
+- instruction: Can DGM approve ₹25 lakh material purchase via open tender?
+  input: ""
+  output: |
+    No. DGM’s limit is ₹20 lakh
+
+- instruction: Who can approve ₹8 crore equipment purchase via open tender?
+  input: ""
+  output: |
+    ED or higher
+
+- instruction: Is Sr. Manager authorized to purchase materials via open tender?
+  input: ""
+  output: |
+    Yes. Limit is ₹10 lakh
+
+- instruction: Can CGM approve ₹75 lakh purchase via open tender?
+  input: ""
+  output: |
+    Yes. Limit is ₹1 crore
+
+- instruction: What is the lowest level officer eligible for open tender procurement?
+  input: ""
+  output: |
+    Sr. Manager (₹10 lakh limit)
+
+- instruction: Are open tender procedures subject to audit?
+  input: ""
+  output: |
+    Yes. All documentation must comply with procurement rules
+
+
+
+- instruction: Who can approve purchases through limited tender up to ₹15 crore?
+  input: ""
+  output: |
+    D(T)
+
+- instruction: What is the limit for ED under limited tender?
+  input: ""
+  output: |
+    ₹1.5 crore
+
+- instruction: Can CGM approve ₹80 lakh under limited tender?
+  input: ""
+  output: |
+    No. CGM’s limit is ₹75 lakh
+
+- instruction: What is the maximum GM can approve under limited tender?
+  input: ""
+  output: |
+    ₹40 lakh
+
+- instruction: Can Sr. M approve limited tender purchases?
+  input: ""
+  output: |
+    No. Sr. M has NIL delegation
+
+- instruction: What is the DGM’s delegation limit under limited tender?
+  input: ""
+  output: |
+    ₹15 lakh
+
+- instruction: Can CGM approve ₹50 lakh under limited tender?
+  input: ""
+  output: |
+    Yes. Limit is ₹75 lakh
+
+- instruction: Who approves limited tender of ₹12 crore?
+  input: ""
+  output: |
+    Only D(T), limit is ₹15 crore
+
+- instruction: Is prior finance concurrence required for limited tender?
+  input: ""
+  output: |
+    Yes. Mandatory for all purchase modes
+
+- instruction: What is the policy basis for choosing limited tender?
+  input: ""
+  output: |
+    Based on urgency, limited vendors, or prior approval
+
+
+
+- instruction: What is the maximum D(T) can approve under single tender?
+  input: ""
+  output: |
+    ₹5 crore
+
+- instruction: Who is authorized to approve ₹75 lakh single tender?
+  input: ""
+  output: |
+    ED
+
+- instruction: What is CGM’s delegation limit for single tender purchases?
+  input: ""
+  output: |
+    ₹40 lakh
+
+- instruction: Can GM approve ₹35 lakh single tender?
+  input: ""
+  output: |
+    No. GM’s limit is ₹30 lakh
+
+- instruction: What is DGM’s limit under single tender?
+  input: ""
+  output: |
+    ₹10 lakh
+
+- instruction: Can Sr. Manager approve single tender purchases?
+  input: ""
+  output: |
+    No. Sr. M has NIL delegation
+
+- instruction: What is required before approving a single tender?
+  input: ""
+  output: |
+    Justification, PAC if applicable, and finance concurrence
+
+- instruction: Can CGM approve single tender worth ₹45 lakh?
+  input: ""
+  output: |
+    No. CGM’s limit is ₹40 lakh
+
+- instruction: What should be attached with a single tender proposal?
+  input: ""
+  output: |
+    PAC, technical justification, vendor background, and finance concurrence
+
+- instruction: Are single tenders auditable?
+  input: ""
+  output: |
+    Yes. Subject to high audit scrutiny
+
+
+
+
+- instruction: What is the delegation of power for D(T) under open tender for OEM purchases?
+  input: ""
+  output: |
+    ₹50 crore
+
+- instruction: Can ED approve ₹12 crore under open tender?
+  input: ""
+  output: |
+    No. ED’s limit is ₹10 crore
+
+- instruction: What is CGM's delegation under open tender for OEM tools?
+  input: ""
+  output: |
+    ₹2 crore
+
+- instruction: Who can approve ₹1.5 crore under open tender for O&M spares?
+  input: ""
+  output: |
+    GM
+
+- instruction: What is the Sr. Manager's delegation limit for OEM purchases through open tender?
+  input: ""
+  output: |
+    ₹50 lakh
+
+- instruction: Is DGM authorized to approve ₹80 lakh under open tender?
+  input: ""
+  output: |
+    No. DGM’s limit is ₹75 lakh
+
+- instruction: Can a Sr. Manager procure spares worth ₹55 lakh?
+  input: ""
+  output: |
+    No. Limit is ₹50 lakh
+
+- instruction: What is the minimum officer rank eligible for OEM procurement under open tender?
+  input: ""
+  output: |
+    Sr. Manager
+
+
+
+- instruction: What is the ED's delegation limit under limited tender for OEM procurement?
+  input: ""
+  output: |
+    ₹7.5 crore
+
+- instruction: Can CGM approve ₹1 crore under limited tender?
+  input: ""
+  output: |
+    Yes. CGM’s limit is ₹1 crore
+
+- instruction: What is the GM’s delegation limit under limited tender for OEM tools?
+  input: ""
+  output: |
+    ₹75 lakh
+
+- instruction: What is the Sr. Manager’s limit under limited tender mode?
+  input: ""
+  output: |
+    ₹25 lakh
+
+- instruction: Is DGM authorized for ₹55 lakh limited tender under OEM clause?
+  input: ""
+  output: |
+    No. Limit is ₹50 lakh
+
+- instruction: Can ED approve ₹8 crore OEM spare purchase via limited tender?
+  input: ""
+  output: |
+    No. ED’s limit is ₹7.5 crore
+
+- instruction: What must accompany limited tender OEM proposals?
+  input: ""
+  output: |
+    PAC from HOP, technical justification, and rate comparison
+
+
+- instruction: What is the delegation limit of D(T) for single tender under OEM clause?
+  input: ""
+  output: |
+    ₹20 crore
+
+- instruction: Can CGM approve ₹80 lakh single tender OEM order?
+  input: ""
+  output: |
+    No. CGM’s limit is ₹75 lakh
+
+- instruction: Who approves single tender OEM procurement of ₹50 lakh?
+  input: ""
+  output: |
+    GM
+
+- instruction: Is DGM delegated any power under single tender for OEM purchases?
+  input: ""
+  output: |
+    No. DGM is not authorized
+
+- instruction: Are Sr. Managers authorized under single tender mode for OEM tools?
+  input: ""
+  output: |
+    No. Sr. M has no power under this mode
+
+- instruction: What are mandatory documents for single tender OEM approval?
+  input: ""
+  output: |
+    PAC by HOP, rate comparison (LPP), and finance concurrence
+
+- instruction: What is the maximum ED can approve under single tender?
+  input: ""
+  output: |
+    ₹5 crore
+
+
+
+
+- instruction: What is the delegation power for D(T) under open tender for non-O&M spares?
+  input: ""
+  output: |
+    ₹5 crore
+
+- instruction: Can ED approve ₹1.5 crore under open tender?
+  input: ""
+  output: |
+    No. ED’s limit is ₹1 crore
+
+- instruction: What is CGM’s limit for open tender in this category?
+  input: ""
+  output: |
+    ₹50 lakh
+
+- instruction: Can GM approve ₹40 lakh for spare purchase via open tender?
+  input: ""
+  output: |
+    No. GM’s limit is ₹30 lakh
+
+- instruction: Is DGM authorized for ₹25 lakh under open tender?
+  input: ""
+  output: |
+    No. DGM's limit is ₹20 lakh
+
+- instruction: What is Sr. M's delegation for open tender spare purchases?
+  input: ""
+  output: |
+    ₹10 lakh
+
+- instruction: Can a Sr. Manager purchase ₹12 lakh worth of spares?
+  input: ""
+  output: |
+    No. Sr. M's limit is ₹10 lakh
+
+
+
+- instruction: What is the maximum ED can approve via limited tender?
+  input: ""
+  output: |
+    ₹50 lakh
+
+- instruction: Can CGM approve ₹30 lakh under limited tender?
+  input: ""
+  output: |
+    No. CGM’s limit is ₹25 lakh
+
+- instruction: What is the limit for GM under limited tender?
+  input: ""
+  output: |
+    ₹20 lakh
+
+- instruction: What is DGM’s delegation under limited tender in Clause 5?
+  input: ""
+  output: |
+    ₹10 lakh
+
+- instruction: Can Sr. M approve ₹7 lakh under limited tender?
+  input: ""
+  output: |
+    No. Sr. M’s limit is ₹5 lakh
+
+- instruction: Is D(T) authorized to approve ₹1.5 crore purchase under limited tender?
+  input: ""
+  output: |
+    Yes. D(T)’s limit is ₹2 crore
+
+
+
+- instruction: What is the D(T)’s delegation for single tender spare purchases?
+  input: ""
+  output: |
+    ₹1 crore
+
+- instruction: What is ED’s limit under single tender for Clause 5?
+  input: ""
+  output: |
+    ₹50 lakh
+
+- instruction: Can CGM approve ₹30 lakh single tender for spares?
+  input: ""
+  output: |
+    No. CGM’s limit is ₹25 lakh
+
+- instruction: What is GM's delegation under single tender in this case?
+  input: ""
+  output: |
+    ₹10 lakh
+
+- instruction: Is DGM allowed to approve ₹6 lakh single tender?
+  input: ""
+  output: |
+    No. DGM’s limit is ₹5 lakh
+
+- instruction: What is Sr. M’s delegation under single tender mode?
+  input: ""
+  output: |
+    NIL
+
+- instruction: Can Sr. M make any procurement under single tender for this clause?
+  input: ""
+  output: |
+    No. Sr. M has no power under single tender
+
+
+
+- instruction: Who can approve procurement of diesel and petrol?
+  input: ""
+  output: |
+    D(T): ₹5 crore
+    ED: ₹2 crore
+    CGM: ₹75 lakh
+    GM, DGM, Sr. M: NIL
+
+- instruction: What is the maximum delegation for ED to procure HSD?
+  input: ""
+  output: |
+    ₹2 crore
+
+- instruction: Can CGM procure ₹90 lakh worth of fuel?
+  input: ""
+  output: |
+    No. CGM's limit is ₹75 lakh
+
+- instruction: Is GM authorized to procure HSD from PSU oil companies?
+  input: ""
+  output: |
+    No. GM has no delegated power under this clause.
+
+- instruction: What is the maximum power delegated to D(T) for fuel procurement?
+  input: ""
+  output: |
+    ₹5 crore
+
+- instruction: Can DGM authorize procurement of petrol?
+  input: ""
+  output: |
+    No. DGM has NIL delegation
+
+- instruction: Can Sr. Manager approve lubricant purchases from PSU companies?
+  input: ""
+  output: |
+    No. Sr. M is not delegated any power under this clause
+
+- instruction: What kind of companies must the fuel be procured from?
+  input: ""
+  output: |
+    PSU (Public Sector Undertaking) oil companies only
+
+- instruction: Are private suppliers allowed under this clause?
+  input: ""
+  output: |
+    No. Procurement must be from PSU oil companies
+
+- instruction: Is this power valid across the company or per unit?
+  input: ""
+  output: |
+    Power is per project/plant/corporate office/other location for each financial year
+
+- instruction: What documentation is needed for approval?
+  input: ""
+  output: |
+    As per procurement policy and with finance concurrence
+
+- instruction: Can the same limit be used for multiple locations?
+  input: ""
+  output: |
+    No. Limit is location-specific per financial year
+
+- instruction: Who is the minimum authority allowed to procure fuel under this clause?
+  input: ""
+  output: |
+    CGM
+
+- instruction: Is prior finance concurrence required?
+  input: ""
+  output: |
+    Yes. Concurrence is mandatory as per policy
+
+- instruction: What is the policy guidance for such procurements?
+  input: ""
+  output: |
+    Procurement must follow the company’s procurement policy
+
+- instruction: Can ED approve ₹3 crore worth of lubricants?
+  input: ""
+  output: |
+    No. ED's limit is ₹2 crore
+
+- instruction: Can the D(T) approve multiple procurements across units?
+  input: ""
+  output: |
+    Yes, provided they are within ₹5 crore per unit per year
+
+- instruction: What is the yearly procurement cap for CGM?
+  input: ""
+  output: |
+    ₹75 lakh per unit/location per financial year
+
+- instruction: Is the limit cumulative or per transaction?
+  input: ""
+  output: |
+    Limit applies to total annual procurement per location
+
+- instruction: Are approvals above ₹5 crore possible under this clause?
+  input: ""
+  output: |
+    No. Any higher requirement must go through special approval outside standard delegation
+
+
+
+
+- instruction: What is D(T)'s limit for cement purchase through open tender?
+  input: ""
+  output: |
+    ₹25 crore
+
+- instruction: What is the limit for GM under open tender for cement?
+  input: ""
+  output: |
+    ₹2 crore
+
+- instruction: Can CGM approve ₹5 crore cement purchase through open tender?
+  input: ""
+  output: |
+    No. CGM's limit is ₹3 crore
+
+
+- instruction: What is the limit for CGM under limited tender for cement?
+  input: ""
+  output: |
+    ₹1 crore
+
+- instruction: Can DGM approve ₹30 lakh cement order via limited tender?
+  input: ""
+  output: |
+    No. DGM's limit is ₹25 lakh
+
+- instruction: Can Sr. Manager procure cement via limited tender?
+  input: ""
+  output: |
+    No. Sr. M has NIL power
+
+
+- instruction: Who can procure cement from empaneled dealers at L1 rate?
+  input: ""
+  output: |
+    D(T), ED, CGM, GM, and DGM with respective limits
+
+- instruction: Can GM procure ₹15 lakh worth cement via single tender?
+  input: ""
+  output: |
+    No. GM's limit is ₹10 lakh
+
+- instruction: What is D(T)'s delegation for single tender purchase of cement?
+  input: ""
+  output: |
+    ₹1 crore
+
+
+
+- instruction: What is the emergency cement purchase limit at project level?
+  input: ""
+  output: |
+    Up to 100 MT from empaneled dealers at L1 rate
+
+- instruction: Are private suppliers allowed for project emergency cement procurement?
+  input: ""
+  output: |
+    No. Only empaneled dealers at L1 rate are allowed
+
+
+- instruction: What is the limit for D(T) to procure steel via MOU?
+  input: ""
+  output: |
+    ₹50 crore
+
+- instruction: Can ED approve steel procurement under MOU?
+  input: ""
+  output: |
+    Yes, up to ₹25 crore
+
+- instruction: Is GM authorized to procure steel via MOU?
+  input: ""
+  output: |
+    No. GM has NIL power under MOU route
+
+
+
+- instruction: What is the CGM’s delegation for limited tender steel purchase?
+  input: ""
+  output: |
+    ₹35 lakh
+
+- instruction: Can GM approve ₹30 lakh steel order through limited tender?
+  input: ""
+  output: |
+    No. GM's limit is ₹25 lakh
+
+- instruction: Is DGM authorized for ₹12 lakh steel under limited tender?
+  input: ""
+  output: |
+    No. DGM's limit is ₹10 lakh
+
+
+
+- instruction: What is ED’s limit under single tender for steel?
+  input: ""
+  output: |
+    ₹25 lakh
+
+- instruction: Can CGM approve ₹20 lakh steel order via single tender?
+  input: ""
+  output: |
+    No. CGM's limit is ₹15 lakh
+
+- instruction: What is D(T)'s limit for single tender steel procurement?
+  input: ""
+  output: |
+    ₹50 lakh
+
+- instruction: Can Sr. M approve steel orders under any tender type?
+  input: ""
+  output: |
+    No. Sr. M has NIL delegation in all cases
+
+
+
+
+- instruction: What is D(T)'s delegation limit for purchasing explosives through open tender?
+  input: ""
+  output: |
+    ₹2 crore
+
+- instruction: Who is authorized to approve ₹25 lakh explosive purchase via open tender?
+  input: ""
+  output: |
+    CGM
+
+- instruction: Can GM procure explosives worth ₹20 lakh via open tender?
+  input: ""
+  output: |
+    No. GM’s limit is ₹15 lakh
+
+- instruction: Is DGM allowed to approve ₹10 lakh for explosive materials?
+  input: ""
+  output: |
+    Yes. ₹10 lakh is within DGM's delegation
+
+- instruction: Can Sr. Manager procure explosives?
+  input: ""
+  output: |
+    No. Sr. M has NIL delegation under this clause
+
+
+- instruction: What is ED’s delegation limit for limited tender of explosives?
+  input: ""
+  output: |
+    ₹40 lakh
+
+- instruction: What is the limit for CGM under limited tender for explosives?
+  input: ""
+  output: |
+    ₹20 lakh
+
+- instruction: Can GM approve ₹20 lakh order via limited tender?
+  input: ""
+  output: |
+    No. GM’s limit is ₹15 lakh
+
+- instruction: What is D(T)'s limit under limited tender for explosives?
+  input: ""
+  output: |
+    ₹60 lakh
+
+- instruction: Can DGM approve ₹8 lakh explosives order via limited tender?
+  input: ""
+  output: |
+    No. DGM's limit is ₹7 lakh
+
+
+- instruction: Can explosives be procured urgently?
+  input: ""
+  output: |
+    Yes, from reputed manufacturers or dealers in limited quantity
+
+- instruction: Are there restrictions on vendors for emergency purchases?
+  input: ""
+  output: |
+    Yes. Must be reputed manufacturers or dealers
+
+- instruction: Is there a quantity limit for emergency explosive purchase?
+  input: ""
+  output: |
+    Yes. Only limited quantity in emergencies is allowed
+
+- instruction: Is finance concurrence needed for explosive purchases?
+  input: ""
+  output: |
+    Yes. Finance concurrence is required in all procurement modes
+
+
+- instruction: What is the maximum limit D(T) can approve for explosive purchase?
+  input: ""
+  output: |
+    ₹2 crore (open tender) and ₹60 lakh (limited tender)
+
+- instruction: Can ED approve explosive purchase via open tender worth ₹75 lakh?
+  input: ""
+  output: |
+    No. ED’s limit is ₹50 lakh under open tender
+
+- instruction: Who is the minimum officer allowed to procure explosives?
+  input: ""
+  output: |
+    DGM
+
+- instruction: Is there any mode through which Sr. M can procure explosives?
+  input: ""
+  output: |
+    No. Sr. M has NIL delegation under all modes
+
+- instruction: What are the approved modes of explosive purchase?
+  input: ""
+  output: |
+    Open tender, Limited tender, and Emergency procurement from reputed dealers
+
+- instruction: What is the delegation power of D(T) for transportation via open tender?
+  input: ""
+  output: |
+    D(T) has full power.
+
+- instruction: What is the ED's financial limit for transport contracts via open tender?
+  input: ""
+  output: |
+    ₹3 crore.
+
+- instruction: Can CGM approve a ₹75 lakh transportation contract?
+  input: ""
+  output: |
+    No. CGM's limit is ₹70 lakh.
+
+- instruction: What is GM’s limit under open tender mode?
+  input: ""
+  output: |
+    ₹15 lakh.
+
+- instruction: Can DGM sanction transport contracts worth ₹5 lakh?
+  input: ""
+  output: |
+    No. DGM’s limit is ₹3 lakh.
+
+- instruction: Does Sr. Manager have any delegation in Clause 9?
+  input: ""
+  output: |
+    No. Sr. M has NIL powers.
+
+- instruction: What are the limited tender delegation limits for transportation?
+  input: ""
+  output: |
+    ED: ₹60 lakh, CGM: ₹20 lakh, GM: ₹2 lakh, DGM: ₹1 lakh.
+
+- instruction: Can GM approve ₹3 lakh transport contract under limited tender?
+  input: ""
+  output: |
+    No. GM's limited tender limit is ₹2 lakh.
+
+- instruction: Can CGM approve ₹19 lakh under limited tender?
+  input: ""
+  output: |
+    Yes. CGM’s limit is ₹20 lakh.
+
+- instruction: What is the DGM’s maximum delegation under limited tender?
+  input: ""
+  output: |
+    ₹1 lakh.
+
+- instruction: Is empanelment necessary for transporters?
+  input: ""
+  output: |
+    Yes. Through open tender for a 2-year period.
+
+- instruction: After empanelment, how are transporters engaged?
+  input: ""
+  output: |
+    Through price offers invited from empaneled vendors.
+
+- instruction: Can D(T) bypass empanelment?
+  input: ""
+  output: |
+    No. All delegations are based on empanelment norms.
+
+- instruction: Is there any annual limit for CGM in Clause 9?
+  input: ""
+  output: |
+    Yes. ₹70 lakh via open tender.
+
+- instruction: How often should empanelment be done?
+  input: ""
+  output: |
+    Every 2 years through open tender.
+
+- instruction: Who can approve ₹25 lakh transport contract via open tender?
+  input: ""
+  output: |
+    Only ED or higher authority.
+
+- instruction: What is the process if transporter panel is exhausted?
+  input: ""
+  output: |
+    A new open tender should be floated for empanelment.
+
+- instruction: Can Sr. Manager recommend a transporter for limited tender?
+  input: ""
+  output: |
+    Yes, but cannot approve.
+
+- instruction: Does Clause 9 apply to all projects and offices?
+  input: ""
+  output: |
+    Yes, it's applicable to plants, offices, and projects.
+
+- instruction: Is finance concurrence required for transporter contracts?
+  input: ""
+  output: |
+    Yes. All procurement requires finance concurrence.
+
+
+- instruction: Who approves canalised imports under Clause 10?
+  input: ""
+  output: |
+    D(T): ₹5 crore, ED: ₹3 crore, CGM: ₹1 crore, GM: ₹75 lakh
+
+- instruction: Can DGM approve ₹50 lakh canalised import?
+  input: ""
+  output: |
+    No. DGM has no delegation under this clause.
+
+- instruction: Is canalised import allowed only via PSUs?
+  input: ""
+  output: |
+    Yes.
+
+- instruction: What documents are needed before canalised import?
+  input: ""
+  output: |
+    Approved cost estimate and formal requisition.
+
+- instruction: Can Sr. Manager initiate import process?
+  input: ""
+  output: |
+    Yes, but cannot approve.
+
+- instruction: Who has the highest power under Clause 10?
+  input: ""
+  output: |
+    Director (Technical) — ₹5 crore.
+
+- instruction: Can CGM approve ₹1.2 crore canalised import?
+  input: ""
+  output: |
+    No. CGM’s limit is ₹1 crore.
+
+- instruction: What is GM's delegation for imports via PSU?
+  input: ""
+  output: |
+    ₹75 lakh.
+
+- instruction: Can imports be made without cost estimate approval?
+  input: ""
+  output: |
+    No. It is mandatory.
+
+- instruction: Is concurrence required for Clause 10?
+  input: ""
+  output: |
+    Yes. Finance and technical concurrence is required.
+
+- instruction: What is a canalised import?
+  input: ""
+  output: |
+    Import routed through authorized PSUs like MMTC/STC.
+
+- instruction: Can a project office initiate a PSU import request?
+  input: ""
+  output: |
+    Yes, with proper requisition and estimate approval.
+
+- instruction: Are there any restrictions on item category for canalised imports?
+  input: ""
+  output: |
+    Yes. Only items designated for PSU procurement.
+
+- instruction: Can this clause be used for emergency imports?
+  input: ""
+  output: |
+    Not explicitly. Emergency procurement needs justification.
+
+- instruction: Is this clause applicable for O&M as well?
+  input: ""
+  output: |
+    Yes, if routed via PSU.
+
+- instruction: Can ED and CGM jointly approve above-limits imports?
+  input: ""
+  output: |
+    No. Only higher authority (D(T)) can approve beyond limits.
+
+- instruction: What happens if import value exceeds sanction?
+  input: ""
+  output: |
+    Must be escalated to next competent authority.
+
+- instruction: Is there a time frame for import completion under Clause 10?
+  input: ""
+  output: |
+    Not specified, but subject to requisition schedule.
+
+- instruction: Is GFR compliance mandatory for PSU imports?
+  input: ""
+  output: |
+    Yes. Public procurement norms apply.
+
+- instruction: Can CMD approve PSU imports directly?
+  input: ""
+  output: |
+    Not specified under Clause 10, D(T) holds full power.
+- instruction: Who can approve extension of time for project site contracts?
+  input: ""
+  output: |
+    Same authority that approved the original award of contract.
+
+- instruction: What is the limit for variation allowed under this clause?
+  input: ""
+  output: |
+    Upto 10% of the awarded value, subject to budget availability and finance concurrence.
+
+- instruction: Is finance concurrence required for time extension at project site?
+  input: ""
+  output: |
+    Yes, if financial implications are involved.
+
+- instruction: Can time extension be approved if it exceeds 10% of contract value?
+  input: ""
+  output: |
+    No, unless approved by the next higher authority.
+
+- instruction: Who approves the extension if original authority's limit is exceeded?
+  input: ""
+  output: |
+    The next higher authority.
+
+- instruction: What happens if there is no budget provision for the extension?
+  input: ""
+  output: |
+    Additional budget must be sanctioned before approving the extension.
+
+- instruction: Can extensions under this clause be granted multiple times?
+  input: ""
+  output: |
+    Yes, within the overall 10% cap and proper justification.
+
+- instruction: Is delay due to contractor eligible for time extension?
+  input: ""
+  output: |
+    No. Delay must not be attributable to contractor for no-LD extensions.
+
+- instruction: Can project heads recommend extension under this clause?
+  input: ""
+  output: |
+    Yes, but final approval must be from competent authority.
+
+- instruction: What if contract period needs to be extended beyond 10%?
+  input: ""
+  output: |
+    Approval must be escalated to next higher authority with finance concurrence.
+
+- instruction: Can partial extensions (package-wise) be allowed?
+  input: ""
+  output: |
+    Yes, if justified and within limits.
+
+- instruction: How is “awarded value” defined in this clause?
+  input: ""
+  output: |
+    The contract value at the time of award.
+
+- instruction: Does this clause apply to services and supplies too?
+  input: ""
+  output: |
+    Yes, as long as they fall under project site contract category.
+
+- instruction: What justification documents are needed?
+  input: ""
+  output: |
+    Delay analysis, non-fault certification, budget availability, and technical vetting.
+
+- instruction: Can retrospective approvals be granted?
+  input: ""
+  output: |
+    Yes, with strong justification and regularization by competent authority.
+
+- instruction: Is LD waiver implied in this clause?
+  input: ""
+  output: |
+    Not necessarily. LD clause handled separately.
+
+- instruction: Can ED approve extension at site for GM-awarded contract?
+  input: ""
+  output: |
+    Yes, as ED is the next higher authority.
+
+- instruction: What’s the maximum duration for extensions under this clause?
+  input: ""
+  output: |
+    No fixed duration; subject to 10% value cap and justification.
+
+- instruction: Can this clause be applied to old contracts nearing closure?
+  input: ""
+  output: |
+    Yes, if within limit and with due justification.
+
+- instruction: What if contract conditions specify no extensions?
+  input: ""
+  output: |
+    DOP prevails only within scope permitted by contract terms.
+- instruction: Who can approve extension of corporate-level contracts?
+  input: ""
+  output: |
+    The same authority who approved the original corporate contract.
+
+- instruction: What is the permissible variation limit under this clause?
+  input: ""
+  output: |
+    Upto 10% of the overall sanctioned estimate.
+
+- instruction: Can DGM approve corporate-level contract extension?
+  input: ""
+  output: |
+    No. Corporate-level contracts are usually sanctioned by higher authorities.
+
+- instruction: Can ED approve a contract extension of ₹20 crore?
+  input: ""
+  output: |
+    Only if ED approved the original contract and within delegated limit.
+
+- instruction: What if time extension requires extra funds?
+  input: ""
+  output: |
+    Financial concurrence and budget sanction are mandatory.
+
+- instruction: Can a variation be approved without additional funds?
+  input: ""
+  output: |
+    Yes, if it fits within original budget and estimate.
+
+- instruction: Can CMD delegate extension power to ED?
+  input: ""
+  output: |
+    Not specified. Approving authority is based on original contract delegation.
+
+- instruction: Does corporate-level extension need project office approval?
+  input: ""
+  output: |
+    No. It’s handled at the corporate level.
+
+- instruction: What is meant by “corporate-level” in this context?
+  input: ""
+  output: |
+    Contracts signed and executed by corporate office, not project sites.
+
+- instruction: Can these extensions be granted post expiry?
+  input: ""
+  output: |
+    Yes, with retrospective approval and justification.
+
+- instruction: Can LD be waived in these extensions?
+  input: ""
+  output: |
+    Only under separate LD waiver clause.
+
+- instruction: Are third-party contracts eligible under this clause?
+  input: ""
+  output: |
+    Yes, if awarded by corporate office.
+
+- instruction: Is there a fixed maximum period for extension?
+  input: ""
+  output: |
+    No, but total variation should not exceed 10%.
+
+- instruction: Can extensions be cumulative across multiple orders?
+  input: ""
+  output: |
+    Yes, as long as total stays within limits.
+
+- instruction: Is technical vetting needed?
+  input: ""
+  output: |
+    Yes, along with justification documents.
+
+- instruction: Can this clause be bypassed during emergencies?
+  input: ""
+  output: |
+    No. All extensions must follow DOP rules.
+
+- instruction: What if the contract is split across divisions?
+  input: ""
+  output: |
+    Then the parent authority coordinating the contract must approve.
+
+- instruction: Is there any reporting required for these approvals?
+  input: ""
+  output: |
+    Internal audit or higher-level reporting may apply.
+
+- instruction: Can corporate contracts include consultancy?
+  input: ""
+  output: |
+    Yes, including major consultancy and supply contracts.
+
+- instruction: Who keeps track of extension count and percentage used?
+  input: ""
+  output: |
+    The initiating department and approving authority.
+- instruction: Who can approve extension of PMC contracts?
+  input: ""
+  output: |
+    The authority that approved the original PMC contract.
+
+- instruction: Are there financial limits for PMC contract extension?
+  input: ""
+  output: |
+    Yes. Same as for corporate-level contracts — 10% variation allowed.
+
+- instruction: Can PMC contracts be extended beyond the project duration?
+  input: ""
+  output: |
+    Only if justified and within the 10% variation cap.
+
+- instruction: Does extension of PMC contract require technical vetting?
+  input: ""
+  output: |
+    Yes. Also requires finance concurrence.
+
+- instruction: Can repeat extensions be given to PMC?
+  input: ""
+  output: |
+    Yes, but total must be within allowed variation.
+
+- instruction: Is LD applicable in PMC contract delays?
+  input: ""
+  output: |
+    Depends on contract terms. LD handled separately.
+
+- instruction: Can CMD approve PMC contract extension?
+  input: ""
+  output: |
+    Yes, if CMD was original approving authority.
+
+- instruction: What is the process to justify PMC extension?
+  input: ""
+  output: |
+    Include progress report, reason for delay, and PMC’s performance.
+
+- instruction: Is extension treated as a change order?
+  input: ""
+  output: |
+    No. It's a time extension unless scope/value changes.
+
+- instruction: Can PMC claim cost for extension?
+  input: ""
+  output: |
+    Only if provided for in the original contract.
+
+- instruction: Who reviews the PMC’s extended work performance?
+  input: ""
+  output: |
+    The concerned project/corporate office.
+
+- instruction: Can PMC contracts be terminated instead of extended?
+  input: ""
+  output: |
+    Yes, if found non-performing or no longer required.
+
+- instruction: Can PMC extension go beyond original estimate?
+  input: ""
+  output: |
+    Only with revised estimate and higher approval.
+
+- instruction: Is there a cap on how long a PMC can be retained?
+  input: ""
+  output: |
+    Not fixed. Tied to project timeline and performance.
+
+- instruction: Can ED approve extension if original approval was by D(T)?
+  input: ""
+  output: |
+    No. Only D(T) or CMD can approve such cases.
+
+- instruction: What documentation is mandatory?
+  input: ""
+  output: |
+    Contract copy, extension justification, progress report, finance note.
+
+- instruction: Can PMC extensions be pre-approved during bidding?
+  input: ""
+  output: |
+    Yes, if contract includes provision for extensions.
+
+- instruction: Can extensions result in renegotiation of fees?
+  input: ""
+  output: |
+    Only if scope changes. Time-only extension doesn’t allow renegotiation.
+
+- instruction: Are PMC extensions tracked centrally?
+  input: ""
+  output: |
+    Yes, through PMC contract administration cell.
+
+- instruction: What risk assessments are done before extension?
+  input: ""
+  output: |
+    Performance, budget impact, and project completion forecast.
+- instruction: Who can approve repeat orders in NEEPCO?
+  input: ""
+  output: |
+    D(T): ₹5 crore
+    ED: ₹2 crore
+    CGM: ₹1 crore
+    GM: ₹50 lakh
+    DGM: ₹25 lakh
+    Sr. M: NIL
+
+- instruction: What is the financial limit for repeat orders by GM?
+  input: ""
+  output: |
+    GM can approve repeat orders up to ₹50 lakh.
+
+- instruction: Is there a time limit within which repeat orders must be placed?
+  input: ""
+  output: |
+    Yes, within 6 months from the date of the original order.
+
+- instruction: What is the value cap for repeat orders?
+  input: ""
+  output: |
+    Repeat order should not exceed 50% of the original order value.
+
+- instruction: Can specifications be changed in a repeat order?
+  input: ""
+  output: |
+    No. Repeat order must be for the same specification, terms, and conditions.
+
+- instruction: Who can authorize a repeat order of ₹1.2 crore?
+  input: ""
+  output: |
+    ED or above, since CGM’s limit is ₹1 crore.
+
+- instruction: Can a repeat order be issued for a different location?
+  input: ""
+  output: |
+    Yes, provided the scope, vendor, and specifications are identical.
+
+- instruction: Are repeat orders allowed without tender?
+  input: ""
+  output: |
+    Yes, but only under DOP and within the allowed limits and conditions.
+
+- instruction: What kind of contracts allow repeat orders?
+  input: ""
+  output: |
+    Contracts for supply of goods/services where original performance is satisfactory.
+
+- instruction: Is finance concurrence required for repeat orders?
+  input: ""
+  output: |
+    Yes. Concurrence is mandatory for all financial transactions.
+
+- instruction: What documentation is required for repeat order processing?
+  input: ""
+  output: |
+    Copy of original PO/WO, performance report, vendor confirmation, and finance note.
+
+- instruction: Can multiple repeat orders be issued under a single contract?
+  input: ""
+  output: |
+    Yes, but total repeat order value must not exceed 50% of the original.
+
+- instruction: What if the repeat order exceeds 50% due to urgent requirement?
+  input: ""
+  output: |
+    It must be treated as a new procurement process.
+
+- instruction: Can Sr. Manager issue any repeat orders?
+  input: ""
+  output: |
+    No. Sr. Manager has NIL delegation for repeat orders.
+
+- instruction: Are repeat orders allowed for consultancy contracts?
+  input: ""
+  output: |
+    Only if identical scope, terms, and rates are maintained.
+
+- instruction: Can repeat orders be negotiated at new prices?
+  input: ""
+  output: |
+    No. Repeat orders must follow original prices and terms.
+
+- instruction: What happens if vendor refuses a repeat order?
+  input: ""
+  output: |
+    New procurement may be initiated as per guidelines.
+
+- instruction: Can repeat orders be used to bypass tendering?
+  input: ""
+  output: |
+    No. Repeat orders are strictly conditional and limited in scope and value.
+
+- instruction: Can CMD approve repeat orders above ₹5 crore?
+  input: ""
+  output: |
+    Yes, CMD has full powers beyond D(T)'s limit.
+
+- instruction: What is the risk in misusing repeat orders?
+  input: ""
+  output: |
+    It could lead to audit objections and violation of procurement policy.
+- instruction: Who is authorized to approve deposit works to government agencies?
+  input: ""
+  output: |
+    D(T): ₹5 crore
+    ED: ₹2 crore
+    CGM: ₹1 crore
+    GM: ₹50 lakh
+    DGM: ₹25 lakh
+    Sr. M: NIL
+
+- instruction: Can deposit works be awarded to private contractors?
+  input: ""
+  output: |
+    No. Deposit works must be assigned only to Government or PSU agencies.
+
+- instruction: What if the agency is not a government body?
+  input: ""
+  output: |
+    Approval from Director (Technical) is mandatory.
+
+- instruction: What is a deposit work in this context?
+  input: ""
+  output: |
+    A work executed by another government agency on behalf of NEEPCO through fund transfer.
+
+- instruction: Are tendering processes required for deposit works?
+  input: ""
+  output: |
+    No, as the work is executed by government agencies under their procedures.
+
+- instruction: Can the same limits be used for multiple deposit works?
+  input: ""
+  output: |
+    No. Limits apply per work order/project.
+
+- instruction: What documentation is required for deposit works?
+  input: ""
+  output: |
+    MoU or agreement, budget provision, technical estimate, and finance concurrence.
+
+- instruction: Can CGM approve ₹1.5 crore deposit work?
+  input: ""
+  output: |
+    No. CGM’s limit is ₹1 crore. Higher authority must approve.
+
+- instruction: Is finance concurrence mandatory for deposit works?
+  input: ""
+  output: |
+    Yes. All deposit works must have finance concurrence.
+
+- instruction: Are internal audits required for deposit works?
+  input: ""
+  output: |
+    Yes. Periodic monitoring and reconciliation are required.
+
+- instruction: Can ED approve deposit work to a PSU?
+  input: ""
+  output: |
+    Yes, up to ₹2 crore, if it's a Government or PSU agency.
+
+- instruction: Can DGM approve a ₹50 lakh deposit work?
+  input: ""
+  output: |
+    No. DGM's limit is ₹25 lakh. GM or above must approve.
+
+- instruction: Is tender exemption required for deposit works?
+  input: ""
+  output: |
+    No, because deposit works are exempted under government-to-government transfers.
+
+- instruction: Are works under EPC contracts considered deposit works?
+  input: ""
+  output: |
+    No. Deposit works apply only to government agency-executed activities.
+
+- instruction: Can Director (Tech) approve deposit works without limit?
+  input: ""
+  output: |
+    No. Limit is ₹5 crore unless escalated to CMD.
+
+- instruction: Are there any timeline constraints in deposit works?
+  input: ""
+  output: |
+    Yes. Works must be completed within approved schedule.
+
+- instruction: Can CMD approve deposit works above ₹5 crore?
+  input: ""
+  output: |
+    Yes. CMD has full powers.
+
+- instruction: Are CSR-related works allowed under this clause?
+  input: ""
+  output: |
+    No. CSR works fall under a different clause.
+
+- instruction: Can funds be released in advance for deposit works?
+  input: ""
+  output: |
+    Yes, subject to agreement and utilization certification.
+
+- instruction: Are there any specific formats for deposit work agreements?
+  input: ""
+  output: |
+    Yes. Standard formats are issued internally and must be used.
+
+- instruction: What is the permissible variation in contract value at project sites?
+  input: ""
+  output: |
+    Up to 10% of the awarded value, subject to budget availability.
+
+- instruction: Who approves variation up to 10% in project-level contracts?
+  input: ""
+  output: |
+    The same authority that approved the original award.
+
+- instruction: Can a variation beyond 10% be approved by the same authority?
+  input: ""
+  output: |
+    No. It must be approved by the next higher authority.
+
+- instruction: Is finance concurrence required for variations beyond 10%?
+  input: ""
+  output: |
+    Yes. Finance concurrence is mandatory for such variations.
+
+- instruction: Can a project engineer approve 5% variation?
+  input: ""
+  output: |
+    Only if he/she originally approved the contract and is within delegated power.
+
+- instruction: What is Clause 15.1 in Delegation of Power?
+  input: ""
+  output: |
+    It allows variation within 10% to be approved by the same contract-sanctioning authority.
+
+- instruction: What is Clause 15.2 in Delegation of Power?
+  input: ""
+  output: |
+    If variation exceeds 10%, it must be approved by the next higher authority with concurrence.
+
+- instruction: Does budget constraint apply to variations?
+  input: ""
+  output: |
+    Yes. Variations must be within available budget.
+
+- instruction: Can variation be approved without revised estimate?
+  input: ""
+  output: |
+    No. Revised estimate and justification are required.
+
+- instruction: Are both quantity and value variations included?
+  input: ""
+  output: |
+    Yes. Clause 15 covers both.
+
+# (Add 10 more variations and rephrasings)
+- instruction: What if variation is due to a change in site conditions?
+  input: ""
+  output: |
+    Must be justified, certified, and approved by the appropriate authority per Clause 15.
+
+- instruction: Can GM approve 12% contract increase?
+  input: ""
+  output: |
+    No. GM’s limit is 10%. Beyond that, CGM or next higher must approve.
+
+- instruction: What if contract variation exceeds budget provision?
+  input: ""
+  output: |
+    Additional budget sanction is needed before variation is approved.
+
+- instruction: Is prior approval needed for variation implementation?
+  input: ""
+  output: |
+    Yes. Work must not commence without variation approval.
+
+- instruction: What documentation is required for Clause 15 approval?
+  input: ""
+  output: |
+    Revised cost estimate, technical justification, and finance concurrence if applicable.
+
+- instruction: Can project-level variation be clubbed with corporate-level?
+  input: ""
+  output: |
+    No. They are handled separately under respective clauses.
+
+- instruction: Is Clause 15 applicable for supply contracts?
+  input: ""
+  output: |
+    Yes. It applies to works, services, and supplies.
+
+- instruction: Can variation be approved verbally in emergencies?
+  input: ""
+  output: |
+    No. Written approval is mandatory.
+
+- instruction: What is the consequence of executing variation without approval?
+  input: ""
+  output: |
+    It may lead to audit objection and disciplinary action.
+
+- instruction: Can post-facto approval be sought?
+  input: ""
+  output: |
+    Only in exceptional, justified cases with documentation.
+- instruction: Who is authorized to approve mobilisation advance?
+  input: ""
+  output: |
+    D(T): ₹5 crore  
+    ED: ₹2 crore  
+    CGM: ₹1 crore  
+    GM: ₹50 lakh  
+    DGM: ₹25 lakh  
+    Sr. M: NIL
+
+- instruction: What is the maximum percentage of contract value allowed as mobilisation advance?
+  input: ""
+  output: |
+    Up to 10% of the contract value.
+
+- instruction: Is finance concurrence required for mobilisation advance?
+  input: ""
+  output: |
+    Yes. Prior finance concurrence is mandatory.
+
+- instruction: What is the repayment condition for mobilisation advance?
+  input: ""
+  output: |
+    Advance is recoverable in installments through running bills.
+
+- instruction: Is mobilisation advance allowed for all contracts?
+  input: ""
+  output: |
+    No. It is granted only under justified necessity and approval.
+
+- instruction: What documentation is needed for mobilisation advance?
+  input: ""
+  output: |
+    Work order copy, approval note, justification, and finance concurrence.
+
+- instruction: Can mobilisation advance be given to a vendor with no site setup?
+  input: ""
+  output: |
+    Only if it is essential to enable timely mobilization and approved accordingly.
+
+- instruction: What is Clause 16a about?
+  input: ""
+  output: |
+    It outlines conditions under which mobilisation advance can be approved.
+
+- instruction: What does Clause 16b specify?
+  input: ""
+  output: |
+    It limits the advance to 10% of the contract value.
+
+- instruction: What is Clause 16c in the context of DOP?
+  input: ""
+  output: |
+    It deals with adjustment and recovery mechanism of the advance.
+
+- instruction: What is Clause 16d about?
+  input: ""
+  output: |
+    It mandates supporting documentation for granting advance.
+
+- instruction: Can DGM approve ₹30 lakh as mobilisation advance?
+  input: ""
+  output: |
+    No. DGM is limited to ₹25 lakh.
+
+- instruction: Is mobilisation advance applicable to service contracts?
+  input: ""
+  output: |
+    Yes, if justified and approved within delegated powers.
+
+- instruction: Can ED approve ₹3 crore mobilisation advance?
+  input: ""
+  output: |
+    No. ED’s limit is ₹2 crore. Higher approval is required.
+
+- instruction: Can mobilisation advance be clubbed with secured advance?
+  input: ""
+  output: |
+    No. They are separate categories with distinct approvals.
+
+- instruction: What happens if a contractor fails after receiving mobilisation advance?
+  input: ""
+  output: |
+    Recovery through bank guarantee or legal process is initiated.
+
+- instruction: What is the interest implication on mobilisation advance?
+  input: ""
+  output: |
+    It is usually interest-free unless specifically stated.
+
+- instruction: Can mobilisation advance be given post work initiation?
+  input: ""
+  output: |
+    No. It is to be provided before mobilization starts, based on necessity.
+
+- instruction: Is CMD’s approval needed for mobilisation advance above ₹5 crore?
+  input: ""
+  output: |
+    Yes. CMD has full powers for amounts exceeding ₹5 crore.
+
+- instruction: Is a bank guarantee required against mobilisation advance?
+  input: ""
+  output: |
+    Yes. Usually equal to the advance amount for risk coverage.
+- instruction: Who is authorized to approve secured advance to contractors?
+  input: ""
+  output: |
+    D(T): ₹2 crore  
+    ED: ₹1 crore  
+    CGM: ₹50 lakh  
+    GM: ₹25 lakh  
+    DGM: ₹15 lakh  
+    Sr. M: NIL
+
+- instruction: What is secured advance in project execution?
+  input: ""
+  output: |
+    It is an advance against materials brought to the site, repayable as work progresses.
+
+- instruction: Under what condition can secured advance be given?
+  input: ""
+  output: |
+    Only when non-perishable materials are brought to the site and ownership is transferred to NEEPCO.
+
+- instruction: What materials are eligible for secured advance?
+  input: ""
+  output: |
+    Bricks, steel, cement, pipes, etc. — as long as they are non-perishable and verifiable.
+
+- instruction: What is Clause 17.1 about?
+  input: ""
+  output: |
+    It defines eligibility criteria for secured advance.
+
+- instruction: What is Clause 17.2 about?
+  input: ""
+  output: |
+    It lays out the repayment and documentation requirements for secured advance.
+
+- instruction: Is finance concurrence needed for secured advance?
+  input: ""
+  output: |
+    Yes. Prior concurrence is required before disbursal.
+
+- instruction: Can a secured advance be given without physical verification of materials?
+  input: ""
+  output: |
+    No. Verification and certification by site engineer is mandatory.
+
+- instruction: Is a lien required on the materials for which secured advance is paid?
+  input: ""
+  output: |
+    Yes. Ownership must be transferred to NEEPCO and recorded.
+
+- instruction: Can a contractor claim secured advance on perishable goods?
+  input: ""
+  output: |
+    No. Perishable items are not eligible.
+
+- instruction: How is the secured advance adjusted?
+  input: ""
+  output: |
+    Recovered progressively from the contractor’s bills as the material is consumed.
+
+- instruction: What is the maximum secured advance DGM can approve?
+  input: ""
+  output: |
+    ₹15 lakh.
+
+- instruction: Can CGM approve ₹70 lakh secured advance?
+  input: ""
+  output: |
+    No. CGM's limit is ₹50 lakh. Next higher authority’s approval is required.
+
+- instruction: Can secured advance be combined with mobilisation advance?
+  input: ""
+  output: |
+    No. These are processed and sanctioned independently.
+
+- instruction: Is a site certificate needed for every disbursement?
+  input: ""
+  output: |
+    Yes. Engineer-in-charge must certify material arrival and storage.
+
+- instruction: What happens if secured material is lost or stolen?
+  input: ""
+  output: |
+    Contractor remains responsible and must either replace or reimburse.
+
+- instruction: Can CMD approve secured advance beyond ₹2 crore?
+  input: ""
+  output: |
+    Yes. CMD has full powers beyond D(T)’s limit.
+
+- instruction: Is GST applicable on secured advance?
+  input: ""
+  output: |
+    GST is not levied on advance payments; however, final billing must reflect applicable tax.
+
+- instruction: Is retention money affected by secured advance?
+  input: ""
+  output: |
+    No. Retention and advance are handled separately under contract terms.
+
+- instruction: Can advance be released against unverified stock?
+  input: ""
+  output: |
+    No. Only verified and recorded stock is eligible.
+- instruction: Who is authorized to approve extension of time with LD?
+  input: ""
+  output: |
+    D(T): Full power  
+    ED: Full power  
+    CGM: ₹15 crore  
+    GM: ₹10 crore  
+    DGM: ₹5 crore  
+    Sr. M: NIL
+
+- instruction: When is extension with Liquidated Damages (LD) applicable?
+  input: ""
+  output: |
+    When delay in completion is attributable to the contractor.
+
+- instruction: Is finance concurrence required for extension with LD?
+  input: ""
+  output: |
+    Yes. Finance concurrence is mandatory.
+
+- instruction: Can GM approve time extension for a ₹12 crore project?
+  input: ""
+  output: |
+    No. GM’s limit is ₹10 crore. CGM or higher must approve.
+
+- instruction: What documentation is required for extension with LD?
+  input: ""
+  output: |
+    Delay analysis, justification, contractor’s explanation, and finance note.
+
+- instruction: What is Liquidated Damages in contract terms?
+  input: ""
+  output: |
+    Pre-defined penalty for delays in completion of contract deliverables.
+
+- instruction: Can extension with LD be waived?
+  input: ""
+  output: |
+    Only if justified, and approved by the competent authority with concurrence.
+
+- instruction: Can ED approve extension with LD for ₹22 crore contract?
+  input: ""
+  output: |
+    Yes. ED has full power.
+
+- instruction: Can LD be imposed partially?
+  input: ""
+  output: |
+    Yes. Based on the extent and impact of delay.
+
+- instruction: What is the consequence of not levying LD when applicable?
+  input: ""
+  output: |
+    May result in audit objections or disciplinary review.
+
+- instruction: Can project engineer approve extension with LD?
+  input: ""
+  output: |
+    No. Only officers with appropriate financial delegation can.
+
+- instruction: What is the maximum value DGM can handle for LD-related extensions?
+  input: ""
+  output: |
+    ₹5 crore.
+
+- instruction: Are there standard LD rates?
+  input: ""
+  output: |
+    Yes. Usually up to 0.5% per week delay, capped at 10% of contract value (as per contract terms).
+
+- instruction: Does Clause 18 require consultation with legal before LD?
+  input: ""
+  output: |
+    Legal may be consulted if LD imposition is contested or challenged.
+
+- instruction: Can LD be waived if delay is due to force majeure?
+  input: ""
+  output: |
+    Yes. Must be properly documented and justified.
+
+- instruction: What is the review process before approving extension with LD?
+  input: ""
+  output: |
+    Site justification, contractor feedback, engineer’s note, and finance review.
+
+- instruction: Can LD and bonus clauses co-exist?
+  input: ""
+  output: |
+    Yes, depending on contract structure.
+
+- instruction: Can extension with LD be approved after contract expiry?
+  input: ""
+  output: |
+    Only with post-facto approval and valid justification.
+
+- instruction: Does CMD need to approve LD for projects over ₹75 crore?
+  input: ""
+  output: |
+    Yes, if the contract value exceeds D(T)’s delegated authority.
+
+- instruction: Are all delays automatically subject to LD?
+  input: ""
+  output: |
+    No. Only if the delay is attributable to the contractor and not excused.
+- instruction: What is the delegation for awarding AMCs via open tender?
+  input: ""
+  output: |
+    D(T): ₹5 crore  
+    ED: ₹2 crore  
+    CGM: ₹1 crore  
+    GM: ₹50 lakh  
+    DGM: ₹25 lakh  
+    Sr. M: NIL
+
+- instruction: Who can approve AMCs on single tender basis?
+  input: ""
+  output: |
+    D(T): ₹2 crore  
+    ED: ₹75 lakh  
+    CGM: ₹50 lakh  
+    GM: ₹25 lakh  
+    DGM: ₹10 lakh
+
+- instruction: What are the acceptable tender modes for AMC?
+  input: ""
+  output: |
+    Open tender, limited tender, or nomination/single tender in special cases.
+
+- instruction: Can AMCs be renewed without fresh tender?
+  input: ""
+  output: |
+    Only in exceptional, justified cases and within delegation limits.
+
+- instruction: Are AMCs for both services and equipment?
+  input: ""
+  output: |
+    Yes. AMC may include service support and spare parts for equipment.
+
+- instruction: What are key considerations before awarding an AMC?
+  input: ""
+  output: |
+    Past performance, cost-effectiveness, and service criticality.
+
+- instruction: Can CGM approve ₹1.2 crore AMC via open tender?
+  input: ""
+  output: |
+    No. CGM is limited to ₹1 crore. ED or higher must approve.
+
+- instruction: Can AMC be issued on nomination basis?
+  input: ""
+  output: |
+    Yes, in justified and documented cases with concurrence.
+
+- instruction: What if AMC contractor fails performance?
+  input: ""
+  output: |
+    Contract can be terminated per terms and recovery initiated.
+
+- instruction: Is finance concurrence needed for AMCs?
+  input: ""
+  output: |
+    Yes. Always required before award.
+
+- instruction: What if AMC covers multiple locations?
+  input: ""
+  output: |
+    Delegation applies per contract, not per location.
+
+- instruction: Can DGM award AMC of ₹30 lakh?
+  input: ""
+  output: |
+    No. DGM’s limit is ₹25 lakh (open tender), ₹10 lakh (single tender).
+
+- instruction: Can ED approve AMC on single tender for ₹1 crore?
+  input: ""
+  output: |
+    No. ED’s single tender limit is ₹75 lakh. D(T) or CMD must approve.
+
+- instruction: What’s required for AMC extension?
+  input: ""
+  output: |
+    Performance review, justification, and approval within limits.
+
+- instruction: Do AMCs require PAC (Proprietary Article Certificate)?
+  input: ""
+  output: |
+    Only if awarded to OEMs/OES or proprietary sources.
+
+- instruction: What’s the minimum duration for an AMC?
+  input: ""
+  output: |
+    Usually 1 year; can vary based on asset/equipment needs.
+
+- instruction: Is GST applicable on AMCs?
+  input: ""
+  output: |
+    Yes. It must be factored into cost estimation and billing.
+
+- instruction: Who is responsible for monitoring AMC performance?
+  input: ""
+  output: |
+    The site-in-charge or engineer responsible for the equipment.
+
+- instruction: Can AMC include manpower deployment?
+  input: ""
+  output: |
+    Yes. Many AMCs include on-site technicians or support staff.
+
+- instruction: What if service is discontinued mid-AMC?
+  input: ""
+  output: |
+    Penalties, alternate arrangements, and recovery from vendor apply.
+# Clause 21: Hiring of Vehicles and Equipment
+
+- instruction: Who can approve hiring of vehicles and equipment?
+  input: ""
+  output: |
+    D(T): ₹5 crore  
+    ED: ₹2 crore  
+    CGM: ₹1 crore  
+    GM: ₹50 lakh  
+    DGM: ₹25 lakh  
+    Sr. M: NIL
+
+- instruction: What is Clause 21 about?
+  input: ""
+  output: |
+    It relates to the delegation of power for hiring of vehicles and equipment through various procurement modes.
+
+- instruction: Can Sr. Manager approve any hiring under this clause?
+  input: ""
+  output: |
+    No. Sr. Manager has NIL delegation power for vehicle/equipment hiring.
+
+- instruction: What modes of procurement are allowed for hiring?
+  input: ""
+  output: |
+    Open tender, limited tender, and single/nomination basis, depending on the situation and limits.
+
+- instruction: Is this clause applicable to hiring for both projects and offices?
+  input: ""
+  output: |
+    Yes. This clause covers hiring for project, plant, office, or corporate level needs.
+
+# Clause 21.1: Hiring through Open Tender
+
+- instruction: What is the delegation limit for hiring through open tender?
+  input: ""
+  output: |
+    D(T): ₹5 crore  
+    ED: ₹2 crore  
+    CGM: ₹1 crore  
+    GM: ₹50 lakh  
+    DGM: ₹25 lakh  
+    Sr. M: NIL
+
+- instruction: Can CGM approve ₹80 lakh for open tender hiring?
+  input: ""
+  output: |
+    Yes. CGM is authorized for up to ₹1 crore under open tender.
+
+- instruction: Is finance concurrence required for open tender-based hiring?
+  input: ""
+  output: |
+    Yes. Finance concurrence is mandatory in all procurement modes.
+
+- instruction: Can a vehicle be hired for more than one year?
+  input: ""
+  output: |
+    Yes. Duration depends on contract terms and justification.
+
+- instruction: Are insurance and registration mandatory for hired vehicles?
+  input: ""
+  output: |
+    Yes. The contractor must ensure that vehicles/equipment are insured and road-legal.
+
+# Clause 21.2(a): Hiring through Limited Tender
+
+- instruction: What are the limits for hiring through limited tender?
+  input: ""
+  output: |
+    D(T): ₹2 crore  
+    ED: ₹1 crore  
+    CGM: ₹50 lakh  
+    GM: ₹25 lakh  
+    DGM: ₹10 lakh  
+    Sr. M: NIL
+
+- instruction: Can ED approve ₹90 lakh under limited tender?
+  input: ""
+  output: |
+    Yes. ED is authorized up to ₹1 crore under limited tender.
+
+- instruction: Can DGM approve ₹15 lakh through limited tender?
+  input: ""
+  output: |
+    No. DGM is limited to ₹10 lakh.
+
+- instruction: Is vendor empanelment necessary before issuing limited tenders?
+  input: ""
+  output: |
+    Yes. Generally, vendors should be empaneled before limited tenders are issued.
+
+# Clause 21.2(b): Hiring through Single Tender/Nomination Basis
+
+- instruction: What are the financial limits for hiring on nomination basis?
+  input: ""
+  output: |
+    D(T): ₹2 crore  
+    ED: ₹75 lakh  
+    CGM: ₹50 lakh  
+    GM: ₹25 lakh  
+    DGM: ₹10 lakh  
+    Sr. M: NIL
+
+- instruction: Can CGM hire a vehicle on nomination basis for ₹60 lakh?
+  input: ""
+  output: |
+    No. CGM’s limit is ₹50 lakh for single tender or nomination-based hiring.
+
+- instruction: When is single tender hiring allowed?
+  input: ""
+  output: |
+    In case of emergencies, non-availability of vendors, or remote areas with prior justification and finance concurrence.
+
+- instruction: Is concurrence needed for single tender hiring?
+  input: ""
+  output: |
+    Yes. Finance concurrence and a certificate of urgency are mandatory.
+
+- instruction: Who verifies the justification for single tender hiring?
+  input: ""
+  output: |
+    The approving authority must be satisfied with written justification from the requisitioning unit.
+
+# Clause 21.3: Certificate of Urgency
+
+- instruction: What is the purpose of a certificate of urgency?
+  input: ""
+  output: |
+    It justifies deviation from standard procurement procedures due to pressing operational needs.
+
+- instruction: Is the certificate of urgency mandatory for single tender hiring?
+  input: ""
+  output: |
+    Yes. It is a prerequisite for nomination-based or single tender cases.
+
+- instruction: Who signs the certificate of urgency?
+  input: ""
+  output: |
+    The requisitioning officer and functional head; then approved by the sanctioning authority.
+
+- instruction: Can a certificate of urgency waive finance concurrence?
+  input: ""
+  output: |
+    No. Finance concurrence is always required, regardless of urgency.
+
+- instruction: Does the certificate of urgency need to be documented?
+  input: ""
+  output: |
+    Yes. It must be recorded, attached with the proposal, and available for audit review.
+
+- instruction: Can CMD approve beyond D(T)’s limit under certificate of urgency?
+  input: ""
+  output: |
+    Yes. CMD has full powers if required.
+- instruction: Who can approve medical treatment expenditure for employees?
+  input: ""
+  output: |
+    D(T): ₹5 lakh per case  
+    ED: ₹3 lakh per case  
+    CGM: ₹2 lakh per case  
+    GM: ₹1 lakh per case  
+    DGM: ₹75,000 per case  
+    Sr. M: ₹50,000 per case
+
+- instruction: Is approval of medical claims limited to certain values?
+  input: ""
+  output: |
+    Yes. Delegation is based on role and subject to caps per case.
+
+- instruction: Can Sr. Manager approve ₹75,000 for medical reimbursement?
+  input: ""
+  output: |
+    No. Sr. M can approve only up to ₹50,000. Amounts above must go to DGM or higher.
+
+- instruction: Are these approvals based on NEEPCO Medical Rules?
+  input: ""
+  output: |
+    Yes. All claims are governed by the NEEPCO Medical Attendance Rules and applicable circulars.
+
+- instruction: What documents must accompany a medical claim?
+  input: ""
+  output: |
+    Bills, prescriptions, discharge summaries, and hospital invoices must be attached.
+
+- instruction: Can CMD override these financial limits?
+  input: ""
+  output: |
+    Yes. CMD holds full powers for exceptional medical reimbursement cases.
+
+- instruction: Can ED approve multiple cases summing to ₹5 lakh?
+  input: ""
+  output: |
+    Yes. As long as each case is within ₹3 lakh, ED can approve multiple claims.
+
+- instruction: Can GM approve ₹1.25 lakh in a single claim?
+  input: ""
+  output: |
+    No. GM’s cap is ₹1 lakh. Higher amounts require CGM or above.
+
+- instruction: Is pre-authorization required for planned treatment?
+  input: ""
+  output: |
+    Yes. For elective or expensive procedures, pre-approval is preferred.
+
+- instruction: Does this delegation include dependent family members?
+  input: ""
+  output: |
+    Yes. Eligible dependents are covered as per internal medical policy.
+
+- instruction: Can treatment at non-empaneled hospitals be reimbursed?
+  input: ""
+  output: |
+    Yes, under emergency or justified cases with documentation.
+
+- instruction: Is concurrence of finance needed for reimbursement?
+  input: ""
+  output: |
+    Yes. Finance concurrence is mandatory for all reimbursements.
+
+- instruction: Can the same official approve both treatment and reimbursement?
+  input: ""
+  output: |
+    Ideally, different officers should handle sanction and audit for checks.
+
+- instruction: Are chronic illness treatments covered?
+  input: ""
+  output: |
+    Yes, provided treatment is supported with appropriate medical records.
+
+- instruction: Can OPD treatment bills be reimbursed?
+  input: ""
+  output: |
+    Yes, as per limits and conditions in the medical policy.
+
+- instruction: What if total claims exceed annual health limit?
+  input: ""
+  output: |
+    Only the permissible portion can be reimbursed unless CMD permits.
+
+- instruction: Can bills be submitted after 3 months of treatment?
+  input: ""
+  output: |
+    Delayed claims must be justified and may need CMD approval.
+
+- instruction: What happens if a claim is rejected?
+  input: ""
+  output: |
+    The employee may appeal with additional justification to the next authority.
+
+- instruction: Can reimbursement be made in cash?
+  input: ""
+  output: |
+    No. Payments are made through official banking channels only.
+
+- instruction: Is income tax exemption applicable on medical reimbursements?
+  input: ""
+  output: |
+    As per prevailing tax laws; employees should consult Finance.
+- instruction: Who can approve official foreign visits?
+  input: ""
+  output: |
+    CMD: Full power  
+    Director (Technical): ₹2 lakh per case
+
+- instruction: What is the limit for Director (Technical) to approve foreign visits?
+  input: ""
+  output: |
+    ₹2 lakh per case, subject to relevance and budget availability.
+
+- instruction: Can CGM approve foreign tours?
+  input: ""
+  output: |
+    No. Only CMD and Director (Technical) are empowered.
+
+- instruction: Are training and study tours included under this clause?
+  input: ""
+  output: |
+    Yes. All official travel including training/study purposes is covered.
+
+- instruction: Is finance concurrence mandatory?
+  input: ""
+  output: |
+    Yes. Approval must be accompanied by finance concurrence.
+
+- instruction: Is CMD required to justify foreign visit costs?
+  input: ""
+  output: |
+    Yes. All visits must be cost-effective, need-based, and well documented.
+
+- instruction: Can travel be self-funded and later reimbursed?
+  input: ""
+  output: |
+    Not unless pre-approved. Reimbursement is only for sanctioned cases.
+
+- instruction: What documents are required for approval?
+  input: ""
+  output: |
+    Itinerary, training program details, invitation, cost estimate, and approvals.
+
+- instruction: Can CMD approve multiple officials for a foreign event?
+  input: ""
+  output: |
+    Yes. CMD has full discretion on number and level of officials.
+
+- instruction: What if the visit exceeds ₹2 lakh under Director (Technical)?
+  input: ""
+  output: |
+    Then CMD must approve it.
+
+- instruction: Are these approvals audited?
+  input: ""
+  output: |
+    Yes. All foreign visits are subject to internal and CAG audit.
+
+- instruction: Can personal travel be combined with official visit?
+  input: ""
+  output: |
+    Only with prior approval and cost segregation. Official travel expenses alone are reimbursed.
+
+- instruction: Can officials upgrade their class of travel?
+  input: ""
+  output: |
+    Only as per entitled grade. Any excess cost must be borne personally.
+
+- instruction: Can foreign visits be part of project costs?
+  input: ""
+  output: |
+    Yes, if budgeted and relevant to project objectives.
+
+- instruction: Can spouse travel be included?
+  input: ""
+  output: |
+    Not unless officially required and pre-sanctioned.
+
+- instruction: Is insurance mandatory for foreign visits?
+  input: ""
+  output: |
+    Yes. Travel insurance is mandatory.
+
+- instruction: Is visa cost reimbursable?
+  input: ""
+  output: |
+    Yes. Visa and processing fees are reimbursable.
+
+- instruction: Who certifies the relevance of foreign visits?
+  input: ""
+  output: |
+    The recommending and approving authorities.
+
+- instruction: Can Director (Technical) approve visit to two countries in one tour?
+  input: ""
+  output: |
+    Yes, if total cost is within ₹2 lakh.
+
+- instruction: Are advance payments allowed for travel bookings?
+  input: ""
+  output: |
+    Yes, with proper documentation and sanction.
+- instruction: Who can hire consultants via open tender?
+  input: ""
+  output: |
+    D(T): ₹2 crore  
+    ED: ₹75 lakh  
+    CGM: ₹50 lakh  
+    GM: ₹25 lakh
+
+- instruction: Can consultants be hired without open tender?
+  input: ""
+  output: |
+    Yes, in justified exceptional cases on single/nomination basis.
+
+- instruction: Is finance concurrence required?
+  input: ""
+  output: |
+    Yes. All hiring of consultants requires finance concurrence.
+
+- instruction: Who approves consultants for legal matters?
+  input: ""
+  output: |
+    The same delegation applies unless it falls under Clause 27 (legal fee).
+
+- instruction: Can Sr. M hire any consultants?
+  input: ""
+  output: |
+    No. Sr. M has NIL delegation.
+
+- instruction: Can CGM hire a ₹60 lakh consultant?
+  input: ""
+  output: |
+    No. CGM’s limit is ₹50 lakh. Higher must go to ED or D(T).
+
+- instruction: Are TORs (Terms of Reference) mandatory?
+  input: ""
+  output: |
+    Yes. A well-defined TOR must be part of the proposal.
+
+- instruction: Can a consultant be engaged on performance-based fees?
+  input: ""
+  output: |
+    Yes, subject to clearly defined deliverables.
+
+- instruction: Who evaluates consultant performance?
+  input: ""
+  output: |
+    The user department in consultation with project/functional head.
+
+- instruction: What are deliverables for a technical consultant?
+  input: ""
+  output: |
+    Designs, feasibility reports, DPRs, advisory notes, or audits.
+
+- instruction: Is GST applicable on consultant payments?
+  input: ""
+  output: |
+    Yes, unless exempted under government rules.
+
+- instruction: Can consultants be hired for international projects?
+  input: ""
+  output: |
+    Yes, with specific project justification and budget.
+
+- instruction: Can a single consultant be used for multiple projects?
+  input: ""
+  output: |
+    Yes, if performance is satisfactory and terms allow.
+
+- instruction: Can CMD override financial ceilings for consultant hiring?
+  input: ""
+  output: |
+    Yes, with Board ratification in special cases.
+
+- instruction: Can consultant contracts be extended?
+  input: ""
+  output: |
+    Yes, with justification and within delegation limits.
+
+- instruction: What is the preferred mode of selection?
+  input: ""
+  output: |
+    Open tender or EOI followed by QCBS (Quality-cum-Cost Based System).
+
+- instruction: Can past performance be used as a selection criterion?
+  input: ""
+  output: |
+    Yes. Evaluation should consider experience and results.
+
+- instruction: What records must be maintained?
+  input: ""
+  output: |
+    Selection process, TORs, approvals, and deliverables must be documented.
+
+- instruction: Is empanelment allowed?
+  input: ""
+  output: |
+    Yes. Empaneled consultants can be invited for limited bidding.
+
+- instruction: What if a consultant fails to deliver?
+  input: ""
+  output: |
+    Penalties or termination can be imposed as per contract terms.
+- instruction: Who can approve safety and security service contracts?
+  input: ""
+  output: |
+    D(T): ₹3 crore  
+    ED: ₹1.5 crore  
+    CGM: ₹75 lakh  
+    GM: ₹35 lakh  
+    DGM: ₹15 lakh  
+    Sr. M: ₹5 lakh
+
+- instruction: Are safety and security services treated as works or services?
+  input: ""
+  output: |
+    These are treated as service contracts under the procurement category.
+
+- instruction: Can services be availed through open tender?
+  input: ""
+  output: |
+    Yes. Open tender is the preferred method unless DGR norms apply.
+
+- instruction: What is DGR in the context of security services?
+  input: ""
+  output: |
+    DGR refers to Director General Resettlement, a government body supplying ex-servicemen security personnel.
+
+- instruction: Can agencies be selected through nomination?
+  input: ""
+  output: |
+    Yes, in specific cases such as DGR-sponsored security services or extreme urgency.
+
+- instruction: What documents are required for nominating a security agency?
+  input: ""
+  output: |
+    Justification note, finance concurrence, and approval from competent authority.
+
+- instruction: Is DGR mode mandatory?
+  input: ""
+  output: |
+    DGR-sponsored agencies are preferred for security; open tender is used if DGR is not available or unwilling.
+
+- instruction: What is the limit for DGM to approve a security contract?
+  input: ""
+  output: |
+    ₹15 lakh for both safety and security-related services.
+
+- instruction: Can Sr. Manager approve a ₹10 lakh safety contract?
+  input: ""
+  output: |
+    No. Sr. M's cap is ₹5 lakh only.
+
+- instruction: Can open and limited tenders both be used?
+  input: ""
+  output: |
+    Yes. Selection of tender mode depends on urgency, availability, and value of service.
+
+- instruction: Who handles evaluation of safety tenders?
+  input: ""
+  output: |
+    A tender evaluation committee constituted by the competent authority.
+
+- instruction: What are examples of safety services?
+  input: ""
+  output: |
+    Fire protection, PPE audits, training, hazard assessment, etc.
+
+- instruction: Is cost comparison required for DGR services?
+  input: ""
+  output: |
+    No, as DGR nominations are exempt from price-based bidding.
+
+- instruction: Can one contract combine safety and security services?
+  input: ""
+  output: |
+    No, they should be separated as their qualifications, vendors, and nature differ.
+
+- instruction: Who issues LOA for a ₹1 crore security contract?
+  input: ""
+  output: |
+    CGM or higher authority.
+
+- instruction: What if the DGR agency withdraws midway?
+  input: ""
+  output: |
+    Alternate agency may be engaged via open tender with proper documentation.
+
+- instruction: Are such contracts renewable?
+  input: ""
+  output: |
+    Yes, if provision exists in the original tender and budget is available.
+
+- instruction: Is there a cap on duration of contracts?
+  input: ""
+  output: |
+    Normally up to 3 years; extensions require justification and authority approval.
+
+- instruction: Are inspection reports required?
+  input: ""
+  output: |
+    Yes. Monthly or quarterly performance and deployment reports should be maintained.
+
+- instruction: Can CMD directly approve a security contract?
+  input: ""
+  output: |
+    Yes. CMD holds full powers across all categories.
+- instruction: Who is authorized to approve CSR or Sustainable Development projects?
+  input: ""
+  output: |
+    CMD: Full power  
+    D(T): ₹2 crore  
+    ED: ₹1 crore  
+    CGM: ₹50 lakh
+
+- instruction: Can GM or DGM approve CSR projects?
+  input: ""
+  output: |
+    No. Only CMD, D(T), ED, and CGM are authorized under Clause 26A.
+
+- instruction: Are CSR projects subject to Companies Act?
+  input: ""
+  output: |
+    Yes. CSR must comply with Section 135 of the Companies Act, 2013 and related rules.
+
+- instruction: Can funds be given to NGOs directly?
+  input: ""
+  output: |
+    Yes, if the NGO is registered with MCA and complies with CSR norms.
+
+- instruction: What is Clause 26A(i) about?
+  input: ""
+  output: |
+    It outlines the delegation of powers for CSR approvals by CMD, D(T), ED, and CGM.
+
+- instruction: What is 26A(ii)?
+  input: ""
+  output: |
+    It mandates that all CSR projects must be within the scope of the Companies Act and approved CSR policy.
+
+- instruction: What is 26A(iii) regarding?
+  input: ""
+  output: |
+    It deals with pre-sanctioned budget allocation and approval for each CSR initiative.
+
+- instruction: Who is responsible for CSR project monitoring as per 26B(i)?
+  input: ""
+  output: |
+    The CSR Committee and designated officers are responsible for regular review.
+
+- instruction: What does 26B(ii) specify?
+  input: ""
+  output: |
+    It requires timely reporting, third-party audits, and evaluation for impactful CSR.
+
+- instruction: What is Clause 26C about?
+  input: ""
+  output: |
+    It mandates submission of annual CSR performance reports to the Board.
+
+- instruction: Who prepares the CSR reports?
+  input: ""
+  output: |
+    The CSR Cell or designated team consolidates all project reports for submission.
+
+- instruction: What is Clause 26D?
+  input: ""
+  output: |
+    It allows periodic review and amendment of CSR policy as per changes in law or internal need.
+
+- instruction: Can CSR funds be reallocated mid-year?
+  input: ""
+  output: |
+    Yes, with proper justification and approval from the competent authority.
+
+- instruction: Can administrative overheads be included in CSR budget?
+  input: ""
+  output: |
+    Yes, but must not exceed the ceiling prescribed under Companies Act rules.
+
+- instruction: Can CSR activities be done in project-affected areas?
+  input: ""
+  output: |
+    Yes. Priority is given to local communities affected by projects.
+
+- instruction: Are capital assets under CSR permissible?
+  input: ""
+  output: |
+    Yes, provided they benefit the community and ownership lies with public authorities/NGOs.
+
+- instruction: Can unspent CSR funds be carried forward?
+  input: ""
+  output: |
+    Yes, but they must be transferred to a specified CSR fund if not used in time.
+
+- instruction: Can CSR be used for employee welfare?
+  input: ""
+  output: |
+    No. CSR must be for external stakeholders, not internal benefits.
+
+- instruction: Who signs MoUs with CSR partners?
+  input: ""
+  output: |
+    The sanctioning authority for the CSR project signs the MoU.
+
+- instruction: Can an ongoing CSR project be discontinued?
+  input: ""
+  output: |
+    Only with Board/CSR Committee approval and sufficient cause.
+- instruction: Who can approve payments towards legal or arbitration fees?
+  input: ""
+  output: |
+    CMD: Full power  
+    D(T): ₹10 lakh  
+    ED: ₹5 lakh  
+    CGM: ₹2 lakh
+
+- instruction: Is finance concurrence mandatory for legal fee payments?
+  input: ""
+  output: |
+    Yes. All legal and arbitration fee payments require prior finance concurrence.
+
+- instruction: Can GM or DGM approve legal fees?
+  input: ""
+  output: |
+    No. Only CMD, D(T), ED, and CGM are authorized to approve legal and arbitration fees.
+
+- instruction: What are legal fees covered under this clause?
+  input: ""
+  output: |
+    Fees for advocates, legal advisors, arbitrators, and law firms in relation to NEEPCO’s matters.
+
+- instruction: What is the limit for CGM for legal/arbitration fees?
+  input: ""
+  output: |
+    ₹2 lakh per case with finance concurrence.
+
+- instruction: Can arbitration fees be paid without board approval?
+  input: ""
+  output: |
+    Yes, within delegated powers and subject to concurrence and legal vetting.
+
+- instruction: Are payments allowed to external counsels under this clause?
+  input: ""
+  output: |
+    Yes, subject to rate approval, concurrence, and limit specified.
+
+- instruction: Can CMD authorize payments above ₹10 lakh?
+  input: ""
+  output: |
+    Yes. CMD has full powers under this clause.
+
+- instruction: What happens if legal costs exceed ED’s limit?
+  input: ""
+  output: |
+    The case must be escalated to CMD or D(T) based on the amount.
+
+- instruction: Does this clause cover legal retainers?
+  input: ""
+  output: |
+    Yes, including retainership fees and litigation-specific legal expenses.
+
+- instruction: Can legal expenses be reimbursed without a proper invoice?
+  input: ""
+  output: |
+    No. Proper documentation and GST-compliant invoice must be submitted.
+
+- instruction: Who approves fees to empaneled arbitrators?
+  input: ""
+  output: |
+    As per financial limits of CMD/D(T)/ED/CGM and based on arbitration case complexity.
+
+- instruction: Are there caps per financial year for legal spending?
+  input: ""
+  output: |
+    No explicit cap, but each case is bound by its individual approval limits.
+
+- instruction: What is required along with legal payment approval note?
+  input: ""
+  output: |
+    Legal opinion, concurrence, invoice copy, and case summary.
+
+- instruction: Can pre-approval be waived in emergencies?
+  input: ""
+  output: |
+    No. Pre-approval and concurrence are always required, even for urgent legal matters.
+
+- instruction: Are retainer contract renewals covered under this clause?
+  input: ""
+  output: |
+    Yes, if within limits and following performance assessment.
+
+- instruction: Can arbitration awards be included as fees?
+  input: ""
+  output: |
+    No. This clause only applies to fees for legal/arbitration services, not awards or penalties.
+
+- instruction: Is e-filing/legal tech expenditure allowed?
+  input: ""
+  output: |
+    No. Only service fees for legal professionals are covered.
+
+- instruction: Can a CGM approve multiple legal payments totaling ₹5 lakh?
+  input: ""
+  output: |
+    No. CGM's authority is ₹2 lakh per case.
+
+- instruction: Who has the highest authority for arbitration fee approval?
+  input: ""
+  output: |
+    CMD holds full powers for legal and arbitration fee approvals.
+- instruction: Who can approve donations and contributions to institutions?
+  input: ""
+  output: |
+    CMD: ₹1 lakh per case, up to ₹10 lakh per year
+
+- instruction: Can ED or CGM approve donations?
+  input: ""
+  output: |
+    No. Only CMD is authorized to approve donations and contributions.
+
+- instruction: Are annual limits imposed on CMD for donations?
+  input: ""
+  output: |
+    Yes. ₹10 lakh annually, subject to ₹1 lakh per case.
+
+- instruction: Can donations be given to private NGOs?
+  input: ""
+  output: |
+    Only if vetted, relevant, and approved by CMD within the specified limits.
+
+- instruction: Can grants be extended for academic purposes?
+  input: ""
+  output: |
+    Yes, if deemed beneficial and within CMD's donation authority.
+
+- instruction: What is the process for donation approval?
+  input: ""
+  output: |
+    Submission of proposal with justification, finance concurrence, and CMD approval.
+
+- instruction: Can CMD approve ₹2 lakh for a single donation?
+  input: ""
+  output: |
+    No. Per-case cap is ₹1 lakh.
+
+- instruction: Are political donations covered?
+  input: ""
+  output: |
+    No. Donations to political parties are strictly prohibited.
+
+- instruction: Can recurring donations be made to the same institution?
+  input: ""
+  output: |
+    Yes, provided each request is treated independently and stays within annual limits.
+
+- instruction: What documentation is required?
+  input: ""
+  output: |
+    Application, purpose note, registration certificate of institution, and fund utilization report.
+
+- instruction: Are these donations subject to CSR policies?
+  input: ""
+  output: |
+    No. These are independent of CSR allocations and treated as goodwill support.
+
+- instruction: Who maintains the donation register?
+  input: ""
+  output: |
+    The Finance or CSR wing keeps records and ensures limit adherence.
+
+- instruction: Can CMD donate ₹10 lakh in a single case?
+  input: ""
+  output: |
+    No. Max is ₹1 lakh per case.
+
+- instruction: Is audit oversight applicable?
+  input: ""
+  output: |
+    Yes. Donations and grants are subject to internal and statutory audit review.
+
+- instruction: Can CMD donate to a school near a project site?
+  input: ""
+  output: |
+    Yes, provided it follows guidelines and limits.
+
+- instruction: Can donations be made in kind?
+  input: ""
+  output: |
+    Yes, subject to proper valuation and limits.
+
+- instruction: Is Board approval needed?
+  input: ""
+  output: |
+    No. CMD's power is sufficient within stated limits.
+
+- instruction: What if donations exceed ₹10 lakh/year?
+  input: ""
+  output: |
+    Approval beyond ₹10 lakh/year requires Board or higher-level clearance, not covered under Clause 28.
+
+- instruction: Can CMD approve grants to government bodies?
+  input: ""
+  output: |
+    Yes, within the delegated authority.
+
+- instruction: Are there format templates for such approvals?
+  input: ""
+  output: |
+    Yes, standard approval note formats with budget and concurrence sections are used.
+- instruction: Who can initiate or defend legal proceedings on behalf of NEEPCO?
+  input: ""
+  output: |
+    CMD: Full power  
+    Director (Technical): Full power for technical/legal matters  
+    ED/CGM: Full power for routine matters in regional/local courts
+
+- instruction: Who can approve out-of-court settlements?
+  input: ""
+  output: |
+    CMD: Full power, based on legal advice and finance concurrence
+
+- instruction: Can CGM approve settlement of disputes in arbitration?
+  input: ""
+  output: |
+    No. Only CMD can approve out-of-court settlements.
+
+- instruction: What documentation is needed for approving a legal case?
+  input: ""
+  output: |
+    Legal vetting, summary of case, estimated liability, and concurrence
+
+- instruction: Are internal disputes between departments handled under this clause?
+  input: ""
+  output: |
+    No. This clause applies to external legal proceedings involving third parties.
+
+- instruction: What types of cases fall under "routine"?
+  input: ""
+  output: |
+    Labour issues, small claims, and local contract disputes at regional court level
+
+- instruction: Is legal concurrence required for court cases?
+  input: ""
+  output: |
+    Yes. Legal vetting is mandatory for all actions under this clause.
+
+- instruction: What if settlement value exceeds ₹5 crore?
+  input: ""
+  output: |
+    Still requires CMD's approval with finance and legal concurrence.
+
+- instruction: Can DGM authorize court cases?
+  input: ""
+  output: |
+    No. Only ED/CGM and above are authorized under this clause.
+
+- instruction: Are settlements with suppliers covered here?
+  input: ""
+  output: |
+    Yes, if resolved legally and approved by CMD.
+
+- instruction: Can CMD withdraw a case already filed?
+  input: ""
+  output: |
+    Yes, based on legal advice and documentation.
+
+- instruction: Are tax disputes also included?
+  input: ""
+  output: |
+    Yes, including income tax, GST, and local tax litigations.
+
+- instruction: Is Board approval required for court appeals?
+  input: ""
+  output: |
+    No, CMD has full power.
+
+- instruction: Who can represent NEEPCO in court?
+  input: ""
+  output: |
+    Advocates engaged by CMD/D(T)/ED/CGM as per case requirement.
+
+- instruction: Is arbitration award enforcement covered?
+  input: ""
+  output: |
+    Yes, it can be pursued through courts as per legal advice.
+
+- instruction: What is required before settlement decision is made?
+  input: ""
+  output: |
+    Legal vetting, proposal from concerned department, and finance concurrence
+
+- instruction: Can settlement be approved orally?
+  input: ""
+  output: |
+    No. Written documentation and approvals are compulsory.
+
+- instruction: Can CMD authorize legal representation abroad?
+  input: ""
+  output: |
+    Yes, subject to case relevance and Ministry guidelines.
+
+- instruction: Is quarterly reporting required for settlements?
+  input: ""
+  output: |
+    Yes, settlements must be recorded and reported periodically.
+
+- instruction: Can ED settle matters above ₹5 crore?
+  input: ""
+  output: |
+    No. Only CMD holds full power irrespective of amount.
+- instruction: Who is responsible for compliance to audit and CAG observations?
+  input: ""
+  output: |
+    CMD and the concerned Director based on the nature and scope of the audit objection.
+
+- instruction: Are regional offices also responsible for compliance?
+  input: ""
+  output: |
+    Yes, based on jurisdiction. Final responsibility lies with the concerned Director and CMD.
+
+- instruction: What types of audits fall under this clause?
+  input: ""
+  output: |
+    Internal audit, statutory audit, CAG, and external special audits.
+
+- instruction: What is the process after receiving an audit objection?
+  input: ""
+  output: |
+    Examine the issue, take corrective action, respond with facts, and ensure documentation.
+
+- instruction: Can audit objections be waived?
+  input: ""
+  output: |
+    No. They must be addressed with proper justifications and approvals.
+
+- instruction: Who signs off the compliance report?
+  input: ""
+  output: |
+    Concerned functional director and CMD.
+
+- instruction: Can an officer ignore minor audit remarks?
+  input: ""
+  output: |
+    No. All observations must be responded to formally.
+
+- instruction: What role does finance play in audit replies?
+  input: ""
+  output: |
+    Finance is consulted for factual accuracy and compliance with financial rules.
+
+- instruction: Are audit replies reviewed by external authorities?
+  input: ""
+  output: |
+    Yes, especially by CAG and Ministry.
+
+- instruction: What happens in case of repeat audit findings?
+  input: ""
+  output: |
+    Escalation to CMD and accountability action may be initiated.
+
+- instruction: Is there a time limit for audit response?
+  input: ""
+  output: |
+    Yes, usually within 15–30 days depending on audit type.
+
+- instruction: Can CMD delegate audit compliance responsibility?
+  input: ""
+  output: |
+    Only operational execution can be delegated — responsibility remains with CMD/Director.
+
+- instruction: Are draft audit paras treated with same importance?
+  input: ""
+  output: |
+    Yes. Draft paras must be addressed proactively.
+
+- instruction: What format is used for audit compliance submission?
+  input: ""
+  output: |
+    As per Audit Wing/Ministry prescribed templates.
+
+- instruction: What if an audit observation has financial implications?
+  input: ""
+  output: |
+    Corrective entry/action must be taken and reported.
+
+- instruction: Does CAG conduct field verification?
+  input: ""
+  output: |
+    Yes. Random sampling or special case audits are possible.
+
+- instruction: Are audit responses discussed in Board Meetings?
+  input: ""
+  output: |
+    Major ones may be brought to Board's notice.
+
+- instruction: Is training provided for audit handling?
+  input: ""
+  output: |
+    Yes. Audit & vigilance sessions are periodically held.
+
+- instruction: Are system changes allowed based on audit feedback?
+  input: ""
+  output: |
+    Yes. Audit-driven reforms are encouraged.
+
+- instruction: Can a clause be reinterpreted based on audit comments?
+  input: ""
+  output: |
+    Yes, if consistent with policy and approved by legal/finance.
+- instruction: Who can declare holidays for NEEPCO offices and units?
+  input: ""
+  output: |
+    CMD: Full power  
+    Director (Technical): Regional holidays for units under control  
+    ED/CGM: Two local holidays at the project/office level
+
+- instruction: Can CGM declare a public holiday independently?
+  input: ""
+  output: |
+    No. Only two local holidays per year can be declared by CGM. Public holidays must be declared by CMD or D(T).
+
+- instruction: What are local holidays?
+  input: ""
+  output: |
+    Holidays specific to the local customs or festivals near a project/unit.
+
+- instruction: Can ED declare holidays for entire region?
+  input: ""
+  output: |
+    No. Only CMD and D(T) have authority for broader declarations.
+
+- instruction: How are declared holidays communicated?
+  input: ""
+  output: |
+    Through official circulars, intranet notification, or email.
+
+- instruction: Can holidays be declared retroactively?
+  input: ""
+  output: |
+    No. Holidays must be notified in advance unless in extreme cases.
+
+- instruction: Are Saturday/Sunday shifts included under this clause?
+  input: ""
+  output: |
+    No. Weekly offs are scheduled and not treated as holidays.
+
+- instruction: Can holidays be adjusted with compensatory duty?
+  input: ""
+  output: |
+    Yes, subject to approval by competent authority.
+
+- instruction: What is the limit for local holidays per year?
+  input: ""
+  output: |
+    Maximum of two per unit, per year by ED/CGM.
+
+- instruction: Who finalizes the annual holiday calendar?
+  input: ""
+  output: |
+    CMD, in consultation with HR and administrative departments.
+
+- instruction: Can project site heads propose holiday dates?
+  input: ""
+  output: |
+    Yes. Proposal must be routed to CGM/ED/D(T) for approval.
+
+- instruction: Are emergency situations allowed as holiday triggers?
+  input: ""
+  output: |
+    Yes, with immediate intimation and post-facto approval.
+
+- instruction: Can DGM approve holiday for a particular section?
+  input: ""
+  output: |
+    No. Only CMD/D(T)/ED/CGM are empowered.
+
+- instruction: Is it mandatory to match state holidays?
+  input: ""
+  output: |
+    Not mandatory, but generally aligned where feasible.
+
+- instruction: Can a declared holiday be revoked?
+  input: ""
+  output: |
+    Only by the same authority who declared it, with valid reasons.
+
+- instruction: Is holiday declaration audited?
+  input: ""
+  output: |
+    Yes, especially in relation to manpower attendance records.
+
+- instruction: Can declared holidays vary across NEEPCO units?
+  input: ""
+  output: |
+    Yes. Based on location-specific customs.
+
+- instruction: What record is maintained for holidays?
+  input: ""
+  output: |
+    Annual holiday calendar and circular archive.
+
+- instruction: Are holidays during elections included here?
+  input: ""
+  output: |
+    Yes, as per government notifications.
+
+- instruction: Who can declare a mourning day holiday?
+  input: ""
+  output: |
+    CMD or D(T), based on central/state notification or organizational relevance.
