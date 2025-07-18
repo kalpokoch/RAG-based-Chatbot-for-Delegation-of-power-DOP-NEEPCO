@@ -430,3 +430,30 @@ clauses:
       - On finalization of tender, procurement shall be done from the lowest bidder in phased manner depending on project requirement.
       - For limited tender, reasons are to be recorded before approval of the next higher authority. Dir (Tech) shall be the self-approving authority.
       - During urgency, explosives may be procured on offer basis for limited quantity from reputed manufacturers/dealers.
+
+- clause: 9
+  title: Handling & transportation of materials including clearances
+  subclauses:
+    - id: a
+      description: Open Tender {Remarks under Clause 2(a) of Section-I shall be complied.}
+      delegation:
+        D(T): Full Power
+        ED: ₹3 Crore
+        CGM: ₹70 Lakh
+        GM: ₹15 Lakh
+        DGM: ₹3 Lakh
+        Sr. M: ---
+    - id: b
+      description: Limited Tender {Remarks under Clause 2(b) of Section-I shall be complied.}
+      delegation:
+        D(T): Full Power
+        ED: ₹60 Lakh
+        CGM: ₹20 Lakh
+        GM: ₹2 Lakh
+        DGM: ₹1 Lakh
+        Sr. M: --
+  remarks:
+    - Empanelment of transporters may be made through open tenders for a maximum period of 2 (two) years.
+    - Price offers shall be invited from the empaneled transporters to fix up the rates of transportation of different materials, for different destinations.
+    - Engagement of numbers of transporters may be decided based on the quantity of materials and permissible time for the same.
+    - Transportation contracts shall be made as per project requirements at L1 price arrived at through invitation of price offers from the empaneled transporters. Approval on award shall be treated in terms of delegation of this clause.
