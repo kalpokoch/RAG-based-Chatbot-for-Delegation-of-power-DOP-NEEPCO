@@ -457,3 +457,63 @@ clauses:
     - Price offers shall be invited from the empaneled transporters to fix up the rates of transportation of different materials, for different destinations.
     - Engagement of numbers of transporters may be decided based on the quantity of materials and permissible time for the same.
     - Transportation contracts shall be made as per project requirements at L1 price arrived at through invitation of price offers from the empaneled transporters. Approval on award shall be treated in terms of delegation of this clause.
+
+- clause: 10
+  title: Canalised imports through Public Sector Units
+  subclauses:
+    - id: a
+      description: Canalised imports through Public Sector Units
+      delegation:
+        D(T): ₹5 crore
+        ED: ₹3 crore
+        CGM: ₹1 crore
+        GM: ₹75 lakh
+        DGM: ₹50 lakh
+        Sr. M: ---
+      remarks:
+        - Estimate is to be approved.
+        - Formal requisition from the project authority is required.
+
+
+- clause: 11
+  title: Grant of extension of time for works/supplies/services/consultancies with or without levy of penalty
+  subclauses:
+    - id: a
+      description: Grant of extension of time for works/supplies/services/consultancies with or without levy of penalty
+      delegation:
+        D(T): Full power
+        ED: Up to 50% of original time or 18 months, whichever is less, for contracts/orders awarded by ED and full power for contracts/orders approved by lower authority
+        CGM: Up to 50% of original time or 18 months, whichever is less, for contracts/orders awarded by CGM and full power for contracts/orders approved by lower authority
+        GM: ---
+        DGM: ---
+        Sr. M: ---
+      remarks:
+        - In case of non-applicability of Force Majeure, extension may be granted subject to the following conditions
+        - That the works/supplies/services/consultancies are still required by the project within the extended time.
+        - That the tender for the works/supplies/services/consultancies has not been accepted for higher value on account of earlier execution via re-tender.
+        - Market economics suggest the benefit in time extension.
+        - These powers shall be exercised with concurrence of Finance.
+
+    - id: b
+      description: Grant of extension of time for works/supplies/services/consultancies with reduction/waiver of penalty
+      delegation:
+        D(T): Full power
+        ED: Full power for order issued by authority below ED
+        CGM: ---
+        GM: ---
+        DGM: ---
+        Sr. M: ---
+      remarks:
+        - In case of non-applicability of Force Majeure, extension may be granted subject to the following conditions
+        - That the works/supplies/services/consultancies are still required by the project within the extended time.
+        - That the tender for the works/supplies/services/consultancies has not been accepted for higher value on account of earlier execution via re-tender.
+        - Market economics suggest the benefit in time extension.
+        - These powers shall be exercised with concurrence of Finance.
+
+    - id: c
+      description: Provisional extension of time
+      delegation: Provisional extension will be granted by HOP/HOD with intimation to concerned ED and contract awarding authority
+      remarks:
+        - The reasons for delay in completion of works/supplies/services may be diverse and may require time for final admissibility.
+        - Provisional extension of time with or without liquidated damages shall be considered where delay reasons exist, to protect the rights of the corporation.
+        - If LD is applicable, the corporation's intent to recover LD should be indicated while granting provisional extension.
