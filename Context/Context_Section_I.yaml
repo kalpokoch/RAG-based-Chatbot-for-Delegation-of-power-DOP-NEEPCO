@@ -517,3 +517,43 @@ clauses:
         - The reasons for delay in completion of works/supplies/services may be diverse and may require time for final admissibility.
         - Provisional extension of time with or without liquidated damages shall be considered where delay reasons exist, to protect the rights of the corporation.
         - If LD is applicable, the corporation's intent to recover LD should be indicated while granting provisional extension.
+
+- clause: 12
+  title: Repeat orders
+  subclauses:
+    - id: a
+      description: Repeat orders may be placed on the same party on the same rates, terms and conditions as stipulated in the original order with finance concurrence against previous orders placed on open or limited tender basis, or single tender involving proprietary Article certificate or source standardization.
+      delegation:
+        D(T): Up to 50% of the original order value approved by him or his lower authority
+        ED: Up to 50% of the original order value approved by him or his lower authority
+        CGM: Up to 50% of the original order value approved by him or his lower authority
+        GM: Up to 50% of the original order value approved by him or his lower authority
+        DGM: Up to 50% of the original order value approved by him or his lower authority
+        Sr. M: --
+      remarks:
+        - Full justification to be recorded.
+        - Repeat orders may be placed on the same party on the same rates, terms and conditions as stipulated in the original order with finance concurrence against previous orders placed on open or limited tender basis, or single tender involving proprietary Article certificate or source standardization subject to the following
+        - i) The normal processing of the case is likely to delay the procurement and adversely affect the work.
+        - ii) The date of repeat order will not be more than three months after completion of the earlier order.
+        - iii) A reasonable assessment and certification by the purchasing authority that there has been no downward trend in prices.
+        - iv) The prices against earlier order were not escalated to compensate for earlier deliveries.
+        - v) In the event the repeat order envisages different location for delivery/work, suitable adjustment in price shall be considered to cover this aspect. Suitable enhancement on account of price variation over the base price of the original order may also be considered in case the delivery in repeat order is later than the delivery in the original order.
+        - vi) The award value of repeat order shall not exceed ₹1 crore.
+        - vii) This item of delegation does not apply, to cases where repeat order option has been provided for in the original order. In such cases, the authority empowered to approve the repeat order option shall be the same as competent to approve the original award.
+        - viii) If the original order is for single unit (which is indivisible), the repeat order can be for one single unit.
+
+- clause: 13
+  title: Award of work (Deposit work) to Govt. Deptt. / Autonomous bodies of the Govt./Govt. Agencies/ Public Sector Undertakings
+  subclauses:
+    - id: a
+      description: Award of work (Deposit work) to Govt. Deptt. / Autonomous bodies of the Govt./Govt. Agencies/ Public Sector Undertakings
+      delegation:
+        D(T): ₹20 Crore
+        ED: ₹10 Crore
+        CGM: ₹2 Crore
+        GM: ₹1.5 Crore
+        DGM: ---
+        Sr. M: ---
+      remarks:
+        - Reasons for resorting to Deposit Work should be recorded.
+        - Powers are to be exercised by the ED/HOP/HOD not below the rank of E-8 after considering all factors like urgency, specialized jobs, availability of budget, reasonableness of rates and after ascertaining that the same rates are being charged from other Government departments.
