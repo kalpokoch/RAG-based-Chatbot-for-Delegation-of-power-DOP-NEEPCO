@@ -2483,7 +2483,7 @@
   output: A recurring petty cash advance for ongoing use, reimbursed regularly.
 
 - instruction: Can imprest be used for emergency purchases?
-   input: ""
+  input: ""
   output: Yes, if within limits and approved by eligible officers.
 
 - instruction: Does this clause cover temporary imprest too?
