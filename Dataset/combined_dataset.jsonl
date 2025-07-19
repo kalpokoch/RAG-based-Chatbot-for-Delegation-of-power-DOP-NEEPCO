@@ -2192,6 +2192,312 @@
 {"instruction": "Who approves international media interactions?", "input": "", "output": "EDs have Full Powers for all press conferences regardless of location."}
 {"instruction": "Are press kits and handouts included in the limits?", "input": "", "output": "Yes, as part of press conference expenditures."}
 {"instruction": "What defines an 'approved' press conference?", "input": "", "output": "The clause does not specify but likely means pre-authorized in company plans."}
+{"instruction": "Who has the authority to constitute TAC/POE or techno-legal consultants?", "input": "", "output": "D(T) has Full Powers to constitute TAC/POE or techno-legal consultants."}
+{"instruction": "Who can set up Technical Advisory Committees or Panels of Experts?", "input": "", "output": "The Director (Technical) has Full Powers to constitute such committees."}
+{"instruction": "What is Clause 37(a) about?", "input": "", "output": "It deals with the constitution of TAC/POE/techno-legal consultants."}
+{"instruction": "Does D(T) need approval for forming techno-legal panels?", "input": "", "output": "No, D(T) holds Full Powers for such constitution."}
+{"instruction": "Can anyone other than D(T) form TACs under Clause 37(a)?", "input": "", "output": "No, only D(T) is authorized under this clause."}
+{"instruction": "Is there any financial or time limit in constituting TAC under Clause 37(a)?", "input": "", "output": "No, D(T) has Full Powers without specific ceilings."}
+{"instruction": "Who handles engagement of techno-legal consultants for technical evaluations?", "input": "", "output": "The Director (Technical) under Clause 37(a) with Full Powers."}
+{"instruction": "What grade is required to constitute POEs in NEEPCO?", "input": "", "output": "Clause 37(a) authorizes D(T) regardless of grade, as it assigns Full Powers."}
+{"instruction": "Who can engage a technical expert for a short-term assignment?", "input": "", "output": "D(T) has Full Powers to engage technical experts for up to 3 months."}
+{"instruction": "What is the delegation limit for hiring a technical consultant?", "input": "", "output": "Full Powers for engagement up to 3 months under Director (Technical)."}
+{"instruction": "Can D(T) engage a technical consultant for a year?", "input": "", "output": "No, engagement is limited to 3 months under Clause 37(b)."}
+{"instruction": "Under Clause 37(b), who approves short-term technical consultancy?", "input": "", "output": "Director (Technical) is empowered to approve up to 3-month engagements."}
+{"instruction": "Is there any rank requirement to engage technical consultants?", "input": "", "output": "Yes, only D(T) is authorized under Clause 37(b)."}
+{"instruction": "What does Clause 37(b) allow regarding consultants?", "input": "", "output": "It allows D(T) to engage individual technical consultants for up to 3 months."}
+{"instruction": "Who can hire experts for engineering design or technical review?", "input": "", "output": "Director (Technical) with Full Powers under Clause 37(b)."}
+{"instruction": "Can HODs appoint technical experts under Clause 37(b)?", "input": "", "output": "No, this authority rests only with the Director (Technical)."}
+{"instruction": "Who is authorized to appoint HR consultants?", "input": "", "output": "Director (Projects) is authorized to engage HR consultants for up to 3 months."}
+{"instruction": "What does Clause 37(c) cover?", "input": "", "output": "It covers engagement of individuals as HR consultants/experts for up to 3 months."}
+{"instruction": "What is the engagement limit for HR consultants?", "input": "", "output": "D(P) has Full Powers for engagement up to 3 months."}
+{"instruction": "Can HR consultants be hired for 6 months under this clause?", "input": "", "output": "No, Clause 37(c) allows engagement only up to 3 months."}
+{"instruction": "Who can recruit HR experts for organizational restructuring?", "input": "", "output": "Director (Projects) under Clause 37(c) has this authority."}
+{"instruction": "Is any approval needed for short HR consultant engagement?", "input": "", "output": "No, Director (Projects) has Full Powers for 3-month engagements."}
+{"instruction": "Can GM(HR) engage HR consultants?", "input": "", "output": "No, only D(P) is authorized under Clause 37(c)."}
+{"instruction": "Who approves HR consultancy for training development projects?", "input": "", "output": "Director (Projects) under Full Powers delegated in Clause 37(c)."}
+{"instruction": "What authority exists for hiring financial consultants?", "input": "", "output": "D(F) has Full Powers to engage finance consultants for up to 3 months."}
+{"instruction": "What is the scope of Clause 37(d)?", "input": "", "output": "Engagement of individual finance consultants or experts for up to 3 months."}
+{"instruction": "Can a finance consultant be hired indefinitely under Clause 37(d)?", "input": "", "output": "No, the limit is engagement up to 3 months."}
+{"instruction": "Who engages experts for financial restructuring or advisory?", "input": "", "output": "Director (Finance) under Clause 37(d)."}
+{"instruction": "Is there a limit to how long D(F) can hire finance consultants?", "input": "", "output": "Yes, engagement is limited to 3 months."}
+{"instruction": "Does D(F) need higher approval to appoint a finance expert?", "input": "", "output": "No, D(F) has Full Powers for engagement under Clause 37(d)."}
+{"instruction": "Can D(F) reappoint a finance consultant after 3 months?", "input": "", "output": "The clause allows engagement only up to 3 months per term."}
+{"instruction": "Who approves engagement of finance consultants for budgeting tasks?", "input": "", "output": "D(F) under Clause 37(d), within Full Powers for 3-month duration."}
+{"instruction": "Who can constitute a Technical Advisory Committee (TAC)?", "input": "", "output": "Only Director (Technical) has Full Powers to constitute TACs."}
+{"instruction": "Can a Chief Engineer form a Panel of Experts (POE)?", "input": "", "output": "No, only D(T) can constitute POEs as per Clause 37(a)."}
+{"instruction": "What types of consultants can D(T) engage under 37(a)?", "input": "", "output": "Techno-legal consultants and members for TAC/POE."}
+{"instruction": "Is board approval needed for TAC formation?", "input": "", "output": "No, D(T) has Full Powers without higher approvals."}
+{"instruction": "Can D(T) delegate TAC constitution authority?", "input": "", "output": "The clause doesn't permit sub-delegation of this power."}
+{"instruction": "Are there term limits for TAC members?", "input": "", "output": "The clause doesn't specify duration for committee formations."}
+{"instruction": "Does this cover international technical consultants?", "input": "", "output": "Yes, as 'Full Powers' implies no geographic restrictions."}
+{"instruction": "What about reconstitution of existing TACs?", "input": "", "output": "Would also require D(T) approval under this clause."}
+{"instruction": "Who can engage a turbine maintenance expert?", "input": "", "output": "Director (Technical) can engage for up to 3 months."}
+{"instruction": "Can D(T) extend engagement beyond 3 months?", "input": "", "output": "No, the clause specifies strict 3-month limit for individual consultants."}
+{"instruction": "Are there financial limits for technical consultants?", "input": "", "output": "No, D(T) has Full Powers within the 3-month duration."}
+{"instruction": "Can a GM (Projects) hire short-term technical advisors?", "input": "", "output": "No, only D(T) has this authority."}
+{"instruction": "Does the 3-month limit apply to TAC members?", "input": "", "output": "No, 37(b) only covers individual consultants, not committee members."}
+{"instruction": "Are foreign technical experts covered?", "input": "", "output": "Yes, if engaged by D(T) within 3-month limit."}
+{"instruction": "What about part-time technical consultants?", "input": "", "output": "Yes, if engaged through D(T) under the same conditions."}
+{"instruction": "Can multiple 3-month contracts be issued consecutively?", "input": "", "output": "The clause doesn't prohibit but may violate policy intent."}
+{"instruction": "Who can approve hiring an organizational development consultant?", "input": "", "output": "Director (Projects) for engagements up to 3 months."}
+{"instruction": "Can D(P) engage HR consultants for 6 months?", "input": "", "output": "No, strict 3-month limit applies as per Clause 37(c)."}
+{"instruction": "Does this cover recruitment process outsourcing?", "input": "", "output": "Yes, if classified as HR consultancy within 3-month duration."}
+{"instruction": "Can HOD(HR) engage temporary training specialists?", "input": "", "output": "No, only D(P) has this authority."}
+{"instruction": "Are there budget restrictions for HR consultants?", "input": "", "output": "No, D(P) has Full Powers within the 3-month limit."}
+{"instruction": "Does this include industrial relations advisors?", "input": "", "output": "Yes, all HR-related expert engagements are covered."}
+{"instruction": "Can the 3-month period be split into intermittent assignments?", "input": "", "output": "The clause doesn't specify but likely means continuous 3 months."}
+{"instruction": "Who monitors HR consultant performance?", "input": "", "output": "The clause doesn't specify monitoring mechanisms."}
+{"instruction": "Who can engage a forensic accounting expert?", "input": "", "output": "Director (Finance) for up to 3 months."}
+{"instruction": "Can D(F) hire tax consultants indefinitely?", "input": "", "output": "No, maximum 3-month engagement period applies."}
+{"instruction": "Are audit specialists covered under this clause?", "input": "", "output": "Yes, if engaged as individual consultants."}
+{"instruction": "Can CFO delegate finance consultant approvals?", "input": "", "output": "No, the authority rests solely with D(F)."}
+{"instruction": "Does this cover international financial advisors?", "input": "", "output": "Yes, D(F) can engage regardless of consultant's location."}
+{"instruction": "What about part-time financial modelers?", "input": "", "output": "Yes, if engaged through D(F) within 3-month limit."}
+{"instruction": "Can the 3-month period be extended under special circumstances?", "input": "", "output": "The clause doesn't provide exception mechanisms."}
+{"instruction": "Are there reporting requirements for consultant deliverables?", "input": "", "output": "The clause doesn't specify reporting structures."}
+{"instruction": "Who can approve TAC/POE visits to project sites?", "input": "", "output": "HOP or HOD not below the grade of E-8"}
+{"instruction": "What is the authority level required to sanction TAC-related expenses?", "input": "", "output": "Full Powers are delegated to HOP or HOD of at least E-8 grade"}
+{"instruction": "Can a Deputy Manager approve TAC/POE visit expenses?", "input": "", "output": "No, only HOP or HOD not below E-8 grade can sanction such expenses"}
+{"instruction": "Who bears the cost of TAC/POE visits?", "input": "", "output": "The expenditure is chargeable to the respective project"}
+{"instruction": "What rank must a HOD hold to approve POE site visits?", "input": "", "output": "At least E-8 grade is required to exercise approval powers"}
+{"instruction": "Is prior administrative approval required before sanctioning TAC visits?", "input": "", "output": "Yes, administrative approval must be obtained before incurring expenses"}
+{"instruction": "Does Clause 38(a) include both TAC and POE visit costs?", "input": "", "output": "Yes, it covers visit-related expenses for both TAC and POE teams"}
+{"instruction": "Can project funds be used for POE visit approvals?", "input": "", "output": "Yes, but only after administrative approval, and costs must be charged to the project"}
+{"instruction": "Are there any financial limits for TAC/POE visit approvals?", "input": "", "output": "No, the clause allows Full Powers without a specific monetary cap"}
+{"instruction": "Who handles TAC visit approvals in the absence of the HOP?", "input": "", "output": "The clause does not specify alternates; typically, it remains with the next authorized HOD ≥ E-8"}
+{"instruction": "Who has Full Powers to approve external studies through institutions?", "input": "", "output": "Director (Technical) has Full Powers for such studies"}
+{"instruction": "What is the maximum amount an ED can approve for R&D studies?", "input": "", "output": "Up to ₹1 crore per case"}
+{"instruction": "Can HOD(D&E) approve model consultancy studies?", "input": "", "output": "Yes, but only up to ₹20 lakh per case"}
+{"instruction": "Are public universities allowed to conduct approved model tests?", "input": "", "output": "Yes, studies may be conducted through external institutions including universities"}
+{"instruction": "Who approves valuation studies through government agencies?", "input": "", "output": "Depending on the cost - D(T), ED, or HOD(D&E/RE) if within their limits"}
+{"instruction": "Can ₹25 lakh be approved by a HOD(RE)?", "input": "", "output": "No, HOD(RE) is limited to ₹20 lakh per case"}
+{"instruction": "What is the authority of Director (Technical) under Clause 38(b)?", "input": "", "output": "Director (Technical) has Full Powers for all model studies and consultancy approvals"}
+{"instruction": "Is there a financial ceiling for approvals by EDs?", "input": "", "output": "Yes, EDs can approve up to ₹1 crore in each case"}
+{"instruction": "Do limits in Clause 38(b) apply per annum or per project?", "input": "", "output": "The limits apply per case, not per annum"}
+{"instruction": "Can HOD(D&E) and HOD(RE) both approve up to ₹20 lakh?", "input": "", "output": "Yes, both can approve up to ₹20 lakh per case if they are at least of E-8 rank"}
+{"instruction": "Can a HOD approve visits for multiple projects simultaneously?", "input": "", "output": "Yes, as long as each has independent administrative approval and project budget allocation."}
+{"instruction": "What constitutes 'associated expenses' for such visits?", "input": "", "output": "The clause implies travel, accommodation, and related logistical costs."}
+{"instruction": "Can the same officer approve both committee formation and visits?", "input": "", "output": "Only if they hold appropriate authority for both actions separately."}
+{"instruction": "Are there daily allowance limits for committee members?", "input": "", "output": "The clause doesn't specify but would follow company travel policies."}
+{"instruction": "How are overlapping project visit expenses handled?", "input": "", "output": "Must be clearly allocated to respective project budgets as per the clause."}
+{"instruction": "Does this cover collaborations with IITs/CSIR labs?", "input": "", "output": "Yes, includes all government/autonomous/PSU institutions."}
+{"instruction": "Can multiple small studies be combined to bypass limits?", "input": "", "output": "No, the limit applies 'in each case' (per individual study)."}
+{"instruction": "What about multi-year technical research projects?", "input": "", "output": "Would require separate approvals per fiscal year within limits."}
+{"instruction": "Who is authorized to approve outsourced AutoCAD drawing work under Clause 39(1)?", "input": "", "output": "HOP or HOD (D&E/RE/CA/CP/HR) not below the grade of E-8 has Full Powers. DGM (Tech) of E7 grade can approve up to ₹10,000 per case, subject to ₹1 lakh annual ceiling."}
+{"instruction": "What is the financial ceiling for DGM (Tech) when approving outsourced documentation?", "input": "", "output": "₹10,000 per case with an annual ceiling of ₹1 lakh."}
+{"instruction": "Can an E6-level officer approve digitization of drawings?", "input": "", "output": "No, only E7 (DGM-Tech) and E8+ HOD/HOP are authorized."}
+{"instruction": "Is scanning of drawings covered under Clause 39(1)?", "input": "", "output": "Yes, scanning, digitization, and preparation of drawings are covered if outsourced."}
+{"instruction": "Who approves outsourcing of CAD documentation beyond ₹10,000 per case?", "input": "", "output": "Only HOP/HOD (E8 and above) have Full Powers for such approvals."}
+{"instruction": "Are external documentation works permitted without rate approval?", "input": "", "output": "No, they must be carried out at approved and reasonable rates."}
+{"instruction": "Does this clause cover GIS drawing digitization?", "input": "", "output": "Yes, any drawing/documentation work including GIS digitization is covered if outsourced."}
+{"instruction": "Can multiple ₹10,000 cases be approved by DGM within the year?", "input": "", "output": "Yes, up to the annual ceiling of ₹1 lakh."}
+{"instruction": "What is Clause 39(2) about?", "input": "", "output": "It pertains to approval for purchase of consumable items related to production of design/drawings/CAD drawings."}
+{"instruction": "What is the monetary limit for DGM(Tech) for CAD consumables?", "input": "", "output": "₹5,000 per case, subject to an annual ceiling of ₹20,000."}
+{"instruction": "Can HOD approve purchase of CAD ink cartridges?", "input": "", "output": "Yes, HOP/HOD not below E8 have Full Powers for such purchases."}
+{"instruction": "Are plotting sheets considered CAD consumables under Clause 39(2)?", "input": "", "output": "Yes, if they are used for production of design/drawings."}
+{"instruction": "Who can approve ₹8,000 worth of consumables for CAD printing?", "input": "", "output": "Only HOP/HOD (≥E8), as DGM is limited to ₹5,000 per case."}
+{"instruction": "Is there an annual limit for CAD consumable purchases by DGM?", "input": "", "output": "Yes, ₹20,000 annually."}
+{"instruction": "What must be obtained before purchasing emergency stationery under Clause 39(3)?", "input": "", "output": "A non-availability certificate from Stores/SD/IT&C must be obtained."}
+{"instruction": "Who can approve emergency purchase of drawing paper?", "input": "", "output": "HOP/HOD not below E8 grade can approve such purchases under Clause 39(3)."}
+{"instruction": "Can a manager-level officer procure emergency CAD supplies?", "input": "", "output": "No, only HOP/HOD (E8 and above) are authorized."}
+{"instruction": "Is printer toner purchase allowed under Clause 39(3)?", "input": "", "output": "Yes, if justified for drawing purposes and not available in stores."}
+{"instruction": "What is Clause 39(4) related to?", "input": "", "output": "It covers expenditure on printing of DPR (Detailed Project Report), PFR (Pre-feasibility Report), and Due Diligence studies."}
+{"instruction": "Who approves printing of feasibility study documents?", "input": "", "output": "HOP or HOD not below the grade of E-8 has Full Powers for such printing expenses."}
+{"instruction": "Can an E7 DGM approve printing of PFR reports?", "input": "", "output": "No, only E8-grade HOP/HOD are authorized under this clause."}
+{"instruction": "Are digital prints of DPR covered under Clause 39(4)?", "input": "", "output": "Yes, all printing formats are included."}
+{"instruction": "What is the financial limit for printing DPRs?", "input": "", "output": "There is no specific monetary ceiling; E8+ officers have Full Powers."}
+{"instruction": "Can multiple DPRs be printed under a single sanction?", "input": "", "output": "Yes, as long as the officer has Full Powers and proper justification."}
+{"instruction": "Is third-party printing allowed for DPRs?", "input": "", "output": "Yes, printing may be outsourced as long as it's approved by the designated authority."}
+{"instruction": "Are Due Diligence study reports treated the same as DPRs under this clause?", "input": "", "output": "Yes, they are explicitly mentioned and covered under Clause 39(4)."}
+{"instruction": "Can a DGM(Tech) approve ₹10L for document scanning?", "input": "", "output": "Yes, DGMs have Full Powers regardless of amount if rates are reasonable."}
+{"instruction": "What departments can sanction CAD outsourcing?", "input": "", "output": "Design, RE, CA, CP, and HR HODs at E8+ or DGM(Tech)."}
+{"instruction": "How are 'approved rates' determined for outsourcing?", "input": "", "output": "The clause doesn't specify but likely refers to pre-negotiated contracts."}
+{"instruction": "Does this cover 3D modeling services?", "input": "", "output": "Yes, if classified under 'other documentation works'."}
+{"instruction": "Are international agencies allowed for digitization?", "input": "", "output": "Yes, if they meet approved/reasonable rate criteria."}
+{"instruction": "Are there quantity limits for drafting supplies?", "input": "", "output": "No, Full Powers implies no restrictions beyond urgent needs."}
+{"instruction": "Can stores department override these purchases?", "input": "", "output": "No, but non-availability certificate from stores is required."}
+{"instruction": "Does this cover 3D printer filaments?", "input": "", "output": "Yes, if used for design/drawing production."}
+{"instruction": "Can a HOD(HR) approve design consumables?", "input": "", "output": "No, only relevant technical departments are implied."}
+{"instruction": "Can DGM(Tech) approve emergency stationery buys?", "input": "", "output": "No, this subclause doesn't include DGM authority."}
+{"instruction": "Are electronic drawing tablets covered?", "input": "", "output": "Unlikely, as these are capital items not stationery."}
+{"instruction": "How quickly must stores issue non-availability certificates?", "input": "", "output": "The clause doesn't specify response timelines."}
+{"instruction": "Does this cover digital report publishing costs?", "input": "", "output": "Unclear - clause specifically mentions 'printing'."}
+{"instruction": "Are binding and finishing costs included?", "input": "", "output": "Yes, as part of overall printing expenditure."}
+{"instruction": "Who is authorized to approve CSR welfare activities in project areas?", "input": "", "output": "Authority must be exercised as per the Corporate CSR Policy (Revised February 2023); specific roles are defined in that policy."}
+{"instruction": "What governs the implementation of CSR activities around NEEPCO offices?", "input": "", "output": "CSR activities must follow the latest Corporate CSR guidelines/policy dated February 2023."}
+{"instruction": "Can officers undertake government-sponsored CSR schemes?", "input": "", "output": "Yes, as long as they align with CSR guidelines and are included under approved government schemes."}
+{"instruction": "Is there a delegation of powers mentioned for CSR projects in this clause?", "input": "", "output": "No specific officer is mentioned; all powers must be exercised strictly according to the CSR policy."}
+{"instruction": "What kind of social welfare activities are covered under Clause 40?", "input": "", "output": "Activities in and around project areas and offices that are approved under company CSR or government-sponsored schemes."}
+{"instruction": "Which policy should be referred to for CSR project approvals?", "input": "", "output": "The Revised CSR Policy of February 2023 should be referred for all such approvals."}
+{"instruction": "Can CSR funds be used for non-approved activities?", "input": "", "output": "No, CSR expenditures must align strictly with the corporate CSR guidelines and approved schemes."}
+{"instruction": "Are there any restrictions on where CSR activities can be undertaken?", "input": "", "output": "Yes, Clause 40 restricts CSR activities to project areas or office regions unless otherwise specified in the CSR policy."}
+{"instruction": "Do the CSR guidelines allow recurring activities?", "input": "", "output": "The clause doesn’t specify, but such details would be covered in the CSR Policy document."}
+{"instruction": "Is separate board approval needed for each CSR project?", "input": "", "output": "The clause doesn’t mention this; approval mechanisms are defined in the Corporate CSR Policy."}
+{"instruction": "Who is authorized to sign residential lease agreements for executives?", "input": "", "output": "The Head of HR not below the rank of Sr. Manager (E-6) is authorized to sign residential lease agreements."}
+{"instruction": "What is the rank requirement for signing residential leases?", "input": "", "output": "The signing authority must be at least a Sr. Manager (E-6) and must be the Head of HR."}
+{"instruction": "Is Law Department approval required for residential lease terms?", "input": "", "output": "Yes, lease terms must be vetted by the Law Department."}
+{"instruction": "Is finance concurrence needed for signing residential lease agreements?", "input": "", "output": "Yes, finance concurrence shall be obtained."}
+{"instruction": "Can a Deputy Manager in HR sign residential lease agreements?", "input": "", "output": "No, only the Head of HR not below E-6 grade is authorized."}
+{"instruction": "Does this clause allow lease signing for non-executive staff?", "input": "", "output": "The clause specifically mentions lease agreements for executives only."}
+{"instruction": "Can the lease be signed without legal vetting if terms are standard?", "input": "", "output": "No, legal vetting by the Law Department is still required."}
+{"instruction": "What are the conditions attached to signing residential leases?", "input": "", "output": "Lease terms must be vetted by the Law Department and finance concurrence must be obtained."}
+{"instruction": "Who is empowered to sign non-residential lease agreements for NEEPCO?", "input": "", "output": "The Head of HR not below the rank of Sr. Manager (E-6) is authorized."}
+{"instruction": "Is Law Department consultation required for hiring office space?", "input": "", "output": "Yes, consultation with the Law Department is mandatory."}
+{"instruction": "Can an HR Manager (E-5) approve non-residential leases?", "input": "", "output": "No, only the Head of HR with a minimum E-6 rank can exercise this power."}
+{"instruction": "Are there financial limits for non-residential lease approvals?", "input": "", "output": "No specific monetary limit is mentioned; Full Powers are delegated."}
+{"instruction": "What kind of leases fall under non-residential category?", "input": "", "output": "Office accommodation and other non-residential premises required for official use."}
+{"instruction": "Does finance concurrence apply to non-residential lease deeds?", "input": "", "output": "Yes, finance concurrence is mandatory."}
+{"instruction": "Can these leases be signed without legal input?", "input": "", "output": "No, consultation with the Law Department is required for non-residential leases."}
+{"instruction": "What is the designation requirement for lease execution under Clause 41(b)?", "input": "", "output": "The signing authority must be the Head of HR not below the rank of Sr. Manager (E-6)."}
+{"instruction": "Are custom lease terms allowed for senior executives?", "input": "", "output": "No, only standard vetted terms can be used regardless of rank."}
+{"instruction": "How quickly must Finance provide concurrence?", "input": "", "output": "The clause doesn't specify timelines for Finance clearance."}
+{"instruction": "Does this cover lease renewals for existing properties?", "input": "", "output": "Yes, if using standard terms and following the same approval process."}
+{"instruction": "Can the Head of HR delegate signing authority?", "input": "", "output": "No, the clause specifies the Head must personally sign."}
+{"instruction": "What about leases for international assignments?", "input": "", "output": "Only if they follow standard terms and local laws don't conflict."}
+{"instruction": "How are 'standard lease terms' updated?", "input": "", "output": "The clause doesn't specify but implies Law Department maintains them."}
+{"instruction": "What's the difference between 41(a) and 41(b) approvals?", "input": "", "output": "41(a) uses pre-vetted terms; 41(b) requires case-by-case Law consultation."}
+{"instruction": "Are warehouse leases covered under 41(b)?", "input": "", "output": "Yes, as 'accommodation other than residential'."}
+{"instruction": "Can legal counsel override HR's lease decisions?", "input": "", "output": "Yes, through mandatory consultation process for non-residential leases."}
+{"instruction": "What constitutes 'consultation' with Law Department?", "input": "", "output": "The clause doesn't specify format (written/verbal) but implies formal review."}
+{"instruction": "Are co-working space agreements included?", "input": "", "output": "Yes, if structured as lease agreements rather than service contracts."}
+{"instruction": "Can Finance Department block approved leases?", "input": "", "output": "Yes, by withholding mandatory concurrence."}
+{"instruction": "Does this cover equipment leasing agreements?", "input": "", "output": "No, only real property accommodation leases."}
+{"instruction": "What about lease amendments/addendums?", "input": "", "output": "Same conditions apply as original lease signing."}
+{"instruction": "Who can approve ₹95,000 for organizing a workshop?", "input": "", "output": "ED(HR), HOD(HR), HOD(CC), or In-charge HRD not below E-8 can approve."}
+{"instruction": "What is the annual cap for a DGM organizing seminars?", "input": "", "output": "₹5 Lakh annually, with ₹75,000 limit per occasion."}
+{"instruction": "Can D(P) approve ₹3L for training refreshments?", "input": "", "output": "Yes, Director (Personnel) has Full Powers."}
+{"instruction": "Is there a grade restriction for HODs to sanction events?", "input": "", "output": "Yes, they must be of E-8 grade or above."}
+{"instruction": "What costs are covered under Clause 42(a)?", "input": "", "output": "Stationery, course material, lunch/dinner, tea, snacks, etc. during the programme."}
+{"instruction": "Who can nominate staff for a ₹90,000 external training?", "input": "", "output": "ED(HR), HOD(HR), or HOD(CC) not below E-8 can approve."}
+{"instruction": "Can a DGM nominate employees for ₹1.5L training?", "input": "", "output": "No, DGMs are capped at ₹75,000 per occasion."}
+{"instruction": "Can Director (Personnel) nominate employees for ₹5L programme?", "input": "", "output": "Yes, D(P) has Full Powers for such nominations."}
+{"instruction": "What is the annual cap for HODs nominating employees under Clause 42(b)?", "input": "", "output": "₹10 Lakh annually."}
+{"instruction": "Does Clause 42(b) apply to international training?", "input": "", "output": "Yes, if expenses fall within defined limits."}
+{"instruction": "Who can sponsor a seminar for ₹40,000 under Clause 42(c)?", "input": "", "output": "HOP or HOD(HRD) of E-8 grade or above."}
+{"instruction": "Can ED(HR) co-sponsor an event under Clause 42(c)?", "input": "", "output": "Only if acting as Director; otherwise not directly mentioned."}
+{"instruction": "What is the limit for Directors for co-sponsorships?", "input": "", "output": "Directors have Full Powers under Clause 42(c)."}
+{"instruction": "Is Finance concurrence required for event sponsorships?", "input": "", "output": "Clause 42(c) does not mention Finance concurrence."}
+{"instruction": "Are joint events with institutions allowed under Clause 42(c)?", "input": "", "output": "Yes, co-sponsorship of external events is covered."}
+{"instruction": "What's the maximum amount ED(HR) can sanction for a workshop?", "input": "", "output": "Up to ₹1,00,000 per event with ₹10 lakh annual ceiling."}
+{"instruction": "Can a DGM(HRD) approve ₹80,000 for training materials?", "input": "", "output": "No, DGMs are capped at ₹75,000 per occasion."}
+{"instruction": "Does the ₹1L limit include participant travel costs?", "input": "", "output": "No, 42(a) only covers event organization, not nominations (covered in 42b)."}
+{"instruction": "Are virtual conference platform fees covered?", "input": "", "output": "Yes, as part of event organization costs."}
+{"instruction": "Can multiple small events be combined to bypass limits?", "input": "", "output": "No, limits apply 'on each occasion' (per individual event)."}
+{"instruction": "Does this cover guest speaker honorariums?", "input": "", "output": "Yes, if part of the event's budget within authorized limits."}
+{"instruction": "Can HOD(Finance) approve training program costs?", "input": "", "output": "No, only specified HR/CC officers have this authority."}
+{"instruction": "What if catering costs exceed 50% of the budget?", "input": "", "output": "Permitted if total stays within authorized limits for the approving officer."}
+{"instruction": "Can HOD(HR) sponsor 10 employees at ₹1L each?", "input": "", "output": "No, the ₹10L annual ceiling would be exceeded."}
+{"instruction": "Does this cover mandatory safety training costs?", "input": "", "output": "Yes, if structured as nominated participation in programs."}
+{"instruction": "Can HOD(HRD) co-sponsor two events at ₹3L each?", "input": "", "output": "No, limited to ₹50K per event regardless of co-sponsor status."}
+{"instruction": "Does this cover branded merchandise distribution?", "input": "", "output": "Yes, if part of the sponsored event's activities."}
+{"instruction": "Are university research symposiums eligible?", "input": "", "output": "Yes, if classified as seminars/workshops under the clause."}
+{"instruction": "Can sponsorship funds be used for prize money?", "input": "", "output": "The clause doesn't prohibit if part of the sponsored event."}
+{"instruction": "Who can approve funding for organizing an inter-unit sports tournament?", "input": "", "output": "Director (Projects) has Full Powers, while HOP/HOD (CA or HR) can approve up to ₹10 Lakh per annum and HOD (Sports) up to ₹5 Lakh per annum.\n"}
+{"instruction": "What is the annual spending limit for HOD (Sports) under this clause?", "input": "", "output": "₹5 Lakh per annum."}
+{"instruction": "Can an E6-grade officer sanction expenses for quiz competitions?", "input": "", "output": "No, the minimum grade required is E7 for HOD (Sports)."}
+{"instruction": "Are excursions and cultural meets covered under this provision?", "input": "", "output": "Yes, the clause explicitly includes functions, excursions, cultural meets, sports, quizzes, and tournaments."}
+{"instruction": "What grade must a HOD hold to approve ₹10 Lakh of event-related expenses?", "input": "", "output": "The HOD must be at least E8 grade (CA or HR) to approve up to ₹10 Lakh per annum."}
+{"instruction": "Who has the authority to sanction purchase of sports equipment for ₹6 Lakhs?", "input": "", "output": "Only Director (Projects) can approve amounts above ₹5 Lakh, as HOD (Sports) is capped at ₹5 Lakh annually."}
+{"instruction": "Does the clause permit hiring of sports facilities for tournaments?", "input": "", "output": "Yes, hiring of infrastructure is explicitly covered."}
+{"instruction": "Can this clause be used to fund both internal and external events?", "input": "", "output": "Yes, it covers organizing and participating in events, which includes internal and external."}
+{"instruction": "Is there any separate approval required for equipment purchase?", "input": "", "output": "No separate approval is mentioned; it's covered under this clause within the financial limits."}
+{"instruction": "Can expenses under this clause be clubbed with training budgets?", "input": "", "output": "No, training-related expenses are governed by Clause 42, not Clause 43."}
+{"instruction": "What is the annual limit for a HOD(Sports) in organizing local sports events?", "input": "", "output": "₹5 lakh per year, provided the officer is at least E7 grade."}
+{"instruction": "Can D(P) directly approve cultural infrastructure purchases?", "input": "", "output": "Yes, Director (Projects) has Full Powers for all such expenditures."}
+{"instruction": "Who authorizes budget for inter-unit cultural competitions?", "input": "", "output": "HOP/HOD(CA/HR) with up to ₹10 lakh annually or D(P) without limit."}
+{"instruction": "Is there any restriction on the number of events under the ₹10L limit?", "input": "", "output": "No specific count is given, but the total annual limit must be adhered to."}
+{"instruction": "Can ₹5L be used solely for purchasing musical instruments?", "input": "", "output": "Yes, if sanctioned by eligible HOD(CA/HR) or HOD(Sports) within limit."}
+{"instruction": "Who ensures compliance with annual limits under this clause?", "input": "", "output": "The clause doesn't specify, but likely HR or Finance monitors totals."}
+{"instruction": "Can multiple departments jointly pool their sports budgets?", "input": "", "output": "Not mentioned; budgets are departmentally assigned and capped annually."}
+{"instruction": "What authority handles unbudgeted sports event emergencies?", "input": "", "output": "Likely escalated to Director (Projects) who holds Full Powers."}
+{"instruction": "Who can approve unlimited expenses for public hearings related to land acquisition?", "input": "", "output": "Only the Director (Technical) holds Full Powers for such expenditure."}
+{"instruction": "What is the maximum amount HOD(CP) can approve for a single EIA public hearing?", "input": "", "output": "₹2.5 Lakhs per occasion, subject to an annual ceiling of ₹10 Lakhs."}
+{"instruction": "Can an E7 officer in CP department approve hearing expenses?", "input": "", "output": "No, the clause restricts delegation to HODs not below E8 grade."}
+{"instruction": "Does this clause include costs related to EMP consultations?", "input": "", "output": "Yes, it includes expenditures for both EIA and EMP studies."}
+{"instruction": "Is there any annual cap for Director (Technical) under this clause?", "input": "", "output": "No, the Director (Technical) has Full Powers without a stated annual limit."}
+{"instruction": "Can the same officer approve both land acquisition costs and public hearing expenses?", "input": "", "output": "Yes, if they are the Director (Technical) or an E8+ HOD (CP) within limits."}
+{"instruction": "Who approves expenses if multiple hearings are conducted in a year?", "input": "", "output": "HOD (CP) can approve each up to ₹2.5L until ₹10L annually; beyond that, Director (Technical) must approve."}
+{"instruction": "Is legal concurrence required before approving public hearing budgets?", "input": "", "output": "The clause does not mention any requirement for legal concurrence."}
+{"instruction": "Are travel and accommodation expenses of officials included?", "input": "", "output": "If directly related to public hearing organization, they would be included under this clause."}
+{"instruction": "Can CP department delegate this power to junior officers?", "input": "", "output": "No, only HOD (CP) not below E8 grade is authorised under the clause."}
+{"instruction": "What is the delegation limit for HOD(CP) when it comes to EIA-related public hearings?", "input": "", "output": "HOD(CP) not below the rank of E8 can approve up to ₹2.5 lakh per occasion, limited to ₹10 lakh annually."}
+{"instruction": "Is there any difference in the financial delegation between HOD(CP) and Director (Technical) for hearings?", "input": "", "output": "Yes, HOD(CP) has a per-event and annual limit, while Director (Technical) has Full Powers with no financial ceiling."}
+{"instruction": "Who can approve public hearing expenses if the cost is ₹2.75 lakh?", "input": "", "output": "Only the Director (Technical) can approve hearing expenses exceeding ₹2.5 lakh per event."}
+{"instruction": "Is prior clearance from any external authority required under Clause 44?", "input": "", "output": "The clause does not specify any external clearances; only internal delegation limits apply."}
+{"instruction": "Can the public hearing budget be shared across two financial years?", "input": "", "output": "The clause does not mention rollover provisions; approvals are subject to the ₹10 lakh per annum cap for HOD(CP)."}
+{"instruction": "Who can approve MoUs for road improvement under deposit works?", "input": "", "output": "Director (Technical) has Full Powers to approve such MoUs."}
+{"instruction": "What conditions must be met before signing an MoU for bulk power supply lines?", "input": "", "output": "1. The work must be required for the project or corporation.\n2. It should be provided for in the cost estimates and budget.\n3. Agreement format must be vetted by the Law Division.\n"}
+{"instruction": "Can private contractors execute deposit works under this clause?", "input": "", "output": "No, only government departments, boards, corporations, or statutory/autonomous bodies may execute the works."}
+{"instruction": "Is there a monetary limit for Director (Technical) while approving MoUs?", "input": "", "output": "No, the Director (Technical) holds Full Powers with no monetary cap."}
+{"instruction": "What types of works are included under deposit works in this clause?", "input": "", "output": "Widening and improvement of roads/bridges, catchment area treatment works, bulk power supply lines, and associated maintenance works.\n"}
+{"instruction": "Who must vet the deed/agreement formats before execution?", "input": "", "output": "The Law Division must vet the format of any agreement or deed."}
+{"instruction": "Are Catchment Area Treatment (CAT) works covered under this clause?", "input": "", "output": "Yes, CAT works are explicitly listed under deposit works."}
+{"instruction": "Can a General Manager approve deposit works MoUs?", "input": "", "output": "No, only the Director (Technical) is empowered under this clause."}
+{"instruction": "Does this clause allow entering MoUs with private companies?", "input": "", "output": "No, only government or statutory/autonomous bodies are eligible for execution."}
+{"instruction": "Can the Director (Technical) sign agreements on behalf of the corporation?", "input": "", "output": "Yes, the Director (Technical) is authorized to sign all related documents."}
+{"instruction": "Who can approve payment of GST and other statutory taxes?", "input": "", "output": "HOP or HOD not below the rank of E-8 has full powers for such payments."}
+{"instruction": "Are there any financial limits for sanctioning statutory levies?", "input": "", "output": "No, officials at E-8 level or above have full powers without monetary ceiling."}
+{"instruction": "Is prior financial consultation needed before paying government duties?", "input": "", "output": "Yes, consultation at the appropriate level is mandatory as per the clause."}
+{"instruction": "What rank must an official hold to approve tax-related payments?", "input": "", "output": "They must be at least at the E-8 level, functioning as HOP or HOD."}
+{"instruction": "Do contractual terms affect the approval of statutory levies?", "input": "", "output": "Yes, approvals must align with relevant contractual provisions."}
+{"instruction": "Can an E7 officer authorize payment of income tax dues?", "input": "", "output": "No, only officials of E-8 grade and above are authorized."}
+{"instruction": "Does this clause include both Central and State government taxes?", "input": "", "output": "Yes, it applies to all statutory taxes, levies, and duties under relevant Acts."}
+{"instruction": "Who bears the responsibility of ensuring legal compliance for tax payments?", "input": "", "output": "The authorized HOP/HOD approving the payment ensures compliance with the law and contract."}
+{"instruction": "Who holds full powers for sanctioning expenditure on employee welfare activities in NEEPCO?", "input": "", "output": "Director (P) has full powers to sanction expenditure for employee welfare activities, including NRC and Cooperative Society.\n"}
+{"instruction": "What are the expenditure limits for Executive Directors in employee welfare-related spending?", "input": "", "output": "Executive Directors can sanction up to ₹2,00,000 per case, subject to a maximum of ₹10 lakh per annum."}
+{"instruction": "Can HOD (HR) approve spending on cooperative society activities?", "input": "", "output": "Yes, HOD (HR) not below grade E-8 can approve up to ₹1,00,000 per case, with a yearly cap of ₹5 lakh."}
+{"instruction": "Who is authorised to approve expenses for NRC activities in NEEPCO?", "input": "", "output": "Director (P), Executive Directors, and HODs (HR/CA) not below grade E-8 are authorised, with varying financial limits."}
+{"instruction": "What is the financial ceiling for HOP in approving employee welfare expenses?", "input": "", "output": "HOPs not below E-8 can approve ₹1,00,000 per case, up to ₹5 lakh annually."}
+{"instruction": "What are the authority levels for sanctioning cooperative society-related expenditures in NEEPCO?", "input": "", "output": "- Director (P): Full powers\n- ED: ₹2L per case, max ₹10L/year\n- HOP/HOD (CA/HR) ≥E-8: ₹1L per case, max ₹5L/year\n"}
+{"instruction": "Is there any annual limit for Executive Directors on sanctioning employee welfare expenses?", "input": "", "output": "Yes, EDs have a maximum limit of ₹10 lakh per annum."}
+{"instruction": "Can HOD (CA) below grade E-8 approve welfare expenditure?", "input": "", "output": "No, only HOD (CA) not below grade E-8 can approve such expenditure, up to ₹1L per case and ₹5L annually."}
+{"instruction": "Who can approve ₹2 lakh expenditure for NRC activities in NEEPCO?", "input": "", "output": "Only Executive Directors can approve up to ₹2 lakh per case, subject to a ₹10 lakh annual ceiling."}
+{"instruction": "Who is authorised to sanction expenditure for Board Meetings and Committee Meetings in NEEPCO?", "input": "", "output": "The Company Secretary or GM (CA/RA) has full powers to sanction such expenditure."}
+{"instruction": "Who can approve travel and accommodation expenses for part-time Directors attending Board Meetings?", "input": "", "output": "Company Secretary or GM (CA/RA) is authorised with full powers for such approvals."}
+{"instruction": "What level of authority does the GM (CA/RA) have over Board Meeting-related expenditure?", "input": "", "output": "GM (CA/RA) has full powers to sanction all expenditures related to Board and Committee Meetings."}
+{"instruction": "Does the Company Secretary have full authority to approve official hospitality for Board Members?", "input": "", "output": "Yes, the Company Secretary has full powers for official hospitality in relation to Board Meetings."}
+{"instruction": "Who has full powers for sanctioning expenses related to Board Committee Meetings?", "input": "", "output": "The Company Secretary or GM (CA/RA) holds full powers to sanction these expenses."}
+{"instruction": "Can GM (CA/RA) approve accommodation costs for part-time Directors in NEEPCO?", "input": "", "output": "Yes, GM (CA/RA) can approve such costs with full powers."}
+{"instruction": "What is the delegation of power for arranging travel and stay for Board Meeting attendees?", "input": "", "output": "Full powers rest with the Company Secretary or GM (CA/RA)."}
+{"instruction": "Who can sanction expenses for official hospitality during Board or Committee Meetings?", "input": "", "output": "The Company Secretary or GM (CA/RA) has full powers for such expenses."}
+{"instruction": "Is there any monetary limit on Board Meeting-related expenditure for the Company Secretary?", "input": "", "output": "No, the Company Secretary has full powers with no specified monetary limit."}
+{"instruction": "Who can approve higher class travel for non-entitled employees in NEEPCO?", "input": "", "output": "HOP/HOD not below the rank of E-8 can approve such travel for employees under them."}
+{"instruction": "What is the delegation of power for allowing air travel to non-entitled employees?", "input": "", "output": "HOP/HOD (E-8 and above) have full powers to permit air travel for employees under them, based on work exigency."}
+{"instruction": "Can a Head of Project approve AC train travel for a non-entitled subordinate?", "input": "", "output": "Yes, if the HOP is of E-8 rank or higher, they have full powers to approve such travel."}
+{"instruction": "Under what conditions can non-entitled employees be permitted higher class travel?", "input": "", "output": "Only in case of work exigencies, and the approval must come from HOP/HOD not below E-8 rank."}
+{"instruction": "Who is authorised to approve official bus or train travel by a higher class for junior staff?", "input": "", "output": "HOP or HOD (minimum E-8 rank) has the authority for employees reporting to them."}
+{"instruction": "Can HOD below E-8 approve official air travel for non-entitled staff?", "input": "", "output": "No, only HOP/HOD of E-8 rank and above can approve such travel."}
+{"instruction": "Are there any restrictions on who can approve upgraded travel class for non-entitled employees?", "input": "", "output": "Yes, only HOPs/HODs not below E-8 can approve such requests, and only for their reporting staff."}
+{"instruction": "What powers do E-8 grade HOPs have regarding travel upgrades for subordinates?", "input": "", "output": "They have full powers to permit higher-class travel for non-entitled employees working under them."}
+{"instruction": "Can higher class travel be approved for all employees?", "input": "", "output": "Only for non-entitled employees, and only by HOP/HOD (E-8 and above), based on exigencies of work."}
+{"instruction": "Who has full powers to approve purchase of mementos and gifts for dignitaries in NEEPCO?", "input": "", "output": "The Director holds full powers to approve such purchases."}
+{"instruction": "What is the financial limit for HODs in buying mementos for VIPs and retired CMDs?", "input": "", "output": "HOP/HOD (CA, Fin, HR, RA) not below grade E-8 can sanction up to ₹5.00 lakh per annum."}
+{"instruction": "Can the Company Secretary approve the purchase of gifts for dignitaries?", "input": "", "output": "Yes, the Company Secretary can approve such purchases up to ₹1.00 lakh per annum."}
+{"instruction": "What are the delegation limits for purchasing mementos for Directors or VIPs?", "input": "", "output": "- Director: Full powers  \n- HOP/HOD (≥E-8): ₹5 lakh p.a.  \n- Company Secretary: ₹1 lakh p.a.\n"}
+{"instruction": "Who can authorise memento purchases for retired CMDs up to ₹5 lakh annually?", "input": "", "output": "HOP or HOD (CA/Fin/HR/RA) not below E-8 can approve up to ₹5 lakh per annum."}
+{"instruction": "Is the Company Secretary allowed to sanction mementos above ₹1 lakh per year?", "input": "", "output": "No, the Company Secretary's limit is ₹1.00 lakh per annum."}
+{"instruction": "Can a HOD from HR department approve the purchase of VIP gifts?", "input": "", "output": "Yes, provided the HOD is not below the E-8 grade, with a limit of ₹5 lakh per annum."}
+{"instruction": "Who are the officials authorised to purchase mementos for dignitaries in NEEPCO?", "input": "", "output": "Director (full powers), HOP/HOD (CA/Fin/HR/RA) ≥E-8 (₹5L p.a.), and Company Secretary (₹1L p.a.)."}
+{"instruction": "What is the monetary ceiling for gift purchases by HOPs in NEEPCO?", "input": "", "output": "HOPs not below E-8 rank can approve gift purchases up to ₹5 lakh per annum."}
+{"instruction": "Who has full powers for purchasing medicines and medical equipment in NEEPCO?", "input": "", "output": "Director (P) holds full powers for the purchase of medicines and medical equipment for hospitals and dispensaries."}
+{"instruction": "What is the purchase limit for Executive Director (HR) regarding medical equipment?", "input": "", "output": "ED (HR) can approve purchases up to ₹20 lakh per case, with a ceiling of ₹50 lakh per annum."}
+{"instruction": "Can a DGM approve medicine purchases at a project location?", "input": "", "output": "Yes, DGM (M&HS) at Project/Station can approve up to ₹5 lakh per case, subject to ₹20 lakh per year."}
+{"instruction": "What authority does HOD (M&HS) have in purchasing hospital supplies?", "input": "", "output": "HOD (M&HS) or HOP not below E-8 can approve ₹15 lakh per case, with a ₹30 lakh annual cap."}
+{"instruction": "Are there any annual limits for ED (HR) on medicine purchases?", "input": "", "output": "Yes, ED (HR) can approve up to ₹50 lakh annually, with a per case limit of ₹20 lakh."}
+{"instruction": "Who can approve purchase of hospital equipment up to ₹15 lakh per case?", "input": "", "output": "HOD (M&HS) or HOP (not below E-8) is authorised for such approvals."}
+{"instruction": "Is consultation with the M&HS department mandatory before approving medical purchases?", "input": "", "output": "Yes, all powers must be exercised in consultation with the concerned Officer of M&HS Department."}
+{"instruction": "What is the annual ceiling for DGM (M&HS) in purchasing dispensary equipment?", "input": "", "output": "₹20 lakh per annum is the ceiling for DGM (M&HS), with ₹5 lakh per case limit."}
+{"instruction": "What formalities are required before sanctioning medicine procurement in NEEPCO?", "input": "", "output": "All purchases must comply with codal formalities and be done in consultation with the concerned M&HS Officer."}
+{"instruction": "Who has full powers to approve hiring of internet and communication services in NEEPCO?", "input": "", "output": "ED (IT) and HOP/HOD (CA) not below E-8 have full powers to approve hiring of IT & communication services."}
+{"instruction": "Can a HOD approve lease line or VSAT services from PSUs like BSNL or Railtel?", "input": "", "output": "Yes, HOP/HOD (CA) not below the grade of E-8 is authorised for such approvals."}
+{"instruction": "What is the delegation of powers for hiring internet or communication services in NEEPCO?", "input": "", "output": "Full powers are vested in ED (IT) and HOP/HOD (CA) not below E-8."}
+{"instruction": "Is prior technical approval required before hiring IT services for project locations?", "input": "", "output": "Yes, technical approval from HOD (IT) is mandatory for locations other than the Corporate Office."}
+{"instruction": "Who can release advance payments for internet services from government agencies in NEEPCO?", "input": "", "output": "The approving authority (ED IT or HOP/HOD CA ≥ E-8) may release advance payment only to government agencies/PSUs listed."}
+{"instruction": "What are the conditions to release advance payment for VSAT services in NEEPCO?", "input": "", "output": "Advance payment can be made only to Govt. agencies/PSUs and must be approved by the designated authority."}
+{"instruction": "Which government organisations can NEEPCO procure IT services from?", "input": "", "output": "IT services can be hired from DOT, BSNL, MTNL, NIC, NICSI, PGCIL, Railtel, etc."}
+{"instruction": "Can ED (IT) approve the hiring of NICSI internet services without any financial limit?", "input": "", "output": "Yes, ED (IT) has full powers for such approvals, subject to procedural conditions."}
+{"instruction": "Are there any prerequisites for approving communication services outside Corporate Office?", "input": "", "output": "Yes, prior technical approval from HOD (IT) is required for locations other than CO."}
 {"instruction": "Who holds full authority to ensure compliance with audit observations?", "input": "", "output": "Director (Finance), ED (Finance)"}
 {"instruction": "What is the responsibility of Director (Finance) under Clause 11?", "input": "", "output": "To implement all audit and government financial compliance requirements"}
 {"instruction": "Can ED (Finance) independently implement internal audit recommendations?", "input": "", "output": "Yes, ED (F) has full powers to manage operational-level compliance"}

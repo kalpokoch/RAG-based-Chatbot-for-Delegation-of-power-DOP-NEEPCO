@@ -3417,7 +3417,7 @@
 
 - instruction: Who approves valuation studies through government agencies?
   input: ""
-  output: Depending on the cost: D(T), ED, or HOD(D&E/RE) if within their limits
+  output: Depending on the cost - D(T), ED, or HOD(D&E/RE) if within their limits
 
 - instruction: Can ₹25 lakh be approved by a HOD(RE)?
   input: ""
