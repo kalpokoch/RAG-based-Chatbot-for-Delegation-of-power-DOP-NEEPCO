@@ -105,8 +105,10 @@
   output: |
     Yes. Quarterly report to D(T) is needed if deviation >10% or ₹5 crore from DPR.
 
-
-
+- instruction: What is the financial limit for a CGM for purchasing materials on a single tender basis?
+  input: ""
+  output: |
+    CGM can approve up to ₹75 lakh for purchasing materials on a single tender basis.
 
 - instruction: Who can approve technical sanction for non-approved project estimates?
   input: ""
