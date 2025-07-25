@@ -98,6 +98,7 @@
 {"instruction": "What must be ensured before exercising delegation?", "input": "", "output": "Estimate must align with approved DPR/cost/budget, have finance concurrence, and follow codal norms.\n"}
 {"instruction": "Can GM approve ₹10 crore estimate for services?", "input": "", "output": "Yes. GM is authorized up to ₹10 crore including for services.\n"}
 {"instruction": "Is there a reporting requirement for cost deviations?", "input": "", "output": "Yes. Quarterly report to D(T) is needed if deviation >10% or ₹5 crore from DPR.\n"}
+{"instruction": "What is the financial limit for a CGM for purchasing materials on a single tender basis?", "input": "", "output": "CGM can approve up to ₹75 lakh for purchasing materials on a single tender basis.\n"}
 {"instruction": "Who can approve technical sanction for non-approved project estimates?", "input": "", "output": "D(T): Full power\nED: Full power\nCGM: ₹15 crore\nGM: ₹10 crore\nDGM: ₹5 crore\nSr. M: NIL\n"}
 {"instruction": "Can GM approve a technical sanction for ₹9 crore in a non-DPR project?", "input": "", "output": "Yes. GM can approve up to ₹10 crore under non-approved projects.\n"}
 {"instruction": "Is administrative approval mandatory for non-approved projects?", "input": "", "output": "Yes. Administrative approval is required as per Clause 9.\n"}
