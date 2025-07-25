@@ -1008,7 +1008,7 @@
   input: ""
   output: Sign all annual accounts, statements, disclosures, and related financial reports
 
-# Clause 11: Compliance with Audit Observations / Government Directions
+# Clause 1: Compliance with Audit Observations / Government Directions
 - instruction: Who holds full authority to ensure compliance with audit observations?
   input: ""
   output: Director (Finance), ED (Finance)
