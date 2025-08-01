@@ -17,4 +17,201 @@ clauses:
            - Within the approved project estimates, and within the award, if any, for payment of compensation.
         - Wherever purchase/acquisition from private entities becomes necessary, the process shall be routed through concerned Government authorities.
         - Land acquisition shall be processed by the HOD/HOP of the respective site/location in association/consultation with the Corporate Land Section.
+ - clause: 2
+    title: Hiring of Accommodation and allowing the use of Company building etc. on rent
+    subclauses:
+      - id: a
+        description: Hiring of Accommodation (Office/ Field Hostel/ Transit Camp/ Guest House/ Storage Space)
+        Extent of Power:
+          - Corporate Office (Guwahati/Shillong/Kolkata/New Delhi/Tezpur): Full Powers
+          - Power Stations / Projects / S&I: 
+            - D(P) in consultation with D(F): Full Powers
+            - Concerned ED: Up to a cost of monthly hiring of ₹1.00 Lakh for each case
+        Officials Authorised:
+          - D(P) in consultation with D(F)
+          - Concerned ED (for up to ₹1.00 Lakh per month per case)
+        remarks:
+          - Full powers in respect of Corporate Office locations.
+          - For Power Stations / Projects / S&I locations, full powers rest with D(P) in consultation with D(F).
+          - Concerned ED has powers up to a cost limit of ₹1.00 Lakh per month for each case.
 
+      - id: b
+        description: To allow the use of Company building etc. on rent
+        Extent of Power: Full Powers
+        Officials Authorised:
+          - HOP not below the grade of E-8 for projects/plants
+          - Respective HOD i/c (Estate Service) not below the rank of E-8 for CO (Guwahati/Shillong/New Delhi/Kolkata)
+        remarks:
+          - All legal formalities required to lease etc. must be strictly adhered to.
+    
+  - clause: 3
+    title: Repair and Maintenance of Buildings / Hired Accommodation (Office/ Field Hostel/ Transit Camp/ Guest House/ Storage Space)
+    subclauses:
+      - id: a
+        description: Corporate Office (Guwahati/Shillong/Kolkata/New Delhi)
+        Extent of Power: Full Powers
+        Officials Authorised:
+          - ED
+        remarks:
+          - HOD i/c (Estate Service) not below the grade of E-8 for respective locations.
+
+      - id: b
+        description: Projects/Power Stations/ S&I
+        Extent of Power:
+          - ED: Full Powers
+          - HOP not below the grade of E-8: ₹50 Lakh p.a.
+        Officials Authorised:
+          - ED
+          - HOP not below the grade of E-8 (for limit of ₹50 Lakh p.a.)
+
+  - clause: 4
+    title: Purchase of furniture, equipment, furnishing, fixtures, appliances, crockeries, DTH Entertainment facility including recharges for offices and other establishments including Guest House/ Transit Camp / Canteen
+    subclauses:
+      - id: a
+        description: Purchase for all locations
+        Extent of Power:
+          - D(P)/D(T): Full Powers
+          - ED: ₹25 Lakhs per annum
+          - CGM/HOP/HOD not below the grade of E-8: ₹20 Lakhs per annum
+        Officials Authorised:
+          - D(P)/D(T)
+          - ED
+          - CGM/HOP/HOD not below the grade of E-8
+
+  - clause: 5
+    title: Purchase and upgradation, expansion of IT and Communication Infrastructure including Hardware, Software, peripherals, consumables etc.
+    subclauses:
+      - id: a
+        description: Purchase and upgradation of IT and Communication Infrastructure
+        Extent of Power:
+          - D(T): Full Powers
+          - ED (IT): ₹50 Lakh
+          - HOD in the grade of E-8 for Guwahati, Shillong, Kolkata, New Delhi / HOP in the grade of E-8 for projects/stations: ₹25 Lakh p.a.
+        Officials Authorised:
+          - D(T)
+          - ED (IT)
+          - HOD in the grade of E-8 (for respective locations)
+          - HOP in the grade of E-8 (for projects/stations)
+        remarks:
+          - This power shall be exercised in consultation with ED (IT).
+          - Procurement of computer hardware and software shall be reported to the HOD (IT) at C.O. periodically for record purpose.
+
+  - clause: 6
+    title: Repair, Maintenance and Upkeep Activities
+    subclauses:
+      - id: a
+        description: Repair, Maintenance and upkeep of furniture and fixtures etc. at Projects/Stations/Offices/Site
+        Extent of Power:
+          - HOP/HOD not below the grade of E-8: Full Powers
+          - Coordinator not below the grade of E-7 / DGM (HR) Admn at Shillong: ₹5 lakh p.a.
+        Officials Authorised:
+          - HOP / HOD not below the grade of E-8
+          - Coordinator not below the grade of E-7 / DGM (HR) Admn at Shillong
+
+      - id: b
+        description: Repair, Maintenance and upkeep of Office equipment etc.
+        Extent of Power: Full Powers
+        Officials Authorised:
+          - HOP / HOD not below the grade of E-8
+
+      - id: c
+        description: Repair, Maintenance and upkeep of I.T./other peripheral devices/Communication/Network systems etc.
+        Extent of Power: Full Powers
+        Officials Authorised:
+          - HOD (ITS) (not below the rank of E-8) in C.O (Guwahati/Shillong)
+          - HOP for Projects/Plants (not below the rank of E-8)
+
+  - clause: 7
+    title: Hiring of Office Equipment, Furniture & Fixtures, Appliances (including fans, water coolers etc.)
+    subclauses:
+      - id: a
+        description: Hiring of office equipment, furniture, fixtures, and appliances including fans and water coolers
+        Extent of Power: 
+          - Full powers
+          - ₹70,000 p.a.
+        Officials Authorised:
+          - HOP/HOD (CA/RA) not below E-8 for projects and offices
+          - CGM (HR) for Corporate Office
+          - Coordinator not below the rank of E-7
+
+  - clause: 7
+    title: Hiring of Office Equipment, Furniture & Fixtures, Appliances (including fans, water coolers etc.)
+    subclauses:
+      - id: a
+        description: Hiring of office equipment, furniture, fixtures, and appliances including fans and water coolers
+        Extent of Power: 
+          - Full powers
+          - ₹70,000 p.a.
+        Officials Authorised:
+          - HOP/HOD (CA/RA) not below E-8 for projects and offices
+          - CGM (HR) for Corporate Office
+          - Coordinator not below the rank of E-7
+
+  - clause: 8
+    title: Hiring of Passenger and Escort Vehicles
+    subclauses:
+      - id: a
+        description: Hiring of car/jeep/bus/ambulance/escort vehicles for security/other passenger vehicles on annual, monthly, daily, or periodical basis.
+        Extent of Power: 
+          - Full Powers
+          - Up to ₹30.00 Lakh p.a.
+          - Up to ₹20.00 Lakh p.a.
+        Officials Authorised:
+          - Director
+          - ED
+          - HOD (CA)
+          - HOD (RA)
+          - HOD (HR) not below the grade of E-8
+
+  - clause: 9
+    title: Long Term Spares Agreement
+    subclauses:
+      - id: a
+        description: Long Term Spares Agreement for supply of spares from OEM/Authorized service provider for O&M Plant
+        Extent of Power: Full Power
+        Officials Authorised:
+          - Director (T)
+        remarks:
+          - Valid up to 5 years.
+  
+  - clause: 10
+    title: Purchase of Newspapers, Magazines, Journals, Books, and Technical Publications
+    subclauses:
+      - id: i
+        description: Purchase of Newspapers / Magazines / Journals etc. for Office, Guesthouse, or Field Hostels
+        Extent of Power: Full Power
+        Officials Authorised:
+          - HOP
+          - HOD
+          - HOD (CC) not below the grade of E-8
+
+      - id: ii
+        description: Purchase of books, technical journals, periodicals, standards etc., including in electronic form
+        sub-subclauses:
+          - id: a
+            description: Corporate Central Library
+            Extent of Power: ₹15,000/- p.a.
+            Officials Authorised:
+              - HOD (CC) 
+              - HOD (HR) not below the grade of E-8
+          - id: b
+            description: Project Libraries
+            Extent of Power: Full powers
+            Officials Authorised:
+              - HOP 
+              - Head of Project HR not below the grade of E-7
+          - id: c
+            description: Departmental Libraries in C.O. (Guwahati / Shillong / Kolkata / New Delhi) and other Offices
+            Extent of Power: Full powers
+            Officials Authorised:
+              - HOD not below the grade of E-7
+              - DGM (HR) Admn at Shillong
+
+  - clause: 12
+    title: Sanction for prepayment for Franking Machine units
+    subclauses:
+      - id: a
+        description: Sanction for prepayment for Franking Machine units
+        Extent of Power: Full Powers
+        Officials Authorised:
+          - HOP / HOD not below the rank of E-8
