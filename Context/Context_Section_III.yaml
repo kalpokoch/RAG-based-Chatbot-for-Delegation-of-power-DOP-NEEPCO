@@ -4,20 +4,20 @@ clauses:
   - clause: 1
     title: Land Accquisition Powers
     subclauses:
-    - id: a
-      description: Powers to acquire land and file requisition with Land Acquiring Authorities
-      Extent of Power: Full Powers
-      Officials Authorised:
-        Director (P) for Corporate Office (Guwahati/Shillong/New Delhi/Kolkata)
-        ED in charge of Project/HOP not below the rank of E-8
-      remarks:
-        - Subject to provision in the Capital budget.
-        - Subject to the same being-
-           - As per requirements of the project.
-           - Within the approved project estimates, and within the award, if any, for payment of compensation.
-        - Wherever purchase/acquisition from private entities becomes necessary, the process shall be routed through concerned Government authorities.
-        - Land acquisition shall be processed by the HOD/HOP of the respective site/location in association/consultation with the Corporate Land Section.
- - clause: 2
+      - id: a
+        description: Powers to acquire land and file requisition with Land Acquiring Authorities
+        Extent of Power: Full Powers
+        Officials Authorised:
+          Director (P) for Corporate Office (Guwahati/Shillong/New Delhi/Kolkata)
+          ED in charge of Project/HOP not below the rank of E-8
+        remarks:
+          - Subject to provision in the Capital budget.
+          - Subject to the same being-
+             - As per requirements of the project.
+             - Within the approved project estimates, and within the award, if any, for payment of compensation.
+          - Wherever purchase/acquisition from private entities becomes necessary, the process shall be routed through concerned Government authorities.
+          - Land acquisition shall be processed by the HOD/HOP of the respective site/location in association/consultation with the Corporate Land Section.
+  - clause: 2
     title: Hiring of Accommodation and allowing the use of Company building etc. on rent
     subclauses:
       - id: a
