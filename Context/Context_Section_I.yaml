@@ -556,4 +556,154 @@ clauses:
         remarks:
           - Reasons for resorting to Deposit Work should be recorded.
           - Powers are to be exercised by the ED/HOP/HOD not below the rank of E-8 after considering all factors like urgency, specialized jobs, availability of budget, reasonableness of rates and after ascertaining that the same rates are being charged from other Government departments.
+  - clause: 14
+    title: Variance during post-award execution of work/supply (Corporate C&P)
+    description: >
+      Covers cost variations over awarded contract price due to scope/quantity changes,
+      new or extra items in contracts awarded by Corporate C&P.
+    subclauses:
+      - id: 14a
+        description: >
+          When total value executed is within original contract sum, variation is
+          computed as % of value of BOQ items and extra/substituted items executed in excess
+          w.r.t original contract sum.
+      - id: 14b
+        description: >
+          When total value executed exceeds original contract sum, variation is computed as %
+          of BOQ + extra/substituted items in excess of contract sum w.r.t original contract sum.
+
+  - clause: 14.1
+    title: Technical approval for variation (Clause 14)
+    delegation:
+      D(T): Full Power
+      ED: Full Power (subject to remarks)
+      CGM: 25% of Contract Value or ₹30 crore (whichever is lower)
+      GM: 15% of Contract Value or ₹15 crore (whichever is lower)
+      DGM: NIL
+      Sr. M: NIL
+    remarks:
+      - Powers exercised with consultation of Design & Engineering Dept.
+      - Technical clearance deemed accorded if items executed as per D&E issued drawings.
+      - Proposals must include:
+          - Quantity as per drawing
+          - Quantity as per BOQ
+          - Variation details
+          - Cost of extra/substituted items
+          - Financial implication
+      - Monthly report to D(T) of all such variations with financial implications.
+      - HOP may provisionally release:
+          - 75% for extra items at BOQ/analogous rates
+          - 50% for items at analyzed rates
+        subject to CMD's power limit.
+      - Corporation to finalize rates within 90 days of contractor’s submission.
+
+  - clause: 14.2
+    title: Approval for issue of change order (based on 14.1)
+    delegation:
+      D(T): 20% of Contract Value limited to ₹80 crore
+      ED: 15% of Contract Value limited to ₹60 crore
+      CGM: 10% of Contract Value limited to ₹40 crore
+      GM: 5% of Contract Value limited to ₹20 crore
+      DGM: NIL
+      Sr. M: NIL
+    remarks:
+      - Must consult associated finance.
+      - For civil/structural/supply-cum-erection works, site authorities can exercise powers within delegation.
+      - Excess beyond D(T)’s delegated power to be approved by CMD.
+      - Deviation must not exceed 10% of estimate for any component approved by Board/Govt.
+      - HOP to submit quarterly report to CMD via ED/D(T)/D(F), copying C&P, Finance & CPM.
+      - NIL report to be submitted if no variation.
+      - Change order must be sent to contractor + copies to ED, Corporate Monitoring Cell, and F&A.
+      - If >10% component deviation, HOP to submit report for CMD to initiate Board/GOI approval.
+        - clause: 15
+    title: Variance during post-award execution of work/supply (site-awarded contracts)
+    description: >
+      Covers cost variations over awarded contract price due to scope/quantity changes,
+      new or extra items in contracts/LOAs awarded by site (excluding Corporate C&P).
+    subclauses:
+      - id: 15a
+        description: >
+          When the value of works executed remains within the approved contract sum,
+          variation is computed as % of BOQ items and extra/substituted items in excess of BOQ quantities
+          w.r.t the original contract sum.
+      - id: 15b
+        description: >
+          When the value of works executed exceeds the original contract sum, variation is computed as %
+          of total executed works (BOQ, extra/substituted items) in excess of contract sum w.r.t original sum.
+
+  - clause: 15.1
+    title: Technical approval for the above (Clause 15)
+    delegation:
+      D(T): Full Power
+      ED: Full Power
+      CGM: 25% of Contract Value
+      GM: 15% of Contract Value
+      DGM: NIL
+      Sr. M: NIL
+    remarks:
+      - These powers must be exercised in consultation with Design & Engineering Dept.
+      - Technical approval not required through D&E if extra/substituted items are as per issued construction drawings.
+      - Proposal to include:
+          - Quantity as per drawing
+          - Quantity as per BOQ
+          - Variations (if any)
+          - Cost of extra/substituted items
+          - Financial implications
+      - Monthly variation reports to be submitted by executing authority to ED.
+      - HOP may provisionally release:
+          - 75% for extra items at BOQ/analogous rates
+          - 50% for items at analyzed rates
+        Final rates to be approved within 90 days, provisional payment not exceeding ED's power.
+
+  - clause: 15.2
+    title: Approval for issue of change order (based on 15.1)
+    delegation:
+      D(T): Full Power
+      ED: 20% of Contract Value
+      CGM: 15% of Contract Value (limit ₹1.5 crore)
+      GM: 10% of Contract Value (limit ₹60 lakh)
+      DGM: 5% of Contract Value (limit ₹30 lakh)
+      Sr. M: NIL
+    remarks:
+      - Consultation with associated finance is mandatory.
+      - Variation must not exceed 10% of sanctioned component estimate from Board/Govt.
+      - Change order to be issued by executing authority and copy sent to project F&A.
+      - HOP must submit quarterly report to CMD through ED/D(T)/D(F), including:
+          - Project cost variations
+          - Brief reasons
+          - Copy to Corporate C&P for action if deviation >10% of any component estimate
+            - clause: 16
+    title: Cancellation and Modification of Tenders / Contracts
+    subclauses:
+      - id: 16a
+        title: Cancellation of Tenders
+        authority: Authority competent to approve the award (limited to D(T))
+        conditions:
+          - Justification to be recorded
+          - Finance concurrence required
+          - Legal vetting (if necessary)
+
+      - id: 16b
+        title: Modification after call but before opening of TC bids
+        details:
+          - Bid submission date may be extended up to 3 months by tendering authority
+          - Further extension requires next higher authority (limited to D(T))
+          - Modification of other terms requires approval by authority competent to approve award (limited to D(T))
+
+      - id: 16c
+        title: Modification after opening of TC bids but before price bid opening
+        details:
+          - For proprietary/OEM items: Modification by award-approving authority
+          - For other items: Modification by next higher authority (limited to CMD)
+
+      - id: 16d
+        title: Cancellation / Foreclosure / Termination of Contract
+        authority: Full power for awards approved by lower authorities
+        conditions:
+          - Must be as per contract provisions
+          - Justification to be recorded
+          - Finance concurrence to be obtained
+          
+
+   
   
