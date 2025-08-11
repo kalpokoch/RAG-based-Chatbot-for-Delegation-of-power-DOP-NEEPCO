@@ -703,7 +703,433 @@ clauses:
           - Must be as per contract provisions
           - Justification to be recorded
           - Finance concurrence to be obtained
-          
+
+    Clause_17:
+    title: "Modification in terms of Contract"
+    sub_clauses:
+      17.1:
+      title: "Having financial implications"
+      description: "Including payment terms, security deposit, and modification in terms of issue of materials from project Stores etc."
+      delegation:
+        DT:
+          authority: "Full powers for original contract approved by him or lower authority"
+        ED:
+          authority: "Full powers for original contract approved by him or lower authority"
+        CGM:
+          authority: "Powers of approving modification up to 5% of the value of original contract or Rs.50 lakh, whichever is less"
+        GM:
+          authority: "Powers of approving modification up to 5% of the value of original contract or Rs.25 lakh, whichever is less"
+        DGM:
+          authority: "No delegation"
+        SrM:
+          authority: "No delegation"
+      17.2:
+      title: "Having no financial implications"
+      description: "Contract modifications without financial impact."
+      delegation:
+        DT:
+          authority: "Full powers"
+        ED:
+          authority: "Full powers"
+        CGM:
+          authority: "Full power in respect of orders placed himself or lower authority"
+        GM:
+          authority: "No delegation"
+        DGM:
+          authority: "No delegation"
+        SrM:
+          authority: "No delegation"    
+          Clause_18:
+          title: "Acceptance of stores under deviation with equivalent or superior specification"
+    delegation:
+    DT:
+      authority: "Full Power"
+    ED:
+      authority: "Full Power"
+    CGM:
+      authority: "Full Power in respect of orders placed by lower authorities"
+    GM:
+      authority: "No delegation"
+    DGM:
+      authority: "No delegation"
+    SrM:
+      authority: "No delegation"
+    remarks: |
+    This shall be done by the contract awarding authority in consultation with the Indenting Department to ensure equality and suitability. Thereafter, a committee consisting of Finance, Indenting Department, and contract awarding authority is to be constituted by the CGM/GM/Head of the Project to negotiate suitable compensation for the deviation if claimed by the vendor. The D&E department shall be consulted wherever necessary.
+  - clause: 19
+    title: Sanction to pay demurrage/wharfage to Railways/Sea Port/Air authorities or Road Carriers
+    delegation:
+    D(T): Full power
+    ED: "Up to ₹1.0 Lakh in each case subject to a ceiling of ₹10.0 Lakh per year"
+    CGM: "₹50,000 in each case subject to a ceiling of ₹5 Lakh per year"
+    GM: "₹20,000 in each case subject to a ceiling of ₹2.0 Lakh per year"
+    DGM: "₹10,000 in each case subject to a ceiling of ₹1.0 Lakh per year"
+    Sr. M: "--"
+    remarks:
+    - Every effort should be made to get the demurrage/wharfage waived from the railways/Carriers.
+  - clause: 20
+    title: Sanction for disposal of surplus / unserviceable / obsolete items, scrap / miscellaneous
+    delegation:
+    D(T): Full Power
+    ED: Reserve price up to ₹50 Lakh
+    CGM: Reserve price up to ₹25 Lakh
+    GM: Reserve price up to ₹15 Lakh
+    DGM: "----"
+    Sr. M: "----"
+    remarks:
+    - Process of disposal shall be regulated by NEEPCO Disposal Manual.
+    - The powers will be exercised as per the approved Disposal Manual.
+    - In case the bid value is less than the Reserve Price, then approval from the next higher authority shall be required. The Director (Technical) shall be the self-approving authority.
+    - Report to be submitted to Director (Technical) within one week of the award indicating therein the name of the highest bidder, the reserve price vis-à-vis sale value.
+     title: Write off
+clauses:
+  - clause: 21.1
+    title: Any items of Stores, equipment, tools and plants, materials including adjustments of discrepancies in an item during stock verification.
+    delegation:
+      D(T): "Up to ₹20 lakh in each case"
+      ED: "Up to ₹10 lakh in each case"
+      CGM: "Up to ₹5 lakh in each case"
+      GM: "Up to ₹3 lakh in each case"
+      DGM: "NIL"
+      Sr. M: "NIL"
+    remarks:
+      - Subject to investigation and report by a committee constituted by HOP/HOD not below the rank of E-8.
+      - After the item is written off, the information may be sent to concerned finance for adjustment.
+
+  - clause: 21.2
+    title: Shortage in chemicals, lubricants, oils, etc.
+    subclauses:
+      - id: a
+        description: As per the prescribed norms of the manufacturer.
+        delegation:
+          D(T): "Full Powers as per norms in each case"
+          ED: "Full Powers as per norms in each case"
+          CGM: "Full Powers as per norms in each case"
+          GM: "Full Powers as per norms in each case"
+          DGM: "NIL"
+          Sr. M: "NIL"
+      - id: b
+        description: Beyond norms (percentage limits).
+        delegation:
+          D(T): "Full Powers up to 5%"
+          ED: "Full Powers up to 3%"
+          CGM: "Full Powers up to 2%"
+          GM: "Full Powers up to 1%"
+          DGM: "NIL"
+          Sr. M: "NIL"
+      - id: c
+        description: Above norms subject to financial ceilings.
+        delegation:
+          D(T): "Above norms subject to the ceiling of ₹5 lakh in each case"
+          ED: "Above norms subject to the ceiling of ₹3 lakh in each case"
+          CGM: "Above norms subject to the ceiling of ₹2 lakh in each case"
+          GM: "Above norms subject to the ceiling of ₹1 lakh in each case"
+          DGM: "NIL"
+          Sr. M: "NIL"
+    remarks:
+      - Subject to investigation and report by a committee constituted by HOP/HOD not below the rank of E-8.
+      - After the item is written off, the information may be sent to concerned finance for adjustment.
+
+  - clause: 21.3
+    title: Demolition and write off of temporary buildings not required by the projects/power stations.
+    delegation:
+      D(T): "₹2 crore for each PS/Project"
+      ED: "₹1 crore for each PS/Project"
+      CGM: "NIL"
+      GM: "NIL"
+      DGM: "NIL"
+      Sr. M: "NIL"
+    title: Indenting of stock items by Materials Department
+clauses:
+  - clause: 22.1
+    title: Approval of indent for issue of materials from stores.
+    delegation:
+      D(T): "NIL"
+      ED: "NIL"
+      CGM: "NIL"
+      GM: "NIL"
+      DGM: "NIL"
+      Sr. M: "NIL"
+    remarks:
+      - All indents should be routed through HOP/HOD not below the rank of E-8.
+      - Indents for issue shall be initiated by respective work/Deptt. In-charge and shall be approved by next higher authority.
+      - For items not stipulated in contracts or items in excess of estimates, approval of HOP/HOD not below the rank of E-8 will be obtained.
+       title: Loan of Materials and tool and plant to and from other Public Sector Undertakings/Govt. departments.
+clauses:
+  - clause: 23
+    delegation:
+      D(T): "₹ 10 Lakh p.a."
+      ED: "₹ 5 Lakh p.a."
+      CGM: "₹ 2 Lakh p.a."
+      GM: "₹ 1 Lakh p.a."
+      DGM: "---"
+      Sr. M: "---"
+    remarks:
+      - Subject to adequate security being obtained before loaning the materials.
+      - The indicated value will be the value of material loaned or the hire charge for Tools & Plants.
+       title: Power to hire equipment/Machinery from contractors/private agencies.
+clauses:
+  - clause: 24
+    delegation:
+      D(T): "₹ 1 crore p.a."
+      ED: "₹ 70 Lakh p.a."
+      CGM: "₹ 50 Lakh p.a."
+      GM: "₹ 30 Lakh p.a."
+      DGM: "---"
+      Sr. M: "---"
+    remarks: []
+    clause:
+    id: 25
+    title: Award of contract for consultancy services
+    subclauses:
+    - id: a
+      description: >
+        Open tender (Remarks under Clause 2(a) of Section-I shall be complied.)
+      delegation_limits:
+        D(T): "₹ 1.75 crore"
+        ED: "₹ 1 crore"
+        CGM: "₹ 30 Lakh"
+        GM: "₹ 20 Lakh"
+        DGM: "Nil"
+        Sr.M: "Nil"
+      remarks: []
+    - id: b
+      description: 
+        Limited tender (to be invited in case of urgency having limited source, in unavoidable circumstances with the approval of next higher authority).
+        (Remarks under Clause 2(b) of Section-I shall be complied.)
+      delegation_limits:
+        D(T): "₹ 75 Lakh"
+        ED: "₹ 40 Lakh"
+        CGM: "₹ 25 Lakh"
+        GM: "₹ 15 Lakh"
+        DGM: "Nil"
+        Sr.M: "Nil"
+      remarks: []
+    - id: c
+      description: 
+        Single tender/Nomination basis (Remarks under Clause 2(c) of Section-I shall be complied.)
+      delegation_limits:
+        D(T): "₹ 50 Lakh"
+        ED: "₹ 30 Lakh"
+        CGM: "₹ 20 Lakh"
+        GM: "₹ 10 Lakh"
+        DGM: "Nil"
+        Sr.M: "Nil"
+      remarks: []
+    title: Insurance
+clauses:
+  26A:
+    i:
+      description: >
+        Large / Mega Risk Insurance including Industrial All Risk (IAR), Machinery Breakdown (MBD), Business Interruption Loss such as Fire Loss of Profit (FLOP) and Machinery Loss of Profits (MLOP), Public Liability Industrial Risk Coverages etc with Add-ons coverage for Flood, Earthquake, Terrorism, Burglary, Theft etc.
+      delegation_limits:
+        D(T): "Premium up to ₹25 Crore"
+        ED: "Premium up to ₹20 Crore"
+        CGM: "--"
+        GM: "--"
+        DGM: "--"
+        Sr.M: "--"
+      remarks: []
+    ii:
+      description: >
+        Industrial All Risk (IAR), Machinery Breakdown (MBD), Business Interruption Loss such as Fire Loss of Profit (FLOP) and Machinery Loss of Profits (MLOP), Public Liability Industrial Risk Coverages etc with Add-ons coverage for Flood, Earthquake, Terrorism, Burglary, Theft etc.
+      delegation_limits:
+        D(T): "Full Power"
+        ED: "Premium up to ₹7 Crore"
+        CGM: "Premium up to ₹6 Crore"
+        GM: "Premium up to ₹3 Crore"
+        DGM: "Nil"
+        Sr.M: "Nil"
+      remarks: []
+    iii:
+      description: >
+        Standard Fire and Special Perils Insurance with Add-on coverage for Earthquake, Terrorism, Burglary, Theft etc.
+      delegation_limits:
+        D(T): "Full Power"
+        ED: "Full Power"
+        CGM: "Premium up to ₹2 Crore"
+        GM: "Premium up to ₹1 Crore"
+        DGM: "Nil"
+        Sr.M: "Nil"
+      remarks: []
+    iv:
+      description: Electronic Equipment Policy with relevant coverages
+      delegation_limits:
+        D(T): "Full Power"
+        ED: "Full Power"
+        CGM: "Full Power"
+        GM: "Full Power"
+        DGM: "--"
+        Sr.M: "--"
+      remarks: []
+    v:
+      description: Storage-cum-Erection Insurance/Erection All Risk Policy
+      delegation_limits:
+        D(T): "Full Power"
+        ED: "Full Power"
+        CGM: "Premium up to ₹2 Crore"
+        GM: "Premium up to ₹1 Crore"
+        DGM: "--"
+        Sr.M: "--"
+      remarks:
+        - Taking CAR/EAR policy for package contracts by the corporation shall require the approval of CMD.
+    vi:
+      description: Contractor All Risk Policy
+      delegation_limits:
+        D(T): "Full Power"
+        ED: "Full Power"
+        CGM: "Premium up to ₹2 Crore"
+        GM: "Premium up to ₹1 Crore"
+        DGM: "--"
+        Sr.M: "--"
+      remarks: []
+
+  26B:
+    i:
+      description: All Vehicles
+      delegation_limits:
+        D(T): "Full Power"
+        ED: "Full Power"
+        CGM: "Full Power"
+        GM: "Full Power"
+        DGM: "Full Power"
+        Sr.M: "Full Power"
+      remarks: []
+    ii:
+      description: Movable Assets including Construction Plant and Machinery other than Storage-cum-Erection Insurance
+      delegation_limits:
+        D(T): "Full Power"
+        ED: "Full Power"
+        CGM: "Full Power"
+        GM: "Full Power"
+        DGM: "Full Power"
+        Sr.M: "Full Power"
+      remarks: []
+
+  26C:
+    description: Transit Insurance
+    delegation_limits:
+      D(T): "Full Power"
+      ED: "Full Power"
+      CGM: "Full Power"
+      GM: "Full Power"
+      DGM: "--"
+      Sr.M: "--"
+    remarks: []
+
+  26D:
+    description: Reinstated Value of assets of the Power Station for undertaking Insurance Policies.
+    delegation_limits:
+      D(T): "Full Power"
+      ED: "---"
+      CGM: "---"
+      GM: "---"
+      DGM: "---"
+      Sr.M: "---"
+    remarks:
+      - Director (T) may seek advice of Director (F)
+  title: Approval of Post Award Variation in Consultancy Service Contract
+
+clause_number: 27
+
+description: Approval of post award variation in consultancy service contract.
+
+delegation_limits:
+  D(T): "20% of Contract value or ₹3 Crore, whichever is lower, including Power"
+  ED: "15% of Contract value or ₹2.5 Crore, whichever is lower, including Power"
+  CGM: "10% of Contract value or ₹1.5 Crore, whichever is lower, including Power"
+  GM:  "5% of Contract value or ₹1 Crore, whichever is lower, including Power"
+  DGM: "---"
+  Sr.M: "---"
+
+delegation_to_lower_authority:
+  D(T): delegated to lower authority
+  ED: delegated to lower authority
+  CGM: delegated to lower authority
+  GM: delegated to lower authority
+  DGM: ""
+  Sr.M: ""
+
+remarks: []
+ title: Authority to Sign in Contracts/Purchase Orders
+
+clause_number: 28
+
+description: >
+  Specifies the minimum officer level required to sign contracts or purchase orders on behalf of NEEPCO, based on the approving authority. Includes further instructions for covenant documents and contract signing powers.
+
+delegation_matrix:
+  - approving_authority: Board/Sub-Committee of the Board/Committee of Functional Directors for Contracts/CMD/Directors/ED
+    minimum_signing_authority: GM
+  - approving_authority: CGM/GM
+    minimum_signing_authority: DGM/Sr.M
+
+additional_guidelines:
+  - The authority approving the award of contracts will also have the power to sign the contract.
+  - Covenant documents may be signed:
+      - By an authority not below DGM for corporate contracts.
+      - By an authority not below Sr. Manager for project-level contracts, if authorized by the contract signing authority.
+
+remarks: []
+ title: Empanelment of Vendors
+
+clause_number: 29
+
+description: >
+  Empanelment of vendors for procurement purposes. Specifies the delegation of authority and guidelines applicable after empanelment for awarding contracts, particularly with respect to price discovery and open tender processes.
+
+delegation_limits:
+  D(T): "Full Power"
+  ED: "Full Power"
+  CGM: "--"
+  GM: "--"
+  DGM: "--"
+  Sr.M: "--"
+
+remarks:
+  - Following empanelment, approval for award shall be regulated by applicable clauses of Section-I.
+  - Wherever procurement is made through price discovery amongst bidders empanelled through open tender process, the approval on award shall be treated in terms of open tender delegations.
+
+title: Release of Advance Payment
+
+clause_number: 30
+
+description: >
+  Release of advance payment for purposes such as advances to Government Departments (as per Annexure-II), purchase of vehicles, books, legal or professional services (advocates, chartered accountants, etc.).
+
+delegation_limits:
+  D(T): "₹ 1 Crore"
+  ED: "₹ 20 Lakh"
+  CGM: "₹ 2 Lakh"
+  GM: "--"
+  DGM: "--"
+  Sr.M: "--"
+
+guidelines:
+  - ₹2 Lakh for HOP (Head of Project) not below the rank of GM.
+  - Subject to CVC Guidelines, if any.
+  - The advance is to be released in terms of contractor LOA after recording proper reasons and timeline for adjustment by the approving authority.
+
+remarks:
+  - Efforts should be made to get the advance secured.
+title: Waiver of EMD in Case of Certain Tenders
+
+clause_number: 31
+
+description: >
+  Waiver of Earnest Money Deposit (EMD) in case of tenders for supply, repairs, or services (i.e., for replacement and maintenance of original/existing equipment and spares) by Original Equipment Manufacturers (OEMs) and award of single tender on nomination basis to Government agencies, Autonomous bodies controlled by Government, Public Sector Undertakings, and institutes referred in Annexure-II of DOP.
+
+delegation_limits:
+  D(T): "Full Powers"
+  ED: "Full Powers"
+  CGM: "--"
+  GM: "--"
+  DGM: "--"
+  Sr.M: "--"
+
+remarks: []
+
+
 
    
   
