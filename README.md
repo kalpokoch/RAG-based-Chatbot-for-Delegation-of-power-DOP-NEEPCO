@@ -167,6 +167,3 @@ Visit [http://localhost:7860](http://localhost:7860)
 - 🛡️ Improved Error Messaging: More precise failure/timeout explanations.
 - 🚀 Model Alternatives: Explore smaller or GPU-optimized models for faster inference.
 
----
-
-🧠 Built by [Kalpojyoti Koch](https://github.com/Kalpokoch)
