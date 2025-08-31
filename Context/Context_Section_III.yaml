@@ -215,3 +215,114 @@ clauses:
         Extent of Power: Full Powers
         Officials Authorised:
           - HOP / HOD not below the rank of E-8
+
+  - clause: 13
+    title: Sanction for installation of telephones and waiver of charges
+    subclauses:
+      - id: a
+        description: Sanction for installation of Official and Residential Telephones as per approved policy and norms of the Corporation
+        Extent of Power: Full Powers
+        Officials Authorised:
+          - HOP / HOD not below the rank of E-8
+        Remarks: Installation of Telephones is to be arranged by In-charge Admn. Corporate Office for the Officers of Corporate Office.
+      - id: b
+        description: Powers to approve waiver of charges from residential telephones in excess of eligibility limit
+        Extent of Power: Full Powers
+        Officials Authorised:
+          - Director
+        Remarks: The power may be exercised after necessary justification is furnished for such waiver.
+
+  - clause: 14
+    title: Repairs and Maintenance of Departmental vehicle
+    Extent of Power: |
+      Full Powers
+      ₹100,000 per annum
+    Officials Authorised:
+      - HOD In-charge - Transport Services (not below the grade of E-8) in CO (Guwahati / Shillong / Kolkata / New Delhi)
+      - HOP not below the grade of E-8 in other locations
+      - Coordinator not below the grade of E-7 / DGM (HR) Admn at Shillong
+  
+  - clause: 15
+    title: Service / AMC / Maintenance contracts and O&M of Guest Houses / Transit Camps / Field Hostels
+    subclauses:
+    - id: a
+      description: Service / AMC / Maintenance contracts
+      Extent of Power: |
+        Full Powers
+        ₹10,00,000 per annum
+      Officials Authorised:
+        - HOP / HOD not below the grade of E-8
+        - Head of HR in Power Station not below the grade of E-7
+      Remarks: |
+        Contract period up to 3 years.
+        Extension permissible in exceptional cases but not exceeding 50% of the original contract period.
+        Service contracts for O&M of plants are covered separately under Section-I, where contract period depends on necessity and nature of service.
+    - id: b
+      description: Operation & Management of Guest Houses / Transit Camps / Field Hostels
+      Extent of Power: |
+        Full Powers
+        Up to ₹25,00,000 per contract per annum (ED)
+        Up to ₹15,00,000 per contract per annum (HOP/HOD)
+      Officials Authorised:
+        - Director (Personnel) – Full Powers
+        - ED (HR/Plants/Projects) – Up to ₹25,00,000 per contract per annum
+        - HOP / HOD (CA), HOD (RA), HOD (HR) not below the grade of E-8 – Up to ₹15,00,000 per contract per annum
+  
+  - clause: 16
+    title: Expenditure on ceremonial occasions, local festivals, dignitaries visit etc. (excluding Independence Day, Republic Day and NEEPCO Raising Day)
+    Extent of Power: |
+     Full Powers
+     ₹3 lakh per occasion subject to annual ceiling of ₹15 lakh
+     ₹2 lakh per occasion subject to annual ceiling of ₹12 lakh
+    Officials Authorised:
+    - Director
+    - ED
+    - HOP / HOD(CA) / HOD(HR) not below the grade of E-8
+
+  - clause: 17
+    title: Repairs and maintenance of residential buildings, office buildings, boundary walls, sanitary, water supply, roads and other civil works
+    Extent of Power: |
+     Full Powers
+     ₹20,000 per annum
+    Officials Authorised:
+    - HOP not below the rank of E-7
+    - HOD not below the rank of E-7
+
+  - clause: 18
+    title: Purchase of cleaning materials, toiletries, washroom items & equipment, disinfectants, etc.
+    Extent of Power: |
+     Full Powers
+     ₹2,00,000 per annum
+    Officials Authorised:
+    - HOD/HOP not below the grade of E-8
+    - Coordinator not below the grade of E-7
+    - Head of S&I units
+    - Head of HR in Power Stations not below the grade of E-7
+    - DGM (HR) Admn at Shillong
+  
+  - clause: 19
+    title: Purchase of petty/contingent/miscellaneous items at Corporate Office (Shillong/Guwahati/Delhi/Kolkata)
+    Extent of Power: |
+     Director: Full Powers
+     HOD not below the grade of E-8: ₹50,000 per purchase  subject to a ceiling of ₹30 lakhs p.a.
+     DGM (HR) Admn at Shillong: ₹20,000 per purchase subject to a ceiling of ₹10 lakhs per annum
+    Officials Authorised:
+    - Director
+    - HOD not below the grade of E-8
+    - DGM (HR) Admn at Shillong
+  
+  - clause: 20
+    title: Purchase of petty/contingent/miscellaneous items at Projects/Units
+    Extent of Power: |
+     ED: Full Powers
+     HOP not below the grade of E-8: ₹20,000 per purchase subject to a ceiling of ₹20 lakhs per annum
+    Officials Authorised:
+    - ED
+    - HOP not below the grade of E-8
+  
+  
+
+
+  
+    
+
