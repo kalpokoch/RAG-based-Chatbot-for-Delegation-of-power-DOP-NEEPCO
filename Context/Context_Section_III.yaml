@@ -319,6 +319,241 @@ clauses:
     Officials Authorised:
     - ED
     - HOP not below the grade of E-8
+
+  - clause: 21
+    title: Powers to write-off office equipment, furniture, books etc.
+    Extent of Power: |
+     Full Powers
+     ₹25,000/- in each proposal subject to an annual ceiling of ₹10 lakh.
+     ₹20,000/- in each proposal subject to an annual ceiling of ₹5 lakh.
+    Officials Authorised:
+    - Director
+    - ED
+    - HOP (not below the rank of E-8)
+  
+  - clause: 22
+    title: Empanelment and Remuneration of Legal Professionals
+    subclauses:
+    - id: i
+      description: To empanel Attorneys, Solicitors, Counsels, Arbitrators, Advocates in all the Court cases and Arbitration Matters.
+      Extent of Power: Full Powers
+      Officials Authorised:
+        - CMD
+    - id: ii
+      description: To fix the schedule of fee/remuneration for the empaneled Attorneys, Solicitors, Counsels, Arbitrators, Advocates in all the Court cases and Arbitration Matters.
+      Extent of Power: Full Powers
+      Officials Authorised:
+        - CMD
+  
+  - clause: 23
+    title: Legal Proceedings, Arbitration, and Enforcement
+    subclauses:
+    - id: a
+      description: To contest, institute, conduct, intervene, defend any Suit, Appeal, Review, Revision, Writ Petition or any other legal proceedings by or against the Company or its employees or otherwise concerning the affairs of the Company in any Court and/or Quasi-Judicial Authorities / Arbitration matters or before any other authorities.
+      Extent of Power: Full Powers
+      Officials Authorised:
+        - Concerned Director
+    - id: b
+      description: To refer claims and/or demand by or against the Company for Arbitration.
+      Extent of Power: Full Powers
+      Officials Authorised:
+        - Concerned Director
+    - id: c
+      description: To sign and verify plaint, Written Statement, Affidavit, Objections, Memorandum of Appeal or any other pleadings to be filed before any Judicial or Quasi-Judicial Authorities, Arbitrator, Tribunal, or any other Authority.
+      Extent of Power: Full Powers
+      Officials Authorised:
+        - Concerned Director
+    - id: d
+      description: To enforce judgment, execute any decree or order of any Court Judicial or Quasi-Judicial Authorities, Award of the Arbitrator Tribunal, or any other Authority and to take all steps in furtherance of the same.
+      Extent of Power: Full Powers
+      Officials Authorised:
+        - Concerned Director
+
+  - clause: 24
+    title: Appointment and Engagement of Legal Professionals & Consultants
+    subclauses:
+    - id: i
+      description: To appoint Attorneys, Solicitors, Counsels, Arbitrators, Advocates, Consultants other than from approved panels.
+      Extent of Power: Full Powers
+      Officials Authorised:
+        - CMD
+    - id: ii
+      description: To appoint/engage Attorneys, Solicitors, Counsels, Arbitrators, Advocates, Consultants from the approved panel at approved rates of remuneration / schedule of fee.
+      Extent of Power: Full Powers
+      Officials Authorised:
+        - CMD
+
+  - clause: 25
+    title: Signing and Verification of Legal Documents on behalf of the Corporation
+    subclauses:
+    - id: i
+      description: To sign Vakalatnama, verify Plaint, Written Statements, Affidavits, Rejoinders, Objections, Memorandum of Appeal, or any other Pleadings, Replies, Claims, Counter Claims etc. in any legal proceedings before Courts of Law, Quasi-Judicial Authorities, Tribunal or any other Authorities on behalf of the Corporation.
+      Extent of Power: Full Powers
+      Officials Authorised:
+        - HOD of the concerned Wing (not below the rank of E8)
+        - Officer of Law Wing (not below the rank of E5)
+      Remarks: On advice of Law Wing
+    - id: ii
+      description: To sign Vakalatnama, verify Plaint, Written Statements, Affidavits, Rejoinders, Objections, Memorandum of Appeal, or any other Pleadings, Replies, Claims, Counter Claims etc. in any arbitration proceedings before Arbitral Tribunal and any courts of law on behalf of the Corporation.
+      Extent of Power: Full Powers
+      Officials Authorised:
+        - HOD (not below the rank of E8)
+        - Officer of Arbitration Wing (not below the rank of E5)
+      Remarks: On advice of Law Wing
+  
+  - clause: 26
+    title: Engagement of Chartered Accountants, Cost Accountants, Company Secretaries, Advocates & Related Professionals
+    subclauses:
+    - id: i
+      description: Engagement of Firm of Chartered Accountants/Cost Accountants/Company Secretaries/Advocates for certification purpose under Companies Act, Income Tax Act, RBI, SEBI requirements, Banks and other lenders.
+      Extent of Power: Full Powers
+      Monetary Limit:
+        - ₹25,000 per case subject to annual ceiling of ₹7.5 Lakh
+        - ₹20,000 per case subject to annual ceiling of ₹5 Lakh
+      Officials Authorised:
+        - Director (Finance)
+        - HOP/HOD (Finance) not below grade E-8
+        - CS
+    - id: ii
+      description: Engagement of Chartered Accountants/Cost Accountants/Consultants for accounting work, preparation of manuals, rendering opinion etc.
+      Extent of Power: Full Powers
+      Monetary Limit: ₹50,000 per case subject to annual ceiling of ₹7.5 Lakh
+      Officials Authorised:
+        - Director (Finance)
+        - HOP/HOD (Finance) not below grade E-8
+    - id: iii.a
+      description: Engagement of firm of Chartered Accountants as Auditors for tax audit under the Income Tax Act and sanction of remuneration.
+      Extent of Power: Full Powers
+      Officials Authorised:
+        - Director (Finance)
+    - id: iii.b
+      description: Engagement of firm of Chartered Accountants/Cost Accountants for GST Audit under the GST Act.
+      Extent of Power: Full Powers
+      Officials Authorised:
+        - Director (Finance)
+    - id: iv
+      description: Sanction of Audit Expenses including holding of Auditors Meetings and other Meetings in connection with audit.
+      Extent of Power: Full Powers
+      Monetary Limit: ₹10,000 per case subject to annual ceiling of ₹1.00 Lakh
+      Officials Authorised:
+        - ED (Finance) / CGM (Finance)
+        - GM (Finance)
+    - id: v
+      description: Engagement of firms of Chartered Accountants/Cost Accountants/Company Secretaries/Advocates for tax matters including litigation, Company Law matters, physical verification of stock/fixed assets and sanction of remuneration.
+      Extent of Power: Full Powers
+      Monetary Limit:
+        - ₹50,000 per case subject to ceiling of ₹10 Lakh per annum
+        - ₹10,000 per case subject to ceiling of ₹2.5 Lakh per annum
+      Officials Authorised:
+        - ED (Finance)/CGM (Finance)
+        - GM (Finance)
+        - CS
+    - id: vi
+      description: Engagement of firms of Chartered Accountants/Cost Accountants for Certification work relating to Tariff Purpose.
+      Extent of Power: Full Powers
+      Monetary Limit:
+        - ₹50,000 per case subject to annual ceiling of ₹10 Lakh
+        - ₹10,000 per case subject to annual ceiling of ₹2.5 Lakh
+      Officials Authorised:
+        - Director (Finance)
+        - ED (Finance)/CGM (Finance)
+        - ED (Commercial)/CGM (Commercial)
+        - GM (Finance)
+    - id: vii
+      description: Miscellaneous legal/arbitration expenses (obtaining legal opinion, attestation of affidavits, power of attorney etc.)
+      Extent of Power: Full Powers
+      Monetary Limit:
+        - Up to ₹20,000 per case subject to ₹2 Lakh per annum
+        - Up to ₹10,000 per case subject to ₹50,000 per annum
+      Officials Authorised:
+        - Director
+        - ED
+        - HOP/HOD (Law/Arbitration/HR) not below grade E-8
+      Remarks: On advice from Law Wing wherever available
+    - id: viii
+      description: Summoning of witnesses
+      Extent of Power: Full Powers
+      Officials Authorised:
+        - HOP/HOD not below grade E-8
+    - id: ix
+      description: Engagement of firms of Chartered Accountants/Company Secretaries/Advocates for Certification work, filing of forms with MCA, SEBI and other regulatory authorities including Digital Signature Certificate and sanction of remuneration.
+      Extent of Power: Full Powers
+      Monetary Limit: ₹20,000 per case subject to ceiling of ₹5 Lakh per annum
+      Officials Authorised:
+        - Director (Finance)
+        - CS/HOD (Finance) not below grade E-8
+    - id: x
+      description: Engagement of Rating Agencies
+      Extent of Power: Full Powers for single rating agency for single borrowing mandate and fees up to ₹2 Lakh per case
+      Officials Authorised:
+        - Director (Finance)
+      Remarks: For multiple rating, approval of CMD required
+    - id: xi
+      description: Engagement of intermediaries like RTA, NCD Trustee, Legal Consultant, Advocate, Forex Consultant, Stock Exchange, Depositories etc. (for issue of bonds, shares, securities, creation of security etc.)
+      Extent of Power: Full Powers
+      Monetary Limit:
+        - ₹50,000 per case subject to annual ceiling of ₹10 Lakh
+        - ₹25,000 per case subject to annual ceiling of ₹2.5 Lakh
+      Officials Authorised:
+        - Director (Finance)
+        - ED (Finance)/CGM (Finance)
+        - ED (Commercial)/CGM (Commercial)
+        - GM (Finance)/CS
+    - id: xii
+      description: Payment of CERC Fee
+      Extent of Power: Full Powers
+      Officials Authorised:
+        - Director (Finance)
+        - HOD (Commercial) not below grade E-8
+
+  - clause: 27
+    title: To sign import license applications on behalf of the Corporation
+    Extent of Power: Full Powers
+    Officials Authorised:
+      - Executive not below the rank of Sr. Manager (E-6) as may be nominated by Director
+    Remarks: Subject to letter of awards/acceptance and to the verification of Bill of Quantities to be imported.
+
+  - clause: 28
+    title: Authorizing payment of cancellation charges for tickets
+    Extent of Power: Full Powers
+    Officials Authorised:
+    - HOP / HOD (not below the rank of E-8)
+    Remarks: Subject to tickets/bookings were made against approved tour programme.
+
+  - clause: 29
+    title: Approval for issue of Advertisements relating to Tender/Financial Results/Recruitment
+    Extent of Power: Full Powers
+    Officials Authorised:
+    - ED / HOP (not below the rank of E-8)
+    - CGM (HR)
+    - GM in charge of CC/CA
+    Remarks: Subject to guidelines and policy that may be issued from time to time.
+
+  - clause: 30
+    title: Sanction of expenditure for Official hospitality and declaration of Official guests
+    Extent of Power: Full Powers (Director/CVO); ₹2,00,000/- per annum (ED); ₹1,00,000/- per annum (CGM/HOP/HOD (CA/RA) not below E-8); ₹50,000/- per annum (GM); ₹30,000/- per annum (Company Secretary/In-Charge of CMD/Director’s Secretariat not below E7)
+    Officials Authorised:
+    - Director / CVO
+    - ED
+    - CGM / HOP / HOD (CA/RA) not below the rank of E-8
+    - GM
+    - Company Secretary / In-Charge of CMD / Director’s Secretariat not below the rank of E7
+  
+  
+
+  
+
+
+
+
+  
+
+
+
+
+  
+    
+
   
   
 
