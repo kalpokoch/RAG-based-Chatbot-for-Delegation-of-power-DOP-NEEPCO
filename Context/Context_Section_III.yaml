@@ -538,6 +538,244 @@ clauses:
     - CGM / HOP / HOD (CA/RA) not below the rank of E-8
     - GM
     - Company Secretary / In-Charge of CMD / Director’s Secretariat not below the rank of E7
+
+  - clause: 31
+    title: Sanction of advances for contingent Expenditure
+    Extent of Power: Full Powers (Director); Up to ₹1,00,000/- to an Executive subject to a ceiling of ₹10 Lakh p.a. (CGM/HOP/HOD not below E-8); Up to ₹25,000/- to an Executive subject to a ceiling of ₹2 Lakh p.a. (GM and HOP/HOD not below E-7)
+    Officials Authorised:
+    - Director
+    - CGM / HOP / HOD not below the grade of E-8
+    - GM
+    - HOP / HOD not below the grade of E-7
+  
+  - clause: 32
+    title: Sanction of permanent recoupable Imprest in each case
+    Extent of Power:
+    - Full Powers
+    - Up to ₹20,000/-
+    Officials Authorised:
+    - Director (Full Powers)
+    - HOP / HOD not below the rank of E-8 (Up to ₹20,000/-)
+
+  - clause: 33
+    title: Sanction of expenditure on publicity, advertisement, sponsoring of events other than tender and recruitment through Corporate Communications.
+    Extent of Power:
+    - Full Powers
+    - Up to ₹3,00,000/- per insertion subject to annual ceiling of ₹20 lakh
+    - Up to ₹1,00,000/- per insertion subject to annual ceiling of ₹10 lakh
+    Officials Authorised:
+    - Director (Personnel) – Full Powers
+    - HOD (CA/CC) not below the grade of E-8 – Up to ₹3,00,000/- per insertion (₹20 lakh annual limit)
+    - HOP not below the grade of E-8 – Up to ₹1,00,000/- per insertion (₹10 lakh annual limit)
+    Remarks: Text of the advertisement as per standard format and if not available, in consultation with CC wing
+  
+  - clause: 34
+    title: Sanction for supply of uniform, badge and liveries
+    subclauses:
+    - id: a
+      description: Sanction for supply of uniform, badge and liveries for entitled employees
+      Extent of Power: Full Powers
+      Officials Authorised:
+      - HOD (Security/CA)
+      - HOP not below the grade of E-8
+    - id: b
+      description: Sanction for supply of uniform, badge and liveries for contract employees
+      Extent of Power: Full Powers
+      Officials Authorised:
+      - Director
+  
+  - clause: 35
+    title: Sanction of expenditure on PR, CC, Exhibitions, and Project Documentation
+    subclauses:
+    - id: a
+    description: Production, design related to PR on approved rate contract including empanelment of advertisement agencies, printers, digital printers, film/documentary makers, photographers, etc.
+    Extent of Power:
+      - Full Powers
+    Officials Authorised:
+      - Director (P)
+      - HOD (CC) not below E-8, up to ₹5,00,000/- per occasion subject to annual ceiling of ₹25 Lakh
+      - HOP not below E-8, up to ₹50,000/- per occasion subject to annual ceiling of ₹5 Lakh
+
+    - id: b
+    description: Production, design related to Corporate Communications on approved rate contract.
+    Extent of Power:
+      - Full Powers
+    Officials Authorised:
+      - Director (P)
+      - HOD (CC) not below E-8, up to ₹5,00,000/- per occasion subject to annual ceiling of ₹25 Lakh
+
+    - id: c
+    description: Participation in exhibitions.
+    Extent of Power:
+      - Full Powers
+    Officials Authorised:
+      - Director (P)
+      - HOD (CC) not below E-8, up to ₹5,00,000/- per occasion subject to annual ceiling of ₹25 Lakh
+
+    - id: d
+    description: Project model making, photography, drone photography, videography, documentary films, TV/Radio coverage, CD/DVD making, etc.
+    Extent of Power:
+      - Full Powers
+    Officials Authorised:
+      - Director
+      - ED / HOD (CC) not below E-8, up to ₹20 Lakh
+      - HOP / HOD (HR) not below E-8, up to ₹10 Lakh
+
+  - clause: 36
+    title: Approval of tours and sanction of expenditure on press conferences
+    subclauses:
+    - id: i
+    description: Approval of tours to projects and other areas of operation/location including sanction of expenditure
+    Extent of Power: Full Powers
+    Officials Authorised:
+    - Controlling Officers (HOP/HOD) not below the rank of E-8
+    - Director (for tours outside the NE Region)
+    - id: ii
+    description: Sanction of expenditure on approved press conference/meet
+    Extent of Power:
+      - Full Powers
+      - Up to ₹50,000 per occasion subject to maximum of ₹2,00,000 per annum
+    Officials Authorised:
+    - ED (Full Powers)
+    - HOP/HOD(CC/RA) not below the rank of E-8 (Up to ₹50,000 per occasion subject to ₹2,00,000 per annum)
+    
+    Remarks: For tours outside the NE Region, Director is the approving authority.
+
+  - clause: 37
+    title: Constitution and Engagement of Consultants/Experts
+    subclauses:
+    - id: a
+      description: Constitution of TAC/POE / Techno-legal Consultants
+      extent_of_power: Full Powers
+      Officials Authorised:: D(T)
+    
+    - id: b
+      description: Engagement of Individual as Technical Consultant/Expert
+      extent_of_power: Full Powers for engagement up to 3 months
+      Officials Authorised:: D(T)
+     
+    - id: c
+      description: Engagement of Individual as HR Consultant/Expert
+      extent_of_power: Full Powers for engagement up to 3 months
+      Officials Authorised:: D(P)
+     
+    - id: d
+      description: Engagement of Individual as Finance Consultant/Expert
+      extent_of_power: Full Powers for engagement up to 3 months
+      Officials Authorised:: D(F)
+  
+  - clause: 38
+    title: Approval of Studies, Consultancies, TAC/POE Visits
+    subclauses:
+    - id: a
+      description: Conducting TAC/POE visits to the project and approval of associated expenditure
+      extent_of_power: Full Powers
+      Officials Authorised: HOP/HOD (not below E-8)
+      remarks: Expenditure chargeable to the respective project
+
+    - id: b
+      description: Approval for conducting Model Studies, Consultancies, Tests, R&D Studies, Surveys, Investigations, Evaluations, Valuations etc. through external institutions such as Government agencies, autonomous bodies, PSUs etc.
+      extent_of_power: 
+        - Full Powers: Director (Technical)
+        - Up to ₹1 Crore (each case): ED
+        - Up to ₹20 Lakh (each case): HOP/HOD (D&E)/HOD (RE), not below E-8
+      Officials Authorised: Director (Technical), ED, HOP/HOD (D&E)/HOD (RE)
+      
+  - clause: 39
+    title: Administrative Powers related to Drawings, Stationery, and Printing
+    subclauses:
+    - id: 1
+      description: Preparation of AutoCAD drawings, scanning, digitization of drawings/documents and other documentation works carried out through outsourcing / external agencies at approved / reasonable rates.
+      Extent of Power: |
+        Full Powers
+        ₹10,000/- in each case with an annual ceiling of ₹1 Lakh.
+      Officials Authorised:
+        - HOP / HOD (D&E/RE/CA/CP/HR) not below the grade of E-8
+        - DGM (Tech.) (E-7)
+
+    - id: 2
+      description: Approval for purchase of consumable items related to production of design/drawings/CAD drawings.
+      Extent of Power: |
+        Full Powers
+        ₹5,000/- in each case with an annual ceiling of ₹20,000/-
+      Officials Authorised:
+        - HOP / HOD not below the grade of E-8
+        - DGM (Tech.) (E-7)
+
+    - id: 3
+      description: Purchase of stationery/computer stationery on grounds of urgency but not available with Stores/IT&C/Design division (for the purpose of drawing, etc.).
+      Extent of Power: Full Powers
+      Officials Authorised:
+        - HOP / HOD not below the grade of E-8
+      Remarks: Non-availability certificate from Stores/SD/IT&C etc. shall be obtained.
+
+    - id: 4
+      description: Expenditure on printing of DPR/PFR/Due diligence studies etc.
+      Extent of Power: Full Powers
+      Officials Authorised:
+        - HOP / HOD not below the grade of E-8
+
+  - clause: 40
+    title: Undertake social welfare activities under CSR
+    description: To undertake social welfare activities in and around Project areas / Offices under CSR as per guidelines / schemes / Govt. sponsored schemes.
+    Extent of Power: As per CSR guidelines/policy
+    Officials Authorised: Not explicitly mentioned
+    Remarks: These powers shall be exercised following the corporate CSR guidelines/policy (Revised CSR Policy: February 2023).
+
+  - clause: 41
+    title: Signing of Lease Agreements
+    subclauses:
+    - id: a
+      description: Signing of residential lease agreement, for and on behalf of Corporation in respect of executives as per standard lease terms vetted by Law Department.
+      Extent of Power: Full Powers
+      Officials Authorised:
+        - Head of HR not below the rank of Sr. Manager (E-6)
+      Remarks: Finance Concurrence shall be obtained.
+
+    - id: b
+      description: Signing of lease deeds, for and on behalf of Corporation, for hiring accommodation other than residential (in consultation with Law Department).
+      Extent of Power: Full Powers
+      Officials Authorised:
+        - Head of HR not below the rank of Sr. Manager (E-6)
+      Remarks: Finance Concurrence shall be obtained.
+
+  
+
+
+
+
+
+
+  
+
+
+  
+  
+  
+
+  
+
+
+
+
+  
+
+
+
+
+  
+    
+
+  
+  
+
+
+  
+    
+
+
+
+
   
   
 
