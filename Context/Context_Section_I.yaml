@@ -638,7 +638,7 @@ clauses:
   - clause: 16      
     title: Cancellation and Modification of Tenders / Contracts
     subclauses:
-      - id: 16a
+      - id: a
         title: Cancellation of Tenders
         authority: Authority competent to approve the award (limited to D(T))
         conditions:
@@ -646,14 +646,14 @@ clauses:
           - Finance concurrence required
           - Legal vetting (if necessary)
 
-      - id: 16b
+      - id: b
         title: Modification after call but before opening of TC bids
         details:
           - Bid submission date may be extended up to 3 months by tendering authority
           - Further extension requires next higher authority (limited to D(T))
           - Modification of other terms requires approval by authority competent to approve award (limited to D(T))
 
-      - id: 16c
+      - id: c
         title: Modification after opening of TC bids but before price bid opening
         details:
           - For proprietary/OEM items: Modification by award-approving authority
@@ -667,41 +667,30 @@ clauses:
           - Justification to be recorded
           - Finance concurrence to be obtained
 
-    Clause_17:
-    title: "Modification in terms of Contract"
-    sub_clauses:
-      17.1:
-      title: "Having financial implications"
-      description: "Including payment terms, security deposit, and modification in terms of issue of materials from project Stores etc."
-      delegation:
-        DT:
-          authority: "Full powers for original contract approved by him or lower authority"
-        ED:
-          authority: "Full powers for original contract approved by him or lower authority"
-        CGM:
-          authority: "Powers of approving modification up to 5% of the value of original contract or Rs.50 lakh, whichever is less"
-        GM:
-          authority: "Powers of approving modification up to 5% of the value of original contract or Rs.25 lakh, whichever is less"
-        DGM:
-          authority: "No delegation"
-        SrM:
-          authority: "No delegation"
-      17.2:
-      title: "Having no financial implications"
-      description: "Contract modifications without financial impact."
-      delegation:
-        DT:
-          authority: "Full powers"
-        ED:
-          authority: "Full powers"
-        CGM:
-          authority: "Full power in respect of orders placed himself or lower authority"
-        GM:
-          authority: "No delegation"
-        DGM:
-          authority: "No delegation"
-        SrM:
-          authority: "No delegation"    
+  - Clause_17:
+    title: Modification in terms of Contract
+    subclauses:
+      - id: a
+        title: Having financial implications
+        description: Including payment terms, security deposit, and modification in terms of issue of materials from project Stores etc.
+        
+        delegation:
+          DT: Full powers for original contract approved by him or lower authority
+          ED: Powers of approving modification up to 5% of the value of original contract or Rs.50 lakh whichever is less in respect of contract approved by him or lower authority
+          CGM: Powers of approving modification up to 5% of the value of original contract or Rs.25 lakh, whichever is less in respect of contract approved by him or lower authority
+          GM: NIL
+          DGM: NIL
+          SrM: NIL
+      - id: b
+        title: "Having no financial implications"
+        description: "Contract modifications without financial impact."
+        delegation:
+          DT: Full power
+          ED: Full power
+          CGM: Full power in respect of orders placed himself or lower authority
+          GM: NIL
+          DGM: NIL
+          SrM: NIL
 
   - Clause_18:
     title: "Acceptance of stores under deviation with equivalent or superior specification"
