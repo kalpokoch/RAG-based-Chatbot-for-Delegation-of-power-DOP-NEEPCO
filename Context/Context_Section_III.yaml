@@ -587,39 +587,39 @@ clauses:
   - clause: 35
     title: Sanction of expenditure on PR, CC, Exhibitions, and Project Documentation
     subclauses:
-    - id: a
-    description: Production, design related to PR on approved rate contract including empanelment of advertisement agencies, printers, digital printers, film/documentary makers, photographers, etc.
-    Extent of Power:
-      - Full Powers
-    Officials Authorised:
-      - Director (P)
-      - HOD (CC) not below E-8, up to ₹5,00,000/- per occasion subject to annual ceiling of ₹25 Lakh
-      - HOP not below E-8, up to ₹50,000/- per occasion subject to annual ceiling of ₹5 Lakh
+      - id: a
+        description: Production, design related to PR on approved rate contract including empanelment of advertisement agencies, printers, digital printers, film/documentary makers, photographers, etc.
+        Extent of Power:
+          - Full Powers
+        Officials Authorised:
+          - Director (P)
+          - HOD (CC) not below E-8, up to ₹5,00,000/- per occasion subject to annual ceiling of ₹25 Lakh
+          - HOP not below E-8, up to ₹50,000/- per occasion subject to annual ceiling of ₹5 Lakh
 
-    - id: b
-    description: Production, design related to Corporate Communications on approved rate contract.
-    Extent of Power:
-      - Full Powers
-    Officials Authorised:
-      - Director (P)
-      - HOD (CC) not below E-8, up to ₹5,00,000/- per occasion subject to annual ceiling of ₹25 Lakh
+      - id: b
+        description: Production, design related to Corporate Communications on approved rate contract.
+        Extent of Power:
+          - Full Powers
+        Officials Authorised:
+          - Director (P)
+          - HOD (CC) not below E-8, up to ₹5,00,000/- per occasion subject to annual ceiling of ₹25 Lakh
 
-    - id: c
-    description: Participation in exhibitions.
-    Extent of Power:
-      - Full Powers
-    Officials Authorised:
-      - Director (P)
-      - HOD (CC) not below E-8, up to ₹5,00,000/- per occasion subject to annual ceiling of ₹25 Lakh
+      - id: c
+        description: Participation in exhibitions.
+        Extent of Power:
+          - Full Powers
+        Officials Authorised:
+          - Director (P)
+          - HOD (CC) not below E-8, up to ₹5,00,000/- per occasion subject to annual ceiling of ₹25 Lakh
 
-    - id: d
-    description: Project model making, photography, drone photography, videography, documentary films, TV/Radio coverage, CD/DVD making, etc.
-    Extent of Power:
-      - Full Powers
-    Officials Authorised:
-      - Director
-      - ED / HOD (CC) not below E-8, up to ₹20 Lakh
-      - HOP / HOD (HR) not below E-8, up to ₹10 Lakh
+      - id: d
+        description: Project model making, photography, drone photography, videography, documentary films, TV/Radio coverage, CD/DVD making, etc.
+        Extent of Power:
+          - Full Powers
+        Officials Authorised:
+          - Director
+          - ED / HOD (CC) not below E-8, up to ₹20 Lakh
+          - HOP / HOD (HR) not below E-8, up to ₹10 Lakh
 
   - clause: 36
     title: Approval of tours and sanction of expenditure on press conferences
@@ -720,7 +720,7 @@ clauses:
     description: To undertake social welfare activities in and around Project areas / Offices under CSR as per guidelines / schemes / Govt. sponsored schemes.
     Extent of Power: As per CSR guidelines/policy
     Officials Authorised: Not explicitly mentioned
-    Remarks: These powers shall be exercised following the corporate CSR guidelines/policy (Revised CSR Policy: February 2023).
+    Remarks: These powers shall be exercised following the corporate CSR guidelines/policy (Revised CSR Policy- February 2023).
 
   - clause: 41
     title: Signing of Lease Agreements
