@@ -692,8 +692,8 @@ clauses:
           DGM: NIL
           SrM: NIL
 
-  - Clause_18:
-    title: "Acceptance of stores under deviation with equivalent or superior specification"
+  - Clause: 18
+    title: Acceptance of stores under deviation with equivalent or superior specification
     delegation:
       DT: Full Power
       ED: Full Power
@@ -708,39 +708,38 @@ clauses:
     title: Sanction to pay demurrage/wharfage to Railways/Sea Port/Air authorities or Road Carriers
     delegation:
       D(T): Full power
-      ED: "Up to ₹1.0 Lakh in each case subject to a ceiling of ₹10.0 Lakh per year"
-      CGM: "₹50,000 in each case subject to a ceiling of ₹5 Lakh per year"
-      GM: "₹20,000 in each case subject to a ceiling of ₹2.0 Lakh per year"
-      DGM: "₹10,000 in each case subject to a ceiling of ₹1.0 Lakh per year"
-      Sr. M: "--"
+      ED: Up to ₹1.0 Lakh in each case subject to a ceiling of ₹10.0 Lakh per year
+      CGM: ₹50,000 in each case subject to a ceiling of ₹5 Lakh per year
+      GM: ₹20,000 in each case subject to a ceiling of ₹2.0 Lakh per year
+      DGM: ₹10,000 in each case subject to a ceiling of ₹1.0 Lakh per year
+      Sr. M: NIL
     remarks:
     - Every effort should be made to get the demurrage/wharfage waived from the railways/Carriers.
     
   - clause: 20
     title: Sanction for disposal of surplus / unserviceable / obsolete items, scrap / miscellaneous
     delegation:
-    D(T): Full Power
-    ED: Reserve price up to ₹50 Lakh
-    CGM: Reserve price up to ₹25 Lakh
-    GM: Reserve price up to ₹15 Lakh
-    DGM: "----"
-    Sr. M: "----"
+      D(T): Full Power
+      ED: Reserve price up to ₹50 Lakh
+      CGM: Reserve price up to ₹25 Lakh
+      GM: Reserve price up to ₹15 Lakh
+      DGM: NIL
+      Sr. M: NIL
     remarks:
     - Process of disposal shall be regulated by NEEPCO Disposal Manual.
     - The powers will be exercised as per the approved Disposal Manual.
     - In case the bid value is less than the Reserve Price, then approval from the next higher authority shall be required. The Director (Technical) shall be the self-approving authority.
-    - Report to be submitted to Director (Technical) within one week of the award indicating therein the name of the highest bidder, the reserve price vis-à-vis sale value.
-     title: Write off
+    - Report to be submitted to Director (Technical) within one week of the award indicating therein the name of the highest bidder, the reserve price vice-versa sale value.
 
   - clause: 21.1
     title: Any items of Stores, equipment, tools and plants, materials including adjustments of discrepancies in an item during stock verification.
     delegation:
-      D(T): "Up to ₹20 lakh in each case"
-      ED: "Up to ₹10 lakh in each case"
-      CGM: "Up to ₹5 lakh in each case"
-      GM: "Up to ₹3 lakh in each case"
-      DGM: "NIL"
-      Sr. M: "NIL"
+      D(T): Up to ₹20 lakh in each case
+      ED: Up to ₹10 lakh in each case
+      CGM: Up to ₹5 lakh in each case
+      GM: Up to ₹3 lakh in each case
+      DGM: NIL
+      Sr. M: NIL
     remarks:
       - Subject to investigation and report by a committee constituted by HOP/HOD not below the rank of E-8.
       - After the item is written off, the information may be sent to concerned finance for adjustment.
@@ -749,35 +748,25 @@ clauses:
     title: Shortage in chemicals, lubricants, oils, etc.
     subclauses:
       - id: a
-        description: As per the prescribed norms of the manufacturer.
+        description: Any shortage in chemicals, lubricants oils etc. as per the prescribed norms of the manufacturer.
         delegation:
-          D(T): "Full Powers as per norms in each case"
-          ED: "Full Powers as per norms in each case"
-          CGM: "Full Powers as per norms in each case"
-          GM: "Full Powers as per norms in each case"
-          DGM: "NIL"
-          Sr. M: "NIL"
+          D(T): Full Powers as per norms in each case
+          ED: Full Powers as per norms in each case
+          CGM: Full Powers as per norms in each case
+          GM: Full Powers as per norms in each case
+          DGM: NIL
+          Sr. M: NIL
       - id: b
         description: Beyond norms (percentage limits).
         delegation:
-          D(T): "Full Powers up to 5%"
-          ED: "Full Powers up to 3%"
-          CGM: "Full Powers up to 2%"
-          GM: "Full Powers up to 1%"
-          DGM: "NIL"
-          Sr. M: "NIL"
-      - id: c
-        description: Above norms subject to financial ceilings.
-        delegation:
-          D(T): "Above norms subject to the ceiling of ₹5 lakh in each case"
-          ED: "Above norms subject to the ceiling of ₹3 lakh in each case"
-          CGM: "Above norms subject to the ceiling of ₹2 lakh in each case"
-          GM: "Above norms subject to the ceiling of ₹1 lakh in each case"
-          DGM: "NIL"
-          Sr. M: "NIL"
-    remarks:
-      - Subject to investigation and report by a committee constituted by HOP/HOD not below the rank of E-8.
-      - After the item is written off, the information may be sent to concerned finance for adjustment.
+          D(T): Full Powers up to 5% above the norms subject to the ceiling of ₹5 lakh in each case. 
+          ED: Full Powers up to 3% above the norms subject to the ceiling of ₹3 lakh in each case.
+          CGM: Full Powers up to 2% above the norms subject to the ceiling of ₹2 lakh in each case.
+          GM: Full Powers up to 1% above the norms subject to the ceiling of ₹1 lakh in each case.
+          DGM: NIL
+          Sr. M: NIL
+    remarks: 
+      - Subject to investigation and report by a committee constituted by HOP/HOD not below the rank of E-8. After the item is written off, the information may be sent to concerned finance for adjustment.
 
   - clause: 21.3
     title: Demolition and write off of temporary buildings not required by the projects/power stations.
@@ -789,15 +778,14 @@ clauses:
       DGM: NIL
       Sr. M: NIL
 
-  - clause: 22.1
-    title: Approval of indent for issue of materials from stores.
-    delegation:
-      D(T): "NIL"
-      ED: "NIL"
-      CGM: "NIL"
-      GM: "NIL"
-      DGM: "NIL"
-      Sr. M: "NIL"
+  - clause: 22
+    title: denting of stock items by Materials Deptt.
+    subclauses:
+      - id: a
+        description: Approval of indent for issue of materials from stores.
+        remarks:
+          - Indents for issue shall be initiated by respective work/Deptt. In-charge and shall be approved by next higher authority.
+          - For items not stipulated in contracts or items in excess of estimates, approval of HOP/HOD not below the rank of E-8 will be obtained. 
     remarks:
       - All indents should be routed through HOP/HOD not below the rank of E-8.
       - Indents for issue shall be initiated by respective work/Deptt. In-charge and shall be approved by next higher authority.
@@ -806,27 +794,27 @@ clauses:
   - clause: 23
     title: Loan of Materials and tool and plant to and from other Public Sector Undertakings/Govt. departments.
     delegation:
-      D(T): "₹ 10 Lakh p.a."
-      ED: "₹ 5 Lakh p.a."
-      CGM: "₹ 2 Lakh p.a."
-      GM: "₹ 1 Lakh p.a."
-      DGM: "---"
-      Sr. M: "---"
+      D(T): ₹ 10 Lakh p.a
+      ED: ₹ 5 Lakh p.a
+      CGM: ₹ 2 Lakh p.a
+      GM: ₹ 1 Lakh p.a
+      DGM: NIL
+      Sr. M: NIl
     remarks:
       - Subject to adequate security being obtained before loaning the materials.
       - The indicated value will be the value of material loaned or the hire charge for Tools & Plants.
 
   - clause: 24
-    title: Power to hire equipment/Machinery from contractors/private agencies.
+    title: Power to hire equipment/Machinery from contractors/private agencies
     delegation:
-      D(T): "₹ 1 crore p.a."
-      ED: "₹ 70 Lakh p.a."
-      CGM: "₹ 50 Lakh p.a."
-      GM: "₹ 30 Lakh p.a."
-      DGM: "---"
-      Sr. M: "---"
-    remarks: []
-    - clause: 25
+      D(T): ₹ 1 crore p.a
+      ED: ₹ 70 Lakh p.a
+      CGM: ₹ 50 Lakh p.a
+      GM: ₹ 30 Lakh p.a
+      DGM: NIL
+      Sr. M: NIL
+    
+  - clause: 25
     title: Award of contract for consultancy services
     subclauses:
     - id: a
@@ -840,7 +828,6 @@ clauses:
         GM: ₹20 Lakh
         DGM: Nil
         Sr. M: Nil
-
     - id: b
       description: 
         Limited tender (to be invited in case of urgency having limited source, 
@@ -853,7 +840,6 @@ clauses:
         GM: ₹15 Lakh
         DGM: Nil
         Sr. M: Nil
-
     - id: c
       description:
         Single tender/Nomination basis  
@@ -865,8 +851,6 @@ clauses:
         GM: ₹10 Lakh
         DGM: Nil
         Sr. M: Nil
-
-    title: Insurance
   
   - clause: 26(A)
     title: Large/Mega Risk Insurance and Industrial All Risk Insurance
